@@ -1,0 +1,8 @@
+[backlinks]
+	other = "Referenciada en"
+[private-note]
+	other = "Nota privada"
+[no-backlinks]
+	other = "No hay referencias"
+[not-found]
+	other = "Nota no encontrada"

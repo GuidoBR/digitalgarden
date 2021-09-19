@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="{{ .Language.Lang }}">
+
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="{{ .Content | truncate 300 }}">
+	{{ with .OutputFormats.Get "rss" -}}
+	
+	{{ printf `
+	<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+	{{ end -}}
+	
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="default">
+	
+	{{ $manifest := resources.Get "manifest.json" }}
+	<link rel="manifest" href="{{ $manifest.Permalink }}">
+		
+	{{- template "_internal/opengraph.html" . -}}
+	{{- template "_internal/twitter_cards.html" . -}}
+	
+	{{ $.Scratch.Set "title" "" }}
+	{{ if eq (.Param "bear") true }}
+		{{ $.Scratch.Set "title" .File.BaseFileName }}
+	{{ else }}
+		{{ $.Scratch.Set "title" .Title }}
+	{{ end }}
+	
+	{{ $title := $.Scratch.Get "title" }}
+	{{- $siteTitle := ( .Site.Title ) -}}
+	
+	{{- if .IsHome -}}
+		<title>{{ $siteTitle }}</title>
+	{{- else -}}
+		<title>{{ $title }} - {{ $siteTitle }}</title>
+	{{- end -}}
+	
+	{{ $theme := .Param "theme" }}
+	{{ $themeRoute := printf "%s%s%s" "css/themes/" $theme ".css" }}
+	
+	{{ $themeVariables := resources.Get $themeRoute  }}
+	{{ $styles := resources.Get "css/style.scss" | toCSS }}
+	{{ $syntax := resources.Get "css/utilities/syntax-light.css"}}
+	
+	{{ $main := slice $themeVariables $styles $syntax | resources.Concat "css/main.css" | minify | fingerprint }}
+	
+	
+	<link rel="stylesheet" href="{{ $main.Permalink }}" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	
+	{{ $turbolinks := resources.Get "js/turbolinks.js" }}
+	{{ $thumbnails := resources.Get "js/thumbnails.js" }}
+	{{ $search     := resources.Get "js/search.js" }}
+	
+	{{ $.Scratch.Set "jslibs" slice }}
+	{{ $libs := slice "js/turbolinks.js" "js/thumbnails.js" "js/search.js" }}
+	
+	{{ range $libs }}
+	{{ $.Scratch.Add "jslibs" (resources.Get . ) }}
+	{{ end }}
+	{{ $js := .Scratch.Get "jslibs" | resources.Concat "js/main.js" }}
+	
+	{{ if .Site.IsServer }}
+	<script src="{{ $js.Permalink }}"></script>
+	{{ else }}
+	{{ $js := $js | minify | fingerprint }}
+	<script src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+	{{ end }}
+
+
+</head>
+
+<body>
+
+	{{ partialCached "search.html" . }}
+	{{ partialCached "toolbar.html" . }}
+	{{ partial "tests/main.html" . }}
+	
+	<main id="main">
+		
+		<div id="note-wrapper" class="note-wrapper">
+			{{ block "main" . }}{{ end }}
+		</div>
+	</main>
+	
+<script type="text/javascript">
+
+// (function() {
+// 
+// var doc_ols = document.getElementsByTagName("ol");
+// 
+// for ( i=0; i<doc_ols.length; i++) {
+// 
+// var ol_start = doc_ols[i].getAttribute("start") - 1;
+// doc_ols[i].setAttribute("style", "counter-reset:ol_counter " + ol_start + ";");
+// 
+// }
+// 
+// })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,22 @@
+:root {
+	--background: rgba(250, 248, 245, 1.0);
+	--background-search: rgba(250, 248, 245, 1.0);
+	--text-base-color: rgba(75, 53, 8, 1.00);
+	--title-text-color: rgba(99, 90, 71, 1.00);
+	--link-text-color: rgba(11, 53, 135, 1.0);
+	--accent-text-color: rgba(115, 144, 201, 1.0);
+	--selected-text-background-color: rgba(184, 133, 80, 0.32);
+
+	--hashtag-text-color: rgba(255, 255, 255, 1.0);
+	--hashtag-marker-text-color: rgba(255, 255, 255, 1.0);
+	--hashtag-background-color: rgba(174, 147, 101, 0.7);
+	--highlighter-marker-color: rgba(211, 255, 164, 1.00);
+
+	--separator-color: rgba(233, 225, 211, 1.0);
+	--note-table-cell-selected-color: rgba(244, 235, 221, 1.00);
+	--note-table-cell-ribbon-color: rgba(175, 148, 101, 1.00);
+	
+	/* --heading-indicator: #B4B4B4; */
+	--dark-background-color: rgba(66, 35, 13, 1.00);
+	--search-field-focused-color: #80ABD9;
+}

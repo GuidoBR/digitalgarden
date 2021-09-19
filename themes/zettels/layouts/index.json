@@ -1,0 +1,66 @@
+{{- $tagregex3 := "#([^\\s^#][^#]*[^\\s^#])#\\n" -}}
+{{- $tagregex2 := "#([^\\s^#][^#]*[^\\s^#])#\\s" -}}
+{{- $tagregex := "[^/A-z]#([^#\\s\\,:}\\.]+)" -}}
+
+{{- $imageRegex := "!\\[(.*?)\\]\\((.*?)\\)" -}}
+
+{{- $.Scratch.Add "index" slice -}}
+{{- $.Scratch.Add "tags" slice -}}
+{{- range where .Site.RegularPages "Type" "not in" (slice "json") -}}
+    
+    {{ $.Scratch.Set "title" "" }}
+    {{ if eq (.Param "bear") true }}
+        {{ $.Scratch.Set "title" .File.BaseFileName }}
+    {{ else }}
+        {{ $.Scratch.Set "title" .Title }}
+    {{ end }}
+    {{ $title := $.Scratch.Get "title" }}
+    
+    {{ $.Scratch.Set "summary" "" }}
+    {{- if and (isset .Params "private") (eq .Params.private true) -}}
+        {{ $.Scratch.Set "summary" "🔐 Private note" }}
+    {{- else -}}
+        {{ $.Scratch.Set "summary" (.Summary | truncate 70) }}
+    {{- end -}}
+    {{ $summary := $.Scratch.Get "summary" }}
+    
+    {{ $tags3 := .RawContent | findRE $tagregex3 }}
+    {{ $tags2 := .RawContent | findRE $tagregex2 }}
+    {{ $tags := .RawContent | findRE $tagregex }}
+    
+    {{ $unifiedTagSlice := union $tags3 $tags2 }}
+    {{ $unionTags := union $tags $unifiedTagSlice }}
+    
+    {{- range $unionTags -}}
+        {{ $tag := . | replaceRE "\\n" "" }}
+        {{ $tag := $tag | replaceRE "\\s" "" }}
+        {{ $tag := $tag | replaceRE "#" "" }}
+        {{- $.Scratch.Add "tags" $tag }}
+    {{- end -}}
+    
+    {{ $allTags := (slice $tags3 $tags2 $tags) }}
+
+    {{ $imagesRaw := .RawContent | findRE $imageRegex }}
+    
+    {{ $.Scratch.Set "thumbnail" "" }}
+    {{ range first 1 $imagesRaw }}
+    {{ $rawItem := . }}
+    {{ $capturedGroup := $rawItem | replaceRE $imageRegex "$2" }}
+    {{ $.Scratch.Set "thumbnail" $capturedGroup }}
+    {{ end }}
+    
+    {{ $thumbnail := $.Scratch.Get "thumbnail" }}
+    
+    {{- $.Scratch.Add "index" (dict "title" $title "permalink" .Permalink "summary" $summary "tags" $unionTags "thumbnail" $thumbnail ) -}}
+    
+{{- end -}}
+{{- $index := .Scratch.Get "index" -}}
+
+{{ $tags := $.Scratch.Get "tags" }}
+{{- $unicTags := uniq $tags -}}
+{{- $unicTags := sort $unicTags -}}
+{{- $json := dict "index" $index "tags" $unicTags -}}
+{{- $json | jsonify }}
+
+
+

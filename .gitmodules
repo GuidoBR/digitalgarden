@@ -1,0 +1,6 @@
+[submodule "themes/zettels"]
+	path = themes/zettels
+	url = https://github.com/crisrojas/Zettels.git
+[submodule "digitalgarden/themes/zettels"]
+	path = digitalgarden/themes/zettels
+	url = https://github.com/crisrojas/Zettels.git
