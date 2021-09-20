@@ -11,35 +11,33 @@ draft: true
 - [Writing is Thinking](https://alistapart.com/article/writing-is-thinking/)
 - [5 Tips to Improve Your Technical Writing Skills](https://community.articulate.com/articles/5-tips-to-improve-your-technical-writing-skills)
 - [How can I Improve as a Technical Writer](https://medium.com/technical-writing-is-easy/how-can-i-improve-as-a-technical-writer-999810e7b8fc)
-- https://alltogether.swe.org/2019/10/10-tips-to-improve-your-technical-writing-skills/
-- https://thebestschools.org/magazine/technical-writing-tips/
-- https://interestingengineering.com/9-ways-engineers-can-improve-their-technical-writing-skills
-- https://www.instructionalsolutions.com/blog/become-a-technical-writer
-- https://eugeneyan.com/writing/note-taking-zettelkasten/
-- https://nesslabs.com/digital-gardeners
-- https://nesslabs.com/roam-research
-- https://www.mentalnodes.com/a-gardening-guide-for-your-mind
-- https://github.com/binyamin/eleventy-garden
-- https://www.perell.com/tweetstorms/the-serendipity-of-note-taking
-- https://nesslabs.com/how-to-take-notes-while-reading-a-book
-- https://pragmaticlead.com/posts/unlock-your-productivity-by-taling-better-notes-zettlekasten
-- https://vasilishynkarenka.com/learning/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
-- https://andrewchen.co/professional-blogging/
-- https://simpleprogrammer.com/seo-strategy-for-developers/?__s=cpysuzomfjsphsewcxch
-- https://perell.com/note/the-jerry-seinfeld-guide-to-writing/
-- Write five, then synthesize: good engineering strategy is boring.
-- A Few Thoughts On Writing
-- A Founder's Guide to Writing Well
-- Blogs for Devs
-- O que a prática da escrita pode te ensinar sobre você mesmo?
-- Escrever é...
-- Writing for Devs - Thread
-- How to Write technical posts so people will read them
-- Paul Graham - How to Write Usefully
-- The Online Writing Roadmap
-- How can some people write so beautifully?
-- Write more, but shorter
-
-
-How to monetize your programminng blog with affiliate marketing
-6 strategies that helped me grow my Twitter account to 23k followers:
+- [10 tips to improve your technical writing skills](https://alltogether.swe.org/2019/10/10-tips-to-improve-your-technical-writing-skills/)
+- [Technical writing tips](https://thebestschools.org/magazine/technical-writing-tips/)
+- [9 ways engineers can improve their technical writing skills](https://interestingengineering.com/9-ways-engineers-can-improve-their-technical-writing-skills)
+- [Become a technical writer](https://www.instructionalsolutions.com/blog/become-a-technical-writer)
+- [Note taking Zettelkasten](https://eugeneyan.com/writing/note-taking-zettelkasten/)
+- [Digital Gardeners](https://nesslabs.com/digital-gardeners)
+- [Roam Research](https://nesslabs.com/roam-research)
+- [A gardening guide for your mind](https://www.mentalnodes.com/a-gardening-guide-for-your-mind)
+- [Eleventy Garden](https://github.com/binyamin/eleventy-garden)
+- [The serendipity of note taking](https://www.perell.com/tweetstorms/the-serendipity-of-note-taking)
+- [How to take notes while reading a book](https://nesslabs.com/how-to-take-notes-while-reading-a-book)
+- [Unlock your productivity by taling better notes: zettlekasten](https://pragmaticlead.com/posts/unlock-your-productivity-by-taling-better-notes-zettlekasten)
+- [How to remember what you learn](https://vasilishynkarenka.com/learning/)
+- [Professional blogging](https://andrewchen.co/professional-blogging/)
+- [SEO Strategy for Developers](https://simpleprogrammer.com/seo-strategy-for-developers/)
+- [The Jerry Seinfeld guide to writing](https://perell.com/note/the-jerry-seinfeld-guide-to-writing/)
+- [Write five, then synthesize: good engineering strategy is boring.](https://lethain.com/good-engineering-strategy-is-boring/)
+- [A Few Thoughts On Writing](https://www.collaborativefund.com/blog/writing/)
+- [A Founder's Guide to Writing Well](https://firstround.com/review/a-founders-guide-to-writing-well/)
+- [Blogs for Devs](https://stitcher.io/blogs-for-devs/01-intro)
+- [O que a prática da escrita pode te ensinar sobre você mesmo?](https://papodehomem.com.br/o-que-a-pratica-da-escrita-pode-te-ensinar-sobre-voce-mesmo/) (pt-BR)
+- [Escrever é...](https://papodehomem.com.br/escrever/) (pt-BR)
+- [Writing for Devs - Thread](https://twitter.com/GergelyOrosz/status/1353661833236926470)
+- [How to Write technical posts so people will read them](https://reasonablypolymorphic.com/blog/writing-technical-posts/)
+- [Paul Graham - How to Write Usefully](http://paulgraham.com/useful.html)
+- [The Online Writing Roadmap](https://perell.com/essay/my-writing-syllabus/)
+- [How can some people write so beautifully?](https://twitter.com/Julian/status/1362498050627887108)
+- [Write more, but shorter](https://blog.kewah.com/2021/write-more-but-shorter/)
+- [How to monetize your programminng blog with affiliate marketing](https://simpleprogrammer.com/monetize-programming-blog-affiliate-marketing/)
+- [6 strategies that helped me grow my Twitter account to 23k followers](https://twitter.com/sunilc_/status/1403593531478843394)
