@@ -18,3 +18,7 @@ You can navigate through my notes with the arrow keys `←`and `→`.
 - [[writing]]
 - [[love]]
 - [[friendship]]
+- [[superforecasting]]
+- [[Bayes]]
+- [[RCT]]
+- [[Gödel]]
