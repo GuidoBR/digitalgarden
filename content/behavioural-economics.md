@@ -6,6 +6,8 @@ draft: true
 
 ------
 
+#think #behavioral_economics
+
 [https://me](https://medium.com/@kshortridge/behavioral-models-of-infosec-prospect-theory-c6bb49902768)
 
 [dium.com/@kshortridge/behavioral-models-of-infosec-prospect-theory-c6bb49902768](https://medium.com/@kshortridge/behavioral-models-of-infosec-prospect-theory-c6bb49902768)
