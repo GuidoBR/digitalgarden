@@ -28,7 +28,7 @@ draft: true
 
 #### Illusion of knowledge
 
-~ note 14, chapter 2 on debates between Kahneman, Tetlock, Gigerenzer and Pinker ~
+~ note 14, chapter 2 on debates between Kahneman, Tetlock, Gigerenzer [[Gigerenzer2014RiskSavvy]] and Pinker ~
 
 ### How to make predictions in public without losing credibility 
 

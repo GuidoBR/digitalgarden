@@ -12,13 +12,17 @@ You can navigate through my notes with the arrow keys `←`and `→`.
 
 
 - [[vaccines]]
-- [[black-swan]]
 - [[statistics]]
 - [[information]]
 - [[writing]]
 - [[love]]
 - [[friendship]]
-- [[superforecasting]]
 - [[Bayes]]
 - [[RCT]]
 - [[Gödel]]
+- [[Books]]
+
+  - [[Gigerenzer2014RiskSavvy]]
+  - [[Sinek2019TheInfiniteGame]]
+  - [[Taleb2010TheBlackSwan]]
+  - [[Tetlock2015Superforecasting]]
