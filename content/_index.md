@@ -8,7 +8,7 @@ metatags: #bookmarks
 >
 > — Jorge Luis Borges
 
-Hi! This is a my [Zettelkästen](https://zettelkasten.de/introduction/)/[Digital Garden](https://github.com/MaggieAppleton/digital-gardeners).
+Hi! This is a my [Zettelkästen](https://zettelkasten.de/introduction/)/[Digital Garden](https://github.com/MaggieAppleton/digital-gardeners) 🌱
 
 You can navigate through my notes with the arrow keys `←`and `→`.
 
