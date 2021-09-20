@@ -103,7 +103,7 @@ Somente no século XX que estudos randômicos controlados passaram a ser a regra
 
 ~ comparar com o que foi dito sobre esse livro no Noise, Kahneman ~
 
-~ analisar argumento do Taleb (cap 11) ~
+~ analisar argumento do Taleb [[Taleb2010TheBlackSwan]] (cap 11) ~
 
 ~ page 238 ~
 
