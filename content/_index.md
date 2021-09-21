@@ -14,6 +14,8 @@ You can navigate through my notes with the arrow keys `←`and `→`.
 
  You can activate the search box by using the `⌘` + `k` shortcut
 
+Seeds:
+
 
 - [[vaccines]]
 - [[statistics]]
@@ -24,3 +26,4 @@ You can navigate through my notes with the arrow keys `←`and `→`.
 - [[RCT]]
 - [[Gödel]]
 - [[Books]]
+- [[Feed]]
