@@ -6,7 +6,7 @@ metatags: #bookmarks
 
 > “So plant your own gardens and decorate your own soul, instead of waiting for someone to bring you flowers.”
 >
-> — Jorge Luis Borges
+> — Jorge Luis Borges, quoted from [Ness Labs](https://nesslabs.com/mind-garden)
 
 Hi! This is a my [Zettelkästen](https://zettelkasten.de/introduction/)/[Digital Garden](https://github.com/MaggieAppleton/digital-gardeners) 🌱
 
