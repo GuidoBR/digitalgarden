@@ -79,3 +79,4 @@ Lições Amargas
 - The Anti-Vaxx Playbook - CCDH
 - The COVID-19 Vaccine Communication Handbook
 - The Debunking Handbook
+- How to Make a Vaccine - John Rhodes [[Rhodes2020HowToMakeaVaccine]]
