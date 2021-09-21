@@ -1,4 +1,4 @@
-#books #vaccine #biology #bioinformatic #covid19
+ #books #vaccines #biology #bioinformatics #covid19
 
 ## How to Make a Vaccine: An Essential Guide for COVID-19 and Beyond
 
@@ -38,7 +38,7 @@ Europe, reports 631 people have died of the disease.
 The SARS-CoV-2 virus was then grown in Vero cells in large (50 liter) culture vessels and subjected to further
 investigations. These showed that the virus, including the gene for the spike protein (the part of the coronavirus
 that binds ACE2) was stable in this cellular environment, allowing researchers to proceed. The next step was to
-kill the virus. In the history of vaccines, the conventional way to kill vaccine viruses has been with
+kill the virus. In the history of [[vaccines]], the conventional way to kill vaccine viruses has been with
 formaldehyde, which “pickles” the virus, retaining its native shape, helping to ensure that the immune system
 can identify it. In this case the scientists used a chemical called β-propiolactone, which is more targeted than
 formaldehyde. It has been used to kill influenza viruses, and although scientists do not completely
