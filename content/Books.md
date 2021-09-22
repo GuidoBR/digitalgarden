@@ -10,4 +10,5 @@ draft: true
 - [[Taleb2010TheBlackSwan]]
 - [[Gleick2011Information]]
 - [[Rhodes2020HowToMakeAVaccine]]
+- [[Christakis2019Blueprint.md]]
 
