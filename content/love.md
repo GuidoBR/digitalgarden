@@ -8,59 +8,33 @@ draft: true
 
 ------
 
-\1. Given the choice of anyone in the world, whom would you want as a dinner guest?
-
-\2. Would you like to be famous? In what way?
-
-\3. Before making a telephone call, do you ever rehearse what you are going to say? Why?
-
-\4. What would constitute a “perfect” day for you?
-
-\5. When did you last sing to yourself? To someone else?
-
-\6. If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?
-
-\7. Name three things you and your partner appear to have in common.
-
-\8. For what in your life do you feel most grateful?
-
-\9. If you could change anything about the way you were raised, what would it be?
-
-\10. If you could wake up tomorrow having gained any one quality or ability, what would it be?
-
-\11. If a crystal ball could tell you the truth about yourself, your life, the future, or anything else, what would you want to know?
-
-\12. Is there something that you’ve dreamed of doing for a long time? Why haven’t you done it?
-
-\13. What is the greatest accomplishment of your life?
-
-\14. What do you value most in a friendship?
-
-\15. What is your most treasured memory?
-
-\16. What is your most terrible memory?
-
-\17. What does friendship mean to you?
-
-\18. What roles do love and affection play in your life?
-
-\19. How close and warm is your family? Do you feel your childhood was happier than most other people’s?
-
-\20. Complete this sentence:”I wish I had someone with whom I could share…”
-
-\21. If you were going to become a close friend with your partner, please share what would be important for him or her to know.
-
-\22. Tell your partner what you like about them; be very honest this time saying things that you might not say to someone you’ve just met.
-
-\23. Share with your partner an embarrassing moment in your life.
-
-\24. When did you last cry in front of another person? By yourself?
-
-\25. Tell your partner something that you like about them already.
-
-\26. What, if anything, is too serious to be joked about?
-
-\27. Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?
+1. Given the choice of anyone in the world, whom would you want as a dinner guest?
+2. Would you like to be famous? In what way?
+3. Before making a telephone call, do you ever rehearse what you are going to say? Why?
+4. What would constitute a “perfect” day for you?
+5. \5. When did you last sing to yourself? To someone else?
+6. If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?
+7. Name three things you and your partner appear to have in common.
+8. For what in your life do you feel most grateful?
+9. If you could change anything about the way you were raised, what would it be?
+10. If you could wake up tomorrow having gained any one quality or ability, what would it be?
+11. If a crystal ball could tell you the truth about yourself, your life, the future, or anything else, what would you want to know?
+12. Is there something that you’ve dreamed of doing for a long time? Why haven’t you done it?
+13. What is the greatest accomplishment of your life?
+14. What do you value most in a friendship?
+15. What is your most treasured memory?
+16. What is your most terrible memory?
+17. What does friendship mean to you?
+18. What roles do love and affection play in your life?
+19. How close and warm is your family? Do you feel your childhood was happier than most other people’s?
+20. Complete this sentence:”I wish I had someone with whom I could share…”
+21. If you were going to become a close friend with your partner, please share what would be important for him or her to know.
+22. Tell your partner what you like about them; be very honest this time saying things that you might not say to someone you’ve just met.
+23. Share with your partner an embarrassing moment in your life.
+24. When did you last cry in front of another person? By yourself?
+25. Tell your partner something that you like about them already.
+26. What, if anything, is too serious to be joked about?
+27. Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?
 
 ------
 
@@ -293,6 +267,6 @@ Para viver um grande amor, primeiro é preciso sagrar-se cavalheiro e ser de sua
 
 ------
 
-Amor é o que tetmos, contra o tempo e a morte, contrar todos os poderes dispostos a nos aniquilar.
+Amor é o que temos, contra o tempo e a morte, contra todos os poderes dispostos a nos aniquilar.
 
 Suas bochecas estão doendo com a ferocidade do seu sorriso.

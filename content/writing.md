@@ -1,8 +1,8 @@
 ---
-title: "Writing"
-date: 2021-09-19T20:18:44-03:00
-draft: true
+ #wrting
 ---
+
+> **[The Paradox of Writing](https://perell.com/note/the-paradoxes-of-modern-life/):** Great writing looks  effortless. But because the ideas are so clear, casual readers don’t  appreciate how much time it took to refine them.
 
 - [Use Cornell Notes for Online Class](https://mkaz.blog/misc/use-cornell-notes-for-online-class/)
 - [Course Review: Writing in the Sciences](https://mkaz.blog/misc/course-review-writing-in-the-sciences/)
