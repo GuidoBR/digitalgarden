@@ -9,6 +9,7 @@
 - [Twitter Thread on Israel Vaccination](https://twitter.com/EricTopol/status/1364706944309628929)
 - [A Vida é um copia e cola](https://www.youtube.com/watch?v=ai36EJ2v95Q)
 - [The tangled history of mRNA vaccines](https://www.nature.com/articles/d41586-021-02483-w)
+- [Prevention of host-to-host transmission by SARS-CoV-2 vaccines](https://www.sciencedirect.com/science/article/pii/S1473309921004722?dgcid=author)
 
 -----
 
