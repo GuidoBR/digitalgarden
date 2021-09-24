@@ -17,7 +17,8 @@ You can navigate through my notes with the arrow keys `←`and `→`.
 Seeds:
 
 
-- [[vaccines]]
+- [[covid19]]
+- [[SelfEducationPlan]]
 - [[statistics]]
 - [[writing]]
 - [[love]]
