@@ -49,6 +49,10 @@ Lições Amargas
 
 [Crise Tripla do Covid-19: um olhar econômico sobre as políticas públicas de combate à pandemia](http://thomasvconti.com.br/pubs/coronavirus/)
 
+## How did the world dealt with COVID-19 pandemic?
+
+Appolo's Arrow
+
 #### Further Readings
 
 - [Vaccinated: Triumph, Controversy, and An Uncertain F (One Man's Quest to Defeat the World's Deadliest Diseases) ](https://www.amazon.com.br/Vaccinated-Triumph-Controversy-Uncertain-English-ebook/dp/B000ROKXVA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1631049217&sr=1-3)- by Paul A. Offit
@@ -57,7 +61,6 @@ Lições Amargas
 - Podcast: [Resposta Imune](https://www1.folha.uol.com.br/podcasts/resposta-imune/)
 - [An Elegant Defense: The Extraordinary New Science of the Immune System: A Tale in Four Lives](https://www.amazon.com.br/Elegant-Defense-Extraordinary-Science-English-ebook/dp/B07C66KJC1/) by Matt Richtel
 - [On Immunity](https://www.amazon.com.br/Immunity-Inoculation-English-Eula-Biss-ebook/dp/B00KUY4D7W) by Eula Biss
-- How to Make a Vaccine
 - Deadliest Enemy: Our War Against Killer Germs
 - [The Great Influenza](https://www.amazon.com.br/Great-Influenza-Deadliest-Plague-History/dp/0143036491/)
 - Programa Nacional de Imunizações - 30 anos
