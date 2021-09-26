@@ -9,6 +9,7 @@
 # Guido's opinion
 
 - [Principles of Microeconomics](http://Introduction to Economics | Marginal Revolution University (MRU))
+- [Wolfram: Computer Based Math - Self Study](https://www.computerbasedmath.org/self-study-resources/)
 
 # [The Self Educating Child](https://www.mrmoneymustache.com/2021/04/18/the-self-educating-child/)
 
