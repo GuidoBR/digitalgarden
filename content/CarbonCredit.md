@@ -11,5 +11,4 @@
 ## Brazilian companies - Sustainability Reports
 
 - [Vale](http://www.vale.com/brasil/PT/sustainability/Paginas/carbono-neutro.aspx)
-
-  
+- [CEBDS (Conselho Empresarial Brasileiro para o Desenvolvimento Sustentável)](https://cebds.org/publicacoes/posicionamento-empresarios-pelo-clima/#.YVHKyXvQ9H4)
