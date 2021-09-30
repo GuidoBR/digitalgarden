@@ -70,3 +70,9 @@ Appolo's Arrow
 - The COVID-19 Vaccine Communication Handbook
 - The Debunking Handbook
 - [[CasoPreventSenior]]
+- [Células B em vacinas de RNA](https://twitter.com/mellziland/status/1430195679557734401)
+- [Como é respostas imune a um vírus?](https://twitter.com/LaroccaRA/status/1428453296356855817)
+- [Como o GADO vale mais que você no Brasil](https://www.youtube.com/watch?v=lyMPfJaX1fs)
+- [Evolução e mutações em vírus](https://twitter.com/AndersonBrito_/status/1430627398165336067)
+- [Ivermectin obssession on USA. Where does it come from?](https://twitter.com/oneunderscore__/status/1431040456364810242)
+- [Nicholas A. Christakis on COVID-19](https://twitter.com/NAChristakis/status/1239204599959093250)
