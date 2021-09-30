@@ -41,3 +41,19 @@
 - [Write more, but shorter](https://blog.kewah.com/2021/write-more-but-shorter/)
 - [How to monetize your programminng blog with affiliate marketing](https://simpleprogrammer.com/monetize-programming-blog-affiliate-marketing/)
 - [6 strategies that helped me grow my Twitter account to 23k followers](https://twitter.com/sunilc_/status/1403593531478843394)
+
+
+
+Dickie Bush on [writing for business](https://twitter.com/dickiebush/status/1402061441583259649)
+
+> Open with short paragraphs and short sentences. 
+>
+> Crack open the Wall Street Journal and read the top three stories. 
+>
+> I bet they all start with one or two sentences.  
+>
+> The goal of your first sentence: get the reader to read your second sentence. 
+>
+> NEVER open with a Wall of Text.
+
+> Be specific. Your biggest writing weakness: using generalities. Don't make the reader guess. "Our campaign was a great success and we came in under budget"  ↓ "We increased click-through rates by 21% while spending 19% less than expected."
