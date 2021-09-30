@@ -26,6 +26,10 @@ taxa base x teorema de bayes
 
 Fazer um resumo visual, como esse: https://www.francismiller.com/simplify-summary/
 
+[Honest Truth About Dishonesty - data falsification](https://twitter.com/ashleywhillans/status/1427677276297220098)
+
+[Feynman on replication problem in Psychology](https://twitter.com/curiouswavefn/status/1430918121573863424)
+
 ## Notes
 
 - https://simpleprogrammer.com/cyberpsychology-and-ux/?__s=cpysuzomfjsphsewcxch
