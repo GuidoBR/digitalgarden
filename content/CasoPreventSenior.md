@@ -8,6 +8,9 @@
 - [Ministério Público investiga uso de remédio para câncer em pacientes com Covid](https://g1.globo.com/jornal-nacional/noticia/2021/09/21/mp-investiga-prevent-senior-por-uso-sem-autorizacao-de-remedio-para-cancer-em-pacientes-com-covid.ghtml)
 - **VÍDEO:** [CPI da Covid ouve Pedro Benedito Batista Júnior, diretor da Prevent Senior](https://g1.globo.com/globonews/playlist/videos-diretor-da-prevent-senior-presta-depoimento-a-cpi-da-covid.ghtml)
 - **O ASSUNTO**: [CPI e as cobaias humanas da pandemia](https://g1.globo.com/podcast/o-assunto/noticia/2021/09/17/o-assunto-540-cpi-e-as-cobaias-humanas-da-pandemia.ghtml)
+- **Medo e Delírio em Brasília**: [Dia 1.004 - "Óbito também é alta" - Parte 1](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuY2VudHJhbDMuY29tLmJyL2NhdGVnb3J5L3BvZGNhc3RzL21lZG8tZS1kZWxpcmlvL2ZlZWQvcG9kY2FzdC8/episode/aHR0cHM6Ly93d3cuY2VudHJhbDMuY29tLmJyLz9wPTQzMjMw?ep=14)
+- **Medo e Delírio em Brasília**: [Dias 1.004 e 1.005 - "Óbito também é alta" - Parte 2](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuY2VudHJhbDMuY29tLmJyL2NhdGVnb3J5L3BvZGNhc3RzL21lZG8tZS1kZWxpcmlvL2ZlZWQvcG9kY2FzdC8/episode/aHR0cHM6Ly93d3cuY2VudHJhbDMuY29tLmJyLz9wPTQzMjQ2?ep=14)
+- **O Assunto #549:**  [Escândalo Prevent - a hora da ANS](https://g1.globo.com/podcast/o-assunto/noticia/2021/09/30/o-assunto-549-escandalo-prevent-a-hora-da-ans.ghtml)
 
 
 
