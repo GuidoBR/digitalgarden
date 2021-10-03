@@ -12,4 +12,6 @@ draft: true
 - [[Rhodes2020HowToMakeAVaccine]]
 - [[Christakis2019Blueprint.md]]
 - [[Oakley2014MindforNumbers]]
+- [[Levin2016BlackHoleBlues]]
+- [[Lefèvre1923ReminiscencesOfAStockOperator]]
 
