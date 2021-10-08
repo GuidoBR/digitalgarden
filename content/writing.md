@@ -41,6 +41,7 @@
 - [Write more, but shorter](https://blog.kewah.com/2021/write-more-but-shorter/)
 - [How to monetize your programminng blog with affiliate marketing](https://simpleprogrammer.com/monetize-programming-blog-affiliate-marketing/)
 - [6 strategies that helped me grow my Twitter account to 23k followers](https://twitter.com/sunilc_/status/1403593531478843394)
+- [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/)
 
 
 
