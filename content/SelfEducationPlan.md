@@ -101,6 +101,26 @@
 
 ------
 
+## [Tools for modern citizens](https://seths.blog/2021/10/tools-for-modern-citizens/) by Seth 
+
+[Statistics](https://online.stanford.edu/courses/xfds110-introduction-statistics)
+
+[Germ theory](https://www.wikiwand.com/en/Germ_theory_of_disease)
+
+[Epidemiology](https://www.cdc.gov/training/publichealth101/epidemiology.html)
+
+[Decision making](https://smile.amazon.com/Thinking-in-Bets-Annie-Duke-audiobook/dp/B078SBSBW3/ref=sr_1_1?crid=2GSYZ9WWMOAGG&dchild=1&keywords=thinking+in+bets+annie+duke&qid=1633531849&sprefix=thinking+in+bets%2Caps%2C295&sr=8-1)
+
+[Propaganda and the status quo](https://owlcation.com/humanities/The-Rise-Donald-Trump-or-Understanding-Propaganda)
+
+[Semiotics and indoctrination](https://decodingsemiotics.wordpress.com/about/)
+
+[The mechanics of global weather](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Headline_Statements.pdf)
+
+[Network effects](https://smile.amazon.com/The-Cold-Start-Problem/dp/B08MKNHSWC/ref=sr_1_1?dchild=1&keywords=andrew+chen&qid=1633531938&sr=8-1)
+
+and [artificial intelligence](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
+
 # Great Teaching Toolkit Evidence Review
 
 ![Great Teaching Toolkit Evidence Review](/images/great-teaching-toolkit-evidence-review.png)

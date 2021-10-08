@@ -11,4 +11,10 @@
 ## Brazilian companies - Sustainability Reports
 
 - [Vale](http://www.vale.com/brasil/PT/sustainability/Paginas/carbono-neutro.aspx)
+
 - [CEBDS (Conselho Empresarial Brasileiro para o Desenvolvimento Sustentável)](https://cebds.org/publicacoes/posicionamento-empresarios-pelo-clima/#.YVHKyXvQ9H4)
+
+- OdontoPrev
+
+  > Alinhada aos  princípios de desenvolvimento sustentável, e com a preocupação em  medidas de conservação ambiental, a Odontoprev, com o apoio da  consultoria especializada **Way Carbon,** quantificou as emissões históricas das operações. A partir do cálculo, a empresa adquiriu créditos de  carbono equivalentes, que financiam atividades de conservação e educação ambiental. O projeto selecionado foi o de Redução de Emissões por  Desmatamento e Degradação Florestal (REDD), que visa evitar emissões  derivadas do desmatamento no município de Paragominas, estado do Pará,  na região Amazônica.
+

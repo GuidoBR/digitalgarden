@@ -33,6 +33,7 @@ Fazer um resumo visual, como esse: https://www.francismiller.com/simplify-summar
 ## Notes
 
 - https://simpleprogrammer.com/cyberpsychology-and-ux/?__s=cpysuzomfjsphsewcxch
+- [Follow me as I read, summarise and lightly critique 30 behavioural science related papers over the next 30 days](https://twitter.com/utterlydavid/status/1421914074460393473)
 - [All You Need is Nudge (Ep. 474)](https://freakonomics.com/podcast/frbc-richard-thaler/)
 - [Ok so chapter 12 of “Noise” by Kahneman, Sibony and Sunstein contains a repeated, incorrect claim about stats / causality: the claim that no correlation implies no causation. Easy to disprove this claim, no math needed](https://twitter.com/economeager/status/1395791301627596806)
 - http://gnova.enap.gov.br/pt/projetos/disseminacao/ferramentas/simplesmente

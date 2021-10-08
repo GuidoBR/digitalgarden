@@ -12,6 +12,7 @@
 - **Medo e Delírio em Brasília**: [Dias 1.004 e 1.005 - "Óbito também é alta" - Parte 2](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuY2VudHJhbDMuY29tLmJyL2NhdGVnb3J5L3BvZGNhc3RzL21lZG8tZS1kZWxpcmlvL2ZlZWQvcG9kY2FzdC8/episode/aHR0cHM6Ly93d3cuY2VudHJhbDMuY29tLmJyLz9wPTQzMjQ2?ep=14)
 - **O Assunto #549:**  [Escândalo Prevent - a hora da ANS](https://g1.globo.com/podcast/o-assunto/noticia/2021/09/30/o-assunto-549-escandalo-prevent-a-hora-da-ans.ghtml)
 - [Crítica ao Estudo da Prevent Senior](https://notesoncovid.wordpress.com/2020/04/19/critica-ao-estudo-da-prevent-senior/)
+- [Anthony Wong](https://twitter.com/fvguima/status/1440760714302427139)
 
 
 

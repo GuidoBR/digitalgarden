@@ -19,6 +19,10 @@ Deadliest Enemy: Our War Against Killer Germs
 
 The Rules of Contagion
 
+[CDC - Introduction to Epidemiology](https://www.cdc.gov/training/publichealth101/epidemiology.html)
+
+[Germ theory of disease](https://www.wikiwand.com/en/Germ_theory_of_disease)
+
 ## How our defenses works?
 
 ## How can we improve our defenses? How do [[vaccines]] work?
@@ -64,12 +68,13 @@ Appolo's Arrow
 - Deadliest Enemy: Our War Against Killer Germs
 - [The Great Influenza](https://www.amazon.com.br/Great-Influenza-Deadliest-Plague-History/dp/0143036491/)
 - Programa Nacional de Imunizações - 30 anos
-- (Pseudo) Science and the Public Sphere: Scientific Claims about Covid-19 on Twitter - FGV
+- [(Pseudo) Science and the Public Sphere: Scientific Claims about Covid-19 on Twitter - FGV](https://democraciadigital.dapp.fgv.br/en/studies/pseudoscience-and-the-public-sphere/)
 - Fake News e Saúde - Fiocruz
 - The Anti-Vaxx Playbook - CCDH
-- The COVID-19 Vaccine Communication Handbook
+- The COVID-19 Vaccine Communication Handbook ([pt-BR](https://hackmd.io/@scibehC19vax/lang-pt))
 - The Debunking Handbook
 - [[CasoPreventSenior]]
+- [[Covid19_False_Cures]]
 - [Células B em vacinas de RNA](https://twitter.com/mellziland/status/1430195679557734401)
 - [Como é respostas imune a um vírus?](https://twitter.com/LaroccaRA/status/1428453296356855817)
 - [Como o GADO vale mais que você no Brasil](https://www.youtube.com/watch?v=lyMPfJaX1fs)
