@@ -27,6 +27,36 @@
 >
 > Mas o homem comum não deseja ouvir que se trata de um mercado em alta ou em baixa. O que ele deseja é que lhe digam especificamente que ação específica comprar ou vender. Ele quer obter algo em troca de uma ninharia. Não deseja trabalhar. Ele nem sequer deseja ter que pensar. Já é cansativo demais ter que contar o dinheiro que pega do chão.
 
+> You remember Dickson G. Watts’ story about the man who was so nervous that a friend asked him what was the matter.
+>
+> “I can’t sleep,” answered the nervous one.
+>
+> “Why not?” asked the friend.
+>
+> “I am carrying so much cotton that I can’t sleep thinking about it.
+>
+> It is wearing me out. What can I do?”
+>
+> “Sell down to the sleeping point,” answered the friend.
+>
+> ---
+>
+> Você se lembra da história de Dickson G. Watts sobre o homem que estava tão nervoso que um amigo lhe perguntou qual era o problema. 
+>
+> “Não consigo dormir”, respondeu o nervoso. 
+>
+> “Por que não?”, quis saber o amigo. 
+>
+> “Estou carregando tantas ações de algodão que não consigo dormir pensando nisso. Isso está me esgotando. O que eu posso fazer?” 
+>
+> “Vá vendendo até chegar ao ponto de conseguir pegar no sono”, respondeu o amigo. 
+
+**Endownment effect**
+
+> As a rule a man adapts himself to conditions so quickly that he loses the perspective. He does not feel the difference much – that is, he does not vividly remember how it felt not to be a millionaire. He only remembers that there were things he could not do that he can do now. It does not take a reasonably young and normal man very long to lose the habit of being poor. It requires a little longer to forget that he used to be rich. I suppose that is because money creates needs or encourages their multiplication. I mean that after a man makes money in the stock market he very quickly loses the habit of not spending. But after he loses his money it takes him a long time to lose the habit of spending.
+>
+> Por via de regra um homem se adapta às condições tão rapidamente que perde a visão do panorama geral. Não sente tanta diferença –– isto é, não se lembra direito de como era não ser um milionário. Ele se lembra apenas de antes havia coisas que não podia fazer, mas agora pode. Um homem razoavelmente jovem e normal não leva muito tempo para perder o hábito de ser pobre. Esquecer que era rico demora um pouco mais de tempo. Suponho que a causa disso seja o fato de que o dinheiro cria necessidades ou incentiva sua multiplicação. O que quero dizer é que depois que um homem ganha dinheiro no mercado de ações, perde muito rapidamente o hábito de não gastar. Mas depois que perde dinheiro, leva muito tempo para perder o hábito de gastar. 
+
 **References**:
 
 > Investors and traders alike still liberally quote Graham and  Livermore on a regular basis despite the fact that both made their bones investing in the early part of the 20th century.
