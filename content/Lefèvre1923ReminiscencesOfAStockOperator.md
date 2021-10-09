@@ -23,8 +23,6 @@
 
 > But the average man doesn’t wish to be told that it is a bull or a bear market. What he desires is to be told specifically which particular stock to buy or sell. He wants to get something for nothing. He does not wish to work. He doesn’t even wish to have to think. It is too much bother to have to count the money that he picks up from the ground.
 >
-> 
->
 > Mas o homem comum não deseja ouvir que se trata de um mercado em alta ou em baixa. O que ele deseja é que lhe digam especificamente que ação específica comprar ou vender. Ele quer obter algo em troca de uma ninharia. Não deseja trabalhar. Ele nem sequer deseja ter que pensar. Já é cansativo demais ter que contar o dinheiro que pega do chão.
 
 > You remember Dickson G. Watts’ story about the man who was so nervous that a friend asked him what was the matter.
@@ -56,6 +54,11 @@
 > As a rule a man adapts himself to conditions so quickly that he loses the perspective. He does not feel the difference much – that is, he does not vividly remember how it felt not to be a millionaire. He only remembers that there were things he could not do that he can do now. It does not take a reasonably young and normal man very long to lose the habit of being poor. It requires a little longer to forget that he used to be rich. I suppose that is because money creates needs or encourages their multiplication. I mean that after a man makes money in the stock market he very quickly loses the habit of not spending. But after he loses his money it takes him a long time to lose the habit of spending.
 >
 > Por via de regra um homem se adapta às condições tão rapidamente que perde a visão do panorama geral. Não sente tanta diferença –– isto é, não se lembra direito de como era não ser um milionário. Ele se lembra apenas de antes havia coisas que não podia fazer, mas agora pode. Um homem razoavelmente jovem e normal não leva muito tempo para perder o hábito de ser pobre. Esquecer que era rico demora um pouco mais de tempo. Suponho que a causa disso seja o fato de que o dinheiro cria necessidades ou incentiva sua multiplicação. O que quero dizer é que depois que um homem ganha dinheiro no mercado de ações, perde muito rapidamente o hábito de não gastar. Mas depois que perde dinheiro, leva muito tempo para perder o hábito de gastar. 
+
+> A man can’t spend years at one thing and not acquire a habitual attitude towards it quite unlike that of the average beginner. The difference distinguishes the professional from the amateur. It is the way a man looks at things that makes or loses money for him in the speculative markets. The public has the dilettante’s point of view toward his own effort. The ego obtrudes itself unduly and the thinking therefore is not deep or exhaustive. The professional concerns himself with doing the right thing rather than with making money, knowing that the profit takes care of itself if the
+> other things are attended to. A trader gets to play the game as the professional billiard player does – that is, he looks far ahead instead of considering the particular shot before him. It gets to be an instinct to play for position.
+>
+> Um homem não pode passar anos realizando uma coisa sem adquirir em relação a ela uma atitude habitual, bastante diferente daquela do iniciante médio. A diferença distingue o profissional do amador. É a maneira como um homem olha para as coisas que o leva a ganhar ou perder dinheiro nos mercados especulativos. O público tem o ponto de vista diletante no que diz respeito a seu próprio esforço. O ego se intromete indevidamente e o pensamento, por conseguinte, não é profundo nem exaustivo. O profissional se preocupa em fazer a coisa certa em vez de ganhar dinheiro, sabendo que o lucro se resolverá por si mesmo se ele cuidar das outras coisas. Um trader começa a jogar o jogo como faz o jogador profissional de bilhar –– isto é, olha bem longe à frente e antecipa movimentos em vez de considerar apenas a iminente tacada específica. Chega a ser um instinto jogar pela posição. 
 
 **References**:
 
