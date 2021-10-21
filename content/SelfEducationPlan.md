@@ -129,3 +129,4 @@ and [artificial intelligence](https://www.ibm.com/cloud/learn/what-is-artificial
 
  - [[Young2021Ultraaprendizado]]
  - [[Oakley2014MindForNumbers]]
+ - [What to learn](https://danluu.com/learn-what/)
