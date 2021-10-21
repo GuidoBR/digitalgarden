@@ -49,6 +49,19 @@
 >
 > “Vá vendendo até chegar ao ponto de conseguir pegar no sono”, respondeu o amigo. 
 
+> I had learned a great deal about the game of stock speculation, but I had not learned quite so much about the play of human weaknesses. There is no mind so machinelike that you can depend upon it to function with equal efficiency at all times. I now learned that I could not trust myself to remain equally unaffected by men and misfortunes at all times.
+>
+> Tinha aprendido muito sobre o jogo da especulação com ações, mas não aprendi muito sobre o jogo das fraquezas humanas. Não existe uma mente que funcione feito uma máquina de tal modo que se possa confiar que funcionará com a mesma eficiência em todos os momentos. Agora aprendi que eu não podia confiar em mim mesmo a ponto de acreditar que permaneceria igualmente imperturbável, sem ser afetado por homens e infortúnios, em todos os momentos.
+
+> A man must know himself thoroughly if he is going to make a good job out of trading in the speculative markets. To know what I was capable of in the line of folly was a long educational step. I sometimes think that no price is too high
+> for a speculator to pay to learn that which will keep him from getting the swelled head.
+>
+> Um homem deve conhecer minuciosamente a si mesmo se quiser fazer um bom trabalho atuando no mercado especulativo. Saber do que eu era capaz na linha das asneiras e loucuras foi uma longa etapa educacional. Às vezes penso que nenhum preço é alto demais para um especulador pagar a fim de aprender o que o impedirá de se tornar arrogante.
+
+> I was very grateful to him, but I am so constituted that I don’t like to owe money or favors. I can pay the money back with money, but the favors and kindnesses I must pay back in kind – and you are apt to find these moral obligations mighty high priced at times. Moreover there is no statute of limitations.
+>
+> Fiquei muito agradecido a ele, mas é da minha formação não gostar de dever dinheiro nem favores. Posso pagar dinheiro emprestado com dinheiro, mas favores e gentilezas tenho que retribuir na mesma moeda –– e o leitor é esperto o bastante para saber que às vezes essas obrigações morais custam os olhos da cara. Além disso, não existe lei da prescrição. 
+
 **Endownment effect**
 
 > As a rule a man adapts himself to conditions so quickly that he loses the perspective. He does not feel the difference much – that is, he does not vividly remember how it felt not to be a millionaire. He only remembers that there were things he could not do that he can do now. It does not take a reasonably young and normal man very long to lose the habit of being poor. It requires a little longer to forget that he used to be rich. I suppose that is because money creates needs or encourages their multiplication. I mean that after a man makes money in the stock market he very quickly loses the habit of not spending. But after he loses his money it takes him a long time to lose the habit of spending.
