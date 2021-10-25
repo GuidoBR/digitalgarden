@@ -62,6 +62,27 @@
 >
 > Fiquei muito agradecido a ele, mas é da minha formação não gostar de dever dinheiro nem favores. Posso pagar dinheiro emprestado com dinheiro, mas favores e gentilezas tenho que retribuir na mesma moeda –– e o leitor é esperto o bastante para saber que às vezes essas obrigações morais custam os olhos da cara. Além disso, não existe lei da prescrição. 
 
+> Life itself from the cradle to the grave is a gamble and what happens to me because I do not possess the gift of second sight I can bear undisturbed.
+>
+> A própria vida é, do berço ao túmulo, uma aposta, e o que acontece comigo porque não tenho o dom da clarividência sou capaz de suportar de maneira inabalável. 
+
+> The reason for exaggerating the magnitude and the effect of my operations, I suppose, was the need to satisfy the **public’s insatiable demand for reasons for each and every price movement.**
+>
+> O motivo para exagerar a magnitude e o efeito de minhas operações era, suponho, a necessidade de satisfazer a **insaciável demanda da opinião pública por razões para cada movimento dos preços. **
+
+> Tips! How people want tips! They crave not only to get them but to give them. There is greed involved, and vanity. It is very amusing, at times, to watch really intelligent people fish for them. And the tip-giver need not hesitate about the quality, for the tip-seeker is not really after good tips, but after any tip. If it makes good, fine! If it doesn’t, better luck
+> with the next.
+>
+> Dicas! Como as pessoas desejam dicas! Anseiam não apenas por receber dicas, mas também querem recebê-las para repassá-las adiante. Há ganância envolvida, e vaidade. É muito divertido, às vezes, observar pessoas realmente inteligentes à procura de dicas. E quem dá as dicas não precisa hesitar quanto à qualidade delas, pois quem busca dicas não está atrás de boas dicas, mas de qualquer dica. Se os palpites derem bons resultados, ótimo! Se não, melhor sorte da próxima vez.
+
+> On the other hand there is profit in studying the human factors – the ease with which human beings believe what it pleases them to believe; and how they allow themselves – indeed, urge themselves – to be influenced by their cupidity or by the dollar-cost of the average man’s carelessness. Fear and hope remain the same; therefore the study of the psychology of speculators is as valuable as it ever was.
+>
+> Por outro lado, há lucro em estudar os fatores humanos –– a facilidade com que o ser humano acredita no que lhe agrada acreditar; e como eles se permitem ser influenciados por sua ambição desmedida ou pelo custo em dólares da imprudência do homem comum –– na verdade, exortam a si próprios a isso. O medo e a esperança permanecem os mesmos; portanto, o estudo da psicologia de especuladores é tão valioso como sempre foi.
+
+> I have said many times and cannot say it too often that the experience of years as a stock operator has convinced me that no man can consistently and continuously beat the stock market though he may make money in individual stocks on certain occasions.
+>
+> Já afirmei muitas vezes e não me canso de repetir que a experiência de anos como especulador financeiro me convenceu de que nenhum homem é capaz de vencer o mercado de ações de forma consistente e contínua, embora possa ganhar dinheiro com ações individuais em certas ocasiões.
+
 **Endownment effect**
 
 > As a rule a man adapts himself to conditions so quickly that he loses the perspective. He does not feel the difference much – that is, he does not vividly remember how it felt not to be a millionaire. He only remembers that there were things he could not do that he can do now. It does not take a reasonably young and normal man very long to lose the habit of being poor. It requires a little longer to forget that he used to be rich. I suppose that is because money creates needs or encourages their multiplication. I mean that after a man makes money in the stock market he very quickly loses the habit of not spending. But after he loses his money it takes him a long time to lose the habit of spending.
