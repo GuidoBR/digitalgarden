@@ -6,10 +6,43 @@
 - Based/Inspired on [The Self Educating Child](https://www.mrmoneymustache.com/2021/04/18/the-self-educating-child/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MrMoneyMustache+(Mr.+Money+Mustache)), [The modern curriculum](https://seths.blog/2021/09/the-modern-curriculum/) by Seth, and my on opinion.
 - Hugo, [Parsa Hugo](https://themes.gohugo.io/parsa-hugo/), Vuejs (?), [forestry.io](http://forestry.io) CMS
 
-# Guido's opinion
+# My opinion
 
 - [Principles of Microeconomics](http://Introduction to Economics | Marginal Revolution University (MRU))
 - [Wolfram: Computer Based Math - Self Study](https://www.computerbasedmath.org/self-study-resources/)
+
+
+
+# [Scott Young - My 10 favorite free online classes](https://www.scotthyoung.com/blog/2021/03/15/best-online-classes/)
+
+1. ## Justice – Michael Sandel (Harvard)
+
+2. ## Physics – Walter Lewin (MIT)
+
+3. ## Learning How to Learn – Terrence Sejnowski and Barbara Oakley (UCSD)
+
+4. ## Machine Learning – Andrew Ng (Stanford)
+
+5. ## Quantum Mechanics – Richard Feynman
+
+6. ## Medical Neuroscience – Leonard White (Duke)
+
+7. ## Organic Chemistry – Michael McBride (Yale)
+
+8. ## Immunology – Alma Novotny (Rice)
+
+9. ## World History – John Green (Crash Course
+
+10. ## Microeconomics – Tyler Cowen and Alex Tabbarock (MRU)
+
+
+
+- [Nonlinear Dynamics and Chaos](https://click.convertkit-mail.com/n4uwl28e5dfvh0e4zpi6/owhkhwu4lnkrz6av/aHR0cHM6Ly93d3cueW91dHViZS5jb20vcGxheWxpc3Q_bGlzdD1QTGJONTdDNVpkbDZqX3FKQS1wQVJKbktzbVJPelBuTzlW) by Steven Strogatz – The math behind the Butterfly Effect and why reality can be inherently unpredictable.
+- [Systems Biology](https://click.convertkit-mail.com/n4uwl28e5dfvh0e4zpi6/z2hgh7uor743g7hp/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1ONlZaZVd1TUVfQQ==) by Uri Alon – Fascinating machinery of human cells, from gene regulation to why we get Type II diabetes.
+- [Programming Paradigms](https://click.convertkit-mail.com/n4uwl28e5dfvh0e4zpi6/6qhehoup6wk7q2so/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1QczhqT2o3ZGlBMA==) by Jerry Cain – One of my first-ever online courses. Part of the impetus to do the MIT Challenge.
+- [Intro Biology](https://click.convertkit-mail.com/n4uwl28e5dfvh0e4zpi6/kkhmh2u82edl78fl/aHR0cHM6Ly9vY3cubWl0LmVkdS9jb3Vyc2VzL2Jpb2xvZ3kvNy0wMTItaW50cm9kdWN0aW9uLXRvLWJpb2xvZ3ktZmFsbC0yMDA0L2luZGV4Lmh0bQ==) by Eric Lander – Great lectures on biology, especially those taught by  Lander. The only annoyance is that this course is stitched together from multiple segments rather than complete lectures. Nonetheless, the  sections on genetics are really well done.
+- [Poker Theory and Analytics](https://click.convertkit-mail.com/n4uwl28e5dfvh0e4zpi6/25h2h9u70gv253f3/aHR0cHM6Ly9vY3cubWl0LmVkdS9jb3Vyc2VzL3Nsb2FuLXNjaG9vbC1vZi1tYW5hZ2VtZW50LzE1LXM1MC1wb2tlci10aGVvcnktYW5kLWFuYWx5dGljcy1qYW51YXJ5LWlhcC0yMDE1L2luZGV4Lmh0bQ==) by Kevin Desmond – Fun class on the math behind poker betting. I took this when working on a poker programming project.
+- [Being and Time](https://click.convertkit-mail.com/n4uwl28e5dfvh0e4zpi6/qvh8h8u82v7rxosl/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1JYUlXel84N0t6MA==) by Hubert Dreyfus – Dreyfus has a ton of audio-only courses on Contintental philosophers. His one on Heidegger is the best.
 
 # [The Self Educating Child](https://www.mrmoneymustache.com/2021/04/18/the-self-educating-child/)
 
@@ -70,8 +103,6 @@
 - [Davie504](https://www.youtube.com/user/Davie504) – an amazing bass player, and fellow bass enthusiasts might learn a few things too.
 - [Adam Neely](https://www.youtube.com/user/havic5) – fantastic music theory and neat analysis of existing stuff.
 - [AU5](https://www.youtube.com/user/Au5music) – one of my favorite emerging electronic music artists, who also teaches you how to make the stuff in Ableton and related tools
-
-# 
 
 ------
 
