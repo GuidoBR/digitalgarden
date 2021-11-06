@@ -1,10 +1,26 @@
-#covid19 #vaccines
+  #covid19 #vaccines
 
 ### Sobre a autora
 
 #### Entrevista para o Roda Viva
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xBC-AGZaAsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### [Universidade de Oxford terá campus no Rio de Janeiro](https://diariodorio.com/universidade-de-oxford-tera-campus-no-rio-de-janeiro/)
+
+> A pesquisadora e professora brasileira **Sue Ann Clemens**, será a  diretora da “Oxford carioca”. Clemens foi uma das responsáveis por  trazer os estudos da vacina Oxford/AstraZeneca ao Brasil e diretora do  primeiro mestrado em Vacinologia do mundo, na Universidade de Siena, na  Itália. 
+>
+> “*Nos últimos tempos, foram formados centros de  estudos, e é triste perder isso quando a pandemia acabar. Queremos botar o Brasil na rota internacional de pesquisas*“, disse Clemens ao Jornal Extra. 
+>
+> A professora e cientista que encabeçou projetos de  capacitação em 22 centros na América Latina, revelou o objetivo de  tornar o Brasil a sede de centros de pesquisas no subcontinente  latino-americano.
+>
+> No entanto, para ela, ainda é preciso investir em educação, preparando melhor os brasileiros para “*povoarem esses centros*” à medida que a produção de pesquisas crescer. Durante a pandemia, afirma, foi preciso “*treinar pessoal em cima da hora*”.
+
+#### [Conheça a cientista carioca que batalhou por acordo do Brasil com o Reino Unido para testar vacina de Oxford](https://oglobo.globo.com/brasil/celina/conheca-cientista-carioca-que-batalhou-por-acordo-do-brasil-com-reino-unido-para-testar-vacina-de-oxford-24528485) 
+
+> No último dia 3, antes das 8h, Sue Ann Costa Clemens saiu de casa, no Jardim Botânico, rumo a Botafogo, para acompanhar o primeiro voluntário no Rio de Janeiro que receberia a vacina contra o novo coronavírus.  Desenvolvida pela Universidade de Oxford, a fórmula, que passou a ser  testada em brasileiros em junho — a meta é vacinar 5 mil pessoas entre  Rio, São Paulo e Salvador —, iniciou sua rota rumo ao Brasil em 5 de  maio.
+>
+> Foi nesse dia que Clemens recebeu a ligação de Andrew Pollard, coordenador  da pesquisa de Oxford. Ele a convidou, então, para ser a investigadora  chefe dos testes clínicos da vacina no Brasil. Os dois são conhecidos de longa data — ele é professor do mestrado em Vacinologia, criado por ela na Universidade de Siena, na Itália, e trabalharam juntos em estudos  para vacinas, como a da meningite. Pollard também sabia que Clemens  havia coordenado os testes clínicos da vacina contra o rotavírus em  meados de 2005, uma força-tarefa que recrutou pela América Latina mais  de 60 mil voluntários em seis meses.
 
 ### Sobre o Livro
 
@@ -56,7 +72,7 @@
 
 > A ideia me  ocorrera pela primeira vez em 2002, num encontro com Nelson Mandela na  Cidade do Cabo. Eu ainda trabalhava como diretora de vacinas da GSK para a América Latina quando fui convidada para uma conferência na África do Sul com ministros da Saúde de 32 países em desenvolvimento. A vacinação no continente africano estava em queda. Faltavam vacinas e também  capacidade operacional para a produção. Representantes da indústria,  como Jean Stéphenne, falaram sobre o financiamento de fórmulas para  países em desenvolvimento e sobre estratégias para acelerar a introdução de novos imunizantes nessas regiões. Os líderes do encontro terminaram  por elaborar um documento que depois viria a ser apresentado no Fórum  Econômico Mundial e em outros encontros globais. Mandela era o convidado de honra. Sua esposa, a moçambicana Graça Simbine Machel, uma  proeminente ativista dos direitos humanos, sentou-se ao meu lado no  auditório. Ela falava português e conversamos sobre saúde pública nos  países em desenvolvimento. O discurso de Mandela me deixou em prantos.  Ele pedia que países ricos e indústrias investissem no desenvolvimento  da África. Meu incômodo com a atuação das farmacêuticas naquela região  só fez aumentar depois daquele encontro. Quando realizei estudos na  África, senti uma diferença muito grande no preparo dos profissionais e  dos centros de testes. O trabalho que tínhamos feito na América Latina  ao investir em pesquisas clínicas na região havia deixado uma estrutura  para que outras vacinas fossem desenvolvidas naqueles países. No caso da África, pelas condições epidemiológicas favoráveis, com surtos de  diversas doenças em diferentes países, o continente era utilizado para  sediar muitos estudos em larga escala. Mas as indústrias em geral  cumpriam o seguinte roteiro: equipar um centro, treinar funcionários  locais apenas para realizar tarefas operacionais, levar profissionais de fora para posições de liderança e, por fim, desmontar a estrutura ao  fim do trabalho. No estudo seguinte, repetia-se o mesmo padrão. Ao ouvir o pedido de Nelson Mandela para que a indústria investisse na África,  muitos se sentiram na obrigação de responder da forma como podiam, eu  inclusive. Passaram-se muitos anos desde aquele encontro até que eu  conseguisse colocar de pé um projeto de formação profissional. Nunca  deixei de dar aulas no Instituto Carlos Chagas e em cursos na Unifesp,  convidada pelo professor Calil Farhat, meu mestre e orientador do  doutorado, e trabalhando na indústria eu via que era preciso investir em educação. As farmacêuticas ofereciam cursos, sabia que era preciso  investir na formação de profissionais. Havia cursos nas indústrias, mas  eles não abarcavam todo o processo de desenvolvimento de uma vacina, nem eram voltados para formar profissionais de países em desenvolvimento.  Em meados de 2006, quando abri minha empresa de consultoria, fui  convidada pela Novartis para cuidar do que eles chamavam de Academia de  Vacinas. Eu morava em Siena, onde ficava a sede…
 >
-> # TODO - este está cortado
+> **TODO - este trecho está cortado**
 
 > Os jovens têm aulas com professores consagrados, que vão do homem nomeado pela OMS  como “herói da saúde pública”, Ciro Quadros, à diretora do Departamento  de Imunização, Vacinas e Biológicos da OMS, Kate O’Brien, passando pelo  autor do livro Vaccines, a bíblia em vacinologia, Walter Orenstein.
 
@@ -119,20 +135,3 @@
 
 > **ajudando a preparar o mundo para as próximas epidemias. Pois elas virão.**
 
-### Notícias
-
-#### [Universidade de Oxford terá campus no Rio de Janeiro](https://diariodorio.com/universidade-de-oxford-tera-campus-no-rio-de-janeiro/)
-
-> A pesquisadora e professora brasileira **Sue Ann Clemens**, será a  diretora da “Oxford carioca”. Clemens foi uma das responsáveis por  trazer os estudos da vacina Oxford/AstraZeneca ao Brasil e diretora do  primeiro mestrado em Vacinologia do mundo, na Universidade de Siena, na  Itália. 
->
-> “*Nos últimos tempos, foram formados centros de  estudos, e é triste perder isso quando a pandemia acabar. Queremos botar o Brasil na rota internacional de pesquisas*“, disse Clemens ao Jornal Extra. 
->
-> A professora e cientista que encabeçou projetos de  capacitação em 22 centros na América Latina, revelou o objetivo de  tornar o Brasil a sede de centros de pesquisas no subcontinente  latino-americano.
->
-> No entanto, para ela, ainda é preciso investir em educação, preparando melhor os brasileiros para “*povoarem esses centros*” à medida que a produção de pesquisas crescer. Durante a pandemia, afirma, foi preciso “*treinar pessoal em cima da hora*”.
-
-#### [Conheça a cientista carioca que batalhou por acordo do Brasil com o Reino Unido para testar vacina de Oxford](https://oglobo.globo.com/brasil/celina/conheca-cientista-carioca-que-batalhou-por-acordo-do-brasil-com-reino-unido-para-testar-vacina-de-oxford-24528485) 
-
-> No último dia 3, antes das 8h, Sue Ann Costa Clemens saiu de casa, no Jardim Botânico, rumo a Botafogo, para acompanhar o primeiro voluntário no Rio de Janeiro que receberia a vacina contra o novo coronavírus.  Desenvolvida pela Universidade de Oxford, a fórmula, que passou a ser  testada em brasileiros em junho — a meta é vacinar 5 mil pessoas entre  Rio, São Paulo e Salvador —, iniciou sua rota rumo ao Brasil em 5 de  maio.
->
-> Foi nesse dia que Clemens recebeu a ligação de Andrew Pollard, coordenador  da pesquisa de Oxford. Ele a convidou, então, para ser a investigadora  chefe dos testes clínicos da vacina no Brasil. Os dois são conhecidos de longa data — ele é professor do mestrado em Vacinologia, criado por ela na Universidade de Siena, na Itália, e trabalharam juntos em estudos  para vacinas, como a da meningite. Pollard também sabia que Clemens  havia coordenado os testes clínicos da vacina contra o rotavírus em  meados de 2005, uma força-tarefa que recrutou pela América Latina mais  de 60 mil voluntários em seis meses.
