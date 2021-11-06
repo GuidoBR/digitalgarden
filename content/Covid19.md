@@ -81,3 +81,4 @@ Appolo's Arrow
 - [Evolução e mutações em vírus](https://twitter.com/AndersonBrito_/status/1430627398165336067)
 - [Ivermectin obssession on USA. Where does it come from?](https://twitter.com/oneunderscore__/status/1431040456364810242)
 - [Nicholas A. Christakis on COVID-19](https://twitter.com/NAChristakis/status/1239204599959093250)
+- [[SueAnnCostaClemens2021HistoriaDeUmaVacina]]
