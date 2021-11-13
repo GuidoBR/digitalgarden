@@ -9,6 +9,8 @@
 - [Empresas defendem regras para mercado nacional de carbono](https://valor.globo.com/brasil/noticia/2021/09/01/empresas-defendem-regras-para-mercado-nacional-de-carbono.ghtml)
 - [Mercado de carbono, oportunidade para o Brasil](https://blogs.oglobo.globo.com/opiniao/post/mercado-de-carbono-oportunidade-para-o-brasil.html) por [Thiago Süssekind](https://twitter.com/ThiagoSussekind/status/1456259413958815758)
 - [Livro: Brasil: Paraíso restaurável](https://www.amazon.com.br/Brasil-Paraíso-restaurável-Jorge-Caldeira/dp/6557330020/), por [Jorge Caldeira](https://www.amazon.com.br/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Jorge+Caldeira&text=Jorge+Caldeira&sort=relevancerank&search-alias=stripbooks),  [Julia Marisa Sekula](https://www.amazon.com.br/s/ref=dp_byline_sr_book_2?ie=UTF8&field-author=Julia+Marisa+Sekula&text=Julia+Marisa+Sekula&sort=relevancerank&search-alias=stripbooks), [Luana Schabib](https://www.amazon.com.br/s/ref=dp_byline_sr_book_3?ie=UTF8&field-author=Luana+Schabib&text=Luana+Schabib&sort=relevancerank&search-alias=stripbooks)    (Autor)
+- [My message to the world at COP26 - Bill Gates](https://www.gatesnotes.com/Energy/My-message-to-the-world-at-COP26)
+- [A Amazônia é a nossa salvação](https://outline.com/Jdbkh5)
 
 ## Brazilian companies - Sustainability Reports
 
