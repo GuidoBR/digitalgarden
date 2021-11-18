@@ -11,4 +11,7 @@
 - [The tangled history of mRNA vaccines](https://www.nature.com/articles/d41586-021-02483-w)
 - [Prevention of host-to-host transmission by SARS-CoV-2 vaccines](https://www.sciencedirect.com/science/article/pii/S1473309921004722?dgcid=author)
 - [[Rhodes2020HowToMakeAVaccine]]
+- [[SueAnnCostaClemens2021HistoriaDeUmaVacina]]
 - [ZyCoV-D - DNA Vaccine](https://twitter.com/luizacaires3/status/1433851400690208771)
+- [WHO - Covid-19 Vaccines Explained](https://www.who.int/pt/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines/explainers)
+- [UFRJ - Especial Vacinas](https://conexao.ufrj.br/especiais/vacinas/)
