@@ -28,4 +28,4 @@ Seeds:
 - [[Gödel]]
 - [[Books]]
 - [[Feed]]
-- [[CarbonCredit]]
+- [[[[COP26]]
