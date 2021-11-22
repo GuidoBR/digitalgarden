@@ -16,6 +16,8 @@ https://swagitda.com/blog/posts/when-prospect-theory-meets-chaos-engineering/
 
 [https://fs.blog/2021/06/availability-bias-cognitive-distortion/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+68131+%28Farnam+Street%29](https://fs.blog/2021/06/availability-bias-cognitive-distortion/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+68131+(Farnam+Street))
 
+https://oecd-opsi.org/bi-units/
+
 Vieses de julgamento com frequência são identificados com referência a um valor real. Há viés nos julgamentos preditivos se os erros vão mais numa direção do que na outra. Por exemplo, quando as pessoas fazem um prognóstico de quanto tempo levará para completar um projeto, a média de suas estimativas é em geral muito mais baixa do que o tempo que precisarão de fato. Esse viés psicológico familiar é conhecido como *falácia de planejamento*. ("Ruído - capítulo 13")
 
 base-­rate
