@@ -24,3 +24,17 @@
 
 - [Clima 2030](https://www.clima2030.com.br/)
 - [Política por inteiro](https://www.politicaporinteiro.org/)
+
+# [Desmatamento na Amazônia passa de 13 mil km² entre agosto de 2020 e julho de 2021, apontam dados do Prodes](https://g1.globo.com/meio-ambiente/noticia/2021/11/18/desmatamento-na-amazonia-passa-de-13-mil-km-entre-agosto-de-2020-e-julho-de-2021-apontam-dados-do-prodes.ghtml)
+
+![image-20211122104144584](/home/guido/.config/Typora/typora-user-images/image-20211122104144584.png)
+
+# [COP26: texto final é aprovado e defende redução do uso de combustíveis fósseis](https://g1.globo.com/meio-ambiente/cop-26/noticia/2021/11/13/cop26-texto-final-e-acordado-apos-pedido-de-mudanca-de-ultima-hora-mas-ainda-assim-defende-reducao-de-combustiveis-fosseis.ghtml)
+
+## Apesar de ter tido a assinatura de todos os 200 países-membros, alguns  representantes anunciaram durante sessão plenária que esperavam um  acordo mais definitivo sobre o financiamento para as nações mais pobres  que já sentem as mudanças climáticas.
+
+- Além dos trechos incluídos sobre  os combustíveis fósseis, a COP26 finalizou o livro de regras do Acordo  de Paris e os pontos que estavam em aberto, como o artigo 6º, que se  refere ao mercado de carbono;
+- Países se comprometeram com U$S  100 bilhões por ano até 2025 para financiar medidas para evitar o  aumento da temperatura, mas, segundo ativistas e especialistas, o valor  não está de fato na mesa;
+- Países em desenvolvimento demonstraram descontentamento com os trechos a respeito do financiamento por parte  dos países ricos das "perdas e danos" já sentidos devido às mudanças do  clima. Isso, no entanto, não impediu a aprovação do documento.
+
+>  "A economia real está dando saltos rumo à descarbonização, enquanto a  diplomacia climática evolui lentamente. Mas o pacote de Glasgow ecoa, ao menos em parte, o que está acontecendo no mundo real: a transição do  carvão para [combustíveis de fontes] renováveis, o reconhecimento de que o metano precisa ser controlado e também o imperativo de apoiar os  países mais vulneráveis", avaliou presidente da Talanoa e membro do  Painel de Acreditação do Green Climate Fund. 
