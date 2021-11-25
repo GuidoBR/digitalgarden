@@ -13,9 +13,9 @@ JANUARY & FEBRUARY
 |                 O Gene - Uma História Íntima                 | Book       |      |
 | O legado dos genes: O que a ciência pode nos ensinar sobre o envelhecimento | Book       |      |
 | [Episódio 023: BioinfoRmática](https://podcast.pizzadedados.com/e/episodio-023/) | Podcast    |      |
-| [Scicast #45: Bioinformática](https://www.deviante.com.br/podcasts/scicast/scicast-45-bioinformatica/) | Podcast    |      |
-| [#Evencast 01 – Bioinformática e biologia computacional](https://blog.even3.com.br/evencast-01-bioinformatica-e-biologia-computacional/) | Podcast    |      |
-| [Coronavírus, sequenciamento genético e bioinformática – Hipsters #192](https://hipsters.tech/coronavirus-sequenciamento-genetico-e-bioinformatica-hipsters-ponto-tech-192/) | Podcast    |      |
+| [Scicast 45: Bioinformática](https://www.deviante.com.br/podcasts/scicast/scicast-45-bioinformatica/) | Podcast    |      |
+| [Evencast 01 – Bioinformática e biologia computacional](https://blog.even3.com.br/evencast-01-bioinformatica-e-biologia-computacional/) | Podcast    |      |
+| [Coronavírus, sequenciamento genético e bioinformática – Hipsters 192](https://hipsters.tech/coronavirus-sequenciamento-genetico-e-bioinformatica-hipsters-ponto-tech-192/) | Podcast    |      |
 |   [The Bioinformatics Chat](https://bioinformatics.chat/)    | Podcast    |      |
 |  [Micro Binfie Podcast](https://soundcloud.com/microbinfie)  | Podcast    |      |
 | [The Bioinformatics and Beyond Podcast](https://podcasts.apple.com/us/podcast/the-bioinformatics-and-beyond-podcast/id1533700049) | Podcast    |      |
