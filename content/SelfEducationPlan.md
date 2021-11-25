@@ -10,7 +10,7 @@
 
 ### My opinion
 
-- [Principles of Microeconomics](http://Introduction to Economics | Marginal Revolution University (MRU))
+- [Introduction to Economics | Marginal Revolution University (MRU)](https://mru.org/courses/principles-economics-microeconomics/introduction-microeconomics)
 - [Wolfram: Computer Based Math - Self Study](https://www.computerbasedmath.org/self-study-resources/)
 
 ## [Scott Young - My 10 favorite free online classes](https://www.scotthyoung.com/blog/2021/03/15/best-online-classes/)
@@ -96,27 +96,27 @@
 
 ## [The modern curriculum](https://seths.blog/2021/09/the-modern-curriculum/) by Seth 
 
-**Statistics**–seeing the world around us clearly and understanding nuance, analog results and taxometrics (learning how to sort like with like). Realizing that everyone and everything doesn’t fit into a simple box. Learning to see the danger of false labels and propaganda, and the power of seeing how things are actually distributed.
+**Statistics** – seeing the world around us clearly and understanding nuance, analog results and taxometrics (learning how to sort like with like). Realizing that everyone and everything doesn’t fit into a simple box. Learning to see the danger of false labels and propaganda, and the power of seeing how things are actually distributed.
 
-**Games**–finite and infinite, poker, algorithms, business structures, interpersonal relationships, negotiation, why they work and when they don’t. We all play them, even when they’re not called games.
+**Games** – finite and infinite, poker, algorithms, business structures, interpersonal relationships, negotiation, why they work and when they don’t. We all play them, even when they’re not called games.
 
-**Communication**–listening and speaking, reading and writing, presentations, critical examination and empathy. Can you read for content? Can you write to be understood? Can you stand up and express yourself, and sit still and listen to someone else who is working to be heard? What happens when we realize that no one is exactly like us?
+**Communication** – listening and speaking, reading and writing, presentations, critical examination and empathy. Can you read for content? Can you write to be understood? Can you stand up and express yourself, and sit still and listen to someone else who is working to be heard? What happens when we realize that no one is exactly like us?
 
-**History and propaganda**–what happened and how we talk about it. More *why* than when. The fundamental currents of human events over time.
+**History and propaganda** – what happened and how we talk about it. More *why* than when. The fundamental currents of human events over time.
 
-**Citizenship**–Participating, leading, asking and answering good questions. As a voter, but also as a participant in any organization.
+**Citizenship** – Participating, leading, asking and answering good questions. As a voter, but also as a participant in any organization.
 
-**Real skills**–Hard to measure things like honesty, perseverance, empathy, keeping promises, trust, charisma, curiosity, problem solving and humor.
+**Real skills** – Hard to measure things like honesty, perseverance, empathy, keeping promises, trust, charisma, curiosity, problem solving and humor.
 
-**The scientific method**–understanding what we know and figuring out how to discover the next thing. Learning to do the reading and show your work. There’s no point in memorizing the Krebs Cycle.
+**The scientific method** – understanding what we know and figuring out how to discover the next thing. Learning to do the reading and show your work. There’s no point in memorizing the Krebs Cycle.
 
-**Programming**–thinking in ways that a computer can help you with. From Excel and Photoshop to C++.
+**Programming** – thinking in ways that a computer can help you with. From Excel and Photoshop to C++.
 
-**Art**–expressing yourself with passion and consistency and a point of view. Not because it’s your job, but because you can and because it matters. Appreciating the art that has come before and creating your own, in whatever form that takes.
+**Art** – expressing yourself with passion and consistency and a point of view. Not because it’s your job, but because you can and because it matters. Appreciating the art that has come before and creating your own, in whatever form that takes.
 
-**Decision-making**–using the rest of the skills above to make better choices.
+**Decision-making** – using the rest of the skills above to make better choices.
 
-**Meta-cognition**–thinking about thinking, creating habits with intention.
+**Meta-cognition** – thinking about thinking, creating habits with intention.
 
 ------
 
