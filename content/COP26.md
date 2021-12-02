@@ -38,3 +38,11 @@
 - Países em desenvolvimento demonstraram descontentamento com os trechos a respeito do financiamento por parte  dos países ricos das "perdas e danos" já sentidos devido às mudanças do  clima. Isso, no entanto, não impediu a aprovação do documento.
 
 >  "A economia real está dando saltos rumo à descarbonização, enquanto a  diplomacia climática evolui lentamente. Mas o pacote de Glasgow ecoa, ao menos em parte, o que está acontecendo no mundo real: a transição do  carvão para [combustíveis de fontes] renováveis, o reconhecimento de que o metano precisa ser controlado e também o imperativo de apoiar os  países mais vulneráveis", avaliou presidente da Talanoa e membro do  Painel de Acreditação do Green Climate Fund. 
+
+# [As boas surpresas da COP26](https://outline.com/jfBKzK)
+
+> Continuaremos trabalhando para que os governos cumpram sua função  constitucional de impedir a devastação da imensa riqueza que é a  Amazônia. Seja através do fortalecimento do comando e controle e das  políticas de incentivo e indução na região, seja no provimento de  segurança pública para os Amazônidas —especialmente para os que estão  ameaçados, na linha de frente da defesa da floresta.
+>
+> 
+>
+> E por estamos certos de que os setores privado e financeiro desejam  honrar seus compromissos ambientais, nos juntamos também à discussão e à ação para garantir a transição para modelos sustentáveis de produção e  investimentos. Nada é mais forte que uma ideia cujo tempo chegou: todos  juntos pela segurança e justiça climática.
