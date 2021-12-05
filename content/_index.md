@@ -29,3 +29,4 @@ Seeds:
 - [[Books]]
 - [[Feed]]
 - [[COP26]]
+- [[WebDesign]]
