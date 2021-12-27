@@ -82,3 +82,4 @@ Appolo's Arrow
 - [Ivermectin obssession on USA. Where does it come from?](https://twitter.com/oneunderscore__/status/1431040456364810242)
 - [Nicholas A. Christakis on COVID-19](https://twitter.com/NAChristakis/status/1239204599959093250)
 - [[SueAnnCostaClemens2021HistoriaDeUmaVacina]]
+- [Nextstrain: Genomic epidemiology of novel coronavirus - South America-focused subsampling](https://nextstrain.org/ncov/gisaid/south-america?f_region=South%20America)
