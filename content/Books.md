@@ -15,3 +15,4 @@ draft: true
 - [[Levin2016BlackHoleBlues]]
 - [[Lefèvre1923ReminiscencesOfAStockOperator]]
 - [[SueAnnCostaClemens2021HistoriaDeUmaVacina]]
+- [[BooksRecomendation]] by @rationalexpec

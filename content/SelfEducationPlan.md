@@ -12,6 +12,7 @@
 
 - [Introduction to Economics | Marginal Revolution University (MRU)](https://mru.org/courses/principles-economics-microeconomics/introduction-microeconomics)
 - [Wolfram: Computer Based Math - Self Study](https://www.computerbasedmath.org/self-study-resources/)
+- Computer Science: [Open Source Society University](https://github.com/ossu/computer-science) (en) - [Universidade Livre](https://github.com/Universidade-Livre/ciencia-da-computacao) (pt-BR) | [Web Development](https://andreasbm.github.io/web-skills/) 
 
 ## [Scott Young - My 10 favorite free online classes](https://www.scotthyoung.com/blog/2021/03/15/best-online-classes/)
 
@@ -97,6 +98,9 @@
 ## [The modern curriculum](https://seths.blog/2021/09/the-modern-curriculum/) by Seth 
 
 **Statistics** – seeing the world around us clearly and understanding nuance, analog results and taxometrics (learning how to sort like with like). Realizing that everyone and everything doesn’t fit into a simple box. Learning to see the danger of false labels and propaganda, and the power of seeing how things are actually distributed.
+
+- [A ciência da estatística](https://www.youtube.com/c/ACi%C3%AAnciadaEstat%C3%ADstica/videos)
+- [[statistics]]
 
 **Games** – finite and infinite, poker, algorithms, business structures, interpersonal relationships, negotiation, why they work and when they don’t. We all play them, even when they’re not called games.
 
