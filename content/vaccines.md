@@ -15,3 +15,5 @@
 - [ZyCoV-D - DNA Vaccine](https://twitter.com/luizacaires3/status/1433851400690208771)
 - [WHO - Covid-19 Vaccines Explained](https://www.who.int/pt/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines/explainers)
 - [UFRJ - Especial Vacinas](https://conexao.ufrj.br/especiais/vacinas/)
+- [O que esperar da próxima geração de vacinas de Covid-19](https://oglobo.globo.com/saude/o-que-esperar-da-proxima-geracao-de-vacinas-de-covid-19-25248074) - [Twitter](https://twitter.com/TaschnerNatalia/status/1452628184630022148)
+
