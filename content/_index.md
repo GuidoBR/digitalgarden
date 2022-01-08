@@ -15,18 +15,3 @@ You can navigate through my notes with the arrow keys `←`and `→`.
  You can activate the search box by using the `CTRL` + `k` shortcut
 
 Seeds:
-
-
-- [[covid19]]
-- [[SelfEducationPlan]]
-- [[statistics]]
-- [[writing]]
-- [[love]]
-- [[friendship]]
-- [[Bayes]]
-- [[RCT]]
-- [[Gödel]]
-- [[Books]]
-- [[Feed]]
-- [[COP26]]
-- [[WebDesign]]
