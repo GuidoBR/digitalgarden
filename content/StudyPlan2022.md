@@ -4,13 +4,13 @@ Based on [career development guide](https://www.guidopercu.dev/posts/career-deve
 
 ## BIOINFORMATICS  
 
-JANUARY & FEBRUARY
+JANUARY & FEBRUARY - Notes: [[bioinformatics]]
 
 |                             NAME                             | TYPE       |      |
 | :----------------------------------------------------------: | ---------- | ---- |
 | [Finding Hidden Messages in DNA (Bioinformatics I)](https://www.coursera.org/learn/dna-analysis/home/welcome) | Course     |      |
 |                  Bioinformatics Algorithms                   | Book       |      |
-|                 O Gene - Uma História Íntima                 | Book       |      |
+|    O Gene - Uma História Íntima [[Mukherjee2017TheGene]]     | Book       |      |
 | O legado dos genes: O que a ciência pode nos ensinar sobre o envelhecimento | Book       |      |
 | [Episódio 023: BioinfoRmática](https://podcast.pizzadedados.com/e/episodio-023/) | Podcast    |      |
 | [Scicast 45: Bioinformática](https://www.deviante.com.br/podcasts/scicast/scicast-45-bioinformatica/) | Podcast    |      |

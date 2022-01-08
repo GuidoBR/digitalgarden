@@ -1,8 +1,4 @@
----
-title: "Books"
-date: 2021-09-20T12:36:36-03:00
-draft: true
----
+ #books
 
 - [[Gigerenzer2014RiskSavvy]]
 - [[Sinek2019TheInfiniteGame]]
@@ -15,4 +11,7 @@ draft: true
 - [[Levin2016BlackHoleBlues]]
 - [[Lefèvre1923ReminiscencesOfAStockOperator]]
 - [[SueAnnCostaClemens2021HistoriaDeUmaVacina]]
+- [[Mukherjee2017TheGene]]
+- [[Bryson2003AShortHistoryOfNearlyEverything]]
+- [[Rutherford2017ABriefHistoryOfEveryoneWhoEverLived]]
 - [[BooksRecomendation]] by @rationalexpec
