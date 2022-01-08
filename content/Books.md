@@ -1,4 +1,8 @@
- #books
+---
+title: Books
+---
+
+#books
 
 - [[Gigerenzer2014RiskSavvy]]
 - [[Sinek2019TheInfiniteGame]]
