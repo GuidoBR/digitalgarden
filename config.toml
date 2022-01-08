@@ -17,7 +17,7 @@ theme = "zettels"
   home = ["HTML", "JSON"]
 
 [params]
-    theme = "duotone-light" 
+    theme = "red-graphite"
     bear = true
     favicon = "favicon.ico"
     author = "Guido Percú"
