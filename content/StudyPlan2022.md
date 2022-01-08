@@ -1,10 +1,12 @@
+ #bioinformatics #aws
+
 # Study Plan for 2022
 
 Based on [career development guide](https://www.guidopercu.dev/posts/career-development-study-guide/) for 2022.
 
 ## BIOINFORMATICS  
 
-JANUARY & FEBRUARY - Notes: [[bioinformatics]]
+JANUARY & FEBRUARY - Notes: [[Bioinformatics]]
 
 |                             NAME                             | TYPE       |      |
 | :----------------------------------------------------------: | ---------- | ---- |
