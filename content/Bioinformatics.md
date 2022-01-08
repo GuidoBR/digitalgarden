@@ -1,3 +1,9 @@
+---
+title: Bioinformatics
+---
+
+
+
  #bioinformatics
 
 <img src="/images/biologia.jpg" alt="biologia" style="zoom:35%;" />

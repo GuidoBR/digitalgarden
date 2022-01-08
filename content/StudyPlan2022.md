@@ -1,4 +1,10 @@
- #bioinformatics #aws
+---
+title: Study Plan for 2022
+---
+
+
+
+#bioinformatics #aws
 
 # Study Plan for 2022
 

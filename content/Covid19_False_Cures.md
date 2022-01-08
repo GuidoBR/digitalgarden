@@ -1,4 +1,8 @@
- #covid19
+---
+title: Covid-19 - Curas falsas
+---
+
+#covid19
 
 - [“Uso precoce” é gambiarra para salvar mito da hidroxicloroquina](https://www.revistaquestaodeciencia.com.br/artigo/2020/05/10/uso-precoce-e-gambiarra-para-salvar-mito-da-hidroxicloroquina) 
   - Como "tratamento precoce" é pseudo-ciência. Quando resultados robustos mostram que não funciona, muda-se a afirmação, tornando a impossível/mais díficil de se testar e se afastando da ciência.

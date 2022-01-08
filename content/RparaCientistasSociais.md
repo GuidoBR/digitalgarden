@@ -1,3 +1,9 @@
+---
+title: R para Cientistas Sociais
+---
+
+
+
 #R #statistics #science #course
 
 

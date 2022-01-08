@@ -1,3 +1,9 @@
+---
+title: Firefighting - The Financial Crisis and it's Lessons
+---
+
+
+
 #books
 
 > **Recomendação Rio Bravo**

@@ -1,6 +1,8 @@
 ---
- #wrting
+title: Writing
 ---
+
+ #writing
 
 > **[The Paradox of Writing](https://perell.com/note/the-paradoxes-of-modern-life/):** Great writing looks  effortless. But because the ideas are so clear, casual readers don’t  appreciate how much time it took to refine them.
 

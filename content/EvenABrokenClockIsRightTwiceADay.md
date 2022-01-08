@@ -1,6 +1,8 @@
 ---
-#predictions
+title: Even a broken clock is right twice a day
 ---
+
+#predictions
 
 > Because, [as I have stated before](https://ofdollarsanddata.com/failed-predictions/), failed predictions don’t matter. They don’t seem to have any impact on  someone’s brand. If failed predictions mattered then people like Scott  Galloway, John Hussman, and Robert Kiyosaki wouldn’t have their  audiences. But they do. They do *despite* being wrong so many times. How can this be true?
 >

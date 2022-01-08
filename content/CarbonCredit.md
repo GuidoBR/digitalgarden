@@ -1,3 +1,9 @@
+---
+title: Crédito de Carbono
+---
+
+
+
 #global_warming #climate_change #carbon_credit
 
 - Vídeo: [Gabriela Prioli - PRECISAMOS FALAR SOBRE MERCADO DE CARBONO!](https://www.youtube.com/watch?v=7wgpYcPzgCw) - 

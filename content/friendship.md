@@ -1,7 +1,5 @@
 ---
-title: "Friendship"
-date: 2021-09-19T20:18:50-03:00
-draft: true
+title: Friendship
 ---
 
 ### [How To Make Friends Easily And Strengthen The Friendships You Have](https://www.bakadesuyo.com/2013/11/how-to-make-friends-easily/)

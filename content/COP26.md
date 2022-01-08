@@ -1,6 +1,10 @@
 ---
-#climate_change #co2 #green
+title: COP26
 ---
+
+
+
+#climate_change #co2 #green
 
 # [É hora de cumprir os compromissos assumidos pelo país na COP26](https://outline.com/6Ebp4k)
 

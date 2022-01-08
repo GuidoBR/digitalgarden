@@ -1,7 +1,5 @@
 ---
 title: "Superforecasting"
-date: 2021-09-20T10:08:19-03:00
-draft: true
 ---
 
 #books #statistics #think #behavioral_economics

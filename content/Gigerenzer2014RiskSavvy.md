@@ -1,7 +1,5 @@
 ---
-title: "Gigerenzer2014RiskSavvy"
-date: 2021-09-20T12:32:18-03:00
-draft: true
+title: Risk Savvy
 ---
 
 https://www.youtube.com/watch?v=-Lg7G8TMe_A

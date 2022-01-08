@@ -1,4 +1,8 @@
- #vaccines #biology #medicine #covid19 #bioinformatics
+---
+title: Vaccines
+---
+
+#vaccines #biology #medicine #covid19 #bioinformatics
 
 - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 - [Bioinformatics Algorithms - an introduction](https://www.guidopercu.dev/blog/bioinformatics-algorithms-an-introduction/)

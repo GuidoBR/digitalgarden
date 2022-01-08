@@ -1,7 +1,5 @@
 ---
-title: "Feed"
-date: 2021-09-21T11:16:57-03:00
-draft: true
+title: Feed
 ---
 
  #web #feed #blog #social_media

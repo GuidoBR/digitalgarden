@@ -1,3 +1,7 @@
+---
+title: Reminiscences of a Stock Operator
+---
+
 #books
 
 > A stock operator has to fight a lot of expensive enemies within himself.

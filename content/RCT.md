@@ -1,7 +1,5 @@
 ---
-title: "RCT"
-date: 2021-09-20T11:58:19-03:00
-draft: true
+title: RCT
 ---
 
 #statistics

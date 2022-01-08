@@ -1,4 +1,8 @@
- #books
+---
+title: Black Hole Blues
+---
+
+#books
 
 [J. Robert Oppenheimer](https://en.wikipedia.org/wiki/J._Robert_Oppenheimer), American physicist and director of the [Manhattan Project](https://en.wikipedia.org/wiki/Manhattan_Project), learned Sanskrit in 1933 and read the *Bhagavad Gita* in the original form, citing it later as one of the most influential  books to shape his philosophy of life. Oppenheimer later recalled that,  while witnessing the explosion of the [Trinity nuclear test](https://en.wikipedia.org/wiki/Trinity_nuclear_test), he thought of verses from the *Bhagavad Gita* (XI,12):
 

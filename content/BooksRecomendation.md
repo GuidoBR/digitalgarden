@@ -1,4 +1,8 @@
- #books
+---
+title: Books Recomendations
+---
+
+#books
 
 Books recommended by [@rationalexpec](https://twitter.com/rationalexpec/status/1050869650001674240)
 

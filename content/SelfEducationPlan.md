@@ -1,4 +1,10 @@
- #education
+---
+title: Self Education Plan
+---
+
+
+
+#education
 
 ## Summary
 

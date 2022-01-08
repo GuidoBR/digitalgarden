@@ -1,7 +1,5 @@
 ---
-title: "Sinek2019TheInfiniteGame"
-date: 2021-09-20T12:34:04-03:00
-draft: true
+title: The Infinite Game
 ---
 
 - https://simonsinek.com/the-infinite-game?ref=home

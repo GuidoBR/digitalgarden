@@ -1,4 +1,10 @@
- #note #seed #Zettelkasten #writing
+---
+title: Fragments of Ideas
+---
+
+
+
+#note #seed #Zettelkasten #writing
 
 # [Preparing Fragments Helps You to Ease Into Writing](https://zettelkasten.de/posts/ease-into-writing/)
 

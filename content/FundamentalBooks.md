@@ -1,3 +1,9 @@
+---
+title: Summarize the Canon
+---
+
+
+
 #books
 
 # [Summarize the Canon](https://perell.com/note/summarize-the-canon/)

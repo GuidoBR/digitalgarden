@@ -1,7 +1,5 @@
 ---
-title: "NoCode"
-date: 2021-12-03T17:52:45-03:00
-draft: true
+title: No Code
 ---
 
 From [Twitter](https://twitter.com/thisiskp_/status/1407736662549880834)

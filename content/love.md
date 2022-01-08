@@ -1,7 +1,5 @@
 ---
-title: "Love"
-date: 2021-09-19T20:18:47-03:00
-draft: true
+title: Love
 ---
 
 ## [Bonding Questions](https://www.bakadesuyo.com/2011/08/is-there-a-shortcut-to-bonding-with-a-romanti/)

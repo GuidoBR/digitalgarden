@@ -1,4 +1,10 @@
- #books #vaccines #biology #bioinformatics #covid19
+---
+title: How to Make a Vaccine - An Essential Guide for COVID-19 and Beyond
+---
+
+
+
+#books #vaccines #biology #bioinformatics #covid19
 
 ## How to Make a Vaccine: An Essential Guide for COVID-19 and Beyond
 

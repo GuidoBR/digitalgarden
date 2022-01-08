@@ -1,4 +1,10 @@
- #education #books
+---
+title: A Mind for Numbers
+---
+
+
+
+#education #books
 
 # Highlights from the book "A Mind for Numbers"
 

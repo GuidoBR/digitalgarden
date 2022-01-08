@@ -1,6 +1,10 @@
 ---
- #nft #blockchain #ethereum #bitcoin
+title: NFT
 ---
+
+
+
+#nft #blockchain #ethereum #bitcoin
 
 The first two get decently technical. The last is a good overall primer.
 

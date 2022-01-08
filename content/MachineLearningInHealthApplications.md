@@ -1,3 +1,9 @@
+---
+title: Machine Learning - Aplicações na Saúde
+---
+
+
+
 #statistics #data_science #machine_learning
 
 ![2021 - 1](../static/images/machinelearninginhealth-1.jpg)

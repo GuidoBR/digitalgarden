@@ -1,4 +1,10 @@
- #statistics
+---
+title: Statistics
+---
+
+
+
+#statistics
 
 ![XKCD - Confounding Variables](https://imgs.xkcd.com/comics/confounding_variables_2x.png)
 

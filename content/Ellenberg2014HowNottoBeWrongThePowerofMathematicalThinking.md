@@ -1,3 +1,7 @@
+---
+title: How Not to Be Wrong - The Power of Mathematical Thinking
+---
+
 #books
 
 # How Not to Be Wrong: The Power of Mathematical Thinking - by Jordan Ellenberg

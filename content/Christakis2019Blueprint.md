@@ -1,4 +1,8 @@
- #books
+---
+title: Blueprint - The Evolutionary Origins of a Good Society
+---
+
+#books
 
 # Blueprint: The Evolutionary Origins of a Good Society
 
