@@ -2,8 +2,6 @@
 title: O Gene - Uma história íntima
 ---
 
-
-
 #books #biology #dna #gene
 
 # O Gene - Uma história íntima
@@ -65,4 +63,20 @@ title: O Gene - Uma história íntima
 
 #### 1 - O Jardim Murado
 
- #mendel
+ #mendel #platão #pitágoras #ésquilo #aristóteles
+
+Este capítulo apresenta as teorias clássicas sobre hereditariedade, comparando os pensamentos de Pitágoras (que influenciaram Platão em "República") com os de Aristóteles. Para Pitágoras, as informações da hereditariedade provinham do esperma, enquanto que a mãe contribuia apenas para a nutrição do feto, portanto a hereditariedade se daria apenas através do homem. Aristóteles percebe as contradições lógicas dessa ideia (como a impossibilidade de o esperma masculino ter informações sobre como fazer a genitália feminina) e propõe a ideia de que tanto o homem quanto a mulher contribuiam mútuamente para a hereditariedade: o homem passaria informações sobre como construir o bebê, e a mulher proveria o material de onde esse bebê seria constrúido.
+
+Além dessas duas principais teorias, foi aventada a ideia de que bebês em miniatura já existivessem formados no semem humano, e eles só crescessem durante o período de gestação. Essa teoria dos "homúnculos" tinha um forte apoio teológico pois levava a pensar que toda a humanidade já estivesse presente quando Adão caiu no pecado original, e portanto todos somos pecadores pois estávamos *literalemente* lá. Essa ideia de homúnculos foi sugerida pelo alquimista suiço Paracelso (essas ideias também influenciaram a cultura popular, com o mangá e animê FullMetal Alchemist) e foi reforçada com o surgimento dos primeiros microscópios, onde as pessoas viam "provas" que existiam pequenos bebês no semem onde hoje entendemos como espermatozóides.
+
+> Em 458 a.C., algumas décadas depois da morte de Pitágoras, o dramaturgo Ésquilo serviu-se dessa lógica singular para apresentar uma das mais extraordinárias defesas legais do maticídio já encontradas na história. O tema central de sua tragédia *Eumênides* é o julgamento de Orestes, príncipe de Argos, pelo assassinato de sua mãe, Clitemnestra. Na maioria das culturas, o matrícidio era visto como o supremo ato de perversão moral. Em *Eumênides*, Apolo, escolhido para representar Orestes no julgamento daquele assassinato, cria um argumento original e surpeendente: a mãe de Orestes não passava de uma estranha para o filho. Uma mulher grávida é apenas uma incubadora humana supervalorizada, explica Apolo, uma bolsa intravenosa que goteja nutrientes para a criança através do cordão umbilical. O verdadeiro gerador de todos os seres humanos é o pai, cujo o esperma transmite a "semelhança".
+
+> Se decifrassem a lei dos nascimentos, os guardiões da sua república, sua elite dirigente, assegurariam que apenas a tais uniões "afortunadas" harmoniosas viessem a ocorrer no futuro. Uma utopia política se desenvolveria em decorência de uma utopia genética.
+
+Lembra "*Admirável Mundo Novo*" e "*O Conto de Aia*"
+
+#### 2 - O Mistério dos Mistérios
+
+#darwin
+
+#### 3 - A "lacuna bem grande"
