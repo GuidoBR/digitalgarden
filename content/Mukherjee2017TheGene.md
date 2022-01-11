@@ -80,3 +80,16 @@ Lembra "*Admirável Mundo Novo*" e "*O Conto de Aia*"
 #darwin
 
 #### 3 - A "lacuna bem grande"
+
+#### 4 - "Flores que ele amava"
+
+#### 5 - "Um certo Mendel"
+
+#### 6 - Eugenia
+
+#### 7 - "Três gerações de imbecis é o suficiente"
+
+### Parte 2 - "Na soma das partes só existem as partes"
+
+#### 8 - "Abhed"
+
