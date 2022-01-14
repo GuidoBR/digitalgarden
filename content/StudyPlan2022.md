@@ -28,6 +28,7 @@ JANUARY & FEBRUARY - Notes: [[Bioinformatics]]
 |  [Micro Binfie Podcast](https://soundcloud.com/microbinfie)  | Podcast    |      |
 | [The Bioinformatics and Beyond Podcast](https://podcasts.apple.com/us/podcast/the-bioinformatics-and-beyond-podcast/id1533700049) | Podcast    |      |
 |    [Rosalind](https://rosalind.info/problems/locations/)     | Algorithms |      |
+|    [BioinfoRmática](https://podcast.pizzadedados.com/e/episodio-023/)     | Podcast |      |
 
 ### Objectives
 
