@@ -87,3 +87,7 @@ Appolo's Arrow
 - [Nicholas A. Christakis on COVID-19](https://twitter.com/NAChristakis/status/1239204599959093250)
 - [[SueAnnCostaClemens2021HistoriaDeUmaVacina]]
 - [Nextstrain: Genomic epidemiology of novel coronavirus - South America-focused subsampling](https://nextstrain.org/ncov/gisaid/south-america?f_region=South%20America)
+- [Denialism: what is it and how should scientists respond?](https://academic.oup.com/eurpub/article/19/1/2/463780)
+- [[Kinch2018BetweenHopeAndFear]]
+- Audiência Pública sobre vacinação de crianças (COVID-19): [dr Renato Kfouri (Pediatra, SBP, SBIm, AMB) 3:16:55 - 3:36:26](https://youtu.be/4s7LaR3v6XQ?t=11787)
+  
