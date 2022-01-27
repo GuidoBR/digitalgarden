@@ -32,8 +32,8 @@ JANUARY & FEBRUARY - Notes: [[Bioinformatics]]
 
 ### Objectives
 
-- [ ] Text: What it is Bioinformatics?
-- [ ] Text: Bioinformatics and COVID-19 research
+- [ ] Text: COVID-19: A Personal View
+- [ ] Text: Bioinformatics and COVID-19 Vaccines
 - [ ] Text: Bioinformatics and Rosalind
 
 ## AWS
@@ -55,3 +55,17 @@ MARCH, APRIL & MAY
 ### Objectives
 
 - [ ] Certification: AWS
+
+## Algorithms and System Design
+
+JUNE & JULY
+
+|                             NAME                             | Type   |      |
+| :----------------------------------------------------------: | ------ | ---- |
+| [Career Development Study Guide](https://www.guidopercu.dev/posts/career-development-study-guide/) | Course |      |
+
+### Objectives
+
+- [ ] Review: Accelerate
+- [ ] Review: Grokking Algorithms
+
