@@ -6,6 +6,7 @@ title: Writing
 
 > **[The Paradox of Writing](https://perell.com/note/the-paradoxes-of-modern-life/):** Great writing looks  effortless. But because the ideas are so clear, casual readers don’t  appreciate how much time it took to refine them.
 
+- [Becoming a Better Writer in Tech](https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/)
 - [Use Cornell Notes for Online Class](https://mkaz.blog/misc/use-cornell-notes-for-online-class/)
 - [Course Review: Writing in the Sciences](https://mkaz.blog/misc/course-review-writing-in-the-sciences/)
 - [Notes on Technical Writing](https://mkaz.blog/misc/notes-on-technical-writing/)
