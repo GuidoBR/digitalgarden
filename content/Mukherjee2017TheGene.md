@@ -2,7 +2,7 @@
 title: O Gene - Uma história íntima
 ---
 
-#books #biology #dna #gene
+#books #biology #dna #gene #evolution
 
 # O Gene - Uma história íntima
 
@@ -93,3 +93,62 @@ Lembra "*Admirável Mundo Novo*" e "*O Conto de Aia*"
 
 #### 8 - "Abhed"
 
+#### 9 - Verdades e conciliações
+
+#### 10 - Transformação
+
+#### 11 - Lebensunwertes Leben
+
+#### 12 - "Essa molécula estúpida"
+
+#### 13 - "Objetos biológicos importantes vêm em pares"
+
+#### 14 - "Esse maldito pimpinela fujão"
+
+#### 15 - Regulação, replicação, recombinação
+
+#### 16 - Dos genes à gênese
+
+### Parte 3 - "Os Sonhos dos Geneticistas"
+
+#### 17 - Crossing Over
+
+#### 18 - A nova música
+
+#### 19 - Einsteins na praia
+
+#### 20 - "Clonar ou morrer"
+
+### Parte 4 - "O estudo apropriado á humanidade é o Homem"
+
+#### 21 - Os tormentos de meu pai
+
+#### 22 - Os nascimentos de uma clínica
+
+#### 23 - Intervir, intervir, intervir
+
+#### 24 - Uma aldeia de dançarinos, um atlas de pintas
+
+#### 25 - "Obter o genoma"
+
+#### 26 - Os geógrafos
+
+#### 27 - O Livro do Homem (em 23 volumes)
+
+### Parte 5 - No Espelho
+
+#### 28 - "Então, a gente é igual"
+
+#### 29 - A primeira derivada da identidade
+
+#### 30 - A última milha
+
+#### 31 - O inverno da fome
+
+### Parte 6 - Pós genoma
+
+#### 32 - O futuro do futuro
+
+#### 33 - Diagnóstico genético: "previventes"
+
+#### 34 - Terapias gênicas: pós-humano
