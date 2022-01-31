@@ -139,6 +139,8 @@ Lembra "*Admirável Mundo Novo*" e "*O Conto de Aia*"
 
 #### 28 - "Então, a gente é igual"
 
+Como estudar a evolução e a origem humana com base na genética (mesmo assunto que "The History of Everyone who Ever Lived").
+
 #### 29 - A primeira derivada da identidade
 
 #### 30 - A última milha
