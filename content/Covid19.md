@@ -90,4 +90,6 @@ Appolo's Arrow
 - [Denialism: what is it and how should scientists respond?](https://academic.oup.com/eurpub/article/19/1/2/463780)
 - [[Kinch2018BetweenHopeAndFear]]
 - Audiência Pública sobre vacinação de crianças (COVID-19): [dr Renato Kfouri (Pediatra, SBP, SBIm, AMB) 3:16:55 - 3:36:26](https://youtu.be/4s7LaR3v6XQ?t=11787)
-  
+- [A Bailarina da Morte: A gripe espanhola no Brasil](https://www.amazon.com.br/bailarina-morte-gripe-espanhola-Brasil/dp/8535933913/)
+- [E o ex e futuro presidente do Brasil morreu de gripe ... a Gripe Espanhola de 1918](https://brasilianafotografica.bn.gov.br/?p=18866)
+- [Quirina e Cloroquina: histórias e trajetórias](https://revistacult.uol.com.br/home/quinina-cloroquina-historias-trajetorias/)
