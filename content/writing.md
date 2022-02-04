@@ -48,6 +48,26 @@ title: Writing
 
 
 
+Dickie Bush [writing process](https://twitter.com/dickiebush/status/1489236776547979272):
+
+> My writing process:
+>
+> I start with 3 questions at the top:
+>
+> • What problem am I solving?
+> • What are the benefits of solving it?
+> • What emotion am I generating?
+>
+> From these questions, I create:
+> • At least 5 headlines
+> • The bullet point summary
+>
+> Then I fill in the details.
+
+
+
+
+
 Dickie Bush on [writing for business](https://twitter.com/dickiebush/status/1402061441583259649)
 
 > Open with short paragraphs and short sentences. 
