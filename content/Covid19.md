@@ -64,32 +64,65 @@ Appolo's Arrow
 #### Further Readings
 
 - [Vaccinated: Triumph, Controversy, and An Uncertain F (One Man's Quest to Defeat the World's Deadliest Diseases) ](https://www.amazon.com.br/Vaccinated-Triumph-Controversy-Uncertain-English-ebook/dp/B000ROKXVA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1631049217&sr=1-3)- by Paul A. Offit
+
 - [Between Hope and Fear: A History of Vaccines and Human Immunity](https://www.amazon.com.br/Between-Hope-Fear-Vaccines-Immunity-ebook/dp/B077J7N2M4/) - by Michael Kinch
+
 - [História das Pandemias](https://www.amazon.com.br/História-Epidemias-Stefan-Cunha-Ujvari/dp/6555410086/) | [A História da Humanidade contada pelos vírus](https://www.amazon.com.br/História-Humanidade-Contada-Pelo-Vírus/dp/8572444130/) | [Pandemias: A humanidade em risco](https://www.amazon.com.br/Pandemias-Humanidade-Risco-Stefan-Ujvari/dp/857244632X/) by Stefan Cunha Ujvari
+
 - Podcast: [Resposta Imune](https://www1.folha.uol.com.br/podcasts/resposta-imune/)
+
 - [An Elegant Defense: The Extraordinary New Science of the Immune System: A Tale in Four Lives](https://www.amazon.com.br/Elegant-Defense-Extraordinary-Science-English-ebook/dp/B07C66KJC1/) by Matt Richtel
+
 - [On Immunity](https://www.amazon.com.br/Immunity-Inoculation-English-Eula-Biss-ebook/dp/B00KUY4D7W) by Eula Biss
+
 - Deadliest Enemy: Our War Against Killer Germs
+
 - [The Great Influenza](https://www.amazon.com.br/Great-Influenza-Deadliest-Plague-History/dp/0143036491/)
+
 - Programa Nacional de Imunizações - 30 anos
+
 - [(Pseudo) Science and the Public Sphere: Scientific Claims about Covid-19 on Twitter - FGV](https://democraciadigital.dapp.fgv.br/en/studies/pseudoscience-and-the-public-sphere/)
+
 - Fake News e Saúde - Fiocruz
+
 - The Anti-Vaxx Playbook - CCDH
+
 - The COVID-19 Vaccine Communication Handbook ([pt-BR](https://hackmd.io/@scibehC19vax/lang-pt))
+
 - The Debunking Handbook
+
 - [[CasoPreventSenior]]
+
 - [[Covid19_False_Cures]]
+
 - [Células B em vacinas de RNA](https://twitter.com/mellziland/status/1430195679557734401)
+
 - [Como é respostas imune a um vírus?](https://twitter.com/LaroccaRA/status/1428453296356855817)
+
 - [Como o GADO vale mais que você no Brasil](https://www.youtube.com/watch?v=lyMPfJaX1fs)
+
 - [Evolução e mutações em vírus](https://twitter.com/AndersonBrito_/status/1430627398165336067)
+
 - [Ivermectin obssession on USA. Where does it come from?](https://twitter.com/oneunderscore__/status/1431040456364810242)
+
 - [Nicholas A. Christakis on COVID-19](https://twitter.com/NAChristakis/status/1239204599959093250)
+
 - [[SueAnnCostaClemens2021HistoriaDeUmaVacina]]
+
 - [Nextstrain: Genomic epidemiology of novel coronavirus - South America-focused subsampling](https://nextstrain.org/ncov/gisaid/south-america?f_region=South%20America)
+
 - [Denialism: what is it and how should scientists respond?](https://academic.oup.com/eurpub/article/19/1/2/463780)
+
 - [[Kinch2018BetweenHopeAndFear]]
+
 - Audiência Pública sobre vacinação de crianças (COVID-19): [dr Renato Kfouri (Pediatra, SBP, SBIm, AMB) 3:16:55 - 3:36:26](https://youtu.be/4s7LaR3v6XQ?t=11787)
+
 - [A Bailarina da Morte: A gripe espanhola no Brasil](https://www.amazon.com.br/bailarina-morte-gripe-espanhola-Brasil/dp/8535933913/)
+
 - [E o ex e futuro presidente do Brasil morreu de gripe ... a Gripe Espanhola de 1918](https://brasilianafotografica.bn.gov.br/?p=18866)
+
 - [Quirina e Cloroquina: histórias e trajetórias](https://revistacult.uol.com.br/home/quinina-cloroquina-historias-trajetorias/)
+
+- [Pandemia, história e ciência – Heloisa Starling, Lilia Schwarcz e Sidarta Ribeiro](https://www.youtube.com/watch?v=tBWyWK3AQ9A)
+
+  
