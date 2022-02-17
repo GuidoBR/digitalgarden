@@ -4,6 +4,8 @@ title: "HomeroIliada"
 
 #books
 
+"3.000 anos das pessoas mais interessantes e inteligentes da humanidade falando sobre Ilíada."
+
 [Ilíada, vv. 1-7 (música: C. Leonardo B. Antunes; tradução: Carlos Alberto Nunes)](https://youtu.be/1KDZtkSVSvc)
 
 [Clube de leitura Ilíada](https://drive.google.com/drive/folders/17EIkqFv4sFasbxQeYxz2Pu18sljUVpGk?usp=sharing)
@@ -14,6 +16,22 @@ title: "HomeroIliada"
 4. Epiorkía: o perjúrio
 5. A gesta de diomedes
 6. Heitor e andrômaca: o adeus
+
+
+
+Ésquilo - lutou na batalha da Maratona, antes de escrever suas grandes obras literárias e teatrais.
+
+### Tersites
+
+- [Dos homens públicos](https://blogs.oglobo.globo.com/blog-do-moreno/post/dos-homens-publicos-170813.html)
+- [Tersites, um criador de caso da Ilíada a Shakespeare](https://alexcastro.com.br/tersites-iliada-shakespeare/)
+- [A morte de Tersites](https://rafaelbrunhara.medium.com/a-morte-de-tersites-e390e9346917)
+- [Shakespeare - Tróilo e Créssida](https://shakespearebrasileiro.org/introducao-a-peca-troilo-e-cressida/)
+-  [Térsites e a imprudência das palavras](http://eventosmitologiagrega.blogspot.com/2011/06/tersites-e-imprudencia-das-palavras.html) 
+- [O Bullying na Ilíada (Homero)](https://cursandohistoria.wordpress.com/2012/08/03/o-bullying-na-iliada/)
+- "Tersites (o velho do restelho) em Lusíadas, falando com Vasco da Gama que as grandes navegações estavam esvaziando Portugal e empobrecendo à população. Velho do Restelho no Cabo Carnaveral falando contra o Homem na Lua (por Saramago)."
+
+### Catálago dos navios![image-20220215192826081](/home/guido/.config/Typora/typora-user-images/image-20220215192826081.png)
 
 Peça Ifigênia - Eurípides
 Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir pra Tróia
