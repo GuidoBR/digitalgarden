@@ -28,3 +28,7 @@ title: "EducaçãoFinanceiraParaDesenvolvedores"
 --- Nassin Taleb
 --- Aulas Finance for Engineers 101
 - Pensar em [ghostwriter](https://ateiadehistorias.com.br/portfolio/ghostwriting/)!?
+
+#### Referências
+
+- [[EducaçãoFinanceiraParaAutonomos]]
