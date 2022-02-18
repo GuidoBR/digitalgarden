@@ -20,6 +20,8 @@ Explicar as diferenças entre PF e PJ (legalmente, tributariamente). Explicar qu
 
 Falar especificamente das regras e de como o Brasil enxerga as empresas e demais pessoas jurídicas. Falar das vantagens de se formalizar a empresa x trabalhar como autonomo.
 
+##### CNAE
+
 ##### Porte da empresa
 
 ###### Micro empreendedor individual (MEI)
@@ -58,13 +60,24 @@ Ativos, passivos, patrimônio líquido, caixa x competência.
 
 Como formar o preço? Produtos x Serviços. Valor percebido. Guerra de preços. Modelagem financeira para saber o mínimo que se deve cobrar.
 
+### Crédito
+
+Falar de crédito para fluxo de caixa, para investimentos, para folha de pagamento (!!). Como fugir de ciladas. Vantagens e desvantagens de comprar bens (como carro) com CNPJ (!?).
+
+#### Linhas de crédito
+
+##### Bancos
+
+##### BNDES
+
 ### Na prática
 
-Fluxo de trabalho em uma empresa. Como emitir nota fiscal, como registrar a contabilidade empresarial. Pagamento de impostos. Distribuição de dividendos. Nota fiscal para clientes no exterior..
+Fluxo de trabalho em uma empresa. Como emitir nota fiscal, como registrar a contabilidade empresarial. Pagamento de impostos. Distribuição de dividendos. Nota fiscal para clientes no exterior. Como separar contas da empresa e da pessoa física (pro-labore, dividendos, pagamentos). Como interagir com seu contador, contabilidade online.
 
 ## Referências
 
 - [[EducaçãoFinanceiraParaDesenvolvedores]]
+- Sapiens, Yuval Harari
 - Finanças para Autônomos - Eduardo Amuri
 - Curso EuEmpresa - Henrique Bastos
 - Gestão financeira para micro e pequenas empresas
