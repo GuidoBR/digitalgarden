@@ -62,13 +62,17 @@ Como formar o preço? Produtos x Serviços. Valor percebido. Guerra de preços. 
 
 ### Crédito
 
-Falar de crédito para fluxo de caixa, para investimentos, para folha de pagamento (!!). Como fugir de ciladas. Vantagens e desvantagens de comprar bens (como carro) com CNPJ (!?).
+Falar de crédito para fluxo de caixa, para investimentos, para folha de pagamento (!!). Como fugir de ciladas. Vantagens e desvantagens de comprar bens (como carro) com CNPJ (!?). Quando vale a pena contratar empréstimo para aumentar a capacidade de produção? Como calcular o custo do empréstimo?
 
 #### Linhas de crédito
 
 ##### Bancos
 
 ##### BNDES
+
+### Trabalhando com o Governo
+
+Formento á cultura; editais;
 
 ### Na prática
 
