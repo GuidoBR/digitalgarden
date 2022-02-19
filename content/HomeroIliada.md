@@ -4,6 +4,20 @@ title: "HomeroIliada"
 
 #books
 
+> Canta, ó deusa, a cólera de Aquiles, o Pelida
+>  (mortífera!, que tantas dores trouxe aos Aqueus
+>  e tantas almas valentes de heróis lançou no Hades,
+>  ficando seus corpos como presa para cães e aves
+>  de rapina, enquanto se cumpria a vontade de Zeus),
+>  desde o momento em que primeiro se desentenderam
+>  o Atrida, soberano dos homens, e o divino Aquiles.
+>
+> 
+>
+> trad. Frederico Lourenço [2005] - [O proemio da Ilíada](http://formasfixas.blogspot.com/2020/03/o-proemio-da-iliada.html)
+
+
+
 ![](/home/guido/Projects/digitalgarden/static/images/iliada-characters.jpg)
 
 ![](/home/guido/Projects/digitalgarden/static/images/Iliada-hector-paris-benjamin-west.jpg)
