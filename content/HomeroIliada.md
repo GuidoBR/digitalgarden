@@ -1,5 +1,5 @@
 ---
-title: "HomeroIliada"
+title: "Iliad"
 ---
 
 #books
@@ -12,12 +12,12 @@ Canta, ó deusa, a cólera de Aquiles, o Pelida
 <br>de rapina, enquanto se cumpria a vontade de Zeus),
 <br>desde o momento em que primeiro se desentenderam
 <br>o Atrida, soberano dos homens, e o divino Aquiles.
+
+<p>trad. Frederico Lourenço [2005] - <a href="http://formasfixas.blogspot.com/2020/03/o-proemio-da-iliada.html">O proemio da Ilíada</a></p>
 </blockquote>
 
  
-trad. Frederico Lourenço [2005] - [O proemio da Ilíada](http://formasfixas.blogspot.com/2020/03/o-proemio-da-iliada.html)
-
-[Ilíada, vv. 1-7 (música: C. Leonardo B. Antunes; tradução: Carlos Alberto Nunes)](https://youtu.be/1KDZtkSVSvc)
+- [Ilíada, vv. 1-7 (música: C. Leonardo B. Antunes; tradução: Carlos Alberto Nunes)](https://youtu.be/1KDZtkSVSvc)
 
 <img src="/images/iliada-characters.jpg" alt="Main (male) characters of Iliad" style="zoom:50%;" />
 
