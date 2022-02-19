@@ -16,17 +16,15 @@ title: "HomeroIliada"
 >
 > trad. Frederico Lourenço [2005] - [O proemio da Ilíada](http://formasfixas.blogspot.com/2020/03/o-proemio-da-iliada.html)
 
+<img src="/images/iliada-characters.jpg" alt="Main (male) characters of Iliad" style="zoom:35%;" />
+
+<img src="/images/Iliada-hector-paris-benjamin-west.jpg" alt="Iliad - Hector and Paris, by Benjamin West" style="zoom:35%;" />
+
+<img src="/images/iliada-paris-and-helene.jpg" alt="Iliad - Paris and Helene" style="zoom:35%;" />
+
+<img src="/images/Iliada-Achilles-Lamenting-the-Death-of-Patroclus.jpg" alt="Iliad - Achiles lamenting the Death of Patroclus" style="zoom:35%;" />
 
 
-![](/home/guido/Projects/digitalgarden/static/images/iliada-characters.jpg)
-
-![](/home/guido/Projects/digitalgarden/static/images/Iliada-hector-paris-benjamin-west.jpg)
-
-![](/home/guido/Projects/digitalgarden/static/images/iliada-paris-and-helene.jpg)
-
-
-
-![](/home/guido/Projects/digitalgarden/static/images/Iliada-Achilles-Lamenting-the-Death-of-Patroclus.jpg)
 
 "3.000 anos das pessoas mais interessantes e inteligentes da humanidade falando sobre Ilíada."
 
@@ -51,7 +49,7 @@ title: "HomeroIliada"
 - [Tersites, um criador de caso da Ilíada a Shakespeare](https://alexcastro.com.br/tersites-iliada-shakespeare/)
 - [A morte de Tersites](https://rafaelbrunhara.medium.com/a-morte-de-tersites-e390e9346917)
 - [Shakespeare - Tróilo e Créssida](https://shakespearebrasileiro.org/introducao-a-peca-troilo-e-cressida/)
--  [Térsites e a imprudência das palavras](http://eventosmitologiagrega.blogspot.com/2011/06/tersites-e-imprudencia-das-palavras.html) 
+- [Térsites e a imprudência das palavras](http://eventosmitologiagrega.blogspot.com/2011/06/tersites-e-imprudencia-das-palavras.html) 
 - [O Bullying na Ilíada (Homero)](https://cursandohistoria.wordpress.com/2012/08/03/o-bullying-na-iliada/)
 - "Tersites (o velho do restelho) em Lusíadas, falando com Vasco da Gama que as grandes navegações estavam esvaziando Portugal e empobrecendo à população. Velho do Restelho no Cabo Carnaveral falando contra o Homem na Lua (por Saramago)."
 
@@ -84,13 +82,12 @@ Sal provides an overview of ancient Greece from the Greek Dark Ages to Archaic G
 
 
 
-[Coursera - Greek And Roman Mythology](https://www.coursera.org/learn/mythology#syllabus)
+[Coursera - Greek And Roman Mythology](https://www.coursera.org/learn/mythology)
 
 [On Reading Homer](https://www.coursera.org/lecture/mythology/1-7-on-reading-homer-0xrPb)
 
 
-
-[Coursera - Os Gregos Antigos](https://pt.coursera.org/learn/ancient-greeks#instructors)
+[Coursera - Os Gregos Antigos](https://pt.coursera.org/learn/ancient-greeks)
 
 Curso de 7 semanas de duração.
 
