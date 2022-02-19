@@ -4,13 +4,15 @@ title: "HomeroIliada"
 
 #books
 
+<blockquote>
 Canta, ó deusa, a cólera de Aquiles, o Pelida
-  (mortífera!, que tantas dores trouxe aos Aqueus
-  e tantas almas valentes de heróis lançou no Hades,
-  ficando seus corpos como presa para cães e aves
-  de rapina, enquanto se cumpria a vontade de Zeus),
-  desde o momento em que primeiro se desentenderam
-  o Atrida, soberano dos homens, e o divino Aquiles.
+<br>(mortífera!, que tantas dores trouxe aos Aqueus
+<br>e tantas almas valentes de heróis lançou no Hades,
+<br>ficando seus corpos como presa para cães e aves
+<br>de rapina, enquanto se cumpria a vontade de Zeus),
+<br>desde o momento em que primeiro se desentenderam
+<br>o Atrida, soberano dos homens, e o divino Aquiles.
+</blockquote>
 
  
 trad. Frederico Lourenço [2005] - [O proemio da Ilíada](http://formasfixas.blogspot.com/2020/03/o-proemio-da-iliada.html)
