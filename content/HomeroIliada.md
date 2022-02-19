@@ -4,6 +4,16 @@ title: "HomeroIliada"
 
 #books
 
+![](/home/guido/Projects/digitalgarden/static/images/iliada-characters.jpg)
+
+![](/home/guido/Projects/digitalgarden/static/images/Iliada-hector-paris-benjamin-west.jpg)
+
+![](/home/guido/Projects/digitalgarden/static/images/iliada-paris-and-helene.jpg)
+
+
+
+![](/home/guido/Projects/digitalgarden/static/images/Iliada-Achilles-Lamenting-the-Death-of-Patroclus.jpg)
+
 "3.000 anos das pessoas mais interessantes e inteligentes da humanidade falando sobre Ilíada."
 
 [Ilíada, vv. 1-7 (música: C. Leonardo B. Antunes; tradução: Carlos Alberto Nunes)](https://youtu.be/1KDZtkSVSvc)
