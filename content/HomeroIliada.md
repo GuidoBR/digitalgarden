@@ -77,16 +77,16 @@ Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir
 - [O MUNDO DE HOMERO - Pierre Vidal-Naquet - Grupo Companhia das Letras](https://www.companhiadasletras.com.br/detalhe.php?codigo=11378)
 - [Homero – Barbara Graziosi](https://editoramnema.com.br/livro/homero-barbara-graziosi/)
 - [The best books on Greek Myths - recommended by Lucy Coats](https://fivebooks.com/best-books/greek-myths-lucy-coats/)
-  1. The Song of Achilles
-  2. The Greek Myths
-  3. Ithaka
-  4. Tales from Ovid
-  5. The Children's Homer
-  6. Atticus the Storyteller's 100 Greek Myths
+  - The Song of Achilles
+  - The Greek Myths
+  - Ithaka
+  -  Tales from Ovid
+  -  The Children's Homer
+  -  Atticus the Storyteller's 100 Greek Myths
 - [The best Trojan War books](https://fivebooks.com/best-books/the-trojan-war-stephen-fry/)
-  1. The Ilíad
-  2. The Odyssey
-  3. The Aeneid
-  4. Posthomerica
-  5. The Tale of Troy
-  6. Troy
+  -  The Ilíad
+  -  The Odyssey
+  -  The Aeneid
+  -  Posthomerica
+  -  The Tale of Troy
+  -  Troy
