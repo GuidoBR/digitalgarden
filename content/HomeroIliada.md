@@ -4,25 +4,24 @@ title: "HomeroIliada"
 
 #books
 
-> Canta, ó deusa, a cólera de Aquiles, o Pelida
->  (mortífera!, que tantas dores trouxe aos Aqueus
->  e tantas almas valentes de heróis lançou no Hades,
->  ficando seus corpos como presa para cães e aves
->  de rapina, enquanto se cumpria a vontade de Zeus),
->  desde o momento em que primeiro se desentenderam
->  o Atrida, soberano dos homens, e o divino Aquiles.
->
-> 
->
-> trad. Frederico Lourenço [2005] - [O proemio da Ilíada](http://formasfixas.blogspot.com/2020/03/o-proemio-da-iliada.html)
+Canta, ó deusa, a cólera de Aquiles, o Pelida
+  (mortífera!, que tantas dores trouxe aos Aqueus
+  e tantas almas valentes de heróis lançou no Hades,
+  ficando seus corpos como presa para cães e aves
+  de rapina, enquanto se cumpria a vontade de Zeus),
+  desde o momento em que primeiro se desentenderam
+  o Atrida, soberano dos homens, e o divino Aquiles.
 
-<img src="/images/iliada-characters.jpg" alt="Main (male) characters of Iliad" style="zoom:35%;" />
+ 
+trad. Frederico Lourenço [2005] - [O proemio da Ilíada](http://formasfixas.blogspot.com/2020/03/o-proemio-da-iliada.html)
 
-<img src="/images/Iliada-hector-paris-benjamin-west.jpg" alt="Iliad - Hector and Paris, by Benjamin West" style="zoom:35%;" />
+<img src="/images/iliada-characters.jpg" alt="Main (male) characters of Iliad" style="zoom:50%;" />
 
-<img src="/images/iliada-paris-and-helene.jpg" alt="Iliad - Paris and Helene" style="zoom:35%;" />
+<img src="/images/Iliada-hector-paris-benjamin-west.jpg" alt="Iliad - Hector and Paris, by Benjamin West" style="zoom:50%;" />
 
-<img src="/images/Iliada-Achilles-Lamenting-the-Death-of-Patroclus.jpg" alt="Iliad - Achiles lamenting the Death of Patroclus" style="zoom:35%;" />
+<img src="/images/iliada-paris-and-helene.jpg" alt="Iliad - Paris and Helene" style="zoom:50%;" />
+
+<img src="/images/Iliada-Achilles-Lamenting-the-Death-of-Patroclus.jpg" alt="Iliad - Achiles lamenting the Death of Patroclus" style="zoom:50%;" />
 
 
 
@@ -53,7 +52,8 @@ title: "HomeroIliada"
 - [O Bullying na Ilíada (Homero)](https://cursandohistoria.wordpress.com/2012/08/03/o-bullying-na-iliada/)
 - "Tersites (o velho do restelho) em Lusíadas, falando com Vasco da Gama que as grandes navegações estavam esvaziando Portugal e empobrecendo à população. Velho do Restelho no Cabo Carnaveral falando contra o Homem na Lua (por Saramago)."
 
-### Catálago dos navios![image-20220215192826081](/home/guido/.config/Typora/typora-user-images/image-20220215192826081.png)
+### Catálago dos navios
+
 
 Peça Ifigênia - Eurípides
 Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir pra Tróia
