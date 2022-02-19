@@ -26,10 +26,18 @@ trad. Frederico Lourenço [2005] - [O proemio da Ilíada](http://formasfixas.blo
 <img src="/images/Iliada-Achilles-Lamenting-the-Death-of-Patroclus.jpg" alt="Iliad - Achiles lamenting the Death of Patroclus" style="zoom:50%;" />
 
 
-"3.000 anos das pessoas mais interessantes e inteligentes da humanidade falando sobre Ilíada."
+> "3.000 anos das pessoas mais interessantes e inteligentes da humanidade falando sobre Ilíada." - Alex Castro
 
 
-[Clube de leitura Ilíada](https://drive.google.com/drive/folders/17EIkqFv4sFasbxQeYxz2Pu18sljUVpGk?usp=sharing)
+Ésquilo - lutou na batalha da Maratona, antes de escrever suas grandes obras literárias e teatrais.
+
+Peça Ifigênia - Eurípides
+Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir pra Tróia
+
+"As Troianas"
+
+
+## Os 24 Cantos
 
 1. A ira de Aquiles
 2. Os nomes e os navios
@@ -39,7 +47,9 @@ trad. Frederico Lourenço [2005] - [O proemio da Ilíada](http://formasfixas.blo
 6. Heitor e andrômaca: o adeus
 
 
-Ésquilo - lutou na batalha da Maratona, antes de escrever suas grandes obras literárias e teatrais.
+### A Ilha de Lesbos
+
+[Safo, a poeta da ilha de Lesbos cuja visão sobre amor e sexo atravessou 2.600 anos](https://www.bbc.com/portuguese/geral-47955780)
 
 ### Tersites
 
@@ -59,33 +69,20 @@ trad. Frederico Lourenço [2005] - [O proemio da Ilíada](http://formasfixas.blo
 - [Coursera - Greek And Roman Mythology](https://www.coursera.org/learn/mythology)
 - [On Reading Homer](https://www.coursera.org/lecture/mythology/1-7-on-reading-homer-0xrPb)
 - [Coursera - Os Gregos Antigos](https://pt.coursera.org/learn/ancient-greeks)
-
-
-Peça Ifigênia - Eurípides
-Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir pra Tróia
-
-"As Troianas"
-
-[O MUNDO DE HOMERO - Pierre Vidal-Naquet - Grupo Companhia das Letras](https://www.companhiadasletras.com.br/detalhe.php?codigo=11378)
-
-Homero - Barbara Graziozi
-
-[Safo, a poeta da ilha de Lesbos cuja visão sobre amor e sexo atravessou 2.600 anos](https://www.bbc.com/portuguese/geral-47955780)
-
-[The best books on Greek Myths - recommended by Lucy Coats](https://fivebooks.com/best-books/greek-myths-lucy-coats/)
-
-1. The Song of Achilles
-2. The Greek Myths
-3. Ithaka
-4. Tales from Ovid
-5. The Children's Homer
-6. Atticus the Storyteller's 100 Greek Myths
-
-[The best Trojan War books](https://fivebooks.com/best-books/the-trojan-war-stephen-fry/)
-
-1. The Ilíad
-2. The Odyssey
-3. The Aeneid
-4. Posthomerica
-5. The Tale of Troy
-6. Troy
+- [Clube de leitura Ilíada](https://drive.google.com/drive/folders/17EIkqFv4sFasbxQeYxz2Pu18sljUVpGk?usp=sharing)
+- [O MUNDO DE HOMERO - Pierre Vidal-Naquet - Grupo Companhia das Letras](https://www.companhiadasletras.com.br/detalhe.php?codigo=11378)
+- [Homero – Barbara Graziosi](https://editoramnema.com.br/livro/homero-barbara-graziosi/)
+- [The best books on Greek Myths - recommended by Lucy Coats](https://fivebooks.com/best-books/greek-myths-lucy-coats/)
+  1. The Song of Achilles
+  2. The Greek Myths
+  3. Ithaka
+  4. Tales from Ovid
+  5. The Children's Homer
+  6. Atticus the Storyteller's 100 Greek Myths
+- [The best Trojan War books](https://fivebooks.com/best-books/the-trojan-war-stephen-fry/)
+  1. The Ilíad
+  2. The Odyssey
+  3. The Aeneid
+  4. Posthomerica
+  5. The Tale of Troy
+  6. Troy
