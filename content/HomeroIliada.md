@@ -63,6 +63,8 @@ Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir
 
 ### References and Courses
 
+- [Introdução à Grande Conversa - Gregos: vingança & justiça na Ilíada e na Oréstia](https://www.facebook.com/groups/grandeconversa/posts/598431650868730/)
+- [Alex Castro: Categoria: ilíada](https://alexcastro.com.br/category/grande-conversa/2a-aula-gregos/iliada/)
 - [Khan Academy - History - Classical Greece](https://www.khanacademy.org/humanities/world-history/ancient-medieval/classical-greece/v/overview-of-ancient-greece)
 - [Literatura Universal - Ilíada (Homero) - André Malta - Pgm 01](https://www.youtube.com/watch?v=mRtUgA3_Mmo&t=0s) - Entrevista com especialista em estudos clássicos gregos sobre a Ilíada.
 - [Ilíada (Homero) | Tatiana Feltrin](https://www.youtube.com/watch?v=s0ERA01legg) - Resenha de 26 min explicando o que é a Ilíada e como é a história.
