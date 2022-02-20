@@ -4,6 +4,11 @@ title: "Iliad"
 
 #books
 
+
+## O Proêmio
+
+*μῆνις* - *Mênis* - **Furia, ira, cólera**
+
 <blockquote>
 Canta, ó deusa, a cólera de Aquiles, o Pelida
 <br>(mortífera!, que tantas dores trouxe aos Aqueus
@@ -13,8 +18,24 @@ Canta, ó deusa, a cólera de Aquiles, o Pelida
 <br>desde o momento em que primeiro se desentenderam
 <br>o Atrida, soberano dos homens, e o divino Aquiles.
 
-<p>trad. Frederico Lourenço [2005] - <a href="http://formasfixas.blogspot.com/2020/03/o-proemio-da-iliada.html">O proemio da Ilíada</a></p>
+<p>trad. Frederico Lourenço [2005] - <a href="http://formasfixas.blogspot.com/2020/03/o-proemio-da-iliada.html">O proêmio da Ilíada</a></p>
 </blockquote>
+
+<blockquote>
+Ó deusa, canta a colera tremenda
+<br>Do filho de Peleu, o bravo Achilles,
+<br>Que numerosos males fez aos dânaos
+<br>E enviou, para o Orco, antes de tempo,
+<br>Mui grande cópia de valentes almas
+<br>De heroes, seus corpos dando a cães e abutres.
+<br>De Jupiter o mando se cumpria,
+<br>Desde o momento, em que discordia veiu
+<br>Inimizar aquelle heroe divino,
+<br>Com o Atrida, dos gregos commandante.
+
+<p>trad. Machado de Assis [1904] - <a href="http://formasfixas.blogspot.com/2020/03/o-proemio-da-iliada.html">O proêmio da Ilíada</a></p>
+</blockquote>
+
 
  
 - [Ilíada, vv. 1-7 (música: C. Leonardo B. Antunes; tradução: Carlos Alberto Nunes)](https://youtu.be/1KDZtkSVSvc)
@@ -65,17 +86,12 @@ Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir
 
 ### References and Courses
 
-- [Introdução à Grande Conversa - Gregos: vingança & justiça na Ilíada e na Oréstia](https://www.facebook.com/groups/grandeconversa/posts/598431650868730/)
-- [Alex Castro: Categoria: ilíada](https://alexcastro.com.br/category/grande-conversa/2a-aula-gregos/iliada/)
-- [Khan Academy - History - Classical Greece](https://www.khanacademy.org/humanities/world-history/ancient-medieval/classical-greece/v/overview-of-ancient-greece)
-- [Literatura Universal - Ilíada (Homero) - André Malta - Pgm 01](https://www.youtube.com/watch?v=mRtUgA3_Mmo&t=0s) - Entrevista com especialista em estudos clássicos gregos sobre a Ilíada.
-- [Ilíada (Homero) | Tatiana Feltrin](https://www.youtube.com/watch?v=s0ERA01legg) - Resenha de 26 min explicando o que é a Ilíada e como é a história.
-- [Coursera - Greek And Roman Mythology](https://www.coursera.org/learn/mythology)
-- [On Reading Homer](https://www.coursera.org/lecture/mythology/1-7-on-reading-homer-0xrPb)
-- [Coursera - Os Gregos Antigos](https://pt.coursera.org/learn/ancient-greeks)
-- [Clube de leitura Ilíada](https://drive.google.com/drive/folders/17EIkqFv4sFasbxQeYxz2Pu18sljUVpGk?usp=sharing)
-- [O MUNDO DE HOMERO - Pierre Vidal-Naquet - Grupo Companhia das Letras](https://www.companhiadasletras.com.br/detalhe.php?codigo=11378)
+#### Books and texts
+
 - [Homero – Barbara Graziosi](https://editoramnema.com.br/livro/homero-barbara-graziosi/)
+- [The Anger of Achilles: Mênis in Greek Epic - Leonard Muellner](https://chs.harvard.edu/book/muellner-leonard-the-anger-of-achilles-menis-in-greek-epic-2/) - [video](https://www.youtube.com/watch?v=wZxFVCBNEao)
+- [Agamemnon, the Pathetic Despot: Reading Characterization in Homer - Andrew Porter](https://chs.harvard.edu/book/porter-andrew-agamemnon-the-pathetic-despot-reading-characterization-in-homer/)
+- [O MUNDO DE HOMERO - Pierre Vidal-Naquet - Grupo Companhia das Letras](https://www.companhiadasletras.com.br/detalhe.php?codigo=11378)
 - [The best books on Greek Myths - recommended by Lucy Coats](https://fivebooks.com/best-books/greek-myths-lucy-coats/)
   - The Song of Achilles
   - The Greek Myths
@@ -90,3 +106,24 @@ Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir
   -  Posthomerica
   -  The Tale of Troy
   -  Troy
+
+#### Podcasts
+
+- [A History of Epic w/ Gregory Nagy & Leonard Muellner](https://www.greecepodcast.com/a-history-of-epic-w-gregory-nagy-leonard_muellner/)
+
+#### Videos
+
+- [Literatura Universal - Ilíada (Homero) - André Malta - Pgm 01](https://www.youtube.com/watch?v=mRtUgA3_Mmo&t=0s) - Entrevista com especialista em estudos clássicos gregos sobre a Ilíada.
+- [The Iliad, Scroll 1 - Reading Greek Tragedy Online](https://www.youtube.com/watch?v=SXANeKduRTk)
+- [Intro to Homeric Greek: Poetry of Grammar Iliad 1-9](https://www.youtube.com/watch?v=dX6xHUfvBK4)
+- [Ilíada (Homero) | Tatiana Feltrin](https://www.youtube.com/watch?v=s0ERA01legg) - Resenha de 26 min explicando o que é a Ilíada e como é a história.
+
+#### Courses
+
+- [Introdução à Grande Conversa - Gregos: vingança & justiça na Ilíada e na Oréstia](https://www.facebook.com/groups/grandeconversa/posts/598431650868730/)
+- [Alex Castro: Categoria: ilíada](https://alexcastro.com.br/category/grande-conversa/2a-aula-gregos/iliada/)
+- [Khan Academy - History - Classical Greece](https://www.khanacademy.org/humanities/world-history/ancient-medieval/classical-greece/v/overview-of-ancient-greece)
+- [Coursera - Greek And Roman Mythology](https://www.coursera.org/learn/mythology)
+- [On Reading Homer](https://www.coursera.org/lecture/mythology/1-7-on-reading-homer-0xrPb)
+- [Coursera - Os Gregos Antigos](https://pt.coursera.org/learn/ancient-greeks)
+- [Clube de leitura Ilíada](https://drive.google.com/drive/folders/17EIkqFv4sFasbxQeYxz2Pu18sljUVpGk?usp=sharing)
