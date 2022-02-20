@@ -117,6 +117,7 @@ Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir
 - [The Iliad, Scroll 1 - Reading Greek Tragedy Online](https://www.youtube.com/watch?v=SXANeKduRTk)
 - [Intro to Homeric Greek: Poetry of Grammar Iliad 1-9](https://www.youtube.com/watch?v=dX6xHUfvBK4)
 - [Ilíada (Homero) | Tatiana Feltrin](https://www.youtube.com/watch?v=s0ERA01legg) - Resenha de 26 min explicando o que é a Ilíada e como é a história.
+- [Why Homer Matters](https://www.youtube.com/watch?v=NhXTEETdkmk)
 
 #### Courses
 
