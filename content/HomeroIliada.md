@@ -37,7 +37,7 @@ Canta, ó deusa, a cólera de Aquiles, o Pelida
 </blockquote>
 
 
- 
+
 - [Ilíada, vv. 1-7 (música: C. Leonardo B. Antunes; tradução: Carlos Alberto Nunes)](https://youtu.be/1KDZtkSVSvc)
 
 <img src="/images/iliada-characters.jpg" alt="Main (male) characters of Iliad" style="zoom:50%;" />
@@ -92,6 +92,8 @@ Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir
 - [The Anger of Achilles: Mênis in Greek Epic - Leonard Muellner](https://chs.harvard.edu/book/muellner-leonard-the-anger-of-achilles-menis-in-greek-epic-2/) - [video](https://www.youtube.com/watch?v=wZxFVCBNEao)
 - [Agamemnon, the Pathetic Despot: Reading Characterization in Homer - Andrew Porter](https://chs.harvard.edu/book/porter-andrew-agamemnon-the-pathetic-despot-reading-characterization-in-homer/)
 - [O MUNDO DE HOMERO - Pierre Vidal-Naquet - Grupo Companhia das Letras](https://www.companhiadasletras.com.br/detalhe.php?codigo=11378)
+- [Bases da Cultura Ocidental - Volume 1- André Alonso](https://canal.cecierj.edu.br/recurso/15289)
+- [Teogonia – Hesíodo – Henry Bugalho (trad.)](https://kotter.com.br/loja/teogonia-hesiodo-henry-bugalho/) - [Henry Bugalho](https://twitter.com/henrybugalho/status/1160125985880268802)
 - [The best books on Greek Myths - recommended by Lucy Coats](https://fivebooks.com/best-books/greek-myths-lucy-coats/)
   - The Song of Achilles
   - The Greek Myths
@@ -128,3 +130,4 @@ Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir
 - [On Reading Homer](https://www.coursera.org/lecture/mythology/1-7-on-reading-homer-0xrPb)
 - [Coursera - Os Gregos Antigos](https://pt.coursera.org/learn/ancient-greeks)
 - [Clube de leitura Ilíada](https://drive.google.com/drive/folders/17EIkqFv4sFasbxQeYxz2Pu18sljUVpGk?usp=sharing)
+- [Cultura Ocidental: A origem da Literatura - BASES DA CULTURA OCIDENTAL](https://www.youtube.com/watch?v=PHHL1ENtS0c&list=PLdpq25FyrLLPcXyqXPvEJMpFW91_JV2HJ) - professor da UFF Fernando Tremoço
