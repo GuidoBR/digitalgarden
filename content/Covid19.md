@@ -4,6 +4,52 @@ title: Covid-19
 
 #vaccines #biology #medicine #covid19
 
+# COVID-19: Uma perspectiva pessoal
+
+No primeiro canto da Ilíada os soldados gregos em seu nono ano de cerco á Tróia são acometidos por uma doença misteriosa. Homens e animais começam a cair ás dezenas. O medo vai crescendo entre os comandantes gregos. Afinal, o que está acontecendo?
+
+Naquele tempo, catástrofes naturais e humanas eram atribuidas aos deuses. Profetas, advinhos e oráculos eram os únicos capazes de revelar a vontade divina e oferecer uma explicação para mistérios. Em 2020 coube à médicos e cientistas o papel de revelar a verdade sobre a maior pandemia do século XXI.
+
+> ""(...) ouvi-o Febo Apolo
+> Desceu do Olimpo, com coração agitado de ira.
+> Nos ombros trazia o arco e a alijava duplamente coberta;
+> aos ombros do deus irado as setas chocalhavam
+> à medida avançava. E chegou como chega a noite.
+>
+>
+> Depois sentou-se à distância das naus e disparou uma seta:
+> terrível foi o som produzido pelo arco de prata.
+> Primeiro atingiu as mulas e os rápidos cães;
+> mas depois disparou as setas contra os homens.
+> As piras dos mortos ardiam continuamente."
+>
+> [*Ilíada* - Homero. Tradução por Frederico Lourenço](https://www.amazon.com.br/Il%C3%ADada-Homero/dp/8563560565/)
+
+## Breve histórico da pandemia de COVID-19
+
+- Primeiras notícias
+- Hospitais de campanha
+- Lockdown
+- Casos fora da china
+- Declaração de pandemia
+- Itália
+- Espanha
+- Nova York
+- Brasil
+- ...
+- Desenvolvimento de vacinas
+- Pfizer aprovada
+- Inicio da vacinação no mundo
+- Oxford/Astrazeneca aprovada
+- Butantan/Coronavac aprovada
+- Vacinação no Brasil
+
+## Como epidemias acontecem?
+
+
+
+---
+
 ## Making sense of COVID-19 Epidemic
 
 ![[The COVID-19 (SARS-COV-2) Virus Explained](http://phdcomics.com/comics.php?f=2047)](http://phdcomics.com/covid/CoV2_01.jpg)
