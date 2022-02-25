@@ -38,9 +38,7 @@ Canta, ó deusa, a cólera de Aquiles, o Pelida
 
 
 
-- [Ilíada, vv. 1-7 (música: C. Leonardo B. Antunes; tradução: Carlos Alberto Nunes)](https://youtu.be/1KDZtkSVSvc)
-
-<img src="/images/iliada-characters.jpg" alt="Main (male) characters of Iliad" style="zoom:50%;" />
+- <img src="/images/iliada-characters.jpg" alt="Main (male) characters of Iliad" style="zoom:50%;" />
 
 <img src="/images/Iliada-hector-paris-benjamin-west.jpg" alt="Iliad - Hector and Paris, by Benjamin West" style="zoom:50%;" />
 
@@ -83,6 +81,13 @@ Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir
 - [Térsites e a imprudência das palavras](http://eventosmitologiagrega.blogspot.com/2011/06/tersites-e-imprudencia-das-palavras.html) 
 - [O Bullying na Ilíada (Homero)](https://cursandohistoria.wordpress.com/2012/08/03/o-bullying-na-iliada/)
 - "Tersites (o velho do restelho) em Lusíadas, falando com Vasco da Gama que as grandes navegações estavam esvaziando Portugal e empobrecendo à população. Velho do Restelho no Cabo Carnaveral falando contra o Homem na Lua (por Saramago)."
+
+### Musics
+
+- [Achilles, come down](https://goldcult.art.blog/2020/12/19/the-french-parts-of-achilles-come-down-translations-and-literary-analysis/) 
+- [Ilíada, vv. 1-7 (música: C. Leonardo B. Antunes; tradução: Carlos Alberto Nunes)](https://youtu.be/1KDZtkSVSvc)
+
+
 
 ### References and Courses
 
