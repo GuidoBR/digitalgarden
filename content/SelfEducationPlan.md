@@ -150,6 +150,26 @@ title: Self Education Plan
 
 and [artificial intelligence](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
 
+**Contabilidade** - Entender os registros contábeis de uma empresa ajuda a ter ideia da  saúde dos negócios e entender se o papel está sendo negociado a um preço “justo” (ok, não pergunte o que é “preço justo” aos analistas, que terá uma discussão de horas e não chegará a resultado algum - o preço justo é o Santo Graal que todos procuram). 
+
+ O curso online [“Contabilidade Empresarial" da fundação Bradesco](https://gmail.us4.list-manage.com/track/click?u=9f7cc210ea53120ce116fc52f&id=89815c3b41&e=138a1b2b18) é um bom início: para iniciantes, tem 11 módulos e duração de 18 horas. 3 horas por semana e em menos de dois meses já terá uma ideia clara de  como se virar no período de divulgação dos balanços das empresas de  capital aberto.
+
+ **Estatística** - “Retornos passados não são garantia de  retornos futuros” já deveria estar gravado no fundo do seu coração e da  sua mente. Mas você tem ideia do que isso significa? Entender o básico  de Estatística vai dar uma ideia melhor de como funcionam os retornos de um ativo e ter uma ideia melhor das métricas utilizadas para calcular  retornos.
+
+ Criado a partir de uma disciplina da USP, o curso de Probabilidade e  Raciocínio Lógico tem 28 aulas com duração de menos de meia hora cada e é ofertado pela Univesp (Universidade Virtual do Estado de São Paulo). As aulas estão todas disponíveis no YouTube, organizadas em uma playlist. A primeira aula pode ser acessada [aqui](https://gmail.us4.list-manage.com/track/click?u=9f7cc210ea53120ce116fc52f&id=7614cafc5c&e=138a1b2b18).
+
+ **Mercados Financeiros** - Existe uma infinidade de cursos, a maioria cursos pagos, mas este aqui é um [clássico dos clássicos, ministrado pelo prêmio Nobel Robert Shiller](https://gmail.us4.list-manage.com/track/click?u=9f7cc210ea53120ce116fc52f&id=c92a9de525&e=138a1b2b18) e derivado das aulas ministradas por ele na Universidade de Yale, o  material foi editado para ficar mais didático e vem com exercícios para  fixação de conteúdo.
+
+ Disponível na plataforma Coursera, o curso é em inglês com legendas em  português e duração de aproximadamente 33 horas. 7 módulos, 1 por semana e ao completar o curso ainda ganha um certificado de conclusão do  curso. Melhor que pagar curso de influencer para ter acesso ao mesmo  conteúdo.
+
+ **Criptomoedas** - Curso para te livrar de piramideiros e  entender de fato o que é tecnologia blockchain, o que são criptomoedas e criptoativos, mais um curso disponível no Coursera e ministrado por um  fera. O [curso Bitcoin e Tecnologias de Criptomoedas é lecionado por Arvind Narayanan](https://gmail.us4.list-manage.com/track/click?u=9f7cc210ea53120ce116fc52f&id=ac3466f313&e=138a1b2b18), da Universidade de Princeton, em inglês mas com legendas em português.
+
+ O curso foi idealizado para durar 11 semanas, mas como cada bloco  semanal tem cerca de 1 hora, é possível concluir em menos tempo. E,  claro, ainda dá para descolar um certificado de conclusão no final.
+
+ **Corporate Finance** - Finanças Corporativas é a parte de  finanças que lida com as diferentes formas de financiamento de uma  empresa. Ter conhecimento sobre a área ajuda tanto para quem tem uma  empresa quanto para quem está buscando entender mais as empresas nas  quais investe como para conhecer investimentos alternativos.
+
+ Mais um do Coursera (gostamos bastante da plataforma), esse oferecido pela [IESE Business School, “Fundamentos de Finanças Corporativas”](https://gmail.us4.list-manage.com/track/click?u=9f7cc210ea53120ce116fc52f&id=4a3c02be76&e=138a1b2b18) está estruturado para durar 8 semanas, mas também é possível concluir  bem antes disso. Após o curso básico, existe a opção de prosseguir para o curso intermediário. Boa pedida para conhecer mas o mercado financeiro, seja pela ótica de investidor ou pela ótica das empresas que tomam  financiamento.
+
 # Great Teaching Toolkit Evidence Review
 
 ![Great Teaching Toolkit Evidence Review](/images/great-teaching-toolkit-evidence-review.png)
@@ -159,5 +179,6 @@ and [artificial intelligence](https://www.ibm.com/cloud/learn/what-is-artificial
  - [[Young2021Ultraaprendizado]]
  - [[Oakley2014MindForNumbers]]
  - [What to learn](https://danluu.com/learn-what/)
+ - [Cultural Literacy: Does Knowledge need to be deep to be useful?](https://www.scotthyoung.com/blog/2022/02/28/cultural-literacy-review/?ck_subscriber_id=632147070)
  - [[StudyPlan2022]]
  - [Career Development Study Guide](https://www.guidopercu.dev/posts/career-development-study-guide/)

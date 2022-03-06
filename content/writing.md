@@ -6,6 +6,9 @@ title: Writing
 
 > **[The Paradox of Writing](https://perell.com/note/the-paradoxes-of-modern-life/):** Great writing looks  effortless. But because the ideas are so clear, casual readers don’t  appreciate how much time it took to refine them.
 
+> **“Good writing is always about things that are important to you,  things that are scary to you, things that eat you up. But the writing is a way of not allowing those things to destroy you.”
+> **— [John Edgar Wideman](https://click.fourhourmail.com/p9u0l6v9mlh9hvloprir/p8heh9h9rxkzoouq/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSm9obl9FZGdhcl9XaWRlbWFu)
+
 - [Becoming a Better Writer in Tech](https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/)
 - [Use Cornell Notes for Online Class](https://mkaz.blog/misc/use-cornell-notes-for-online-class/)
 - [Course Review: Writing in the Sciences](https://mkaz.blog/misc/course-review-writing-in-the-sciences/)
