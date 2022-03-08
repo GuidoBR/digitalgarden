@@ -46,7 +46,56 @@ Naquele tempo, catástrofes naturais e humanas eram atribuidas aos deuses. Profe
 
 ## Como epidemias acontecem?
 
+Durante esse período entrou no nosso vocabulário coletivo conceitos e palavras até então desconhecidas: pandemia, lockdown, PFF2, N95, R0, coronavirus. Modelos epidemiológicos apareceram na mídia e foram usados para tornar decisões de política públicas. Ficamos mais familiarizados com o estudo de epidemias, como doenças se disseminam em populações. O excelente livro "As Regras de Contágio", por Adam Kucharski é um bom guia sobre epidemiologia para leigos. Nele o autor explica o desenvolvimento de técnicas e modelos que ajudam a explicar (e interferir) como as coisas se espalham (incluindo doenças, informações, pânico financeiros e também memes).
 
+## O que é um vírus? Há outros por aí?
+
+SARS-COV-2 é o nome do vírus causador da maior epidemia dos nossos tempos. Será que há outros seres como esse que podem causar doenças infecciosas e afetar toda a humanidade? E afinal, o que é um vírus?
+
+Vírus são seres formados por informação. Seu objetivo é se reproduzir de forma mais eficiente possível e para isso eles usam as células do nosso próprio corpo como hospedeiras. Após entrar em nossos corpos e infectar nossas células, os vírus buscam se multiplicar e com isso acabam causando diversos estragos no nosso organismo (pela ação do próprio vírus e pela reação do nosso corpo á eles).
+
+Ao se multiplicar e enfrentar nosso sistema imune, os vírus tem grande chances de sofrer mutações e ganhar novas funções. É a teoria da evolução do Charles Darwin em escala acelerada.
+
+Ótimas referências que usei para aprender mais sobre isso:
+
+- Origem das Espécies, Charles Darwin
+- O Gene
+- O Maior Espetáculo da Terra, Richard Dawkins
+- Podcast: 20 mil léguas submarinas
+- Criação: A Origem e o Futuro da Vida
+- Inimigo Mortal
+
+## A humanidade já passou por isso antes?
+
+> Frodo: "Eu gostaria que isso não tivesse acontecido no meu tempo."
+>
+> Gandalf: "Eu também, e todos os que vivem para ver esses tempos. Mas isso não lhes cabe decidir. Tudo o que temos a decidir é o que fazer com o tempo que nos é concedido."
+
+Em 1918 o mundo conheceu a pandemia de influenza, também chamada de Gripe Espanhola, atingiu todo o globo e estima-se que tenha custado 50 milhões de vidas. Há muitas similaridades entre a Gripe Espanhola e a Pandemia de COVID-19: ambas causadas por doenças respiratórias, tendo um vírus como agente infeccioso, onde o uso de máscaras e distânciamento social foi recomendado e virou motivo de discussão. Polêmicas e negacionismo com venda de curas mágicas que não funcionam ocorreram nas duas epidemias. No Brasil, o presidente á época da Gripe Espanhola faleceu pela doença que ele mesmo minimizou. Algumas coisas mudam.
+
+Para entender melhor essas e outras epidemias na história da humanidade, livros que eu recomendo:
+
+- História das Pandemias - Stephen Cunha
+- A Grande Gripe
+- A Bailarina da Morte
+- Premonição
+- A Flecha de Apollo
+
+## Como o Brasil agiu na pandemia de COVID-19?
+
+De forma péssima, no geral. 
+
+- Fake News e Saúde
+- CPI Covid-19
+- Números de caso e mortes
+- Livro do Gustavo Franco
+- Livro da Miriam Leitão
+
+Mas também tivemos boas atitudes e instituições científicas funcionando.
+
+- 
+
+## Como são feitas as vacinas?
 
 ---
 
