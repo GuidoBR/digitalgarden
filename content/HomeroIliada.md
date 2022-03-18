@@ -37,8 +37,9 @@ Canta, ó deusa, a cólera de Aquiles, o Pelida
 </blockquote>
 
 
+<img src="/images/Júpiter_y_Tetis,_por_Dominique_Ingres.jpg" alt="Main (male) characters of Iliad" style="zoom:50%;" />
 
-- <img src="/images/iliada-characters.jpg" alt="Main (male) characters of Iliad" style="zoom:50%;" />
+<img src="/images/iliada-characters.jpg" alt="Main (male) characters of Iliad" style="zoom:50%;" />
 
 <img src="/images/Iliada-hector-paris-benjamin-west.jpg" alt="Iliad - Hector and Paris, by Benjamin West" style="zoom:50%;" />
 
