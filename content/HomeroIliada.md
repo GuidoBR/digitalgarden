@@ -100,6 +100,7 @@ Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir
 - [O MUNDO DE HOMERO - Pierre Vidal-Naquet - Grupo Companhia das Letras](https://www.companhiadasletras.com.br/detalhe.php?codigo=11378)
 - [Bases da Cultura Ocidental - Volume 1- André Alonso](https://canal.cecierj.edu.br/recurso/15289)
 - [Teogonia – Hesíodo – Henry Bugalho (trad.)](https://kotter.com.br/loja/teogonia-hesiodo-henry-bugalho/) - [Henry Bugalho](https://twitter.com/henrybugalho/status/1160125985880268802)
+- [A Morte de Aquiles](https://aguerradetroia.wordpress.com/2013/03/02/a-morte-de-aquiles/)
 - [The best books on Greek Myths - recommended by Lucy Coats](https://fivebooks.com/best-books/greek-myths-lucy-coats/)
   - The Song of Achilles
   - The Greek Myths
