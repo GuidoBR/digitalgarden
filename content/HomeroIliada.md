@@ -197,6 +197,90 @@ Símiles são outro recurso de linguagem bastante utilizados na Ilíada, o que t
 
 > “Essa descoberta [a escrita] provocará nas almas o esquecimento de quanto se aprende, devido à falta de exercício da memória, porque, confiados na escrita, recordar-se-ão de fora, graças a sinais estranhos, e não de dentro, espontaneamente, pelos seus próprios sinais. Por conseguinte, não descobriste um remédio para a memória, mas para a recordação. Aos estudiosos oferece a aparência da sabedoria e não a verdade, já que, recebendo, graças a ti, grande quantidade de conhecimentos, sem necessidade de instrução, considerar-se-ão muito sabedores, quando são, na sua maior parte ignorantes; são ainda de trato difícil, por terem a aparência de sábios e não o serem verdadeiramente. … Portanto, quem julgasse transmitir na escrita uma arte e quem, por sua vez, a recebesse, como se dessas letras escritas pudesse derivar algo de certo e de seguro, mostraria muita ingenuidade … se crêem que os discursos escritos são algo mais do que um meio de fazer recordar a quem as sabe já as matérias tratadas nesses escritos. … É isso precisamente … o que a escrita tem de estranho, que a torna muito semelhante à pintura. Na verdade, os produtos desta permanecem como seres vivos, mas, se lhes perguntares alguma coisa, respondem-te com um silêncio cheio de gravidade. O mesmo sucede também com os discursos escritos. Poderá parecer-te que o pensamento como que anima o que dizem; no entanto, se, movido pelo de aprender, os interrogares sobre o que acabam de dizer, revelam-te uma única coisa e sempre a mesma. E, se uma vez escrito, todo o discurso rola por todos os lugares, apresentando-se sempre do mesmo modo, tanto a quem o deseja ouvir como ainda a quem não mostra interesse algum, e não sabe a quem deve falar e a quem não deve. Além disso, maltratado e insultado injustamente, necessita sempre da ajuda do seu autor, uma vez que não é capaz de se defender e socorrer a si mesmo.” (*[Fedro](https://amzn.to/3eSebBL)*, c. 370 aEC.)
 
+## A estrutura do livro
+
+O livro são divididos em 24 cantos, que um dos tradutores resolveu nomear da seguinte maneira:
+
+1. Ménis, a ira de Aquiles
+2. Os nomes e os navios
+3. Makhé: o duelo Páris-Menelau
+4. Epiorkía: o perjúrio
+5. A gesta de Diomedes
+6. Heitor e Andrômaca: o adeus
+7. Heitor versus Ájax: combate singular
+8. Kólos mákhe: Combate interminável
+9. Embaixada a Aquiles. A súplica
+10. Ronda noturna: Doloneia
+11. A gesta de Agamêmnon
+12. Muromaquia: o assalto
+13. Paranaumaquia: combate junto às naus
+14. Diòs Apáte: Zeus Iludido
+15. Contra-ataque à beira-nau
+16. Patrocleia
+17. Aristeia: a gesta de Menelau
+18. Panóplia: as armas
+19. A Ira, Mênis, amaina
+20. Teomaquia: o combate dos deuses
+21. Mákhe parapotámos: Batalha à beira-rio
+22. Anaíresis: morte de Heitor
+23. Torneio em tributo à Pátroclo
+24. Héktoroslútra: Heitor resgatado
+
+**TODO: FALAR SOBRE A ESTRUTURA NARRATIVA**
+
+**TODO: FALAR SOBRE A ESTRUTURA POÉTICA** (hexômetro datílico)
+
+## O Proêmio
+
+A chave para entender a Ilíada é o termo grego *μῆνις* - *Mênis* - **Furia, ira, cólera**. É o principal sentimento que guia Aquiles pela obra, o que causa momentos de beleza e de tragédia. Na edição lançada pela Companhia das Letras, temos o seguinte [proêmio](http://formasfixas.blogspot.com/2020/03/o-proemio-da-iliada.html):
+
+<blockquote>
+Canta, ó deusa, a cólera de Aquiles, o Pelida
+<br>(mortífera!, que tantas dores trouxe aos Aqueus
+<br>e tantas almas valentes de heróis lançou no Hades,
+<br>ficando seus corpos como presa para cães e aves
+<br>de rapina, enquanto se cumpria a vontade de Zeus),
+<br>desde o momento em que primeiro se desentenderam
+<br>o Atrida, soberano dos homens, e o divino Aquiles.
+
+
+<p>trad. Frederico Lourenço [2005] - <a href="http://formasfixas.blogspot.com/2020/03/o-proemio-da-iliada.html">O proêmio da Ilíada</a></p>
+
+</blockquote>
+
+Já numa tradução pelo maior autor brasileiro, o Bruxo do Cosme Velho escreveu:
+
+<blockquote>
+Ó deusa, canta a colera tremenda
+<br>Do filho de Peleu, o bravo Achilles,
+<br>Que numerosos males fez aos dânaos
+<br>E enviou, para o Orco, antes de tempo,
+<br>Mui grande cópia de valentes almas
+<br>De heroes, seus corpos dando a cães e abutres.
+<br>De Jupiter o mando se cumpria,
+<br>Desde o momento, em que discordia veiu
+<br>Inimizar aquelle heroe divino,
+<br>Com o Atrida, dos gregos commandante.
+
+
+<p>trad. Machado de Assis [1904] - <a href="http://formasfixas.blogspot.com/2020/03/o-proemio-da-iliada.html">O proêmio da Ilíada</a></p>
+
+</blockquote>
+
+## Temas principais
+
+**TODO: Fazer um resumão da obra, falar sobre ak disputa entre Aquiles e Agamenon e termina antes da queda de Tróia.**
+
+### Como a Ilíada nos fala sobre a guerra?
+
+### Como a Ilíada nos fala sobre a vida?
+
+
+
+## Onde está o Cavalo de Tróia?
+
+
+
 ---
 
 - O que é a Ilíada?
@@ -208,7 +292,7 @@ Símiles são outro recurso de linguagem bastante utilizados na Ilíada, o que t
 
   - Guerra de Tróia
   - Cólera de Aquiles
-    - Proemio da Ilíada
+    - Proêmio da Ilíada
       - colocar múltiplas traduções
     - *μῆνις* - *Mênis* - **Furia, ira, cólera**
       - [The Anger of Achilles: Mênis in Greek Epic - Leonard Muellner](https://chs.harvard.edu/book/muellner-leonard-the-anger-of-achilles-menis-in-greek-epic-2/) - [video](https://www.youtube.com/watch?v=wZxFVCBNEao)
