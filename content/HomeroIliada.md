@@ -156,6 +156,14 @@ Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir
 - [Alex Castro: Categoria: ilíada](https://alexcastro.com.br/category/grande-conversa/2a-aula-gregos/iliada/)
 - [Khan Academy - History - Classical Greece](https://www.khanacademy.org/humanities/world-history/ancient-medieval/classical-greece/v/overview-of-ancient-greece)
 - [Coursera - Greek And Roman Mythology](https://www.coursera.org/learn/mythology)
+  - Course Readings
+    - Greek Tragedies, Volume 1, David Grene and Richmond Lattimore, trans. (Chicago) • 
+    - Greek Tragedies, Volume 3, David Grene and Richmond Lattimore , trans. (Chicago) • 
+    - Hesiod, Theogony and Works and Days, M. L. West, trans. (Oxford) • 
+    - Homeric Hymns, Sarah Ruden, trans. (Hackett) • 
+    - Homer, The Odyssey, Robert Fagles, trans. (Penguin)  • 
+    - Virgil, The Aeneid, Robert Fitzgerald, trans. (Vintage) • 
+    - Ovid, Metamorphoses, David Raeburn, trans. (Penguin)
 - [On Reading Homer - Odyssey I.1-10](https://www.coursera.org/lecture/mythology/1-7-on-reading-homer-0xrPb)
 - [Coursera - Os Gregos Antigos](https://pt.coursera.org/learn/ancient-greeks)
 - [Clube de leitura Ilíada](https://drive.google.com/drive/folders/17EIkqFv4sFasbxQeYxz2Pu18sljUVpGk?usp=sharing)
@@ -167,27 +175,115 @@ Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir
 
 # Porque ler Ilíada?
 
+Ilíada é um poema épico grego que é um dos pilares da cultura ocidental. Trata da Guerra de Tróia (a cidade Ilíon; Ilíada significa contos de Ilíon), onde Gregos e Troianos disputam uma longa e sangrenta guerra que começou com uma disputa entre três deusas em um julgamento para saber quem é a mais bela. Por se tratar de uma epopeia (termo que provém do grego epus, significa história de heróis), é um dos textos fundamentais do período clássico. Narra as glórias e os dramas de incontáveis heróis, e nos conta o que é ser humano e questões que enfrentamos durante nossa vida.
+
+A Ilíada é fala de um momento específico dessa guerra, onde Aquiles, o principal herói grego, se sente menosprezado pelo poderoso soberano Agamenom que lhe retira a Crisêida, prêmio que Aquiles recebeu por saquear uma cidade aliada dos Troianos. Nesse momento, Aquiles se sente irado e decide sair da luta -- deixando os gregos a mercê dos Troianos.
+
+Ilíada é um texto com uma importância fundamental para a cultura da Grécia antiga, e influenciou toda a cultura ocidental desde então. Com diversas adaptações, recontagens e influências, é a base para muitas das histórias que são criadas ainda hoje.
+
+## Homero: o autor da obra
+
+Há diversos debates sobre quem foi Homero, o poeta responsável pela obra. Há quem diga que ele não existiu, que foi um grupo de diversos autores. Há quem diga que ele era cego, e isso aumentou sua genialidade e seu poder poético. Os estudiosos do tema utilizam o termo **questão homérica** para se referir a debates sobre quem foi Homero.
+
+O que sabemos, graças principalmente a pesquisa de [Milman Parry](https://pt.wikipedia.org/wiki/Milman_Parry) sobre tradição oral, é que Ilíada (e também Odisseia) são ricos poemas de uma tradição oral de uma cultura que valorizava os **Aedos** (*ἀοιδός*) que eram poetas-cantores que recitavam suas composições acompanhadas de lira. No texto podemos observar elementos característicos de uma cultura oral, que tinha diversas formas e fórmulas para facilitar a memória. Como exemplo podemos citar alguns epítetos que são bastante usados no texto Homérico: "*Aquiles de pés velozes*", "*Apolo que atua ao longe*", "*Zeus Crónida soberano*", "*Tétis dos pés prateados*", "*Hera dos alvos braços*", "*Aqueus de belas cnêmides*" ,"*Heitor, domador de cavalos*".
+
+Símiles são outro recurso de linguagem bastante utilizados na Ilíada, o que torna o texto mais vivido e memorável. A passagem que compara a marcha do exército grego ao barulho das ondas do mar é belíssima:
+
+> Tal como na praia de muitos ecos as ondas do mar são impelidas em rápida sucessão pelo sopro do Zéfiro e surge primeiro a crista no mar alto, mas depois ao rebentar contra a terra firme emite um enorme bramido e em torno dos promotórios incha e se levanta, cuspindo no ar a espuma salgada -- assim avançavam em rápida sucessão as falanges dos Dânaos para a guerra incessante.
+>
+> Ilíada, canto IV: 422-428
+
+É importante pensar em como a cultura grega pensava sobre a escrita. Platão declarava que a [linguagem é um *pharmakon*](http://coloquioslusofonia.blogspot.com/2011/11/platao-linguagem-e-um-pharmakon.html) (de onde vem nossos termos fármaco e farmácia), que pode ser um remédio ou um veneno ao possibilitar o registro e transmissão do conhecimento de forma mais facilitada.
+
+> “Essa descoberta [a escrita] provocará nas almas o esquecimento de quanto se aprende, devido à falta de exercício da memória, porque, confiados na escrita, recordar-se-ão de fora, graças a sinais estranhos, e não de dentro, espontaneamente, pelos seus próprios sinais. Por conseguinte, não descobriste um remédio para a memória, mas para a recordação. Aos estudiosos oferece a aparência da sabedoria e não a verdade, já que, recebendo, graças a ti, grande quantidade de conhecimentos, sem necessidade de instrução, considerar-se-ão muito sabedores, quando são, na sua maior parte ignorantes; são ainda de trato difícil, por terem a aparência de sábios e não o serem verdadeiramente. … Portanto, quem julgasse transmitir na escrita uma arte e quem, por sua vez, a recebesse, como se dessas letras escritas pudesse derivar algo de certo e de seguro, mostraria muita ingenuidade … se crêem que os discursos escritos são algo mais do que um meio de fazer recordar a quem as sabe já as matérias tratadas nesses escritos. … É isso precisamente … o que a escrita tem de estranho, que a torna muito semelhante à pintura. Na verdade, os produtos desta permanecem como seres vivos, mas, se lhes perguntares alguma coisa, respondem-te com um silêncio cheio de gravidade. O mesmo sucede também com os discursos escritos. Poderá parecer-te que o pensamento como que anima o que dizem; no entanto, se, movido pelo de aprender, os interrogares sobre o que acabam de dizer, revelam-te uma única coisa e sempre a mesma. E, se uma vez escrito, todo o discurso rola por todos os lugares, apresentando-se sempre do mesmo modo, tanto a quem o deseja ouvir como ainda a quem não mostra interesse algum, e não sabe a quem deve falar e a quem não deve. Além disso, maltratado e insultado injustamente, necessita sempre da ajuda do seu autor, uma vez que não é capaz de se defender e socorrer a si mesmo.” (*[Fedro](https://amzn.to/3eSebBL)*, c. 370 aEC.)
+
+---
+
 - O que é a Ilíada?
-  -  O termo epopeia provém do grego *epus*, que significa herói. Uma epopeia é um poema que narra as glórias, os dramas e as aventuras dos heróis.
-  - Ilion é o nome de Tróia.
+
+  - Gênero literário: poesia -> épica (*epos*, discurso). O termo epopeia provém do grego *epus*, que significa herói. Uma epopeia é um poema que narra as glórias, os dramas e as aventuras dos heróis.
+  - Ilion é o nome de Tróia, Ilíada significa contos de Ilíon.
+
 - Qual é o tema principal da Ilíada?
+
   - Guerra de Tróia
   - Cólera de Aquiles
     - Proemio da Ilíada
       - colocar múltiplas traduções
     - *μῆνις* - *Mênis* - **Furia, ira, cólera**
       - [The Anger of Achilles: Mênis in Greek Epic - Leonard Muellner](https://chs.harvard.edu/book/muellner-leonard-the-anger-of-achilles-menis-in-greek-epic-2/) - [video](https://www.youtube.com/watch?v=wZxFVCBNEao)
-- Quem foi o autor da Ilíada? Quem é Homero?
+
+- Quem foi o autor da Ilíada?
+
+  - As questões homéricas:
+    - Obra de um único autor ou de diversos autores?
+    - Quando, onde, como e por que foram compostos os poemas homéricos?
+    - Quem foi Homero? Ele existiu ou é fictício?
+
 - Ilíada é um poema escrito ou falado?
+
   - Texto de Sócrates / Platão sobre a inferioridade do texto escrito se comparado com a memória
-- Onde está o famoso Cavalo de Troia?
+
+    - [Platão: a linguagem é um pharmakon](http://coloquioslusofonia.blogspot.com/2011/11/platao-linguagem-e-um-pharmakon.html)
+
+    - > “Essa descoberta [a escrita] provocará nas almas o esquecimento de quanto se aprende, devido à falta de exercício da memória, porque, confiados na escrita, recordar-se-ão de fora, graças a sinais estranhos, e não de dentro, espontaneamente, pelos seus próprios sinais. Por conseguinte, não descobriste um remédio para a memória, mas para a recordação. Aos estudiosos oferece a aparência da sabedoria e não a verdade, já que, recebendo, graças a ti, grande quantidade de conhecimentos, sem necessidade de instrução, considerar-se-ão muito sabedores, quando são, na sua maior parte ignorantes; são ainda de trato difícil, por terem a aparência de sábios e não o serem verdadeiramente. … Portanto, quem julgasse transmitir na escrita uma arte e quem, por sua vez, a recebesse, como se dessas letras escritas pudesse derivar algo de certo e de seguro, mostraria muita ingenuidade … se crêem que os discursos escritos são algo mais do que um meio de fazer recordar a quem as sabe já as matérias tratadas nesses escritos. … É isso precisamente … o que a escrita tem de estranho, que a torna muito semelhante à pintura. Na verdade, os produtos desta permanecem como seres vivos, mas, se lhes perguntares alguma coisa, respondem-te com um silêncio cheio de gravidade. O mesmo sucede também com os discursos escritos. Poderá parecer-te que o pensamento como que anima o que dizem; no entanto, se, movido pelo de aprender, os interrogares sobre o que acabam de dizer, revelam-te uma única coisa e sempre a mesma.E, se uma vez escrito, todo o discurso rola por todos os lugares, apresentando-se sempre do mesmo modo, tanto a quem o deseja ouvir como ainda a quem não mostra interesse algum, e não sabe a quem deve falar e a quem não deve. Além disso, maltratado e insultado injustamente, necessita sempre da ajuda do seu autor, uma vez que não é capaz de se defender e socorrer a si mesmo.” (*[Fedro](https://amzn.to/3eSebBL)*, c. 370 aEC.)
+
+  - Os Aedos, ἀοιδός, poetas-cantores gregos que recitavam suas composições, acompanhados pela lira.
+
+  - Recursos para lembrar de um texto oral:
+
+    - Ritmo
+
+    - Epítetos
+
+      - Aquiles de pés velozes
+      - Apolo que atua ao longe
+      - Zeus Crónida soberano
+      - Tétis dos pés prateados
+      - Hera dos alvos braços
+      - Aqueus de belas cnêmides
+      - Heitor, domador de cavalos
+
+    - Símiles
+
+      - Firgua de linguagem comparativa que relaciona dois termos de sentido diferentes.
+
+      - > Tal como na praia de muitos ecos as ondas do mar são impelidas em rápida sucessão pelo sopro do Zéfiro e surge primeiro a crista no mar alto, mas depois ao rebentar contra a terra firme emite um enorme bramido e em torno dos promotórios incha e se levanta, cuspindo no ar a espuma salgada -- assim avançavam em rápida sucessão as falanges dos Dânaos para a guerra incessante.
+        > Ilíada, canto IV: 422-428
+
+      - >  "Por que razão choras, ó Pátroclo, como uma garotinha,
+        >
+        > uma menina, que corre para a mãe a pedir colo
+        >
+        > e, puxando-lhe pelo vestido, impede-a de andar,
+        >
+        > fitando-a chorosa até que a mãe a pegue no colo?
+        >
+        > Igual a ela, ó Pátroclo, choras tu lágrimas fartas."
+
+    - Métrica
+
+      - hexômetro datílico
+
+  - Pesquisa de [Milman Parry](https://pt.wikipedia.org/wiki/Milman_Parry) sobre tradição oral
+
+- [Onde está o famoso Cavalo de Troia?](https://pt.wikipedia.org/wiki/Cavalo_de_Troia#Fontes_liter%C3%A1rias)
+
   - "A história da guerra foi contada primeiro na *[Ilíada](https://pt.wikipedia.org/wiki/Ilíada)* de [Homero](https://pt.wikipedia.org/wiki/Homero), mas ali o cavalo não é mencionado, só aparecendo brevemente na sua *[Odisseia](https://pt.wikipedia.org/wiki/Odisseia)*, que narra a acidentada viagem de [Odisseu](https://pt.wikipedia.org/wiki/Odisseu) de volta para casa. Outros escritores depois dele ampliaram e detalharam o episódio, tal como [Virgílio](https://pt.wikipedia.org/wiki/Virgílio) principalmente no seu escrito [Eneida](https://pt.wikipedia.org/wiki/Eneida), no livro II."
+  - "Sim, em tudo isso, esposa, disseste a verdade. Eu que viajei muito e cheguei a conhecer muitos heróis, nunca meus olhos viram alguém como Odisseu. Que perseverança, e que coragem ele mostrou dentro do cavalo de madeira, onde estavam todos os mais bravos dos argivos esperando para levar a morte e a destruição aos troianos. Naquele momento vieste a nós; algum deus que amava os troianos te mandou, trazendo contigo [Deífobo](https://pt.wikipedia.org/wiki/Deífobo). Três vezes tu andaste em volta do nosso esconderijo; tu chamaste nossos capitães cada qual por seu nome, imitando as vozes de suas esposas - [Diomedes](https://pt.wikipedia.org/wiki/Diomedes), Odisseu e eu, de nossos assentos, ouvimos o que dizias. Diomedes e eu não conseguíamos decidir se devíamos sair, ou se responder, mas Odisseu nos impediu, de modo que permanecemos em silêncio, exceto [Ânticlo](https://pt.wikipedia.org/w/index.php?title=Ânticlo&action=edit&redlink=1), que estava prestes a falar-te, quando Odisseu tapou-lhe a boca com suas mãos. Isso nos salvou a todos, até que Atena te fez ir embora" - Odisseia
+  - "Quando todos os mais bravos dos argivos estavam dentro do cavalo que Epeu havia criado, e quando tocou a mim decidir a oportunidade de abrir ou fechar a porta para nossa emboscada, embora todos os outros chefes entre os dânaos (gregos) estivessem enxugando seus olhos e tremendo em todos os seus membros, nunca o vi empalidecer ou derramar lágrimas de medo; ele em vez estava sempre urgindo que eu abrisse o cavalo e, de espada em punho, e com a lança de bronze, investíssemos em fúria contra o inimigo". - Odisseia, canto VIII
+  - Livro II de Eneida, onde o adivinho Laocoonte alerta:
+    - "Míseros cidadãos, quanta insânia! Estão de volta os gregos, ou julgais que seus presentes são livres de engodos? Desconheceis o caráter de Ulisses?[[nota 1\]](https://pt.wikipedia.org/wiki/Cavalo_de_Troia#cite_note-6) Ou este lenho é esconderijo de inimigos, ou é máquina que, armada contra os muros, vem espiar e acometer-nos. Teucros (troianos), seja o que for, há dano oculto: desconfieis do monstro! Temo os dânaos mesmo quando dão presentes!".
+
 - Como a Ilíada nos fala sobre a Guerra?
+
   - [Kleos](https://pt.wikipedia.org/wiki/Kleos), κλέος, glória.
   - Os adversários na guerra são elogiados ao invés de demonizados
     - São elogiados porque quão mais forte for o guerreiro que você derrotar, maior é sua kleos, glória.
     - Não precisam ser demonizados, transformados em "outro" (outgroup), em "orcs" como nas guerras modernas pois ambos os lados estão lutando por kleos.
+
 - O que a Ilíada nos fala sobre a vida?
+
   - Destino e mitologia grega
     - Deuses distintos lutando entre si para ora ajudar e ora atrapalhar os humanos.
     - Zeus conhece o destino? Temos livre arbítrio?
@@ -201,12 +297,16 @@ Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir
     - Retórica para os heróis gregos, retórica para os gregos
     - "Para completar o quadro dos ideais e tradições homéricas, é preciso esquecer o conceito
       moderno de “filósofo”, como sonhador metafísico ou como investigador intrépido de verdades novas e cada vez mais profundas. O filósofo grego é, em primeira linha, um retor, um “sofista”, um homem habilíssimo, que ensina mil recursos para vencer na vida política e judiciária; um descendente espiritual de Ulisses" - [História da Literatura Ocidental - vol 1, por Otto Maria Carpeaux](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjp276iltP2AhVrILkGHdMpAoEQFnoECFcQAQ&url=https%3A%2F%2Fwww2.senado.leg.br%2Fbdsf%2Fbitstream%2Fhandle%2Fid%2F528992%2F000826279_Historia_Literatura_Ocidental_vol.I.pdf%3Fsequence%3D1&usg=AOvVaw3Au5MdwKpQWrfStkZ6aBry), pdf página 73
+
 - O feminino na Iliada
+
   - Helena
   - Cassandra
   - Criseida
   - Andrómaca
-- O masculino na Iliada
+
+- O masculino na Iliada (**ἀρετή** [*areté*](https://pt.wikipedia.org/wiki/Aret%C3%AA) - adaptação perfeita, excelência, virtude; [*timé*](http://areteetime.blogspot.com/2010/08/arete-e-time-as-caracteristicas-do.html), a honra)
+
   - Aquiles
   - Odisseu
   - Agamenon
@@ -216,30 +316,93 @@ Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir
   - Heitor
   - Eneias
   - Páris
+
 - O Divino na Iliada
+
   - Zeus
   - Atena
   - Hera
   - Apollo
   - Poseidon
   - Tétis
+
 - A importância cultural de Ilíada
+
   - Ilíada como manual de conduta e ética grega
+
     -  [Importância dos poemas de Homero na educação grega](https://mundoeducacao.uol.com.br/historiageral/importancia-dos-poemas-homero-na-educacao-grega.htm) 
       - *[…] a importância  educadora de Homero é evidentemente mais vasta. Não se limita à  formulação expressa de problemas pedagógicos nem a algumas passagens que aspirem a produzir um determinado efeito moral. A poesia homérica é uma vasta e complexa obra do espírito, que não se pode reduzir a uma  fórmula única. Ao lado de fragmentos relativamente recentes que revelam  um interesse pedagógico expresso, aparecem outras passagens nas quais o  interesse pelos objetos descritos afasta a possibilidade de pensar uma  segunda intenção moral do poeta*. **[JAEGER, Werner. *Paideia: a formação do homem grego*. São Paulo: Martins Fontes, 1994. p. 59.]**
+
   - Ilíada e o cânone ocidental
+
     - "Um dos exemplos emblemáticos da  influência de Homero na Antiguidade é o de Alexandre Magno, imperador da Macedônia e grande conquistador. Alexandre sempre era visto com os  escritos de *Ilíada* e considerava-se um herdeiro direto do herói Aquiles."
+    - Influencia na literatura romana
+      - Eneida
+    - Influencia na literatura portuguesa
+      - Em "*Os Lusíadas*" Camões faz diversas referências á Ilíada, por exemplo quando menciona o "sábio grego" que sabemos ser o Odisseu de muitos ardis. Quando ele cita "o Troiano", ele se refere a Eneias, contado por Virgílio em Eneida e herói troiano da Ilíada. Além disso, para Camões a "musa antiga" é a literatura grega e latina. O primeiro canto dos Lusíadas é claramente inspirado no modelo greco-romano de poema épico, revelando o assunto que o poema irá tratar, pedindo inspiração e proteção às Musas e a narrativa começa com o concílio dos Deuses no Olímpo. Canta, ó Musa!
+
   - [Exegese alegórica de Homero](https://pt.wikipedia.org/wiki/Exegese_aleg%C3%B3rica_de_Homero)
+
   - Ilíada na arte
+
     - colocar algumas das imagens do curso mitologia na arte
+
     - colocar Zeus e Tétis junto com o trecho da Ilíada que fala sobre isso (acho que está no canto II)
+
+      - > Foi quando sobreveio a décima segunda aurora
+        >
+        > que para o Olimpo regressaram os deuses que são para sempre,
+        >
+        > todos juntos, e foi Zeus a liderá-los. Não olvidou Tétis
+        >
+        > os pedidos de seu filho, mas emergiu de manhã cedo
+        >
+        > da onda do mar e subiu ao rasgado céu, ao Olimpo.
+        >
+        > Encontrou Zeus que vê ao longe sentado longe dos outros,
+        >
+        > no píncaro mais elevado do Olimpo de muitos cumes.
+        >
+        > Sentou-se junto dele e com a mão esquerda lhe agarrou
+        >
+        > os joelhos, enquanto com a direita o segurava sob o queixo.
+        >
+        > Em tom de súplica dirigiu a palavra a Zeus Crônida soberano:
+        >
+        > "Zeus pai, se entre os imortais alguma vez te auxiliei
+        >
+        > com palavras ou atos, faz que se cumpra esta minha prece:
+        >
+        > honra o meu filho, aquele que acima de todos os outros
+        >
+        > está destinado a vida curta. Pois agora Agamêmnon, soberano
+        >
+        > dos homens, o desonrou, tirando-lhe o prêmio pela arrogância.
+        >
+        > Mas mostra-lhe tu a recompensa, ó conselheiro Zeus Olímpio!
+        >
+        > Concede a primazia aos Troianos, até que os Aqueus
+        >
+        > honrem meu filho e lhe paguem com honraria devida."
+        >
+        > Iliada, canto I:493-510; Tradução Frederico Lourenço.
+        >
+        > 
+
     - Músicas sobre Ilíada
+
       - Achilles come down
+
     - Filme Tróia (2014)
+
     - Filme [Electra, a vingadora (1962)](https://www.youtube.com/watch?v=vwB1FWzkU5Q)
+
 - Traduções de Ilíada
+
   - falar das diferentes traduções, umas focadas mais na poesia e outras na facilidade de leitura.
+
 - Textos gregos e romanos sobre a Guerra de Tróia
+
   - Ilíada, de Homero
   - Odisseia, de Homero
   - Oréstia, de Ésquilo
@@ -248,3 +411,7 @@ Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir
   - Eneida, de Virgílio
   - Ifigênia em Áulis, de Euripedes
   - Electra, de Euripedes
+  - As Troianas,de Eurípedes
+  - O Ciclo Troiano
+    - Iliu persis / O Saque de Troia
+    - Pequena Ilíada
