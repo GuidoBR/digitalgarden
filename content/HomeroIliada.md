@@ -4,6 +4,7 @@ title: "Iliad"
 
 #books
 
+A Ilíada é um poema sobre a guerra de Troia, que usa o fio condutor da cólera de Aquiles para contar sobre o conflito entre Gregos e Troianos.
 
 ## O Proêmio
 
@@ -61,12 +62,30 @@ Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir
 
 ## Os 24 Cantos
 
-1. A ira de Aquiles
+1. Ménis, a ira de Aquiles
 2. Os nomes e os navios
-3. Makhé - o duelo páris v menelau
+3. Makhé: o duelo Páris-Menelau
 4. Epiorkía: o perjúrio
-5. A gesta de diomedes
-6. Heitor e andrômaca: o adeus
+5. A gesta de Diomedes
+6. Heitor e Andrômaca: o adeus
+7. Heitor versus Ájax: combate singular
+8. Kólos mákhe: Combate interminável
+9. Embaixada a Aquiles. A súplica
+10. Ronda noturna: Doloneia
+11. A gesta de Agamêmnon
+12. Muromaquia: o assalto
+13. Paranaumaquia: combate junto às naus
+14. Diòs Apáte: Zeus Iludido
+15. Contra-ataque à beira-nau
+16. Patrocleia
+17. Aristeia: a gesta de Menelau
+18. Panóplia: as armas
+19. A Ira, Mênis, amaina
+20. Teomaquia: o combate dos deuses
+21. Mákhe parapotámos: Batalha à beira-rio
+22. Anaíresis: morte de Heitor
+23. Torneio em tributo à Pátroclo
+24. Héktoroslútra: Heitor resgatado
 
 
 ### A Ilha de Lesbos
@@ -94,6 +113,7 @@ Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir
 
 #### Books and texts
 
+- [Ilíada - Wikipedia](https://pt.wikipedia.org/wiki/Il%C3%ADada)
 - [Homero – Barbara Graziosi](https://editoramnema.com.br/livro/homero-barbara-graziosi/)
 - [The Anger of Achilles: Mênis in Greek Epic - Leonard Muellner](https://chs.harvard.edu/book/muellner-leonard-the-anger-of-achilles-menis-in-greek-epic-2/) - [video](https://www.youtube.com/watch?v=wZxFVCBNEao)
 - [Agamemnon, the Pathetic Despot: Reading Characterization in Homer - Andrew Porter](https://chs.harvard.edu/book/porter-andrew-agamemnon-the-pathetic-despot-reading-characterization-in-homer/)
@@ -101,6 +121,8 @@ Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir
 - [Bases da Cultura Ocidental - Volume 1- André Alonso](https://canal.cecierj.edu.br/recurso/15289)
 - [Teogonia – Hesíodo – Henry Bugalho (trad.)](https://kotter.com.br/loja/teogonia-hesiodo-henry-bugalho/) - [Henry Bugalho](https://twitter.com/henrybugalho/status/1160125985880268802)
 - [A Morte de Aquiles](https://aguerradetroia.wordpress.com/2013/03/02/a-morte-de-aquiles/)
+- [Um Grego te conta o verdadeiro mito das três Moiras](https://brazilgreece.com/as-tres-irmas-da-mitologia-grega/)
+- [Exegese alegórica de Homero](https://pt.wikipedia.org/wiki/Exegese_aleg%C3%B3rica_de_Homero)
 - [The best books on Greek Myths - recommended by Lucy Coats](https://fivebooks.com/best-books/greek-myths-lucy-coats/)
   - The Song of Achilles
   - The Greek Myths
@@ -134,7 +156,95 @@ Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir
 - [Alex Castro: Categoria: ilíada](https://alexcastro.com.br/category/grande-conversa/2a-aula-gregos/iliada/)
 - [Khan Academy - History - Classical Greece](https://www.khanacademy.org/humanities/world-history/ancient-medieval/classical-greece/v/overview-of-ancient-greece)
 - [Coursera - Greek And Roman Mythology](https://www.coursera.org/learn/mythology)
-- [On Reading Homer](https://www.coursera.org/lecture/mythology/1-7-on-reading-homer-0xrPb)
+- [On Reading Homer - Odyssey I.1-10](https://www.coursera.org/lecture/mythology/1-7-on-reading-homer-0xrPb)
 - [Coursera - Os Gregos Antigos](https://pt.coursera.org/learn/ancient-greeks)
 - [Clube de leitura Ilíada](https://drive.google.com/drive/folders/17EIkqFv4sFasbxQeYxz2Pu18sljUVpGk?usp=sharing)
 - [Cultura Ocidental: A origem da Literatura - BASES DA CULTURA OCIDENTAL](https://www.youtube.com/watch?v=PHHL1ENtS0c&list=PLdpq25FyrLLPcXyqXPvEJMpFW91_JV2HJ) - professor da UFF Fernando Tremoço
+
+
+
+----
+
+# Porque ler Ilíada?
+
+- O que é a Ilíada?
+  -  O termo epopeia provém do grego *epus*, que significa herói. Uma epopeia é um poema que narra as glórias, os dramas e as aventuras dos heróis.
+  - Ilion é o nome de Tróia.
+- Qual é o tema principal da Ilíada?
+  - Guerra de Tróia
+  - Cólera de Aquiles
+    - Proemio da Ilíada
+      - colocar múltiplas traduções
+    - *μῆνις* - *Mênis* - **Furia, ira, cólera**
+      - [The Anger of Achilles: Mênis in Greek Epic - Leonard Muellner](https://chs.harvard.edu/book/muellner-leonard-the-anger-of-achilles-menis-in-greek-epic-2/) - [video](https://www.youtube.com/watch?v=wZxFVCBNEao)
+- Quem foi o autor da Ilíada? Quem é Homero?
+- Ilíada é um poema escrito ou falado?
+  - Texto de Sócrates / Platão sobre a inferioridade do texto escrito se comparado com a memória
+- Onde está o famoso Cavalo de Troia?
+  - "A história da guerra foi contada primeiro na *[Ilíada](https://pt.wikipedia.org/wiki/Ilíada)* de [Homero](https://pt.wikipedia.org/wiki/Homero), mas ali o cavalo não é mencionado, só aparecendo brevemente na sua *[Odisseia](https://pt.wikipedia.org/wiki/Odisseia)*, que narra a acidentada viagem de [Odisseu](https://pt.wikipedia.org/wiki/Odisseu) de volta para casa. Outros escritores depois dele ampliaram e detalharam o episódio, tal como [Virgílio](https://pt.wikipedia.org/wiki/Virgílio) principalmente no seu escrito [Eneida](https://pt.wikipedia.org/wiki/Eneida), no livro II."
+- Como a Ilíada nos fala sobre a Guerra?
+  - [Kleos](https://pt.wikipedia.org/wiki/Kleos), κλέος, glória.
+  - Os adversários na guerra são elogiados ao invés de demonizados
+    - São elogiados porque quão mais forte for o guerreiro que você derrotar, maior é sua kleos, glória.
+    - Não precisam ser demonizados, transformados em "outro" (outgroup), em "orcs" como nas guerras modernas pois ambos os lados estão lutando por kleos.
+- O que a Ilíada nos fala sobre a vida?
+  - Destino e mitologia grega
+    - Deuses distintos lutando entre si para ora ajudar e ora atrapalhar os humanos.
+    - Zeus conhece o destino? Temos livre arbítrio?
+    - As [moiras](https://brazilgreece.com/as-tres-irmas-da-mitologia-grega/), Μοῖραι, as três irmãs que determinam o destino
+  - Pestes e epidemia
+    - A flecha de Apollo
+    - Cientistas x Profetas, quem fala a verdade nos tempos gregos e nos tempos atuais?
+  - Agon discursivo: briga de ideias, argumentos
+    - O Canto IX na história da filosofia
+    - Teoria do discurso de Aristóteles, baseada no Canto IX
+    - Retórica para os heróis gregos, retórica para os gregos
+    - "Para completar o quadro dos ideais e tradições homéricas, é preciso esquecer o conceito
+      moderno de “filósofo”, como sonhador metafísico ou como investigador intrépido de verdades novas e cada vez mais profundas. O filósofo grego é, em primeira linha, um retor, um “sofista”, um homem habilíssimo, que ensina mil recursos para vencer na vida política e judiciária; um descendente espiritual de Ulisses" - [História da Literatura Ocidental - vol 1, por Otto Maria Carpeaux](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjp276iltP2AhVrILkGHdMpAoEQFnoECFcQAQ&url=https%3A%2F%2Fwww2.senado.leg.br%2Fbdsf%2Fbitstream%2Fhandle%2Fid%2F528992%2F000826279_Historia_Literatura_Ocidental_vol.I.pdf%3Fsequence%3D1&usg=AOvVaw3Au5MdwKpQWrfStkZ6aBry), pdf página 73
+- O feminino na Iliada
+  - Helena
+  - Cassandra
+  - Criseida
+  - Andrómaca
+- O masculino na Iliada
+  - Aquiles
+  - Odisseu
+  - Agamenon
+  - Diomedes
+  - Ajax (gigante)
+  - Ajax (menor)
+  - Heitor
+  - Eneias
+  - Páris
+- O Divino na Iliada
+  - Zeus
+  - Atena
+  - Hera
+  - Apollo
+  - Poseidon
+  - Tétis
+- A importância cultural de Ilíada
+  - Ilíada como manual de conduta e ética grega
+    -  [Importância dos poemas de Homero na educação grega](https://mundoeducacao.uol.com.br/historiageral/importancia-dos-poemas-homero-na-educacao-grega.htm) 
+      - *[…] a importância  educadora de Homero é evidentemente mais vasta. Não se limita à  formulação expressa de problemas pedagógicos nem a algumas passagens que aspirem a produzir um determinado efeito moral. A poesia homérica é uma vasta e complexa obra do espírito, que não se pode reduzir a uma  fórmula única. Ao lado de fragmentos relativamente recentes que revelam  um interesse pedagógico expresso, aparecem outras passagens nas quais o  interesse pelos objetos descritos afasta a possibilidade de pensar uma  segunda intenção moral do poeta*. **[JAEGER, Werner. *Paideia: a formação do homem grego*. São Paulo: Martins Fontes, 1994. p. 59.]**
+  - Ilíada e o cânone ocidental
+    - "Um dos exemplos emblemáticos da  influência de Homero na Antiguidade é o de Alexandre Magno, imperador da Macedônia e grande conquistador. Alexandre sempre era visto com os  escritos de *Ilíada* e considerava-se um herdeiro direto do herói Aquiles."
+  - [Exegese alegórica de Homero](https://pt.wikipedia.org/wiki/Exegese_aleg%C3%B3rica_de_Homero)
+  - Ilíada na arte
+    - colocar algumas das imagens do curso mitologia na arte
+    - colocar Zeus e Tétis junto com o trecho da Ilíada que fala sobre isso (acho que está no canto II)
+    - Músicas sobre Ilíada
+      - Achilles come down
+    - Filme Tróia (2014)
+    - Filme [Electra, a vingadora (1962)](https://www.youtube.com/watch?v=vwB1FWzkU5Q)
+- Traduções de Ilíada
+  - falar das diferentes traduções, umas focadas mais na poesia e outras na facilidade de leitura.
+- Textos gregos e romanos sobre a Guerra de Tróia
+  - Ilíada, de Homero
+  - Odisseia, de Homero
+  - Oréstia, de Ésquilo
+  - Filoctetes, de Sófocles
+  - Ajax, de Sófocles
+  - Eneida, de Virgílio
+  - Ifigênia em Áulis, de Euripedes
+  - Electra, de Euripedes
