@@ -37,7 +37,6 @@ Canta, ó deusa, a cólera de Aquiles, o Pelida
 <p>trad. Machado de Assis [1904] - <a href="http://formasfixas.blogspot.com/2020/03/o-proemio-da-iliada.html">O proêmio da Ilíada</a></p>
 </blockquote>
 
-
 <img src="/images/Júpiter_y_Tetis,_por_Dominique_Ingres.jpg" alt="Main (male) characters of Iliad" style="zoom:50%;" />
 
 <img src="/images/iliada-characters.jpg" alt="Main (male) characters of Iliad" style="zoom:50%;" />
@@ -290,7 +289,27 @@ Já numa tradução pelo maior autor brasileiro, o Bruxo do Cosme Velho escreveu
 
 ## Onde está o Cavalo de Tróia?
 
+<img src="/images/Giovanni_Battista_Tiepolo_-_The_Procession_of_the_Trojan_Horse_into_Troy_c1760.jpg" alt="The Procession of the Trojan Horse into Troy - Giovanni Battista Tiepolo" style="zoom:50%;" />
 
+A Ilíada foca em acontecimentos no penúltimo ano da Guerra de Tróia, mas termina antes da queda da cidade. Não há nenhuma menção ao famoso Cavalo de Tróia. Esse acontecimento é descrito brevemente na Odisseia, quando os feitos da Guerra de Tróia estão sendo cantados e relembrados.
+
+Helena de Tróia desconfia do Cavalo e imita vozes de esposa de guerreiros gregos, para tentá-los:
+
+> "Sim, em tudo isso, esposa, disseste a verdade. Eu que viajei muito e cheguei a conhecer muitos heróis, nunca meus olhos viram alguém como Odisseu. Que perseverança, e que coragem ele mostrou dentro do cavalo de madeira, onde estavam todos os mais bravos dos argivos esperando para levar a morte e a destruição aos troianos. Naquele momento vieste a nós; algum deus que amava os troianos te mandou, trazendo contigo [Deífobo](https://pt.wikipedia.org/wiki/Deífobo). Três vezes tu andaste em volta do nosso esconderijo; tu chamaste nossos capitães cada qual por seu nome, imitando as vozes de suas esposas - [Diomedes](https://pt.wikipedia.org/wiki/Diomedes), Odisseu e eu, de nossos assentos, ouvimos o que dizias. Diomedes e eu não conseguíamos decidir se devíamos sair, ou se responder, mas Odisseu nos impediu, de modo que permanecemos em silêncio, exceto [Ânticlo](https://pt.wikipedia.org/w/index.php?title=Ânticlo&action=edit&redlink=1), que estava prestes a falar-te, quando Odisseu tapou-lhe a boca com suas mãos. Isso nos salvou a todos, até que Atena te fez ir embora"
+>
+> *Odisseia*
+
+Também é descrito como os guerreiros gregos estavam se sentindo dentro do Cavalo, momentos antes da tomada da cidade:
+
+> "Quando todos os mais bravos dos argivos estavam dentro do cavalo que Epeu havia criado, e quando tocou a mim decidir a oportunidade de abrir ou fechar a porta para nossa emboscada, embora todos os outros chefes entre os dânaos (gregos) estivessem enxugando seus olhos e tremendo em todos os seus membros, nunca o vi empalidecer ou derramar lágrimas de medo; ele em vez estava sempre urgindo que eu abrisse o cavalo e, de espada em punho, e com a lança de bronze, investíssemos em fúria contra o inimigo". 
+>
+> *Odisseia*, canto VIII
+
+Outros autores, como Vírgilio, detalham o que ocorreu no fim de Tróia. Na Eneida temos mais descrições sobre o Cavalo de Tróia e como foram os últimos momentos da cidade. No Livro II, o adivinho Laocoonte alertando seus compatriotas Troianos:
+
+> "Míseros cidadãos, quanta insânia! Estão de volta os gregos, ou julgais que seus presentes são livres de engodos? Desconheceis o caráter de Ulisses? Ou este lenho é esconderijo de inimigos, ou é máquina que, armada contra os muros, vem espiar e acometer-nos. Teucros (troianos), seja o que for, há dano oculto: desconfieis do monstro! Temo os dânaos mesmo quando dão presentes!".
+>
+> *Eneida*, livro II
 
 ## Influência cultural
 
