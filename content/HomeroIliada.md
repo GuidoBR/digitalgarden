@@ -181,6 +181,15 @@ A Ilíada é fala de um momento específico dessa guerra, onde Aquiles, o princi
 
 Ilíada é um texto com uma importância fundamental para a cultura da Grécia antiga, e influenciou toda a cultura ocidental desde então. Com diversas adaptações, recontagens e influências, é a base para muitas das histórias que são criadas ainda hoje.
 
+Segundo Harold Bloom, lemos Homero para:
+
+> **O uso autêntico que devemos fazer de Shakespeare ou de Cervantes, de Homero ou de Dan­
+> te, de Chaucer ou de Rabelais, é aquele que nos leva a expandir o eu mais interior de cada um.** Ler o Cânone em profundidade não fará de alguém uma pessoa melhor ou pior, um cidadão mais útil ou mais nocivo. O diálogo que a mente mantém consigo mesma não é essencialmente uma realidade social.
+>
+> **Tudo aquilo que o Cânone Ocidental pode trazer a alguém é a própria soli­dão desse alguém, aquela solidão cuja forma final é o confronto de cada um com a sua própria mortalidade.**
+>
+> Harold Bloom, O Cânone Ocidental, 5a edição (2013), página 42-43
+
 ## Homero: o autor da obra
 
 Há diversos debates sobre quem foi Homero, o poeta responsável pela obra. Há quem diga que ele não existiu, que foi um grupo de diversos autores. Há quem diga que ele era cego, e isso aumentou sua genialidade e seu poder poético. Os estudiosos do tema utilizam o termo **questão homérica** para se referir a debates sobre quem foi Homero.
@@ -232,6 +241,8 @@ O livro são divididos em 24 cantos, que um dos tradutores resolveu nomear da se
 
 ## O Proêmio
 
+**TODO Falar sobre o livro [The Anger of Achilles: Mênis in Greek Epic - Leonard Muellner](https://chs.harvard.edu/book/muellner-leonard-the-anger-of-achilles-menis-in-greek-epic-2/) - [video](https://www.youtube.com/watch?v=wZxFVCBNEao)**
+
 A chave para entender a Ilíada é o termo grego *μῆνις* - *Mênis* - **Furia, ira, cólera**. É o principal sentimento que guia Aquiles pela obra, o que causa momentos de beleza e de tragédia. Na edição lançada pela Companhia das Letras, temos o seguinte [proêmio](http://formasfixas.blogspot.com/2020/03/o-proemio-da-iliada.html):
 
 <blockquote>
@@ -269,7 +280,7 @@ Já numa tradução pelo maior autor brasileiro, o Bruxo do Cosme Velho escreveu
 
 ## Temas principais
 
-**TODO: Fazer um resumão da obra, falar sobre ak disputa entre Aquiles e Agamenon e termina antes da queda de Tróia.**
+**TODO: Fazer um resumão da obra, falar sobre a disputa entre Aquiles e Agamenon e termina antes da queda de Tróia.**
 
 ### Como a Ilíada nos fala sobre a guerra?
 
@@ -278,6 +289,63 @@ Já numa tradução pelo maior autor brasileiro, o Bruxo do Cosme Velho escreveu
 
 
 ## Onde está o Cavalo de Tróia?
+
+
+
+## Influência cultural
+
+### Ilíada como manual de conduta e ética para os gregos
+
+### Ilíada e Arte
+
+<img src="/images/Júpiter_y_Tetis,_por_Dominique_Ingres.jpg" alt="Main (male) characters of Iliad" style="zoom:50%;" />
+
+> Foi quando sobreveio a décima segunda aurora
+> que para o Olimpo regressaram os deuses que são para sempre,
+> todos juntos, e foi Zeus a liderá-los. Não olvidou Tétis
+> os pedidos de seu filho, mas emergiu de manhã cedo
+> da onda do mar e subiu ao rasgado céu, ao Olimpo.
+> Encontrou Zeus que vê ao longe sentado longe dos outros,
+> no píncaro mais elevado do Olimpo de muitos cumes.
+> Sentou-se junto dele e com a mão esquerda lhe agarrou
+> os joelhos, enquanto com a direita o segurava sob o queixo.
+> Em tom de súplica dirigiu a palavra a Zeus Crônida soberano:
+> "Zeus pai, se entre os imortais alguma vez te auxiliei
+> com palavras ou atos, faz que se cumpra esta minha prece:
+> honra o meu filho, aquele que acima de todos os outros
+> está destinado a vida curta. Pois agora Agamêmnon, soberano
+> dos homens, o desonrou, tirando-lhe o prêmio pela arrogância.
+> Mas mostra-lhe tu a recompensa, ó conselheiro Zeus Olímpio!
+> Concede a primazia aos Troianos, até que os Aqueus
+> honrem meu filho e lhe paguem com honraria devida."
+>
+> Iliada, canto I:493-510; Tradução Frederico Lourenço.
+
+<img src="/images/iliada-characters.jpg" alt="Main (male) characters of Iliad" style="zoom:60%;" />
+
+<img src="/images/Iliada-hector-paris-benjamin-west.jpg" alt="Iliad - Hector and Paris, by Benjamin West" style="zoom:60%;" />
+
+<img src="/images/iliada-paris-and-helene.jpg" alt="Iliad - Paris and Helene" style="zoom:65%;" />
+
+<img src="/images/Iliada-Achilles-Lamenting-the-Death-of-Patroclus.jpg" alt="Iliad - Achiles lamenting the Death of Patroclus" style="zoom:70%;" />
+
+### Ilíada e o Cânone Ocidental
+
+Ilíada e Odisseia são livros muito influentes na cultura Ocidental, sendo lido e referenciado por muitos autores ao longo dos séculos desde que foi criado. Foi lido por líderes e artistas, políticos e cidadãos comuns. É um livro que nos liga à humanidade, aos que já se foram e aos que ainda irão vir.
+
+Harold Bloom nos lembra que um dos personagens da Ilíada, Ulisses / Odisseu, já foi usado em diversas obras ao longo dos tempos.
+
+> Circundando a ardente reflexão poética de **Tennyson** (“Ulisses”), temos outras versões de Ulisses, desde a Odisséia, de **Homero**, e o Inferno, de **Dante**, a Tróilo e Créssida, de **Shakespeare**, e a transformação de Ulisses, operada por **Milton**, na figura do Satã dos primeiros livros de Paraíso Perdido. Indireto e contrapontístico, o “Ulisses” de Tennyson possui uma eloqüência notável, bastante acessível à memorização, talvez, porque, em muitos leitores, existe algo que promove uma imediata identificação com esse herói tão ambíguo, essa grande figura da Literatura Ocidental.
+>
+> *Como e Por Que Ler*, Harold Bloom, página 70
+
+#### Influencia na literatura romana
+
+**TODO Escrever sobre influência na Eneida**
+
+#### Influencia na literatura de língua portuguesa
+
+Em "*Os Lusíadas*" Camões faz diversas referências á Ilíada, por exemplo quando menciona o "sábio grego" que sabemos ser o Odisseu de muitos ardis. Quando ele cita "o Troiano", ele se refere a Eneias, contado por Virgílio em Eneida e herói troiano da Ilíada. Além disso, para Camões a "musa antiga" é a literatura grega e latina. O primeiro canto dos Lusíadas é claramente inspirado no modelo greco-romano de poema épico, revelando o assunto que o poema irá tratar, pedindo inspiração e proteção às Musas e a narrativa começa com o concílio dos Deuses no Olimpo. Canta, ó Musa!
 
 
 
