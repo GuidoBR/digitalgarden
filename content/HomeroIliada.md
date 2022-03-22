@@ -6,7 +6,9 @@ title: "Iliad"
 
 # Porque ler Ilíada?
 
-Ilíada é um poema épico grego que é um dos pilares da cultura ocidental. Trata da Guerra de Tróia (a cidade Ilíon; Ilíada significa contos de Ilíon), onde Gregos e Troianos disputam uma longa e sangrenta guerra que começou com uma disputa entre três deusas em um julgamento para saber quem é a mais bela. Por se tratar de uma epopeia (termo que provém do grego epus, significa história de heróis), é um dos textos fundamentais do período clássico. Narra as glórias e os dramas de incontáveis heróis, e nos conta o que é ser humano e questões que enfrentamos durante nossa vida.
+Ilíada é um poema épico grego, que acredita-se foi produzido no século VIII a.C., é uma obra fundamental para a cultura ocidental. O texto se desenrola por eventos da Guerra de Tróia (cidade que também é conhecida por *Ilíon*; portanto *Ilíada* significa contos de Ilíon), onde Gregos e Troianos disputam uma longa e sangrenta contenda que começou com uma desavença entre três deusas em um julgamento para saber quem é a mais bela. 
+
+Por se tratar de uma epopeia (termo que provém do grego epus que significa história de heróis), é um dos textos fundamentais do período clássico. Narra as glórias e os dramas de incontáveis heróis, e nos conta o que é ser humano e questões que enfrentamos durante nossa vida.
 
 A Ilíada é fala de um momento específico dessa guerra, onde Aquiles, o principal herói grego, se sente menosprezado pelo poderoso soberano Agamenom que lhe retira a Crisêida, prêmio que Aquiles recebeu por saquear uma cidade aliada dos Troianos. Nesse momento, Aquiles se sente irado e decide sair da luta -- deixando os gregos a mercê dos Troianos.
 
@@ -14,8 +16,7 @@ Ilíada é um texto com uma importância fundamental para a cultura da Grécia a
 
 Segundo Harold Bloom, lemos Homero para:
 
-> **O uso autêntico que devemos fazer de Shakespeare ou de Cervantes, de Homero ou de Dan­
-> te, de Chaucer ou de Rabelais, é aquele que nos leva a expandir o eu mais interior de cada um.** Ler o Cânone em profundidade não fará de alguém uma pessoa melhor ou pior, um cidadão mais útil ou mais nocivo. O diálogo que a mente mantém consigo mesma não é essencialmente uma realidade social.
+> **O uso autêntico que devemos fazer de Shakespeare ou de Cervantes, de Homero ou de Dante, de Chaucer ou de Rabelais, é aquele que nos leva a expandir o eu mais interior de cada um.** Ler o Cânone em profundidade não fará de alguém uma pessoa melhor ou pior, um cidadão mais útil ou mais nocivo. O diálogo que a mente mantém consigo mesma não é essencialmente uma realidade social.
 >
 > **Tudo aquilo que o Cânone Ocidental pode trazer a alguém é a própria soli­dão desse alguém, aquela solidão cuja forma final é o confronto de cada um com a sua própria mortalidade.**
 >
@@ -23,7 +24,9 @@ Segundo Harold Bloom, lemos Homero para:
 
 ## Homero: o autor da obra
 
-Há diversos debates sobre quem foi Homero, o poeta responsável pela obra. Há quem diga que ele não existiu, que foi um grupo de diversos autores. Há quem diga que ele era cego, e isso aumentou sua genialidade e seu poder poético. Os estudiosos do tema utilizam o termo **questão homérica** para se referir a debates sobre quem foi Homero.
+<img src="/images/Homer.webp" alt="Busto de Homero" style="zoom:20%;" />
+
+Há diversos debates sobre quem foi [Homero](https://www.britannica.com/biography/Homer-Greek-poet), o poeta responsável pela obra. Há quem diga que ele não existiu, que foi um grupo de diversos autores. Há quem diga que ele era cego, e isso aumentou sua genialidade e seu poder poético. Os estudiosos do tema utilizam o termo **questão homérica** para se referir a debates sobre quem foi Homero.
 
 O que sabemos, graças principalmente a pesquisa de [Milman Parry](https://pt.wikipedia.org/wiki/Milman_Parry) sobre tradição oral, é que Ilíada (e também Odisseia) são ricos poemas de uma tradição oral de uma cultura que valorizava os **Aedos** (*ἀοιδός*) que eram poetas-cantores que recitavam suas composições acompanhadas de lira. No texto podemos observar elementos característicos de uma cultura oral, que tinha diversas formas e fórmulas para facilitar a memória. Como exemplo podemos citar alguns epítetos que são bastante usados no texto Homérico: "*Aquiles de pés velozes*", "*Apolo que atua ao longe*", "*Zeus Crónida soberano*", "*Tétis dos pés prateados*", "*Hera dos alvos braços*", "*Aqueus de belas cnêmides*" ,"*Heitor, domador de cavalos*".
 
@@ -273,6 +276,13 @@ Harold Bloom nos lembra que um dos personagens da Ilíada, Ulisses / Odisseu, j�
 #### Influencia na literatura romana
 
 **TODO Escrever sobre influência na Eneida**
+
+#### Shakespeare
+
+**TODO Escrever sobre Trólio e Cresseida**
+- [Tersites](https://alexcastro.com.br/tersites-iliada-shakespeare/)
+- [Harold Bloom e os Fantasmas de Homero e de Shakespeare](https://www.jornalopcao.com.br/opcao-cultural/harold-bloom-e-os-fantasmas-de-homero-e-shakespeare-326165/)
+- [Homero em Shakespeare](http://ocoisodascoisas.blogspot.com/2009/01/homero-em-shakespeare.html)
 
 #### Influencia na literatura de língua portuguesa
 
