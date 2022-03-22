@@ -4,174 +4,6 @@ title: "Iliad"
 
 #books
 
-A Ilíada é um poema sobre a guerra de Troia, que usa o fio condutor da cólera de Aquiles para contar sobre o conflito entre Gregos e Troianos.
-
-## O Proêmio
-
-*μῆνις* - *Mênis* - **Furia, ira, cólera**
-
-<blockquote>
-Canta, ó deusa, a cólera de Aquiles, o Pelida
-<br>(mortífera!, que tantas dores trouxe aos Aqueus
-<br>e tantas almas valentes de heróis lançou no Hades,
-<br>ficando seus corpos como presa para cães e aves
-<br>de rapina, enquanto se cumpria a vontade de Zeus),
-<br>desde o momento em que primeiro se desentenderam
-<br>o Atrida, soberano dos homens, e o divino Aquiles.
-
-<p>trad. Frederico Lourenço [2005] - <a href="http://formasfixas.blogspot.com/2020/03/o-proemio-da-iliada.html">O proêmio da Ilíada</a></p>
-</blockquote>
-
-<blockquote>
-Ó deusa, canta a colera tremenda
-<br>Do filho de Peleu, o bravo Achilles,
-<br>Que numerosos males fez aos dânaos
-<br>E enviou, para o Orco, antes de tempo,
-<br>Mui grande cópia de valentes almas
-<br>De heroes, seus corpos dando a cães e abutres.
-<br>De Jupiter o mando se cumpria,
-<br>Desde o momento, em que discordia veiu
-<br>Inimizar aquelle heroe divino,
-<br>Com o Atrida, dos gregos commandante.
-
-<p>trad. Machado de Assis [1904] - <a href="http://formasfixas.blogspot.com/2020/03/o-proemio-da-iliada.html">O proêmio da Ilíada</a></p>
-</blockquote>
-
-<img src="/images/Júpiter_y_Tetis,_por_Dominique_Ingres.jpg" alt="Main (male) characters of Iliad" style="zoom:50%;" />
-
-<img src="/images/iliada-characters.jpg" alt="Main (male) characters of Iliad" style="zoom:50%;" />
-
-<img src="/images/Iliada-hector-paris-benjamin-west.jpg" alt="Iliad - Hector and Paris, by Benjamin West" style="zoom:50%;" />
-
-<img src="/images/iliada-paris-and-helene.jpg" alt="Iliad - Paris and Helene" style="zoom:50%;" />
-
-<img src="/images/Iliada-Achilles-Lamenting-the-Death-of-Patroclus.jpg" alt="Iliad - Achiles lamenting the Death of Patroclus" style="zoom:50%;" />
-
-
-> "3.000 anos das pessoas mais interessantes e inteligentes da humanidade falando sobre Ilíada." - Alex Castro
-
-
-Ésquilo - lutou na batalha da Maratona, antes de escrever suas grandes obras literárias e teatrais.
-
-Peça Ifigênia - Eurípides
-Filha de Agamenon que foi sacrificada para Artemis para os Gregos poderem partir pra Tróia
-
-"As Troianas"
-
-
-## Os 24 Cantos
-
-1. Ménis, a ira de Aquiles
-2. Os nomes e os navios
-3. Makhé: o duelo Páris-Menelau
-4. Epiorkía: o perjúrio
-5. A gesta de Diomedes
-6. Heitor e Andrômaca: o adeus
-7. Heitor versus Ájax: combate singular
-8. Kólos mákhe: Combate interminável
-9. Embaixada a Aquiles. A súplica
-10. Ronda noturna: Doloneia
-11. A gesta de Agamêmnon
-12. Muromaquia: o assalto
-13. Paranaumaquia: combate junto às naus
-14. Diòs Apáte: Zeus Iludido
-15. Contra-ataque à beira-nau
-16. Patrocleia
-17. Aristeia: a gesta de Menelau
-18. Panóplia: as armas
-19. A Ira, Mênis, amaina
-20. Teomaquia: o combate dos deuses
-21. Mákhe parapotámos: Batalha à beira-rio
-22. Anaíresis: morte de Heitor
-23. Torneio em tributo à Pátroclo
-24. Héktoroslútra: Heitor resgatado
-
-
-### A Ilha de Lesbos
-
-[Safo, a poeta da ilha de Lesbos cuja visão sobre amor e sexo atravessou 2.600 anos](https://www.bbc.com/portuguese/geral-47955780)
-
-### Tersites
-
-- [Dos homens públicos](https://blogs.oglobo.globo.com/blog-do-moreno/post/dos-homens-publicos-170813.html)
-- [Tersites, um criador de caso da Ilíada a Shakespeare](https://alexcastro.com.br/tersites-iliada-shakespeare/)
-- [A morte de Tersites](https://rafaelbrunhara.medium.com/a-morte-de-tersites-e390e9346917)
-- [Shakespeare - Tróilo e Créssida](https://shakespearebrasileiro.org/introducao-a-peca-troilo-e-cressida/)
-- [Térsites e a imprudência das palavras](http://eventosmitologiagrega.blogspot.com/2011/06/tersites-e-imprudencia-das-palavras.html) 
-- [O Bullying na Ilíada (Homero)](https://cursandohistoria.wordpress.com/2012/08/03/o-bullying-na-iliada/)
-- "Tersites (o velho do restelho) em Lusíadas, falando com Vasco da Gama que as grandes navegações estavam esvaziando Portugal e empobrecendo à população. Velho do Restelho no Cabo Carnaveral falando contra o Homem na Lua (por Saramago)."
-
-### Musics
-
-- [Achilles, come down](https://goldcult.art.blog/2020/12/19/the-french-parts-of-achilles-come-down-translations-and-literary-analysis/) 
-- [Ilíada, vv. 1-7 (música: C. Leonardo B. Antunes; tradução: Carlos Alberto Nunes)](https://youtu.be/1KDZtkSVSvc)
-
-
-
-### References and Courses
-
-#### Books and texts
-
-- [Ilíada - Wikipedia](https://pt.wikipedia.org/wiki/Il%C3%ADada)
-- [Homero – Barbara Graziosi](https://editoramnema.com.br/livro/homero-barbara-graziosi/)
-- [The Anger of Achilles: Mênis in Greek Epic - Leonard Muellner](https://chs.harvard.edu/book/muellner-leonard-the-anger-of-achilles-menis-in-greek-epic-2/) - [video](https://www.youtube.com/watch?v=wZxFVCBNEao)
-- [Agamemnon, the Pathetic Despot: Reading Characterization in Homer - Andrew Porter](https://chs.harvard.edu/book/porter-andrew-agamemnon-the-pathetic-despot-reading-characterization-in-homer/)
-- [O MUNDO DE HOMERO - Pierre Vidal-Naquet - Grupo Companhia das Letras](https://www.companhiadasletras.com.br/detalhe.php?codigo=11378)
-- [Bases da Cultura Ocidental - Volume 1- André Alonso](https://canal.cecierj.edu.br/recurso/15289)
-- [Teogonia – Hesíodo – Henry Bugalho (trad.)](https://kotter.com.br/loja/teogonia-hesiodo-henry-bugalho/) - [Henry Bugalho](https://twitter.com/henrybugalho/status/1160125985880268802)
-- [A Morte de Aquiles](https://aguerradetroia.wordpress.com/2013/03/02/a-morte-de-aquiles/)
-- [Um Grego te conta o verdadeiro mito das três Moiras](https://brazilgreece.com/as-tres-irmas-da-mitologia-grega/)
-- [Exegese alegórica de Homero](https://pt.wikipedia.org/wiki/Exegese_aleg%C3%B3rica_de_Homero)
-- [The best books on Greek Myths - recommended by Lucy Coats](https://fivebooks.com/best-books/greek-myths-lucy-coats/)
-  - The Song of Achilles
-  - The Greek Myths
-  - Ithaka
-  -  Tales from Ovid
-  -  The Children's Homer
-  -  Atticus the Storyteller's 100 Greek Myths
-- [The best Trojan War books](https://fivebooks.com/best-books/the-trojan-war-stephen-fry/)
-  -  The Ilíad
-  -  The Odyssey
-  -  The Aeneid
-  -  Posthomerica
-  -  The Tale of Troy
-  -  Troy
-
-#### Podcasts
-
-- [A History of Epic w/ Gregory Nagy & Leonard Muellner](https://www.greecepodcast.com/a-history-of-epic-w-gregory-nagy-leonard_muellner/)
-
-#### Videos
-
-- [Literatura Universal - Ilíada (Homero) - André Malta - Pgm 01](https://www.youtube.com/watch?v=mRtUgA3_Mmo&t=0s) - Entrevista com especialista em estudos clássicos gregos sobre a Ilíada.
-- [The Iliad, Scroll 1 - Reading Greek Tragedy Online](https://www.youtube.com/watch?v=SXANeKduRTk)
-- [Intro to Homeric Greek: Poetry of Grammar Iliad 1-9](https://www.youtube.com/watch?v=dX6xHUfvBK4)
-- [Ilíada (Homero) | Tatiana Feltrin](https://www.youtube.com/watch?v=s0ERA01legg) - Resenha de 26 min explicando o que é a Ilíada e como é a história.
-- [Why Homer Matters](https://www.youtube.com/watch?v=NhXTEETdkmk)
-
-#### Courses
-
-- [Introdução à Grande Conversa - Gregos: vingança & justiça na Ilíada e na Oréstia](https://www.facebook.com/groups/grandeconversa/posts/598431650868730/)
-- [Alex Castro: Categoria: ilíada](https://alexcastro.com.br/category/grande-conversa/2a-aula-gregos/iliada/)
-- [Khan Academy - History - Classical Greece](https://www.khanacademy.org/humanities/world-history/ancient-medieval/classical-greece/v/overview-of-ancient-greece)
-- [Coursera - Greek And Roman Mythology](https://www.coursera.org/learn/mythology)
-  - Course Readings
-    - Greek Tragedies, Volume 1, David Grene and Richmond Lattimore, trans. (Chicago) • 
-    - Greek Tragedies, Volume 3, David Grene and Richmond Lattimore , trans. (Chicago) • 
-    - Hesiod, Theogony and Works and Days, M. L. West, trans. (Oxford) • 
-    - Homeric Hymns, Sarah Ruden, trans. (Hackett) • 
-    - Homer, The Odyssey, Robert Fagles, trans. (Penguin)  • 
-    - Virgil, The Aeneid, Robert Fitzgerald, trans. (Vintage) • 
-    - Ovid, Metamorphoses, David Raeburn, trans. (Penguin)
-- [On Reading Homer - Odyssey I.1-10](https://www.coursera.org/lecture/mythology/1-7-on-reading-homer-0xrPb)
-- [Coursera - Os Gregos Antigos](https://pt.coursera.org/learn/ancient-greeks)
-- [Clube de leitura Ilíada](https://drive.google.com/drive/folders/17EIkqFv4sFasbxQeYxz2Pu18sljUVpGk?usp=sharing)
-- [Cultura Ocidental: A origem da Literatura - BASES DA CULTURA OCIDENTAL](https://www.youtube.com/watch?v=PHHL1ENtS0c&list=PLdpq25FyrLLPcXyqXPvEJMpFW91_JV2HJ) - professor da UFF Fernando Tremoço
-
-
-
-----
-
 # Porque ler Ilíada?
 
 Ilíada é um poema épico grego que é um dos pilares da cultura ocidental. Trata da Guerra de Tróia (a cidade Ilíon; Ilíada significa contos de Ilíon), onde Gregos e Troianos disputam uma longa e sangrenta guerra que começou com uma disputa entre três deusas em um julgamento para saber quem é a mais bela. Por se tratar de uma epopeia (termo que provém do grego epus, significa história de heróis), é um dos textos fundamentais do período clássico. Narra as glórias e os dramas de incontáveis heróis, e nos conta o que é ser humano e questões que enfrentamos durante nossa vida.
@@ -195,7 +27,7 @@ Há diversos debates sobre quem foi Homero, o poeta responsável pela obra. Há 
 
 O que sabemos, graças principalmente a pesquisa de [Milman Parry](https://pt.wikipedia.org/wiki/Milman_Parry) sobre tradição oral, é que Ilíada (e também Odisseia) são ricos poemas de uma tradição oral de uma cultura que valorizava os **Aedos** (*ἀοιδός*) que eram poetas-cantores que recitavam suas composições acompanhadas de lira. No texto podemos observar elementos característicos de uma cultura oral, que tinha diversas formas e fórmulas para facilitar a memória. Como exemplo podemos citar alguns epítetos que são bastante usados no texto Homérico: "*Aquiles de pés velozes*", "*Apolo que atua ao longe*", "*Zeus Crónida soberano*", "*Tétis dos pés prateados*", "*Hera dos alvos braços*", "*Aqueus de belas cnêmides*" ,"*Heitor, domador de cavalos*".
 
-Símiles são outro recurso de linguagem bastante utilizados na Ilíada, o que torna o texto mais vivido e memorável. A passagem que compara a marcha do exército grego ao barulho das ondas do mar é belíssima:
+Símiles são outro recurso de linguagem bastante utilizados na Ilíada (onde são chamados de [símiles homéricos](https://www.dartmouth.edu/library/digital/publishing/scott2009/)), o que torna o texto mais vivido e memorável. A passagem que compara a marcha do exército grego ao barulho das ondas do mar é belíssima:
 
 <blockquote>
 Tal como na praia de muitos ecos as ondas do mar são impelidas em rápida sucessão pelo sopro do Zéfiro e surge primeiro a crista no mar alto, mas depois ao rebentar contra a terra firme emite um enorme bramido e em torno dos promotórios incha e se levanta, cuspindo no ar a espuma salgada -- assim avançavam em rápida sucessão as falanges dos Dânaos para a guerra incessante.
@@ -206,6 +38,8 @@ Tal como na praia de muitos ecos as ondas do mar são impelidas em rápida suces
 É importante pensar em como a cultura grega pensava sobre a escrita. Platão declarava que a [linguagem é um *pharmakon*](http://coloquioslusofonia.blogspot.com/2011/11/platao-linguagem-e-um-pharmakon.html) (de onde vem nossos termos fármaco e farmácia), que pode ser um remédio ou um veneno ao possibilitar o registro e transmissão do conhecimento de forma mais facilitada.
 
 > “Essa descoberta [a escrita] provocará nas almas o esquecimento de quanto se aprende, devido à falta de exercício da memória, porque, confiados na escrita, recordar-se-ão de fora, graças a sinais estranhos, e não de dentro, espontaneamente, pelos seus próprios sinais. Por conseguinte, não descobriste um remédio para a memória, mas para a recordação. Aos estudiosos oferece a aparência da sabedoria e não a verdade, já que, recebendo, graças a ti, grande quantidade de conhecimentos, sem necessidade de instrução, considerar-se-ão muito sabedores, quando são, na sua maior parte ignorantes; são ainda de trato difícil, por terem a aparência de sábios e não o serem verdadeiramente. … Portanto, quem julgasse transmitir na escrita uma arte e quem, por sua vez, a recebesse, como se dessas letras escritas pudesse derivar algo de certo e de seguro, mostraria muita ingenuidade … se crêem que os discursos escritos são algo mais do que um meio de fazer recordar a quem as sabe já as matérias tratadas nesses escritos. … É isso precisamente … o que a escrita tem de estranho, que a torna muito semelhante à pintura. Na verdade, os produtos desta permanecem como seres vivos, mas, se lhes perguntares alguma coisa, respondem-te com um silêncio cheio de gravidade. O mesmo sucede também com os discursos escritos. Poderá parecer-te que o pensamento como que anima o que dizem; no entanto, se, movido pelo de aprender, os interrogares sobre o que acabam de dizer, revelam-te uma única coisa e sempre a mesma. E, se uma vez escrito, todo o discurso rola por todos os lugares, apresentando-se sempre do mesmo modo, tanto a quem o deseja ouvir como ainda a quem não mostra interesse algum, e não sabe a quem deve falar e a quem não deve. Além disso, maltratado e insultado injustamente, necessita sempre da ajuda do seu autor, uma vez que não é capaz de se defender e socorrer a si mesmo.” (*[Fedro](https://amzn.to/3eSebBL)*, c. 370 aEC.)
+
+Para ouvir o proêmio da Ilíada, em grego e em português: [Ilíada, vv. 1-7 (música: C. Leonardo B. Antunes; tradução: Carlos Alberto Nunes)](https://youtu.be/1KDZtkSVSvc)
 
 ## A estrutura do livro
 
@@ -282,44 +116,35 @@ Já numa tradução pelo maior autor brasileiro, o Bruxo do Cosme Velho escreveu
 ## Personagens principais
 
 - Helena
-
 - Cassandra
-
 - Criseida
-
 - Andrómaca
 
-  
-
 - Aquiles
-
 - Odisseu
-
 - Agamenon
-
 - Diomedes
-
 - Os dois Ajax
-
 - Heitor
-
 - Eneias
-
 - Páris
-
-  
-
+ 
 - Zeus
-
 - Atena
-
 - Hera
-
 - Apollo
-
 - Poseidon
-
 - Tétis
+
+### Tersites
+
+- [Dos homens públicos](https://blogs.oglobo.globo.com/blog-do-moreno/post/dos-homens-publicos-170813.html)
+- [Tersites, um criador de caso da Ilíada a Shakespeare](https://alexcastro.com.br/tersites-iliada-shakespeare/)
+- [A morte de Tersites](https://rafaelbrunhara.medium.com/a-morte-de-tersites-e390e9346917)
+- [Shakespeare - Tróilo e Créssida](https://shakespearebrasileiro.org/introducao-a-peca-troilo-e-cressida/)
+- [Térsites e a imprudência das palavras](http://eventosmitologiagrega.blogspot.com/2011/06/tersites-e-imprudencia-das-palavras.html) 
+- [O Bullying na Ilíada (Homero)](https://cursandohistoria.wordpress.com/2012/08/03/o-bullying-na-iliada/)
+- "Tersites (o velho do restelho) em Lusíadas, falando com Vasco da Gama que as grandes navegações estavam esvaziando Portugal e empobrecendo à população. Velho do Restelho no Cabo Carnaveral falando contra o Homem na Lua (por Saramago)."
 
 ## Temas principais
 
@@ -384,7 +209,9 @@ Outros autores, como Vírgilio, detalham o que ocorreu no fim de Tróia. Na Enei
 ### Ilíada e Arte
 
 - Músicas sobre Ilíada
-  - Achilles come down
+
+  - [Achilles, come down](https://goldcult.art.blog/2020/12/19/the-french-parts-of-achilles-come-down-translations-and-literary-analysis/) 
+
 - Filme Tróia (2014)
 - Filme [Electra, a vingadora (1962)](https://www.youtube.com/watch?v=vwB1FWzkU5Q)
 
@@ -466,4 +293,66 @@ Em "*Os Lusíadas*" Camões faz diversas referências á Ilíada, por exemplo qu
 
 - Falar das diferentes traduções, umas focadas mais na poesia e outras na facilidade de leitura.
 - **TODO Fazer referência a "O texto pelo avesso: a gênese das traduções em português da Ilíada - Tatiana Alvarenga Chanoca"**
+
+## Para se aprofundar
+
+### Textos e livros
+
+- [Ilíada - Wikipedia](https://pt.wikipedia.org/wiki/Il%C3%ADada)
+- [Homero – Barbara Graziosi](https://editoramnema.com.br/livro/homero-barbara-graziosi/)
+- [The Anger of Achilles: Mênis in Greek Epic - Leonard Muellner](https://chs.harvard.edu/book/muellner-leonard-the-anger-of-achilles-menis-in-greek-epic-2/) - [video](https://www.youtube.com/watch?v=wZxFVCBNEao)
+- [Agamemnon, the Pathetic Despot: Reading Characterization in Homer - Andrew Porter](https://chs.harvard.edu/book/porter-andrew-agamemnon-the-pathetic-despot-reading-characterization-in-homer/)
+- [O MUNDO DE HOMERO - Pierre Vidal-Naquet - Grupo Companhia das Letras](https://www.companhiadasletras.com.br/detalhe.php?codigo=11378)
+- [Bases da Cultura Ocidental - Volume 1- André Alonso](https://canal.cecierj.edu.br/recurso/15289)
+- [Teogonia – Hesíodo – Henry Bugalho (trad.)](https://kotter.com.br/loja/teogonia-hesiodo-henry-bugalho/) - [Henry Bugalho](https://twitter.com/henrybugalho/status/1160125985880268802)
+- [A Morte de Aquiles](https://aguerradetroia.wordpress.com/2013/03/02/a-morte-de-aquiles/)
+- [Um Grego te conta o verdadeiro mito das três Moiras](https://brazilgreece.com/as-tres-irmas-da-mitologia-grega/)
+- [Exegese alegórica de Homero](https://pt.wikipedia.org/wiki/Exegese_aleg%C3%B3rica_de_Homero)
+- [The Artistry of the Homeric Simile - by William C. Scott
+](https://www.dartmouth.edu/library/digital/publishing/scott2009/)
+- [The best books on Greek Myths - recommended by Lucy Coats](https://fivebooks.com/best-books/greek-myths-lucy-coats/)
+  - The Song of Achilles
+  - The Greek Myths
+  - Ithaka
+  - Tales from Ovid
+  - The Children's Homer
+  - Atticus the Storyteller's 100 Greek Myths
+- [The best Trojan War books](https://fivebooks.com/best-books/the-trojan-war-stephen-fry/)
+  -  The Ilíad
+  -  The Odyssey
+  -  The Aeneid
+  -  Posthomerica
+  -  The Tale of Troy
+  -  Troy
+
+### Podcasts
+
+- [A History of Epic w/ Gregory Nagy & Leonard Muellner](https://www.greecepodcast.com/a-history-of-epic-w-gregory-nagy-leonard_muellner/)
+
+### Vídeos
+
+- [Literatura Universal - Ilíada (Homero) - André Malta - Pgm 01](https://www.youtube.com/watch?v=mRtUgA3_Mmo&t=0s) - Entrevista com especialista em estudos clássicos gregos sobre a Ilíada.
+- [The Iliad, Scroll 1 - Reading Greek Tragedy Online](https://www.youtube.com/watch?v=SXANeKduRTk)
+- [Intro to Homeric Greek: Poetry of Grammar Iliad 1-9](https://www.youtube.com/watch?v=dX6xHUfvBK4)
+- [Ilíada (Homero) | Tatiana Feltrin](https://www.youtube.com/watch?v=s0ERA01legg) - Resenha de 26 min explicando o que é a Ilíada e como é a história.
+- [Why Homer Matters](https://www.youtube.com/watch?v=NhXTEETdkmk)
+
+### Cursos
+
+- [Introdução à Grande Conversa - Gregos: vingança & justiça na Ilíada e na Oréstia](https://www.facebook.com/groups/grandeconversa/posts/598431650868730/)
+- [Alex Castro: Categoria: ilíada](https://alexcastro.com.br/category/grande-conversa/2a-aula-gregos/iliada/)
+- [Khan Academy - History - Classical Greece](https://www.khanacademy.org/humanities/world-history/ancient-medieval/classical-greece/v/overview-of-ancient-greece)
+- [Coursera - Greek And Roman Mythology](https://www.coursera.org/learn/mythology)
+  - Course Readings
+    - Greek Tragedies, Volume 1, David Grene and Richmond Lattimore, trans. (Chicago) • 
+    - Greek Tragedies, Volume 3, David Grene and Richmond Lattimore , trans. (Chicago) • 
+    - Hesiod, Theogony and Works and Days, M. L. West, trans. (Oxford) • 
+    - Homeric Hymns, Sarah Ruden, trans. (Hackett) • 
+    - Homer, The Odyssey, Robert Fagles, trans. (Penguin)  • 
+    - Virgil, The Aeneid, Robert Fitzgerald, trans. (Vintage) • 
+    - Ovid, Metamorphoses, David Raeburn, trans. (Penguin)
+- [On Reading Homer - Odyssey I.1-10](https://www.coursera.org/lecture/mythology/1-7-on-reading-homer-0xrPb)
+- [Coursera - Os Gregos Antigos](https://pt.coursera.org/learn/ancient-greeks)
+- [Clube de leitura Ilíada](https://drive.google.com/drive/folders/17EIkqFv4sFasbxQeYxz2Pu18sljUVpGk?usp=sharing)
+- [Cultura Ocidental: A origem da Literatura - BASES DA CULTURA OCIDENTAL](https://www.youtube.com/watch?v=PHHL1ENtS0c&list=PLdpq25FyrLLPcXyqXPvEJMpFW91_JV2HJ) - professor da UFF Fernando Tremoço
 
