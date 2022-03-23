@@ -222,6 +222,7 @@ Outros autores, como Vírgilio, detalham o que ocorreu no fim de Tróia. Na Enei
 - Músicas sobre Ilíada
 
   - [Achilles, come down](https://goldcult.art.blog/2020/12/19/the-french-parts-of-achilles-come-down-translations-and-literary-analysis/) 
+  - [Mulheres de Atenas - Chico Buarque](https://www.youtube.com/watch?v=MabbVn0Rlv4)
 
 - Filme Tróia (2014)
 - Filme [Electra, a vingadora (1962)](https://www.youtube.com/watch?v=vwB1FWzkU5Q)
@@ -292,6 +293,10 @@ Harold Bloom nos lembra que um dos personagens da Ilíada, Ulisses / Odisseu, j�
 - [Harold Bloom e os Fantasmas de Homero e de Shakespeare](https://www.jornalopcao.com.br/opcao-cultural/harold-bloom-e-os-fantasmas-de-homero-e-shakespeare-326165/)
 - [Homero em Shakespeare](http://ocoisodascoisas.blogspot.com/2009/01/homero-em-shakespeare.html)
 
+#### Ulisses,  James Joyce
+
+**TODO**
+
 #### Influencia na literatura de língua portuguesa
 
 > Cessem do sábio Grego e do Troiano
@@ -306,6 +311,11 @@ Harold Bloom nos lembra que um dos personagens da Ilíada, Ulisses / Odisseu, j�
 > *Os Lusíadas*, Camôes. Canto I: 3
 
 Em "*Os Lusíadas*" Camões faz diversas referências á Ilíada, por exemplo quando menciona o "sábio grego" que sabemos ser o Odisseu de muitos ardis. Quando ele cita "o Troiano", ele se refere a Eneias, contado por Virgílio em Eneida e herói troiano da Ilíada. Além disso, para Camões a "musa antiga" é a literatura grega e latina. O primeiro canto dos Lusíadas é claramente inspirado no modelo greco-romano de poema épico, revelando o assunto que o poema irá tratar, pedindo inspiração e proteção às Musas e a narrativa começa com o concílio dos Deuses no Olimpo. Canta, ó Musa!
+
+#### Adaptações modernas
+
+- Helena de Tróia / Ulisses e Penelópe
+- A Canção de Aquiles
 
 ## Qual tradução da Ilíada ler?
 
