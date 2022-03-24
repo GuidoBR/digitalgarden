@@ -175,7 +175,9 @@ A Ilíada fala de um momento específico dessa guerra, onde Aquiles, o principal
 
 ### Como a Ilíada nos fala sobre a vida?
 
-- (**ἀρετή** [*areté*](https://pt.wikipedia.org/wiki/Aret%C3%AA) - adaptação perfeita, excelência, virtude; [*timé*](http://areteetime.blogspot.com/2010/08/arete-e-time-as-caracteristicas-do.html), a honra)
+- **ὕϐρις** [húbris](https://pt.wikipedia.org/wiki/H%C3%BAbris) "tudo o que passa da medida, descomedimento"
+	- Em certo jeito, a infração de Agamemnon no primeiro livro da Ilíada é relacionada com a húbris, por ter despojado Aquiles da parte da pilhagem que lhe deveria corresponder por justiça.
+- **ἀρετή** [*areté*](https://pt.wikipedia.org/wiki/Aret%C3%AA) - adaptação perfeita, excelência, virtude; [*timé*](http://areteetime.blogspot.com/2010/08/arete-e-time-as-caracteristicas-do.html), a honra
 - Destino e mitologia grega
   - Deuses distintos lutando entre si para ora ajudar e ora atrapalhar os humanos.
   - Zeus conhece o destino? Temos livre arbítrio?
@@ -306,6 +308,7 @@ Harold Bloom nos lembra que um dos personagens da Ilíada, Ulisses / Odisseu, j�
 >
 > *Como e Por Que Ler*, Harold Bloom, página 70
 
+
 - Textos gregos e romanos sobre a Guerra de Tróia
   - Ilíada, de Homero
   - Odisseia, de Homero
@@ -351,6 +354,18 @@ Cessem do sábio Grego e do Troiano
 </blockquote>
 
 Em "*Os Lusíadas*" Camões faz diversas referências á Ilíada, por exemplo quando menciona o "sábio grego" que sabemos ser o Odisseu de muitos ardis. Quando ele cita "o Troiano", ele se refere a Eneias, contado por Virgílio em Eneida e herói troiano da Ilíada. Além disso, para Camões a "musa antiga" é a literatura grega e latina. O primeiro canto dos Lusíadas é claramente inspirado no modelo greco-romano de poema épico, revelando o assunto que o poema irá tratar, pedindo inspiração e proteção às Musas e a narrativa começa com o concílio dos Deuses no Olimpo. Canta, ó Musa!
+
+#### Mestre dos Mares, de Patrick O'Brian
+
+- Mar cor de vinho: Ilíada, 23: 143
+- https://www.goodreads.com/quotes/10367207-certainly-he-had-heard-of-homer-and-had-indeed-looked
+- https://archive.nytimes.com/www.nytimes.com/books/98/10/18/specials/obrian-comesin.html
+- https://www.amazon.com/Wine-Dark-Vol-Aubrey-Maturin-Novels/dp/0393312445
+- https://wwnorton.com/books/9780393312447
+- https://en.wikipedia.org/wiki/Wine-dark_sea_(Homer)
+- https://www.jstor.org/stable/642564
+- https://clarkesworldmagazine.com/hoffman_01_13/
+- https://www.quora.com/Why-does-Homer-call-the-ocean-wine-dark-in-his-Iliad-and-Odyssey
 
 #### Adaptações modernas
 
