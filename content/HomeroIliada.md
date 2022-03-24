@@ -329,16 +329,18 @@ Harold Bloom nos lembra que um dos personagens da Ilíada, Ulisses / Odisseu, j�
 
 #### Influencia na literatura de língua portuguesa
 
-> Cessem do sábio Grego e do Troiano
-> As navegações grandes que fizeram;
-> Cale-se de Alexandre e de Trajano
-> A fama das vitórias que tiveram;
-> Que eu canto o peito ilustre Lusitano,
-> A quem Netuno e Marte obedeceram.
-> Cesse tudo o que a Musa antiga canta,
-> Que outro valor mais alto se levanta.
->
-> *Os Lusíadas*, Camôes. Canto I: 3
+<blockquote>
+Cessem do sábio Grego e do Troiano
+<br> As navegações grandes que fizeram;
+<br> Cale-se de Alexandre e de Trajano
+<br> A fama das vitórias que tiveram;
+<br> Que eu canto o peito ilustre Lusitano,
+<br> A quem Netuno e Marte obedeceram.
+<br> Cesse tudo o que a Musa antiga canta,
+<br> Que outro valor mais alto se levanta.
+
+<p><em>Os Lusíadas</em>, Camôes. Canto I: 3</p>
+</blockquote>
 
 Em "*Os Lusíadas*" Camões faz diversas referências á Ilíada, por exemplo quando menciona o "sábio grego" que sabemos ser o Odisseu de muitos ardis. Quando ele cita "o Troiano", ele se refere a Eneias, contado por Virgílio em Eneida e herói troiano da Ilíada. Além disso, para Camões a "musa antiga" é a literatura grega e latina. O primeiro canto dos Lusíadas é claramente inspirado no modelo greco-romano de poema épico, revelando o assunto que o poema irá tratar, pedindo inspiração e proteção às Musas e a narrativa começa com o concílio dos Deuses no Olimpo. Canta, ó Musa!
 
