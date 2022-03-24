@@ -10,7 +10,7 @@ Ilíada é um poema épico grego, que acredita-se foi produzido no século VIII 
 
 Por se tratar de uma epopeia (termo que provém do grego epus que significa história de heróis), é um dos textos fundamentais do período clássico. Narra as glórias e os dramas de incontáveis heróis, e nos conta o que é ser humano e questões que enfrentamos durante nossa vida.
 
-A Ilíada fala de um momento específico dessa guerra, onde Aquiles, o principal herói grego, se sente menosprezado pelo poderoso soberano Agamenom que lhe retira a Crisêida, uma mulher que é o prêmio que Aquiles recebeu por saquear uma cidade aliada dos Troianos. Nesse momento, Aquiles se sente irado e decide sair da luta -- deixando os gregos a mercê dos Troianos.
+**TODO Fazer um parágrafo mais pessoal, sobre minha experiência com a leitura da Ilíada**
 
 Ilíada é um texto com uma importância fundamental para a cultura da Grécia antiga, e influenciou toda a cultura ocidental desde então. Com diversas adaptações, recontagens e influências, é a base para muitas das histórias que são criadas ainda hoje.
 
@@ -37,14 +37,19 @@ O que sabemos, graças principalmente a pesquisa de [Milman Parry](https://pt.wi
 Símiles são outro recurso de linguagem bastante utilizados na Ilíada (onde são chamados de [símiles homéricos](https://www.dartmouth.edu/library/digital/publishing/scott2009/)), o que torna o texto mais vivido e memorável. A passagem que compara a marcha do exército grego ao barulho das ondas do mar é belíssima:
 
 <blockquote>
-Tal como na praia de muitos ecos as ondas do mar são impelidas em rápida sucessão pelo sopro do Zéfiro e surge primeiro a crista no mar alto, mas depois ao rebentar contra a terra firme emite um enorme bramido e em torno dos promotórios incha e se levanta, cuspindo no ar a espuma salgada -- assim avançavam em rápida sucessão as falanges dos Dânaos para a guerra incessante.
+Tal como na praia de muitos ecos as ondas do mar são impelidas
+<br> em rápida sucessão pelo sopro do Zéfiro e surge primeiro
+<br> a crista no mar alto, mas depois ao rebentar contra a terra firme
+<br> emite um enorme bramido e em torno dos promotórios
+<br> incha e se levanta, cuspindo no ar a espuma salgada --
+<br> assim avançavam em rápida sucessão as falanges dos Dânaos para a guerra incessante.
 
 <p>Ilíada, canto IV: 422-428</p>
 </blockquote>
 
 É importante pensar em como a cultura grega pensava sobre a escrita. Platão declarava que a [linguagem é um *pharmakon*](http://coloquioslusofonia.blogspot.com/2011/11/platao-linguagem-e-um-pharmakon.html) (de onde vem nossos termos fármaco e farmácia), que pode ser um remédio ou um veneno ao possibilitar o registro e transmissão do conhecimento de forma mais facilitada.
 
-> “Essa descoberta [a escrita] provocará nas almas o esquecimento de quanto se aprende, devido à falta de exercício da memória, porque, confiados na escrita, recordar-se-ão de fora, graças a sinais estranhos, e não de dentro, espontaneamente, pelos seus próprios sinais. Por conseguinte, não descobriste um remédio para a memória, mas para a recordação. Aos estudiosos oferece a aparência da sabedoria e não a verdade, já que, recebendo, graças a ti, grande quantidade de conhecimentos, sem necessidade de instrução, considerar-se-ão muito sabedores, quando são, na sua maior parte ignorantes; são ainda de trato difícil, por terem a aparência de sábios e não o serem verdadeiramente. … Portanto, quem julgasse transmitir na escrita uma arte e quem, por sua vez, a recebesse, como se dessas letras escritas pudesse derivar algo de certo e de seguro, mostraria muita ingenuidade … se crêem que os discursos escritos são algo mais do que um meio de fazer recordar a quem as sabe já as matérias tratadas nesses escritos. … É isso precisamente … o que a escrita tem de estranho, que a torna muito semelhante à pintura. Na verdade, os produtos desta permanecem como seres vivos, mas, se lhes perguntares alguma coisa, respondem-te com um silêncio cheio de gravidade. O mesmo sucede também com os discursos escritos. Poderá parecer-te que o pensamento como que anima o que dizem; no entanto, se, movido pelo de aprender, os interrogares sobre o que acabam de dizer, revelam-te uma única coisa e sempre a mesma. E, se uma vez escrito, todo o discurso rola por todos os lugares, apresentando-se sempre do mesmo modo, tanto a quem o deseja ouvir como ainda a quem não mostra interesse algum, e não sabe a quem deve falar e a quem não deve. Além disso, maltratado e insultado injustamente, necessita sempre da ajuda do seu autor, uma vez que não é capaz de se defender e socorrer a si mesmo.” (*[Fedro](https://amzn.to/3eSebBL)*, c. 370 aEC.)
+> “Essa descoberta (a escrita) provocará nas almas o esquecimento de quanto se aprende, devido à falta de exercício da memória, porque, confiados na escrita, recordar-se-ão de fora, graças a sinais estranhos, e não de dentro, espontaneamente, pelos seus próprios sinais. Por conseguinte, não descobriste um remédio para a memória, mas para a recordação. Aos estudiosos oferece a aparência da sabedoria e não a verdade, já que, recebendo, graças a ti, grande quantidade de conhecimentos, sem necessidade de instrução, considerar-se-ão muito sabedores, quando são, na sua maior parte ignorantes; são ainda de trato difícil, por terem a aparência de sábios e não o serem verdadeiramente. … Portanto, quem julgasse transmitir na escrita uma arte e quem, por sua vez, a recebesse, como se dessas letras escritas pudesse derivar algo de certo e de seguro, mostraria muita ingenuidade … se crêem que os discursos escritos são algo mais do que um meio de fazer recordar a quem as sabe já as matérias tratadas nesses escritos. … É isso precisamente … o que a escrita tem de estranho, que a torna muito semelhante à pintura. Na verdade, os produtos desta permanecem como seres vivos, mas, se lhes perguntares alguma coisa, respondem-te com um silêncio cheio de gravidade. O mesmo sucede também com os discursos escritos. Poderá parecer-te que o pensamento como que anima o que dizem; no entanto, se, movido pelo de aprender, os interrogares sobre o que acabam de dizer, revelam-te uma única coisa e sempre a mesma. E, se uma vez escrito, todo o discurso rola por todos os lugares, apresentando-se sempre do mesmo modo, tanto a quem o deseja ouvir como ainda a quem não mostra interesse algum, e não sabe a quem deve falar e a quem não deve. Além disso, maltratado e insultado injustamente, necessita sempre da ajuda do seu autor, uma vez que não é capaz de se defender e socorrer a si mesmo.” (*[Fedro](https://amzn.to/3eSebBL)*, c. 370 aEC.)
 
 Para ouvir o proêmio da Ilíada, em grego e em português: [Ilíada, vv. 1-7 (música: C. Leonardo B. Antunes; tradução: Carlos Alberto Nunes)](https://youtu.be/1KDZtkSVSvc)
 
@@ -159,6 +164,8 @@ Já numa tradução pelo maior autor brasileiro, o Bruxo do Cosme Velho escreveu
 
 **TODO: Fazer um resumão da obra, falar sobre a disputa entre Aquiles e Agamenon e termina antes da queda de Tróia.**
 
+A Ilíada fala de um momento específico dessa guerra, onde Aquiles, o principal herói grego, se sente menosprezado pelo poderoso soberano Agamenom que lhe retira a Crisêida, uma mulher que é o prêmio que Aquiles recebeu por saquear uma cidade aliada dos Troianos. Nesse momento, Aquiles se sente irado e decide sair da luta -- deixando os gregos a mercê dos Troianos.
+
 ### Como a Ilíada nos fala sobre a guerra?
 
 - [Kleos](https://pt.wikipedia.org/wiki/Kleos), κλέος, glória.
@@ -172,7 +179,7 @@ Já numa tradução pelo maior autor brasileiro, o Bruxo do Cosme Velho escreveu
 - Destino e mitologia grega
   - Deuses distintos lutando entre si para ora ajudar e ora atrapalhar os humanos.
   - Zeus conhece o destino? Temos livre arbítrio?
-  - As [moiras](https://brazilgreece.com/as-tres-irmas-da-mitologia-grega/), Μοῖραι, as três irmãs que determinam o destino
+  - As [moiras](https://brazilgreece.com/as-tres-irmas-da-mitologia-grega/), Μοῖραι, as três irmãs que determinam o destino (?)
 - Pestes e epidemia
   - A flecha de Apollo
   - Cientistas x Profetas, quem fala a verdade nos tempos gregos e nos tempos atuais?
@@ -180,8 +187,9 @@ Já numa tradução pelo maior autor brasileiro, o Bruxo do Cosme Velho escreveu
   - O Canto IX na história da filosofia
   - Teoria do discurso de Aristóteles, baseada no Canto IX
   - Retórica para os heróis gregos, retórica para os gregos
-  - "Para completar o quadro dos ideais e tradições homéricas, é preciso esquecer o conceito
-    moderno de “filósofo”, como sonhador metafísico ou como investigador intrépido de verdades novas e cada vez mais profundas. O filósofo grego é, em primeira linha, um retor, um “sofista”, um homem habilíssimo, que ensina mil recursos para vencer na vida política e judiciária; um descendente espiritual de Ulisses" - [História da Literatura Ocidental - vol 1, por Otto Maria Carpeaux](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjp276iltP2AhVrILkGHdMpAoEQFnoECFcQAQ&url=https%3A%2F%2Fwww2.senado.leg.br%2Fbdsf%2Fbitstream%2Fhandle%2Fid%2F528992%2F000826279_Historia_Literatura_Ocidental_vol.I.pdf%3Fsequence%3D1&usg=AOvVaw3Au5MdwKpQWrfStkZ6aBry), pdf página 73
+  > "Para completar o quadro dos ideais e tradições homéricas, é preciso esquecer o conceito  moderno de “filósofo”, como sonhador metafísico ou como investigador intrépido de verdades novas e cada vez mais profundas. O filósofo grego é, em primeira linha, um retor, um “sofista”, um homem habilíssimo, que ensina mil recursos para vencer na vida política e judiciária; um descendente espiritual de Ulisses"
+  > 
+  > [História da Literatura Ocidental - vol 1, por Otto Maria Carpeaux](https://www2.senado.leg.br/bdsf/item/id/528992), página 73
 
 ## Onde está o Cavalo de Tróia?
 
