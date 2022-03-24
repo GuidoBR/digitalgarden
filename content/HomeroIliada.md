@@ -25,7 +25,7 @@ Segundo Harold Bloom, lemos Homero para:
 ## Homero: o autor da obra
 
 <figure>
-	<a href="/images/Homer.webp" target="_blank"><img src="/images/Homer.webp" alt="Busto de Homero" style="zoom:20%;" /></a>
+	<a href=https://www.britannica.com/biography/Homer-Greek-poet" target="_blank"><img src="/images/Homer.webp" alt="Busto de Homero" style="zoom:20%;" /></a>
 	<figcaption>Busto com representação tradicional de Homero</figcaption>
 </figure>
 
@@ -218,6 +218,19 @@ Outros autores, como Vírgilio, detalham o que ocorreu no fim de Tróia. Na Enei
 - [Exegese alegórica de Homero](https://pt.wikipedia.org/wiki/Exegese_aleg%C3%B3rica_de_Homero)
 
 ### Ilíada e Arte
+
+<figure>
+	<a href="https://collections.louvre.fr/en/ark:/53355/cl010063647" target="_blank"><img src="/images/The_Love_of_Paris_and_Helen_by_Jacques-Louis_David.jpg" alt="Paris e Helena" style="zoom:100%;" /></a>
+	<figcaption><em>Les amours de Pâris et d'Hélène</em>, (1788),  Jacques-Louis David.</figcaption>
+</figure>
+
+<figure>
+	<a href="https://en.wikipedia.org/wiki/The_Ambassadors_of_Agamemnon_in_the_tent_of_Achille" target="_blank"><img src="/images/The_Envoys_of_Agamemnon_by_Ingres.jpg" alt="Aquiles e os embaixadores de Agamemnon" style="zoom:100%;" /></a>
+	<figcaption><em>The Ambassadors of Agamemnon in the tent of Achilles</em> (1801), Ingres
+</em>, 1788,  Jacques-Louis David.</figcaption>
+</figure>
+
+- [Works based on Iliad](https://en.wikipedia.org/wiki/Category:Works_based_on_the_Iliad)
 
 - Músicas sobre Ilíada
 
