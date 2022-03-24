@@ -127,6 +127,8 @@ Já numa tradução pelo maior autor brasileiro, o Bruxo do Cosme Velho escreveu
 - Criseida
 - Andrómaca
 
+<img src="/images/iliada-characters.jpg" alt="Personagens masculinos principais de Ilíada" style="zoom:60%;" />
+
 - Aquiles
 - Odisseu
 - Agamenon
@@ -230,46 +232,61 @@ Outros autores, como Vírgilio, detalham o que ocorreu no fim de Tróia. Na Enei
 </em>, 1788,  Jacques-Louis David.</figcaption>
 </figure>
 
+<figure>
+	<a href="/images/Júpiter_y_Tetis,_por_Dominique_Ingres.jpg" target="_blank"><img src="/images/Júpiter_y_Tetis,_por_Dominique_Ingres.jpg" alt="Zeus e Tétis" style="zoom:50%;" /></a>
+	<figcaption><em>Júpiter and Tetis</em>, Dominique Ingres.</figcaption>
+</figure>
+
+<blockquote>
+Foi quando sobreveio a décima segunda aurora
+<br> que para o Olimpo regressaram os deuses que são para sempre,
+<br> todos juntos, e foi Zeus a liderá-los. Não olvidou Tétis
+<br> os pedidos de seu filho, mas emergiu de manhã cedo
+<br> da onda do mar e subiu ao rasgado céu, ao Olimpo.
+<br> Encontrou Zeus que vê ao longe sentado longe dos outros,
+<br> no píncaro mais elevado do Olimpo de muitos cumes.
+<br> Sentou-se junto dele e com a mão esquerda lhe agarrou
+<br> os joelhos, enquanto com a direita o segurava sob o queixo.
+<br> Em tom de súplica dirigiu a palavra a Zeus Crônida soberano:
+<br> "Zeus pai, se entre os imortais alguma vez te auxiliei
+<br> com palavras ou atos, faz que se cumpra esta minha prece:
+<br> honra o meu filho, aquele que acima de todos os outros
+<br> está destinado a vida curta. Pois agora Agamêmnon, soberano
+<br> dos homens, o desonrou, tirando-lhe o prêmio pela arrogância.
+<br> Mas mostra-lhe tu a recompensa, ó conselheiro Zeus Olímpio!
+<br> Concede a primazia aos Troianos, até que os Aqueus
+<br> honrem meu filho e lhe paguem com honraria devida."
+
+<p>liada, canto I:493-510; Tradução Frederico Lourenço.</p>
+</blockquote>
+
+<figure>
+	<a href="/images/Iliada-hector-paris-benjamin-west.jpg" target="_blank"><img src="/images/Iliada-hector-paris-benjamin-west.jpg" alt="Iliada - Heitor e Paris" style="zoom:60%;" /></a>
+	<figcaption><em>Hector and Paris</em>, Benjamin West.</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/Iliada-hector-paris-benjamin-west.jpg" target="_blank"><img src="/images/Iliada-hector-paris-benjamin-west.jpg" alt="Iliada - Heitor e Paris" style="zoom:60%;" /></a>
+	<figcaption><em>Hector and Paris</em>, Benjamin West.</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/iliada-paris-and-helene.jpg" target="_blank"><img src="/images/iliada-paris-and-helene.jpg" alt="Paris eHelena" style="zoom:65%;" /></a>
+	<figcaption><em>Pari and Helene</em></figcaption>
+</figure>
+
+<figure>
+	<a href="/images/Iliada-Achilles-Lamenting-the-Death-of-Patroclus.jpg" target="_blank"><img src="/images/Iliada-Achilles-Lamenting-the-Death-of-Patroclus.jpg" alt="Iliada - Aquiles lamentando a morte de Patroclo " style="zoom:70%;" /></a>
+	<figcaption><em>Achiles lamenting the Death of Patroclus</em></figcaption>
+</figure>
+
 - [Works based on Iliad](https://en.wikipedia.org/wiki/Category:Works_based_on_the_Iliad)
-
 - Músicas sobre Ilíada
-
   - [Achilles, come down](https://goldcult.art.blog/2020/12/19/the-french-parts-of-achilles-come-down-translations-and-literary-analysis/) 
   - [Mulheres de Atenas - Chico Buarque](https://www.youtube.com/watch?v=MabbVn0Rlv4)
-
 - Filme Tróia (2014)
 - Filme [Electra, a vingadora (1962)](https://www.youtube.com/watch?v=vwB1FWzkU5Q)
-
-<img src="/images/Júpiter_y_Tetis,_por_Dominique_Ingres.jpg" alt="Main (male) characters of Iliad" style="zoom:50%;" />
-
-> Foi quando sobreveio a décima segunda aurora
-> que para o Olimpo regressaram os deuses que são para sempre,
-> todos juntos, e foi Zeus a liderá-los. Não olvidou Tétis
-> os pedidos de seu filho, mas emergiu de manhã cedo
-> da onda do mar e subiu ao rasgado céu, ao Olimpo.
-> Encontrou Zeus que vê ao longe sentado longe dos outros,
-> no píncaro mais elevado do Olimpo de muitos cumes.
-> Sentou-se junto dele e com a mão esquerda lhe agarrou
-> os joelhos, enquanto com a direita o segurava sob o queixo.
-> Em tom de súplica dirigiu a palavra a Zeus Crônida soberano:
-> "Zeus pai, se entre os imortais alguma vez te auxiliei
-> com palavras ou atos, faz que se cumpra esta minha prece:
-> honra o meu filho, aquele que acima de todos os outros
-> está destinado a vida curta. Pois agora Agamêmnon, soberano
-> dos homens, o desonrou, tirando-lhe o prêmio pela arrogância.
-> Mas mostra-lhe tu a recompensa, ó conselheiro Zeus Olímpio!
-> Concede a primazia aos Troianos, até que os Aqueus
-> honrem meu filho e lhe paguem com honraria devida."
->
-> Iliada, canto I:493-510; Tradução Frederico Lourenço.
-
-<img src="/images/iliada-characters.jpg" alt="Main (male) characters of Iliad" style="zoom:60%;" />
-
-<img src="/images/Iliada-hector-paris-benjamin-west.jpg" alt="Iliad - Hector and Paris, by Benjamin West" style="zoom:60%;" />
-
-<img src="/images/iliada-paris-and-helene.jpg" alt="Iliad - Paris and Helene" style="zoom:65%;" />
-
-<img src="/images/Iliada-Achilles-Lamenting-the-Death-of-Patroclus.jpg" alt="Iliad - Achiles lamenting the Death of Patroclus" style="zoom:70%;" />
+- Opera: [King Priam](https://en.wikipedia.org/wiki/King_Priam)
 
 ### Ilíada e o Cânone Ocidental
 
@@ -369,6 +386,7 @@ Em "*Os Lusíadas*" Camões faz diversas referências á Ilíada, por exemplo qu
 ### Podcasts
 
 - [A History of Epic w/ Gregory Nagy & Leonard Muellner](https://www.greecepodcast.com/a-history-of-epic-w-gregory-nagy-leonard_muellner/)
+- [Noites Gregas - Homero o Senhor do Olimpo](https://noitesgregas.com.br/episodios/5-homero-o-senhor-do-olimpo/)
 
 ### Vídeos
 
