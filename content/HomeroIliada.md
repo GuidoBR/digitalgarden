@@ -142,7 +142,7 @@ Já numa tradução pelo maior autor brasileiro, o Bruxo do Cosme Velho escreveu
 - Heitor
 - Eneias
 - Páris
- 
+
 - Zeus
 - Atena
 - Hera
@@ -176,19 +176,68 @@ A Ilíada fala de um momento específico dessa guerra, onde Aquiles, o principal
 ### Como a Ilíada nos fala sobre a vida?
 
 - **ὕϐρις** [húbris](https://pt.wikipedia.org/wiki/H%C3%BAbris) "tudo o que passa da medida, descomedimento"
-	- Em certo jeito, a infração de Agamemnon no primeiro livro da Ilíada é relacionada com a húbris, por ter despojado Aquiles da parte da pilhagem que lhe deveria corresponder por justiça.
+	
+	- Em certo jeito, a infração de Agamêmnon no primeiro livro da Ilíada é relacionada com a húbris, por ter despojado Aquiles da parte da pilhagem que lhe deveria corresponder por justiça.
+	
 - **ἀρετή** [*areté*](https://pt.wikipedia.org/wiki/Aret%C3%AA) - adaptação perfeita, excelência, virtude; [*timé*](http://areteetime.blogspot.com/2010/08/arete-e-time-as-caracteristicas-do.html), a honra
+
+- **Λύσσα** [lýssa](https://en.wikipedia.org/wiki/Lyssa) (exemplos: Ajax, Herácles)
+
+- **Ἄτη** [atë](https://en.wikipedia.org/wiki/At%C3%AB) - desvairio (Agamêmnon, Canto IX, 18; 116)
+
+- **Ἔλεος** [eleos]https://en.wikipedia.org/wiki/Eleos - compaixão, empatia, piedade. É o que Príamo consegue provocar em Aquiles, quando ele (um rei idoso que acabara de perder o filho querido) vai à tenda de Aquiles suplicar pelo corpo de seu filho e beija na mão do Aquiles -- que foi seu assassino. Esse sentimento foi o único que fez parar a cólera / *mênis* de Aquiles Presentes, dinheiro, gregos sofrendo, discursos e argumentos lógicos do melhor orador, nada disso conseguiu frear a cólera de Aquiles, somente *eleos* (compaixão).
+
+  - Para os gregos, os sentimentos e emoções são coisas externas que os acometem, e de certa forma isso os poupa de culpa por seus erros. Eros e Afrodite são culpados quando os gregos se apaixonam. Zeus ou algum outro deus é culpado pelo desvairio (até) de Agamêmnon, que o levou a desrespeitar Aquiles. 
+
 - Destino e mitologia grega
+
   - Deuses distintos lutando entre si para ora ajudar e ora atrapalhar os humanos.
   - Zeus conhece o destino? Temos livre arbítrio?
   - As [moiras](https://brazilgreece.com/as-tres-irmas-da-mitologia-grega/), Μοῖραι, as três irmãs que determinam o destino (?)
+
 - Pestes e epidemia
   - A flecha de Apollo
   - Cientistas x Profetas, quem fala a verdade nos tempos gregos e nos tempos atuais?
-- Agon discursivo: briga de ideias, argumentos
+  
+- Agon discursivo: batalha de ideias, batalha de retórica, argumentos
+
+  - Um povo que não tem a escrita, valoriza muito a retórica. Toda a construção de mundo, a persuação e a troca de conhecimento deve ser feita pela retórica.
+  - Odisseu faz um discurso usando lógica e fatos para tentar convencer Aquiles (Canto IX, 225). Depois usa argumentos patéticos (de pathos) e de autoridade ( "Foi a ti que teu pai Peleu deu esta incumbência"). Depois acusa Aquiles de esquecer o conselho de seu pai Peleu, o que é uma acusação pesada na sociedade grega baseada na oralidade, onde o esquecimento significa o fim.
+
+    > "Atrida, lutarei primeiro contra ti na tua loucura, onde é lícito,
+    > ó soberano, que o faça: na assembleia." 
+    >
+    > 
+    >
+    > Ilíada, Canto IX 32-33
+
+<blockquote>
+Tidida, no que toca à guerra és muito possante,
+<br>e no conselho és o melhor dos teus coetâneos.
+<br>Ninguém amesquinhará o teu discurso entre os Aqueus,
+<br>nem refutará; mas não atingiste ainda a perfeição das palavras.
+<br><br>(...) Homem sem raça, sem lei e sem lar é aquele
+<br>que ama a guerra terrível entre o seu próprio povo.
+<br><br>(...) <strong>E quando muitos estão reunidos, deixater-te-às convencer por aquele 
+<br>que emitir o melhor conselho</strong>
+
+<p><em>Ilíada</em> Canto IX - 53-75</p>
+</blockquote>
+
+Quando aconselhar um amigo, diga:
+> tecer-lhes a teia da prudência
+> IX - 93
+> 
+
+Frase famosa da literatura e do pensamento grego:
+> Como os portões do Hades me é odioso aquele homem que esconde uma coisa na mente, mas diz outra.
+> Ilíada. Canto IX: 322-323
+
   - O Canto IX na história da filosofia
-  - Teoria do discurso de Aristóteles, baseada no Canto IX
-  - Retórica para os heróis gregos, retórica para os gregos
+    - Teoria do discurso de Aristóteles, baseada no Canto IX
+      - [Retórica](https://www.amazon.com.br/dp/B07SXJCMN7/), livro I
+  - Retórica para os heróis e cidadãos gregos
+
   > "Para completar o quadro dos ideais e tradições homéricas, é preciso esquecer o conceito  moderno de “filósofo”, como sonhador metafísico ou como investigador intrépido de verdades novas e cada vez mais profundas. O filósofo grego é, em primeira linha, um retor, um “sofista”, um homem habilíssimo, que ensina mil recursos para vencer na vida política e judiciária; um descendente espiritual de Ulisses"
   > 
   > [História da Literatura Ocidental - vol 1, por Otto Maria Carpeaux](https://www2.senado.leg.br/bdsf/item/id/528992), página 73
@@ -357,7 +406,15 @@ Em "*Os Lusíadas*" Camões faz diversas referências á Ilíada, por exemplo qu
 
 #### Mestre dos Mares, de Patrick O'Brian
 
-- Mar cor de vinho: Ilíada, 23: 143
+<blockquote>
+Foi então que pensou outra coisa o divino Aquiles de pés velozes
+<br>pôs-se de pé, afastado da pira, e cortou uma loira madeixa,
+<br>cujo comprimento ele mantinha prometido ao rio Esperqueio.
+<br>Entristecido assim disse, fitando o mar cor de vinho
+
+<p>Ilíada, Canto XXIII: 140-143</p>
+</blockquote>
+
 - https://www.goodreads.com/quotes/10367207-certainly-he-had-heard-of-homer-and-had-indeed-looked
 - https://archive.nytimes.com/www.nytimes.com/books/98/10/18/specials/obrian-comesin.html
 - https://www.amazon.com/Wine-Dark-Vol-Aubrey-Maturin-Novels/dp/0393312445
@@ -382,6 +439,7 @@ Em "*Os Lusíadas*" Camões faz diversas referências á Ilíada, por exemplo qu
 ### Textos e livros
 
 - [Ilíada - Wikipedia](https://pt.wikipedia.org/wiki/Il%C3%ADada)
+- [Posfácio de Trajano Vieira](https://aterraeredonda.com.br/iliada/)
 - [Homero – Barbara Graziosi](https://editoramnema.com.br/livro/homero-barbara-graziosi/)
 - [The Anger of Achilles: Mênis in Greek Epic - Leonard Muellner](https://chs.harvard.edu/book/muellner-leonard-the-anger-of-achilles-menis-in-greek-epic-2/) - [video](https://www.youtube.com/watch?v=wZxFVCBNEao)
 - [Agamemnon, the Pathetic Despot: Reading Characterization in Homer - Andrew Porter](https://chs.harvard.edu/book/porter-andrew-agamemnon-the-pathetic-despot-reading-characterization-in-homer/)
@@ -439,4 +497,8 @@ Em "*Os Lusíadas*" Camões faz diversas referências á Ilíada, por exemplo qu
 - [Coursera - Os Gregos Antigos](https://pt.coursera.org/learn/ancient-greeks)
 - [Clube de leitura Ilíada](https://drive.google.com/drive/folders/17EIkqFv4sFasbxQeYxz2Pu18sljUVpGk?usp=sharing)
 - [Cultura Ocidental: A origem da Literatura - BASES DA CULTURA OCIDENTAL](https://www.youtube.com/watch?v=PHHL1ENtS0c&list=PLdpq25FyrLLPcXyqXPvEJMpFW91_JV2HJ) - professor da UFF Fernando Tremoço
+
+### Teatro
+
+- [IlíadaHomero - Companhia de Teatro](https://iliadahomero.wordpress.com/category/apresentacoes-dos-cantos/)
 
