@@ -11,7 +11,7 @@ title: Books
 - [[Taleb2010TheBedOfProcrustes]]
 - [[Gleick2011Information]]
 - [[Rhodes2020HowToMakeAVaccine]]
-- [[Christakis2019Blueprint.md]]
+- [[Christakis2019Blueprint]]
 - [[Oakley2014MindforNumbers]]
 - [[Levin2016BlackHoleBlues]]
 - [[Lefèvre1923ReminiscencesOfAStockOperator]]
