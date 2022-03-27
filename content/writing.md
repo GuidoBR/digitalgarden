@@ -69,8 +69,6 @@ Dickie Bush [writing process](https://twitter.com/dickiebush/status/148923677654
 
 
 
-
-
 Dickie Bush on [writing for business](https://twitter.com/dickiebush/status/1402061441583259649)
 
 > Open with short paragraphs and short sentences. 
@@ -84,3 +82,9 @@ Dickie Bush on [writing for business](https://twitter.com/dickiebush/status/1402
 > NEVER open with a Wall of Text.
 
 > Be specific. Your biggest writing weakness: using generalities. Don't make the reader guess. "Our campaign was a great success and we came in under budget"  ↓ "We increased click-through rates by 21% while spending 19% less than expected."
+
+
+
+David Perell on [Write while you read](https://perell.com/note/write-while-you-read/)
+
+> Your notes should be lightweight enough to write them consistently, but  evergreen enough to stay relevant. Your teacher was right when she told  you to take notes on what you read and put the ideas into your own  words. Digital note-taking makes your reading time more productive by  making your thoughts searchable. Unfortunately, apps like Kindle,  Pocket, and Instapaper make highlighting too easy and don’t encourage  people to write about what they’re consuming. Too many readers end up  with a long list of highlights they never actually return to. 
