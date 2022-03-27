@@ -325,11 +325,6 @@ Foi quando sobreveio a décima segunda aurora
 </figure>
 
 <figure>
-	<a href="/images/Iliada-hector-paris-benjamin-west.jpg" target="_blank"><img src="/images/Iliada-hector-paris-benjamin-west.jpg" alt="Iliada - Heitor e Paris" style="zoom:60%;" /></a>
-	<figcaption><em>Hector and Paris</em>, Benjamin West.</figcaption>
-</figure>
-
-<figure>
 	<a href="/images/iliada-paris-and-helene.jpg" target="_blank"><img src="/images/iliada-paris-and-helene.jpg" alt="Paris eHelena" style="zoom:65%;" /></a>
 	<figcaption><em>Pari and Helene</em></figcaption>
 </figure>
