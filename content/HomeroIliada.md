@@ -34,6 +34,12 @@ Há diversos debates sobre quem foi [Homero](https://www.britannica.com/biograph
 
 O que sabemos, graças principalmente a pesquisa de [Milman Parry](https://pt.wikipedia.org/wiki/Milman_Parry) sobre tradição oral, é que Ilíada (e também Odisseia) são ricos poemas de uma tradição oral de uma cultura que valorizava os **Aedos** (*ἀοιδός*) que eram poetas-cantores que recitavam suas composições acompanhadas de lira. No texto podemos observar elementos característicos de uma cultura oral, que tinha diversas formas e fórmulas para facilitar a memória. Como exemplo podemos citar alguns epítetos que são bastante usados no texto Homérico: "*Aquiles de pés velozes*", "*Apolo que atua ao longe*", "*Zeus Crónida soberano*", "*Tétis dos pés prateados*", "*Hera dos alvos braços*", "*Aqueus de belas cnêmides*" ,"*Heitor, domador de cavalos*".
 
+<figure>
+	<a href=https://artsandculture.google.com/asset/aristotle-with-a-bust-of-homer/lwEkk2dA5kBGjg?hl=pt-BR" target="_blank"><img src="/images/Aristotle-with-a-Bust-of-Homer-Rembrandt.jpg" alt="Aristóteles com o busto de Homero" style="zoom:40%;" /></a>
+	<figcaption>Aristóteles com o busto de Homero - Rembrandt</figcaption>
+</figure>
+
+
 Símiles são outro recurso de linguagem bastante utilizados na Ilíada (onde são chamados de [símiles homéricos](https://www.dartmouth.edu/library/digital/publishing/scott2009/)), o que torna o texto mais vivido e memorável. A passagem que compara a marcha do exército grego ao barulho das ondas do mar é belíssima:
 
 <blockquote>
@@ -88,8 +94,6 @@ O livro são divididos em 24 cantos, que o tradutor Haroldo de Campos nomeou da 
 
 ## O Proêmio
 
-**TODO Falar sobre o livro [The Anger of Achilles: Mênis in Greek Epic - Leonard Muellner](https://chs.harvard.edu/book/muellner-leonard-the-anger-of-achilles-menis-in-greek-epic-2/) - [video](https://www.youtube.com/watch?v=wZxFVCBNEao)**
-
 A chave para entender a Ilíada é o termo grego *μῆνις* - *Mênis* - **Furia, ira, cólera**. É o principal sentimento que guia Aquiles pela obra, o que causa momentos de beleza e de tragédia. Na edição lançada pela Companhia das Letras, temos o seguinte [proêmio](http://formasfixas.blogspot.com/2020/03/o-proemio-da-iliada.html):
 
 <blockquote>
@@ -100,7 +104,6 @@ Canta, ó deusa, a cólera de Aquiles, o Pelida
 <br>de rapina, enquanto se cumpria a vontade de Zeus),
 <br>desde o momento em que primeiro se desentenderam
 <br>o Atrida, soberano dos homens, e o divino Aquiles.
-
 
 <p>trad. Frederico Lourenço [2005] - <a href="http://formasfixas.blogspot.com/2020/03/o-proemio-da-iliada.html">O proêmio da Ilíada</a></p>
 
@@ -124,6 +127,8 @@ Já numa tradução pelo maior autor brasileiro, o Bruxo do Cosme Velho escreveu
 <p>trad. Machado de Assis [1904] - <a href="http://formasfixas.blogspot.com/2020/03/o-proemio-da-iliada.html">O proêmio da Ilíada</a></p>
 
 </blockquote>
+
+Para o autor Leonard Muellner em seu estudo ["The Anger of Achilles: Mênis in Greek Epic"](https://chs.harvard.edu/book/muellner-leonard-the-anger-of-achilles-menis-in-greek-epic-2/), a *mênis* é um sentimento complexo e muitas vezes pouco compreendido. Segundo ele, geralmente são os deuses olímpicos que sentem *mênis* e que Aquiles é uma excessão a essa regra. Os gregos usavam a palavra *kótos* para o que entendemos como *raiva*, e não é sobre isso que o épico trata. Por usar *mênis*, Homero tinha em mente algo muito mais profundo e assustador, uma ira digna dos deuses que são capazes de causar destruição avassaladora quando irados. É esse sentimento que Aquiles está sentindo, ele que é mortal mas que de acordo com as profecias poderia ter sido maior que Zeus, e os efeitos disso que são o tema dessa magnífica obra. 
 
 ## Personagens principais
 
