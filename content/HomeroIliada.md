@@ -32,7 +32,17 @@ Segundo Harold Bloom, lemos Homero para:
 
 Há diversos debates sobre quem foi [Homero](https://www.britannica.com/biography/Homer-Greek-poet), o poeta responsável pela obra. Há quem diga que ele não existiu, que foi um grupo de diversos autores. Há quem diga que ele era cego, e isso aumentou sua genialidade e seu poder poético. Os estudiosos do tema utilizam o termo **questão homérica** para se referir a debates sobre quem foi Homero.
 
-O que sabemos, graças principalmente a pesquisa de [Milman Parry](https://pt.wikipedia.org/wiki/Milman_Parry) sobre tradição oral, é que Ilíada (e também Odisseia) são ricos poemas de uma tradição oral de uma cultura que valorizava os **Aedos** (*ἀοιδός*) que eram poetas-cantores que recitavam suas composições acompanhadas de lira. No texto podemos observar elementos característicos de uma cultura oral, que tinha diversas formas e fórmulas para facilitar a memória. Como exemplo podemos citar alguns epítetos que são bastante usados no texto Homérico: "*Aquiles de pés velozes*", "*Apolo que atua ao longe*", "*Zeus Crónida soberano*", "*Tétis dos pés prateados*", "*Hera dos alvos braços*", "*Aqueus de belas cnêmides*" ,"*Heitor, domador de cavalos*".
+O que sabemos, graças principalmente a pesquisa de [Milman Parry](https://pt.wikipedia.org/wiki/Milman_Parry) sobre tradição oral, é que Ilíada (e também Odisseia) são ricos poemas de uma tradição oral de uma cultura que valorizava os **Aedos** (*ἀοιδός*) que eram poetas-cantores que recitavam suas composições acompanhadas de lira. No texto podemos observar elementos característicos de uma cultura oral, que tinha diversas formas e fórmulas para facilitar a memória. Como exemplo podemos citar alguns epítetos que são bastante usados no texto Homérico:
+> - *Aquiles de pés velozes*
+> - *Apolo que atua ao longe*
+> - *Zeus Crónida soberano*
+> - *Tétis dos pés prateados*
+> - *Hera dos alvos braços*
+> - *Aqueus de belas cnêmides*
+> -*Heitor, domador de cavalos*
+> - *Ulisses de mil ardis*
+
+Esses epítetos cumprem algumas funções, além de ser um recurso mnemônico e poético, também revelam informações valiosas sobre a personagem que está sendo descrita. Podemos citar como exemplo "[*Atena de olhos brilhantes](https://noitesgregas.com.br/episodios/11-atena-a-deusa-dos-olhos-brilhantes/)/de olhos esverdeados/de olhos faiscantes*, <a href="https://www.amazon.com.br/Teogonia-Trabalhos-Dias-Hes%C3%ADodo/dp/8544000118/" title="Teogonia: Trabalhos e dias, por Hesíodo, edição 2014 da Martin Claret, nota número 5">em grego a origem etimológica]</a> da palavra "brilhante" é a mesma de "coruja", devido a ser esse um animal que tem capacidade de enxergar à noite e com olhos brilhantes. A coruja também é um símbolo da sabedoria e é ave associada a deusa Atena.
 
 <figure>
 	<a href=https://artsandculture.google.com/asset/aristotle-with-a-bust-of-homer/lwEkk2dA5kBGjg?hl=pt-BR" target="_blank"><img src="/images/Aristotle-with-a-Bust-of-Homer-Rembrandt.jpg" alt="Aristóteles com o busto de Homero" style="zoom:40%;" /></a>
@@ -439,6 +449,7 @@ Foi então que pensou outra coisa o divino Aquiles de pés velozes
 ### Textos e livros
 
 - [Ilíada - Wikipedia](https://pt.wikipedia.org/wiki/Il%C3%ADada)
+- [A Guerra de Troia - Uma saga de heróis e deuses](https://www.amazon.com.br/Guerra-Troia-Saga-Her%C3%B3is-Deuses/dp/8525432342)
 - [Posfácio de Trajano Vieira](https://aterraeredonda.com.br/iliada/)
 - [Homero – Barbara Graziosi](https://editoramnema.com.br/livro/homero-barbara-graziosi/)
 - [The Anger of Achilles: Mênis in Greek Epic - Leonard Muellner](https://chs.harvard.edu/book/muellner-leonard-the-anger-of-achilles-menis-in-greek-epic-2/) - [video](https://www.youtube.com/watch?v=wZxFVCBNEao)
