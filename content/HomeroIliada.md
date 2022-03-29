@@ -6,11 +6,11 @@ title: "Iliad"
 
 # Porque ler Ilíada?
 
+Uma história contada e recontada desde antes da invenção da escrita. Deuses batalhando lado a lado a homens no campo de batalha. Uma guerra que destruiu a vida de muitos heróis, durou 10 longos anos e terminou com uma cidade incendiada. Tudo começou pelo julgamento de um homem, que entre o amor, a sabedoria e o poder, escolheu o amor.
+
 Ilíada é um poema épico grego, que acredita-se foi produzido no século VIII a.C., é uma obra fundamental para a cultura ocidental. O texto se desenrola por eventos da Guerra de Tróia (cidade que também é conhecida por *Ilíon*; portanto *Ilíada* significa contos de Ilíon), onde Gregos e Troianos disputam uma longa e sangrenta contenda que começou com uma desavença entre três deusas em um julgamento para saber quem é a mais bela. 
 
-Por se tratar de uma epopeia (termo que provém do grego epus que significa história de heróis), é um dos textos fundamentais do período clássico. Narra as glórias e os dramas de incontáveis heróis, e nos conta o que é ser humano e questões que enfrentamos durante nossa vida.
-
-**TODO Fazer um parágrafo mais pessoal, sobre minha experiência com a leitura da Ilíada**
+Por se tratar de uma epopeia (termo que provém do grego *epus* que significa história de heróis), é um dos textos fundamentais do período clássico. Narra as glórias e os dramas de incontáveis heróis, e nos conta o que é ser humano e questões que enfrentamos durante nossa vida.
 
 Ilíada é um texto com uma importância fundamental para a cultura da Grécia antiga, e influenciou toda a cultura ocidental desde então. Com diversas adaptações, recontagens e influências, é a base para muitas das histórias que são criadas ainda hoje.
 
@@ -21,6 +21,8 @@ Segundo Harold Bloom, lemos Homero para:
 > **Tudo aquilo que o Cânone Ocidental pode trazer a alguém é a própria solidão desse alguém, aquela solidão cuja forma final é o confronto de cada um com a sua própria mortalidade.**
 >
 > Harold Bloom, O Cânone Ocidental, 5a edição (2013), página 42-43
+
+Ler a Ilíada foi uma experiência maravilhosa, o livro nos faz conhecer uma cultura ríquissima e refletir sobre diversos temas. É um dos livros fundadores da literatura ocidental, que foi lido por muitas pessoas ao longo da história. De certa forma, é um livro que nos faz conectar com  a própria humanidade.
 
 ## Homero: o autor da obra
 
@@ -33,14 +35,15 @@ Segundo Harold Bloom, lemos Homero para:
 Há diversos debates sobre quem foi [Homero](https://www.britannica.com/biography/Homer-Greek-poet), o poeta responsável pela obra. Há quem diga que ele não existiu, que foi um grupo de diversos autores. Há quem diga que ele era cego, e isso aumentou sua genialidade e seu poder poético. Os estudiosos do tema utilizam o termo **questão homérica** para se referir a debates sobre quem foi Homero.
 
 O que sabemos, graças principalmente a pesquisa de [Milman Parry](https://pt.wikipedia.org/wiki/Milman_Parry) sobre tradição oral, é que Ilíada (e também Odisseia) são ricos poemas de uma tradição oral de uma cultura que valorizava os **Aedos** (*ἀοιδός*) que eram poetas-cantores que recitavam suas composições acompanhadas de lira. No texto podemos observar elementos característicos de uma cultura oral, que tinha diversas formas e fórmulas para facilitar a memória. Como exemplo podemos citar alguns epítetos que são bastante usados no texto Homérico:
-> - *Aquiles de pés velozes*
-> - *Apolo que atua ao longe*
-> - *Zeus Crónida soberano*
-> - *Tétis dos pés prateados*
-> - *Hera dos alvos braços*
-> - *Aqueus de belas cnêmides*
-> -*Heitor, domador de cavalos*
-> - *Ulisses de mil ardis*
+
+- *Aquiles de pés velozes*
+- *Apolo que atua ao longe*
+- *Zeus Crónida soberano*
+- *Tétis dos pés prateados*
+- *Hera dos alvos braços*
+- *Aqueus de belas cnêmides*
+- *Heitor, domador de cavalos*
+- *Ulisses de mil ardis*
 
 Esses epítetos cumprem algumas funções, além de ser um recurso mnemônico e poético, também revelam informações valiosas sobre a personagem que está sendo descrita. Podemos citar como exemplo "[*Atena de olhos brilhantes](https://noitesgregas.com.br/episodios/11-atena-a-deusa-dos-olhos-brilhantes/)/de olhos esverdeados/de olhos faiscantes*, <a href="https://www.amazon.com.br/Teogonia-Trabalhos-Dias-Hes%C3%ADodo/dp/8544000118/" title="Teogonia: Trabalhos e dias, por Hesíodo, edição 2014 da Martin Claret, nota número 5">em grego a origem etimológica]</a> da palavra "brilhante" é a mesma de "coruja", devido a ser esse um animal que tem capacidade de enxergar à noite e com olhos brilhantes. A coruja também é um símbolo da sabedoria e é ave associada a deusa Atena.
 
@@ -48,7 +51,6 @@ Esses epítetos cumprem algumas funções, além de ser um recurso mnemônico e 
 	<a href=https://artsandculture.google.com/asset/aristotle-with-a-bust-of-homer/lwEkk2dA5kBGjg?hl=pt-BR" target="_blank"><img src="/images/Aristotle-with-a-Bust-of-Homer-Rembrandt.jpg" alt="Aristóteles com o busto de Homero" style="zoom:40%;" /></a>
 	<figcaption>Aristóteles com o busto de Homero - Rembrandt</figcaption>
 </figure>
-
 
 Símiles são outro recurso de linguagem bastante utilizados na Ilíada (onde são chamados de [símiles homéricos](https://www.dartmouth.edu/library/digital/publishing/scott2009/)), o que torna o texto mais vivido e memorável. A passagem que compara a marcha do exército grego ao barulho das ondas do mar é belíssima:
 
@@ -98,9 +100,7 @@ O livro são divididos em 24 cantos, que o tradutor Haroldo de Campos nomeou da 
 23. Torneio em tributo à Pátroclo
 24. Héktoroslútra: Heitor resgatado
 
-**TODO: FALAR SOBRE A ESTRUTURA NARRATIVA**
-
-**TODO: FALAR SOBRE A ESTRUTURA POÉTICA** (hexômetro datílico)
+A poesia épica de homero usa o chamado [hexômetro datílico](https://pt.wikipedia.org/wiki/Hex%C3%A2metro_dact%C3%ADlico), constituindo de seis dactílicos (uma sílaba longa e as duas seguintes breves; como as falanges em um dedo). Ler poesia no original em grego está definitivamente muito longe do que eu consigo, mas para quem tiver interesse há muito [material]((https://ryanfb.github.io/etc/2019/02/25/resources_for_reading_homeric_greek.html)) online para estudar.
 
 ## O Proêmio
 
@@ -142,6 +142,7 @@ Para o autor Leonard Muellner em seu estudo ["The Anger of Achilles: Mênis in G
 
 ## Personagens principais
 
+** TODO Fazer dois parágrafos sobre as personagens femininas, dois sobre os masculinos e dois sobre os deuses **
 - Helena
 - Cassandra
 - Criseida
