@@ -221,6 +221,12 @@ Para isso, os adversários na guerra eram elogiados e engrandecidos. Quanto mais
   - Cientistas x Profetas, quem fala a verdade nos tempos gregos e nos tempos atuais?
 
 #### Agon *Ἀγών* discursivo: os debates de ideias nas assembleias
+<figure>
+	<a href="https://en.wikipedia.org/wiki/The_Ambassadors_of_Agamemnon_in_the_tent_of_Achilles" target="_blank"><img src="/images/The_Envoys_of_Agamemnon_by_Ingres.jpg" alt="Aquiles e os embaixadores de Agamemnon" style="zoom:100%;" /></a>
+	<figcaption>Quadro: <em>The Ambassadors of Agamemnon in the tent of Achilles</em> (1801), Ingres
+</em>, 1788,  Jacques-Louis David. Odisseu está vestido em vermelho, acompanhado do ancião Fênix e de Ájax; encontram Aquiles e Pátroclo relaxados junto com uma lira.</figcaption>
+</figure>
+
 > "Atrida, lutarei primeiro contra ti na tua loucura, onde é lícito,
 > ó soberano, que o faça: na assembleia." 
 >
@@ -329,12 +335,6 @@ Outros autores, como Vírgilio, detalham o que ocorreu no fim de Tróia. Na Enei
 <figure>
 	<a href="https://collections.louvre.fr/en/ark:/53355/cl010063647" target="_blank"><img src="/images/The_Love_of_Paris_and_Helen_by_Jacques-Louis_David.jpg" alt="Paris e Helena" style="zoom:100%;" /></a>
 	<figcaption><em>Les amours de Pâris et d'Hélène</em>, (1788),  Jacques-Louis David.</figcaption>
-</figure>
-
-<figure>
-	<a href="https://en.wikipedia.org/wiki/The_Ambassadors_of_Agamemnon_in_the_tent_of_Achille" target="_blank"><img src="/images/The_Envoys_of_Agamemnon_by_Ingres.jpg" alt="Aquiles e os embaixadores de Agamemnon" style="zoom:100%;" /></a>
-	<figcaption><em>The Ambassadors of Agamemnon in the tent of Achilles</em> (1801), Ingres
-</em>, 1788,  Jacques-Louis David.</figcaption>
 </figure>
 
 <figure>
