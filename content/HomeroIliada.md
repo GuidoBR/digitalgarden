@@ -65,9 +65,11 @@ Tal como na praia de muitos ecos as ondas do mar são impelidas
 <p>Ilíada, canto IV: 422-428</p>
 </blockquote>
 
-É importante pensar em como a cultura grega pensava sobre a escrita. Platão declarava que a [linguagem é um *pharmakon*](http://coloquioslusofonia.blogspot.com/2011/11/platao-linguagem-e-um-pharmakon.html) (de onde vem nossos termos fármaco e farmácia), que pode ser um remédio ou um veneno ao possibilitar o registro e transmissão do conhecimento de forma mais facilitada.
+É importante pensar em como a cultura grega entendia a escrita. Platão declarava que a [linguagem é um *pharmakon*](http://coloquioslusofonia.blogspot.com/2011/11/platao-linguagem-e-um-pharmakon.html) (de onde vem nossos termos fármaco e farmácia), que pode ser um remédio ou um veneno ao possibilitar o registro e transmissão do conhecimento de forma mais facilitada.
 
 > “Essa descoberta (a escrita) provocará nas almas o esquecimento de quanto se aprende, devido à falta de exercício da memória, porque, confiados na escrita, recordar-se-ão de fora, graças a sinais estranhos, e não de dentro, espontaneamente, pelos seus próprios sinais. Por conseguinte, não descobriste um remédio para a memória, mas para a recordação. Aos estudiosos oferece a aparência da sabedoria e não a verdade, já que, recebendo, graças a ti, grande quantidade de conhecimentos, sem necessidade de instrução, considerar-se-ão muito sabedores, quando são, na sua maior parte ignorantes; são ainda de trato difícil, por terem a aparência de sábios e não o serem verdadeiramente. … Portanto, quem julgasse transmitir na escrita uma arte e quem, por sua vez, a recebesse, como se dessas letras escritas pudesse derivar algo de certo e de seguro, mostraria muita ingenuidade … se crêem que os discursos escritos são algo mais do que um meio de fazer recordar a quem as sabe já as matérias tratadas nesses escritos. … É isso precisamente … o que a escrita tem de estranho, que a torna muito semelhante à pintura. Na verdade, os produtos desta permanecem como seres vivos, mas, se lhes perguntares alguma coisa, respondem-te com um silêncio cheio de gravidade. O mesmo sucede também com os discursos escritos. Poderá parecer-te que o pensamento como que anima o que dizem; no entanto, se, movido pelo de aprender, os interrogares sobre o que acabam de dizer, revelam-te uma única coisa e sempre a mesma. E, se uma vez escrito, todo o discurso rola por todos os lugares, apresentando-se sempre do mesmo modo, tanto a quem o deseja ouvir como ainda a quem não mostra interesse algum, e não sabe a quem deve falar e a quem não deve. Além disso, maltratado e insultado injustamente, necessita sempre da ajuda do seu autor, uma vez que não é capaz de se defender e socorrer a si mesmo.” (*[Fedro](https://amzn.to/3eSebBL)*, c. 370 aEC.)
+
+Como diziam os romanos: [*Verba volant, scripta manent*](https://pt.wikipedia.org/wiki/Verba_volant,_scripta_manent), que é um ditado que pode ser entendido de duas formas: a escrita é superior, pois as palavras são esquecidas; a palavra é superior, pois a escrita se torna permanente.
 
 Para ouvir o proêmio da Ilíada, em grego e em português: [Ilíada, vv. 1-7 (música: C. Leonardo B. Antunes; tradução: Carlos Alberto Nunes)](https://youtu.be/1KDZtkSVSvc)
 
@@ -192,6 +194,8 @@ Para isso, os adversários na guerra eram elogiados e engrandecidos. Quanto mais
 
 ### Como a Ilíada nos fala sobre a vida?
 
+**TODO**
+
 - **ὕϐρις** [húbris](https://pt.wikipedia.org/wiki/H%C3%BAbris) "tudo o que passa da medida, descomedimento"
 	
 	- Em certo jeito, a infração de Agamêmnon no primeiro livro da Ilíada é relacionada com a húbris, por ter despojado Aquiles da parte da pilhagem que lhe deveria corresponder por justiça.
@@ -207,7 +211,6 @@ Para isso, os adversários na guerra eram elogiados e engrandecidos. Quanto mais
   - Para os gregos, os sentimentos e emoções são coisas externas que os acometem, e de certa forma isso os poupa de culpa por seus erros. Eros e Afrodite são culpados quando os gregos se apaixonam. Zeus ou algum outro deus é culpado pelo desvairio (até) de Agamêmnon, que o levou a desrespeitar Aquiles. 
 
 - Destino e mitologia grega
-
   - Deuses distintos lutando entre si para ora ajudar e ora atrapalhar os humanos.
   - Zeus conhece o destino? Temos livre arbítrio?
   - As [moiras](https://brazilgreece.com/as-tres-irmas-da-mitologia-grega/), Μοῖραι, as três irmãs que determinam o destino (?)
@@ -216,18 +219,30 @@ Para isso, os adversários na guerra eram elogiados e engrandecidos. Quanto mais
   - A flecha de Apollo
   	- [Smitheus](https://pantheon.org/articles/s/smintheus.html)
   - Cientistas x Profetas, quem fala a verdade nos tempos gregos e nos tempos atuais?
-  
-- Agon (*Ἀγών*) discursivo: batalha de ideias, batalha de retórica, argumentos
 
-  - Um povo que não tem a escrita, valoriza muito a retórica. Toda a construção de mundo, a persuação e a troca de conhecimento deve ser feita pela retórica.
-  - Odisseu/Ulisses: fatos e lógica.
-  - Fênix: apelo emocional (*pathos*), pedagogia grega (educar pelo exemplo).
-  - Odisseu faz um discurso usando lógica e fatos para tentar convencer Aquiles (Canto IX, 225). Depois usa argumentos patéticos (de pathos) e de autoridade ( "Foi a ti que teu pai Peleu deu esta incumbência"). Depois acusa Aquiles de esquecer o conselho de seu pai Peleu, o que é uma acusação pesada na sociedade grega baseada na oralidade, onde o esquecimento significa o fim.
+#### Agon *Ἀγών* discursivo: os debates de ideias nas assembleias
+> "Atrida, lutarei primeiro contra ti na tua loucura, onde é lícito,
+> ó soberano, que o faça: na assembleia." 
+>
+> Ilíada, Canto IX 32-33
 
-    > "Atrida, lutarei primeiro contra ti na tua loucura, onde é lícito,
-    > ó soberano, que o faça: na assembleia." 
-    >
-    > Ilíada, Canto IX 32-33
+Para os gregos, [agon (*Ἀγών*)](https://en.wikipedia.org/wiki/Agon) é um termo usado para diversos tipos de conflitos e concursos. Isso pode ser aplicado a competições atléticas (como a olímpiada), festivais (as magníficas tragédias e comédias gregas foram produzidas para festivais públicos) e debate de ideias (na àgora grega; nas assembleias).
+
+Harold Bloom usa bastante o conceito de agon para falar de conflitos entre obras literárias através dos séculos.
+
+> A literatura forte, necessariamente **agonística**, quer ela queira
+quer não, é impossível de ser separada das suas ansiedades acerca das obras
+que têm prioridade e autoridade em relação a ela. Embora a maior parte dos
+críticos resista a compreender os processos de influência literária, ou tente
+idealizar esses processos como sendo totalmente generosos e amistosos, as
+verdades nuas e cruas da competição e da contaminação fortalecem-se cada
+vez mais à medida que a história canónica se expande no tempo. Por maior
+que seja a sua impaciência de abordar directamente questões sociais, um
+poema, uma peça ou um romance são necessariamente forçados a aparecer
+através de obras precursoras
+> "[O Cânone Ocidental](https://www.amazon.com.br/C%C3%A2none-Ocidental-grandes-escritores-essenciais/dp/9896441367)", Harold Bloom
+
+Para a sociedade grega antiga, a retórica era muito valorizada. Toda a construção de mundo, a persuassão e a troca de conhecimento deve ser feita através da retórica -- e para isso usando de discursos em assembleias.
 
 <blockquote>
 Tidida, no que toca à guerra és muito possante,
@@ -242,23 +257,36 @@ Tidida, no que toca à guerra és muito possante,
 <p><em>Ilíada</em> Canto IX - 53-75</p>
 </blockquote>
 
-Quando aconselhar um amigo, diga:
-> tecer-lhes a teia da prudência
-> IX - 93
-> 
+No interessantíssimo canto IX, uma delegação de heróis gregos forma uma assembleia para *aconselhar* Aquiles ("**tecer-lhes a teia da prudência**"; canto IX: 93) e temos três tipos de discursos sendo feitos para convencer Aquiles a voltar para a batalha: Odisseu usa fatos e lógica; Fênix faz um belíssimo apelo emocional (*pathos πάθος*) e pedagógico, educando pelo exemplo; Àjax Telamônio **TODO completar**
 
-Frase famosa da literatura e do pensamento grego:
-> Como os portões do Hades me é odioso aquele homem que esconde uma coisa na mente, mas diz outra.
+> Para ti mesmo sofrimento haverá no futuro. E remédio de mal
+> praticado não se encontrará.
+> Odisseu em *Ilíada*, Canto IX: 249-250
+
+De onde temos algumas excelentes respostas de Aquiles:
+
+> **Como os portões do Hades me é odioso aquele homem que esconde uma coisa na mente, mas diz outra.**
 > Ilíada. Canto IX: 322-323
+ 
+> Pois extorquíves são os bois e robustas ovelhas
+> e adquiríveis são trípodes e flavos cavalos; **mas a vida
+> de um homem volte de novo, depois de lhe passar a barreira 
+> dos dentes, isso não é possível por extorsão ou aquisição.**
 
-  - O Canto IX na história da filosofia
-    - Teoria do discurso de Aristóteles, baseada no Canto IX
-      - [Retórica](https://www.amazon.com.br/dp/B07SXJCMN7/), livro I
-  - Retórica para os heróis e cidadãos gregos
+Já Fênix, usa a emoção para tentar influenciar Aquiles. Cita histórias mitológicas e tenta ensinar pelo exemplo (o que é a base da pedagogia grega).
 
-  > "Para completar o quadro dos ideais e tradições homéricas, é preciso esquecer o conceito  moderno de “filósofo”, como sonhador metafísico ou como investigador intrépido de verdades novas e cada vez mais profundas. O filósofo grego é, em primeira linha, um retor, um “sofista”, um homem habilíssimo, que ensina mil recursos para vencer na vida política e judiciária; um descendente espiritual de Ulisses"
-  > 
-  > [História da Literatura Ocidental - vol 1, por Otto Maria Carpeaux](https://www2.senado.leg.br/bdsf/item/id/528992), página 73
+> Por isso, ó Aquiles, domina o teu espírito orgulhoso!
+> Não te fica bem um coração insensível. Os próprios deuses
+> cedem, eles que têm maior valor, honra e força.
+> Fênix em *Ilíada*, Canto IX: 496-498
+
+Para alguns estudiosos de Homero, o mito de [Meleagro e o javali de Cálidon](https://greciantiga.org/arquivo.asp?num=0440) é o [*mitema*](https://pt.wikipedia.org/wiki/Mitema) (particula elementar irredutível de um mito; está para um mito assim como o bit está para informação e o gene para o genoma) da Ilíada. Segundo essa interpretação, o mito que Fênix conta (canto IX: 527-605) tem a função de sensibilizar Pátroclo para que este influencie Aquiles. Pátroclo cumpriria função equivalente à de Cleopatra no mito, e isso fica ainda mais evidente pelo jogo de palavras em seus nomes (Pátroclo e Cleopatra signfica "glória ao pai", ambos tem versões femininas e masculinas do mesmo nome). Ainda de acordo com essa interpretação, essa era uma forma cifrada de Fênix mostrar que sabia da relação amorosa entre Aquiles e Pátroclo, e tentar usar essa relação para influenciar o retorno do herói grego ao campo de batalha.
+
+Aristóteles em seu tratado sobre [Retórica](https://www.amazon.com.br/dp/B07SXJCMN7/) bebeu desse canto IX para pensar sua teoria do discurso.
+
+> "Para completar o quadro dos ideais e tradições homéricas, é preciso esquecer o conceito  moderno de “filósofo”, como sonhador metafísico ou como investigador intrépido de verdades novas e cada vez mais profundas. **O filósofo grego é**, em primeira linha, um retor, um “sofista”, um homem habilíssimo, que ensina mil recursos para vencer na vida política e judiciária; **um descendente espiritual de Ulisses"**
+> 
+> [História da Literatura Ocidental - vol 1, por Otto Maria Carpeaux](https://www2.senado.leg.br/bdsf/item/id/528992), página 73
 
 ## Onde está o Cavalo de Tróia?
 
