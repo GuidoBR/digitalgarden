@@ -34,7 +34,7 @@ Ler a Ilíada foi uma experiência maravilhosa, o livro nos faz conhecer uma cul
 
 Há diversos debates sobre quem foi [Homero](https://www.britannica.com/biography/Homer-Greek-poet), o poeta responsável pela obra. Há quem diga que ele não existiu, que foi um grupo de diversos autores. Há quem diga que ele era cego, e isso aumentou sua genialidade e seu poder poético. Os estudiosos do tema utilizam o termo **questão homérica** para se referir a debates sobre quem foi Homero.
 
-O que sabemos, graças principalmente a pesquisa de [Milman Parry](https://pt.wikipedia.org/wiki/Milman_Parry) sobre tradição oral, é que Ilíada (e também Odisseia) são ricos poemas de uma tradição oral de uma cultura que valorizava os **Aedos** (*ἀοιδός*) que eram poetas-cantores que recitavam suas composições acompanhadas de lira. No texto podemos observar elementos característicos de uma cultura oral, que tinha diversas formas e fórmulas para facilitar a memória. Como exemplo podemos citar alguns epítetos que são bastante usados no texto Homérico:
+O que sabemos, graças principalmente a pesquisa de [Milman Parry](https://pt.wikipedia.org/wiki/Milman_Parry) sobre tradição oral, é que Ilíada (e também Odisseia) são ricos poemas de uma tradição oral de uma cultura que valorizava os **Aedos** (*ἀοιδός*) que eram poetas-cantores que recitavam suas composições acompanhadas de lira. No texto podemos observar elementos característicos de uma [cultura oral](https://alexcastro.com.br/poesia-oral/), que tinha diversas formas e fórmulas para facilitar a memória. Como exemplo podemos citar alguns epítetos que são bastante usados no texto Homérico:
 
 - *Aquiles de pés velozes*
 - *Apolo que atua ao longe*
@@ -45,14 +45,14 @@ O que sabemos, graças principalmente a pesquisa de [Milman Parry](https://pt.wi
 - *Heitor, domador de cavalos*
 - *Ulisses de mil ardis*
 
-Esses epítetos cumprem algumas funções, além de ser um recurso mnemônico e poético, também revelam informações valiosas sobre a personagem que está sendo descrita. Podemos citar como exemplo "[*Atena de olhos brilhantes](https://noitesgregas.com.br/episodios/11-atena-a-deusa-dos-olhos-brilhantes/)/de olhos esverdeados/de olhos faiscantes*, <a href="https://www.amazon.com.br/Teogonia-Trabalhos-Dias-Hes%C3%ADodo/dp/8544000118/" title="Teogonia: Trabalhos e dias, por Hesíodo, edição 2014 da Martin Claret, nota número 5">em grego a origem etimológica]</a> da palavra "brilhante" é a mesma de "coruja", devido a ser esse um animal que tem capacidade de enxergar à noite e com olhos brilhantes. A coruja também é um símbolo da sabedoria e é ave associada a deusa Atena.
+Esses epítetos cumprem algumas funções, além de ser um recurso mnemônico e poético, também revelam informações valiosas sobre a personagem que está sendo descrita. Podemos citar como exemplo "[*Atena de olhos brilhantes](https://noitesgregas.com.br/episodios/11-atena-a-deusa-dos-olhos-brilhantes/)/de olhos esverdeados/de olhos faiscantes*, <a href="https://www.amazon.com.br/Teogonia-Trabalhos-Dias-Hes%C3%ADodo/dp/8544000118/" title="Teogonia: Trabalhos e dias, por Hesíodo, edição 2014 da Martin Claret, nota número 5">em grego a origem etimológica</a> da palavra "brilhante" é a mesma de "coruja", devido a ser esse um animal que tem capacidade de enxergar à noite e com olhos brilhantes. A coruja também é um símbolo da sabedoria e é ave associada a deusa Atena.
 
 <figure>
 	<a href=https://artsandculture.google.com/asset/aristotle-with-a-bust-of-homer/lwEkk2dA5kBGjg?hl=pt-BR" target="_blank"><img src="/images/Aristotle-with-a-Bust-of-Homer-Rembrandt.jpg" alt="Aristóteles com o busto de Homero" style="zoom:40%;" /></a>
 	<figcaption>Aristóteles com o busto de Homero - Rembrandt</figcaption>
 </figure>
 
-Símiles são outro recurso de linguagem bastante utilizados na Ilíada (onde são chamados de [símiles homéricos](https://www.dartmouth.edu/library/digital/publishing/scott2009/)), o que torna o texto mais vivido e memorável. A passagem que compara a marcha do exército grego ao barulho das ondas do mar é belíssima:
+[Símiles](https://cidmarcus.blogspot.com/2021/03/os-similes-na-iliada.html) são outro recurso de linguagem bastante utilizados na Ilíada (onde são chamados de [símiles homéricos](https://www.dartmouth.edu/library/digital/publishing/scott2009/)), o que torna o texto mais vivido e memorável. A passagem que compara a marcha do exército grego ao barulho das ondas do mar é belíssima:
 
 <blockquote>
 Tal como na praia de muitos ecos as ondas do mar são impelidas
@@ -184,10 +184,11 @@ A Ilíada fala de um momento específico dessa guerra, onde Aquiles, o principal
 
 ### Como a Ilíada nos fala sobre a guerra?
 
-- [Kleos](https://pt.wikipedia.org/wiki/Kleos), κλέος, glória.
-- Os adversários na guerra são elogiados ao invés de demonizados
-  - São elogiados porque quão mais forte for o guerreiro que você derrotar, maior é sua kleos, glória.
-  - Não precisam ser demonizados, transformados em "outro" (outgroup), em "orcs" como nas guerras modernas pois ambos os lados estão lutando por kleos.
+O imperativo moral da Ilíada é a [kleos](https://pt.wikipedia.org/wiki/Kleos) (κλέος, glória). Para uma sociedade primariamente oral e com forte tradição de vida em grupo, os valores morais são bem diferentes do que temos hoje em dia. Para nós, temos que ser felizes. Se não estamos felizes significa que estamos fazendo algo errado. Nós mostramos nossas conquistas, nossa vida feliz, em redes sociais para que todos possam checar que estamos felizes. Buscamos a efemeridade da felicidade á todo instante. Para a sociedade grega, o seu imperativo moral é a glória. O objetivo de Aquiles é ter seu nome lembrado para sempre, através de seus atos gloriosos. A sociedade grega é muito mais gregária, pensando na coletividade. Já a sociedade contemporânea somos muito mais individualistas. A minha felicidade é o que importa, é a minha meta. 
+
+Aquiles só consegue a glória que almeja, se for chancelado pelo coletivo. Somente se os gregos o verem atingir a glória, e relembrarem disso através de canções, ele vai conseguir atingir seus objetivos. A guerra, para a sociedade grega dessa época, era uma forma de engrandecer, de conquistar renome e glória para o homem e para o coletivo.
+
+Para isso, os adversários na guerra eram elogiados e engrandecidos. Quanto mais poderoso for o guerreiro que você conseguir derrotar, maior é a kleos que você está conquistando. Nas guerras atuais, os inimigos precisam ser demonizados (transformados em seres vis, coisificados, tornados menos que humanos). Os antropólogos chamam essa noção de "outgroup" x "ingroup".
 
 ### Como a Ilíada nos fala sobre a vida?
 
@@ -199,7 +200,7 @@ A Ilíada fala de um momento específico dessa guerra, onde Aquiles, o principal
 
 - **Λύσσα** [lýssa](https://en.wikipedia.org/wiki/Lyssa) (exemplos: Ajax, Herácles)
 
-- **Ἄτη** [atë](https://en.wikipedia.org/wiki/At%C3%AB) - desvairio (Agamêmnon, Canto IX, 18; 116)
+- **Ἄτη** [atë](https://en.wikipedia.org/wiki/At%C3%AB) - desvairio (Agamêmnon, Canto IX, 18; 116 -- Fênix: ouça as Preces e não o Desvairio, Canto IX 499-514).
 
 - **Ἔλεος** [eleos]https://en.wikipedia.org/wiki/Eleos - compaixão, empatia, piedade. É o que Príamo consegue provocar em Aquiles, quando ele (um rei idoso que acabara de perder o filho querido) vai à tenda de Aquiles suplicar pelo corpo de seu filho e beija na mão do Aquiles -- que foi seu assassino. Esse sentimento foi o único que fez parar a cólera / *mênis* de Aquiles Presentes, dinheiro, gregos sofrendo, discursos e argumentos lógicos do melhor orador, nada disso conseguiu frear a cólera de Aquiles, somente *eleos* (compaixão).
 
@@ -213,17 +214,18 @@ A Ilíada fala de um momento específico dessa guerra, onde Aquiles, o principal
 
 - Pestes e epidemia
   - A flecha de Apollo
+  	- [Smitheus](https://pantheon.org/articles/s/smintheus.html)
   - Cientistas x Profetas, quem fala a verdade nos tempos gregos e nos tempos atuais?
   
-- Agon discursivo: batalha de ideias, batalha de retórica, argumentos
+- Agon (*Ἀγών*) discursivo: batalha de ideias, batalha de retórica, argumentos
 
   - Um povo que não tem a escrita, valoriza muito a retórica. Toda a construção de mundo, a persuação e a troca de conhecimento deve ser feita pela retórica.
+  - Odisseu/Ulisses: fatos e lógica.
+  - Fênix: apelo emocional (*pathos*), pedagogia grega (educar pelo exemplo).
   - Odisseu faz um discurso usando lógica e fatos para tentar convencer Aquiles (Canto IX, 225). Depois usa argumentos patéticos (de pathos) e de autoridade ( "Foi a ti que teu pai Peleu deu esta incumbência"). Depois acusa Aquiles de esquecer o conselho de seu pai Peleu, o que é uma acusação pesada na sociedade grega baseada na oralidade, onde o esquecimento significa o fim.
 
     > "Atrida, lutarei primeiro contra ti na tua loucura, onde é lícito,
     > ó soberano, que o faça: na assembleia." 
-    >
-    > 
     >
     > Ilíada, Canto IX 32-33
 
@@ -368,7 +370,6 @@ Harold Bloom nos lembra que um dos personagens da Ilíada, Ulisses / Odisseu, j�
 >
 > *Como e Por Que Ler*, Harold Bloom, página 70
 
-
 - Textos gregos e romanos sobre a Guerra de Tróia
   - Ilíada, de Homero
   - Odisseia, de Homero
@@ -439,6 +440,8 @@ Foi então que pensou outra coisa o divino Aquiles de pés velozes
 
 - Helena de Tróia / Ulisses e Penelópe
 - A Canção de Aquiles
+- [Total War: Troy](https://www.totalwar.com/games/troy/)
+- [Asteroides troianos de Júpiter](https://pt.m.wikipedia.org/wiki/Asteroides_troianos_de_J%C3%BApiter)
 
 ## Qual tradução da Ilíada ler?
 
@@ -461,6 +464,7 @@ Foi então que pensou outra coisa o divino Aquiles de pés velozes
 - [A Morte de Aquiles](https://aguerradetroia.wordpress.com/2013/03/02/a-morte-de-aquiles/)
 - [Um Grego te conta o verdadeiro mito das três Moiras](https://brazilgreece.com/as-tres-irmas-da-mitologia-grega/)
 - [Exegese alegórica de Homero](https://pt.wikipedia.org/wiki/Exegese_aleg%C3%B3rica_de_Homero)
+- [Os Símiles em Homero](https://cidmarcus.blogspot.com/2021/03/os-similes-na-iliada.html)
 - [The Artistry of the Homeric Simile - by William C. Scott
 ](https://www.dartmouth.edu/library/digital/publishing/scott2009/)
 - [The best books on Greek Myths - recommended by Lucy Coats](https://fivebooks.com/best-books/greek-myths-lucy-coats/)
