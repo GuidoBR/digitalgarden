@@ -273,7 +273,7 @@ De onde temos algumas excelentes respostas de Aquiles:
 
 > **Como os portões do Hades me é odioso aquele homem que esconde uma coisa na mente, mas diz outra.**
 > Ilíada. Canto IX: 322-323
- 
+
 > Pois extorquíves são os bois e robustas ovelhas
 > e adquiríveis são trípodes e flavos cavalos; **mas a vida
 > de um homem volte de novo, depois de lhe passar a barreira 
@@ -429,6 +429,8 @@ Harold Bloom nos lembra que um dos personagens da Ilíada, Ulisses / Odisseu, j�
 
 #### Influencia na literatura de língua portuguesa
 
+##### Os Lusíadas, Luis de Camões
+
 <blockquote>
 Cessem do sábio Grego e do Troiano
 <br> As navegações grandes que fizeram;
@@ -443,6 +445,33 @@ Cessem do sábio Grego e do Troiano
 </blockquote>
 
 Em "*Os Lusíadas*" Camões faz diversas referências á Ilíada, por exemplo quando menciona o "sábio grego" que sabemos ser o Odisseu de muitos ardis. Quando ele cita "o Troiano", ele se refere a Eneias, contado por Virgílio em Eneida e herói troiano da Ilíada. Além disso, para Camões a "musa antiga" é a literatura grega e latina. O primeiro canto dos Lusíadas é claramente inspirado no modelo greco-romano de poema épico, revelando o assunto que o poema irá tratar, pedindo inspiração e proteção às Musas e a narrativa começa com o concílio dos Deuses no Olimpo. Canta, ó Musa!
+
+##### Ulisses, Fernando Pessoa
+
+<blockquote>
+<strong>Ulisses</strong>
+<p> 
+O mito é o nada que é tudo.<br>
+O mesmo sol que abre os céus<br>
+É um mito brilhante e mudo –<br>
+O corpo morto de Deus,<br>
+Vivo e desnudo.<br>
+</p><p>
+Este, que aqui aportou,<br>
+Foi por não ser existindo.<br>
+Sem existir nos bastou.<br>
+Por não ter vindo foi vindo<br>
+E nos criou.<br>
+</p><p>
+Assim a lenda se escorre<br>
+A entrar na realidade.<br>
+E a fecundá-la decorre.<br>
+Em baixo, a vida, metade<br>
+De nada, morre.<br>
+</p>
+</blockquote>
+
+Para compreender esse poema de Fernando Pessoa, devemos saber que existe uma lenda portuguesa que diz que [Ulisses foi o fundador de Lisboa](https://www.cidadeecultura.com/lenda-portuguesa/) . A professora [Ernani Terra](https://www.ernaniterra.com.br/ulisses-um-poema-de-fernando-pessoa/) faz uma análise muito interessante desse poema, e nos revela seus significados ocultos.
 
 #### Mestre dos Mares, de Patrick O'Brian
 
