@@ -144,16 +144,35 @@ Para o autor Leonard Muellner em seu estudo ["The Anger of Achilles: Mênis in G
 
 ## Personagens principais
 
-** TODO Fazer dois parágrafos sobre as personagens femininas, dois sobre os masculinos e dois sobre os deuses **
-- Helena
-- Cassandra
-- Criseida
-- Andrómaca
+Há muitas personagens interessantes na Ilíada, e muitos delas foram desenvolvidos em outras obras e mitos (tanto greco-romanas da antiguidade, quanto obras mais recentes). 
 
+Dentre as personagens femininas gosto de destacar a própria Helena, e a eterna disputa sobre seu papel na guerra de Tróia. Há uma passagem em que ela desafia a deusa Afrodite e demonstra que não está contente com a situação que a deusa provocou:
+
+** TODO Inserir trecho da Iliada, canto 2, 3?**
+
+Outras personagens feminias de destaque são Cassandra (como cientistas modernos que nos avisam de perigos vindouros mas não recebem o devido crédito), Criseida, Andrómaca, e as deusas Tétis, Hera, Afrodite e Atena.
+
+** TODO Fazer dois parágrafos sobre as personagens femininas, dois sobre os masculinos e dois sobre os deuses **
 <img src="/images/iliada-characters.jpg" alt="Personagens masculinos principais de Ilíada" style="zoom:60%;" />
 
 - Aquiles
-- Odisseu
+- Odisseu / Ulisses
+<blockquote>
+No seu belo estudo intitulado The Ulysses Theme [ «0 Tema de Ulis­
+ses» J ( 1 963), W. B. Stanford coloca o tratamento em surdina, mas negativo,
+que Virgílio faz de Ulisses em contraste com a identificação positiva de Ovídio
+com Ulisses. Este contraste encerra duas das maiores posições que provavel­
+mente sempre se combaterão nas metamorfoses deste herói, ou deste herói­
+-vilão. O Ulisses de Virgílio virá a ser o de Dante, mas tão transfigurado que o re­
+trato bastante evasivo dado por Virgílio tende a esbater-se. Incapaz de condenar
+Ulisses directamente, Virgílio transfere esse trabalho para as suas personagens,
+as quais vão identificar o herói da Odisseia com a perfídia e o engano. Ovídio,
+um exilado e um pinga-amor, confunde-se a si próprio com Ulisses numa iden­
+tidade compósita, legando-nos desse modo aquela que é hoje em dia a ideia
+mais estável de Ulisses como o primeiro dos grandes viandantes mulherengos.
+<p><em>O Cânone Ocidental</em>, por Harold Bloom, página 93</p>
+</blockquote>
+
 - Agamenon
 - Diomedes
 - Os dois Ajax
@@ -162,11 +181,8 @@ Para o autor Leonard Muellner em seu estudo ["The Anger of Achilles: Mênis in G
 - Páris
 
 - Zeus
-- Atena
-- Hera
 - Apollo
 - Poseidon
-- Tétis
 
 ### Tersites
 
@@ -180,9 +196,9 @@ Para o autor Leonard Muellner em seu estudo ["The Anger of Achilles: Mênis in G
 
 ## Temas principais
 
-**TODO: Fazer um resumão da obra, falar sobre a disputa entre Aquiles e Agamenon e termina antes da queda de Tróia.**
-
 A Ilíada fala de um momento específico dessa guerra, onde Aquiles, o principal herói grego, se sente menosprezado pelo poderoso soberano Agamenom que lhe retira a Crisêida, uma mulher que é o prêmio que Aquiles recebeu por saquear uma cidade aliada dos Troianos. Nesse momento, Aquiles se sente irado e decide sair da luta -- deixando os gregos a mercê dos Troianos.
+
+A guerra de Tróia foi causada pela beleza de uma mulher e pela disputa entre dois povos. Milhares de homens foram mortos e a grande cidade de Ilion foi destruida. No entanto, algo de novo nasceu diante das muralhas de Troia: a ideia de uma só Grécia e as bases da maior aventura épica ocidental.
 
 ### Como a Ilíada nos fala sobre a guerra?
 
@@ -334,6 +350,16 @@ Outros autores, como Vírgilio, detalham o que ocorreu no fim de Tróia. Na Enei
 -  [Importância dos poemas de Homero na educação grega](https://mundoeducacao.uol.com.br/historiageral/importancia-dos-poemas-homero-na-educacao-grega.htm) 
   - *[…] a importância  educadora de Homero é evidentemente mais vasta. Não se limita à  formulação expressa de problemas pedagógicos nem a algumas passagens que aspirem a produzir um determinado efeito moral. A poesia homérica é uma vasta e complexa obra do espírito, que não se pode reduzir a uma  fórmula única. Ao lado de fragmentos relativamente recentes que revelam  um interesse pedagógico expresso, aparecem outras passagens nas quais o  interesse pelos objetos descritos afasta a possibilidade de pensar uma  segunda intenção moral do poeta*. **[JAEGER, Werner. *Paideia: a formação do homem grego*. São Paulo: Martins Fontes, 1994. p. 59.
 - [Exegese alegórica de Homero](https://pt.wikipedia.org/wiki/Exegese_aleg%C3%B3rica_de_Homero)
+<blockquote>
+As nossas instituições educativas estão hoje em dia atravancadas de idealistas ressentidos que condenam a competição tanto na literatura como na vida, mas o estético e o
+agonística são uma única coisa, como nos é dito por todos os antigos gregos
+e por Burckhardt e Nietzsche, que recuperaram esta verdade. O que Homero
+ensina é uma poética do conflito, uma lição aprendida pela primeira vez pelo
+seu rival Hesíodo. Todo o Platão, como foi observado pelo crítico Longino,
+se encontra no incessante conflito do filósofo com Homero, que é expulso
+d' A República, mas em vão, pois foi Homero e não Platão quem permaneceu
+como o manual dos Gregos
+<p><em>O Cânone Ocidental</em>, Harold Bloom</p></blockquote>
 
 ### Ilíada e Arte
 
@@ -438,9 +464,64 @@ Além do que foi perdido, o [Ciclo Épico (Troioano)](https://en.wikipedia.org/w
 
 #### Influencia na Divina Comédia
 
-**TODO**
+A Divina comédia é um poema épico e teológico escrito no século XIV com muitas influências homéricas. Dante (o autor-personagem) encontra Homero no limbo em suas andanças. Além de contar com outros personagens homéricos, entre eles destaco Ulisses/Odisseu:
 
-- https://pt.wikipedia.org/wiki/Ulysses_(poema)
+<blockquote>
+Quando
+<br>de Circe me parti, que me ocultara
+<br>mais de ano, ao pé de onde Gaeta queda,
+<br>antes que assim Eneias lhe chamara,
+<br>nem doçura de filho, ou que se apieda
+<br>do velho pai, nem o devido amor
+<br>que Penélope então fizera leda,
+<br>vencer puderam dentro em mim o ardor
+<br>que eu tive em me tornar do mundo experto,
+<br>e dos humanos vícios e valor;
+<br>mas cometi-me ao alto mar aberto
+<br>cum lenho só e a só pouca componha
+<br>da qual nunca em viagem fui deserto.
+<br>Vi os dois litorais até à Espanha,
+<br>até Marrocos, e à ilha dos Sardos,
+<br>e as outras que em redor o mar lá banha.
+<br>Chegámos, eu e os outros, velhos, tardos,
+<br>àquela foz estreita, a que submeta
+<br>Hércules com sinal de seus resguardos,
+<br>a fim que mais além não se cometa:
+<br>à mão direita lá deixei Sevilha,
+<br>da outra me havia já deixado Cepta.
+<br>« Ó irmãos», disse, «que por tanta milha
+<br>de perigos viestes a ocidente,
+<br>a tão breve vigília que nos brilha
+<br>nos sentidos, e que é remanescente,
+<br>não negueis experiência e sem detença
+<br>siga-se o sol, no mundo sem ter gente!
+<br>E que a vossa semente agora vença:
+<br>não fostes feitos a viver quais brutos,
+<br>mas a seguir virtude e conhecença.»
+<br>E os companheiros meus fiz tão argutos,
+<br>co esta breve oração, para o caminho,
+<br>que esforços de os reter são diminutos;
+<br>virada a popa a amanhecer marinho,
+<br>já dão os remos asa ao voo tolo
+<br>e ao lado esquerdo sempre mais vizinho.
+<br>Os astros todos já do outro pó/o
+<br>à noite via, e o nosso ser tão escasso
+<br>que não sai fora do aquoso solo.
+<br>Cinco vezes aceso e cinco baço
+<br>o lume sob a lua já se arruma,
+<br>após termos entrado no alto passo,
+<br>quando vimos montanha que se abruma
+<br>pela distância, ali subindo tanto
+<br>que eu nunca tinha visto assim nenhuma.
+<br>Se ledas fomos, cedo voltou pranto:
+<br>da nova terra um turbilhão brotava
+<br>que ao lenho se abateu no extremo canto.
+<br>E na água já três vezes desandava:
+<br>à quarta, a popa para cima trouxe
+<br>e a proa ao fundo, como outrem mandava,
+<br>e enfim o mar, por sobre nós, fechou-se
+<p><em>A Divina Comédia</em> (Edição Bertrand, Lisboa, 1995 )</p>
+</blockquote>
 
 #### Influencia na literatura de língua inglesa
 
