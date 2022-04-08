@@ -148,15 +148,34 @@ Há muitas personagens interessantes na Ilíada, e muitos delas foram desenvolvi
 
 Dentre as personagens femininas gosto de destacar a própria Helena, e a eterna disputa sobre seu papel na guerra de Tróia. Há uma passagem em que ela desafia a deusa Afrodite e demonstra que não está contente com a situação que a deusa provocou:
 
-** TODO Inserir trecho da Iliada, canto 2, 3?**
+<blockquote>
+"Deusa surpreendente! Por que deste modo queres me enganar?
+<br> Na verdade me levarás para mais longe, para uma das cidades
+<br> bem habitadas da Frígia ou da agradável Meônia,
+<br> se também lá existir algum homem mortal que te é caro,
+<br> visto que Menelau venceu o divino Alexandre e agora
+<br> intenta levar para casa a mulher detestável que eu sou.
+<br> Por isso agora aqui vieste como urdidora de enganos.
+<br> Vai tu sentar-te ao lado dele, abjura os caminhos dos deuses
+<br> e que não te levem mais teus pés ao Olimpo!
+<br> Em vez disso estima-o sempre e olha por ele,
+<br> até que ele te faça sua mulher, ou até sua escrava!
+<br> Mas eu para lá não irei -- seria coisa desavergonhada --
+<br> tratar do leito áquele homem. No futuro as Troianas
+<br> todas me censurariam. Tenho no peito dores desmedidas."
+</blockquote>
 
 Outras personagens feminias de destaque são Cassandra (como cientistas modernos que nos avisam de perigos vindouros mas não recebem o devido crédito), Criseida, Andrómaca, e as deusas Tétis, Hera, Afrodite e Atena.
 
-** TODO Fazer dois parágrafos sobre as personagens femininas, dois sobre os masculinos e dois sobre os deuses **
 <img src="/images/iliada-characters.jpg" alt="Personagens masculinos principais de Ilíada" style="zoom:60%;" />
 
-- Aquiles
-- Odisseu / Ulisses
+Já dos personagens masculinos temos muitos e potentes guerreiros.  Aquiles é o personagem principal, é ele o mais poderoso guerreiro e a história se move por e para ele. Pátroclo é seu companheiro, cujo a morte causa grande dor. Temos também o líder dos exércitos gregos, o poderoso Agamenon; o potente Diomedes; Heitor, o principal guerreiro troiano e arqui-inimigo de Aquiles; Eneias, filho de Afrodite, que mais tarde vai ganhar seu próprio épico sob as mãos de Vírgilio; Páris, também chamado de Alexandre, o principe troiano que causou sua ruína. Entre os deuses temos Zeus, Apollo, Poseidon, Hermes, Hefesto e Ares.
+
+Dentre os personagens masculinos eu destaco dois, pela sua importância para a história da literatura: Odisseu/Ulisses e Tersítes.
+
+### Ulisses / Odisseu
+
+** TODO organizar **
 <blockquote>
 No seu belo estudo intitulado The Ulysses Theme [ «0 Tema de Ulis­
 ses» J ( 1 963), W. B. Stanford coloca o tratamento em surdina, mas negativo,
@@ -173,19 +192,9 @@ mais estável de Ulisses como o primeiro dos grandes viandantes mulherengos.
 <p><em>O Cânone Ocidental</em>, por Harold Bloom, página 93</p>
 </blockquote>
 
-- Agamenon
-- Diomedes
-- Os dois Ajax
-- Heitor
-- Eneias
-- Páris
-
-- Zeus
-- Apollo
-- Poseidon
-
 ### Tersites
 
+** TODO organizar **
 - [Dos homens públicos](https://blogs.oglobo.globo.com/blog-do-moreno/post/dos-homens-publicos-170813.html)
 - [Tersites, um criador de caso da Ilíada a Shakespeare](https://alexcastro.com.br/tersites-iliada-shakespeare/)
 - [A morte de Tersites](https://rafaelbrunhara.medium.com/a-morte-de-tersites-e390e9346917)
