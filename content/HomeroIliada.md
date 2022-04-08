@@ -416,14 +416,37 @@ Harold Bloom nos lembra que um dos personagens da Ilíada, Ulisses / Odisseu, j�
 
 **TODO Escrever sobre influência na Eneida**
 
-#### Shakespeare
+#### Influencia na Divina Comédia
+
+**TODO**
+
+- https://pt.wikipedia.org/wiki/Ulysses_(poema)
+
+#### Influencia na literatura de língua inglesa
+
+##### Lord Alred Tennyson
+<blockquote>
+(...)
+<br> Much have I seen and known; cities of men
+<br> And manners, climates, councils, governments,
+<br> Myself not least, but honour'd of them all;
+<br> And drunk delight of battle with my peers,
+<br> Far on the ringing plains of windy Troy.
+<br> I am a part of all that I have met;
+</blockquote>
+
+
+- **TODO** Adicionar informações do livro do Harold Bloom aqui
+[Leia o poema completo](https://www.poetryfoundation.org/poems/45392/ulysses) e aprenda mais na [Wikipedia](https://en.wikipedia.org/wiki/Ulysses_(poem)).
+
+##### Shakespeare
 
 **TODO Escrever sobre Trólio e Cresseida**
 - [Tersites](https://alexcastro.com.br/tersites-iliada-shakespeare/)
 - [Harold Bloom e os Fantasmas de Homero e de Shakespeare](https://www.jornalopcao.com.br/opcao-cultural/harold-bloom-e-os-fantasmas-de-homero-e-shakespeare-326165/)
 - [Homero em Shakespeare](http://ocoisodascoisas.blogspot.com/2009/01/homero-em-shakespeare.html)
 
-#### Ulisses,  James Joyce
+##### Ulisses,  James Joyce
 
 **TODO**
 
@@ -472,6 +495,28 @@ De nada, morre.<br>
 </blockquote>
 
 Para compreender esse poema de Fernando Pessoa, devemos saber que existe uma lenda portuguesa que diz que [Ulisses foi o fundador de Lisboa](https://www.cidadeecultura.com/lenda-portuguesa/) . A professora [Ernani Terra](https://www.ernaniterra.com.br/ulisses-um-poema-de-fernando-pessoa/) faz uma análise muito interessante desse poema, e nos revela seus significados ocultos.
+
+#### Ithaca, C. P. Cavafy
+
+<blockquote>
+<p>As you set out for Ithaka
+<br>hope your road is a long one,
+</p>
+<p>Hope your road is a long one.
+<br>May there be many summer mornings when,
+<br>with what pleasure, what joy,
+<br>you enter harbors you’re seeing for the first time;
+<br>may you stop at Phoenician trading stations
+<br>to buy fine things,
+<br>mother of pearl and coral, amber and ebony,
+<br>sensual perfume of every kind—
+<br>as many sensual perfumes as you can;
+<br>and may you visit many Egyptian cities
+<br>to learn and go on learning from their scholars.
+</p>
+</blockquote>
+
+[Leia o poema completo.](https://www.poetryfoundation.org/poems/51296/ithaka-56d22eef917ec)
 
 #### Mestre dos Mares, de Patrick O'Brian
 
