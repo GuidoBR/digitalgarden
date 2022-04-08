@@ -425,7 +425,7 @@ Há diversos textos grego-romanos clássicos que contam sobre a guerra de Tróia
   - Electra, de Euripedes
   - As Troianas,de Eurípedes
 
-Além do que foi perdido, o Ciclo Épico (Troioano) completo:
+Além do que foi perdido, o [Ciclo Épico (Troioano)](https://en.wikipedia.org/wiki/Epic_Cycle) completo:
 
 - *[Cypria](https://en.wikipedia.org/wiki/Cypria)*
 - *[Iliad](https://en.wikipedia.org/wiki/Iliad)*
@@ -435,8 +435,6 @@ Além do que foi perdido, o Ciclo Épico (Troioano) completo:
 - *[Nostoi](https://en.wikipedia.org/wiki/Nostoi)*
 - *[Odyssey](https://en.wikipedia.org/wiki/Odyssey)*
 - *[Telegony](https://en.wikipedia.org/wiki/Telegony)*
-
-**TODO Escrever sobre influência na Eneida**
 
 #### Influencia na Divina Comédia
 
@@ -546,7 +544,7 @@ Para compreender esse poema de Fernando Pessoa, devemos saber que existe uma len
 Foi então que pensou outra coisa o divino Aquiles de pés velozes
 <br>pôs-se de pé, afastado da pira, e cortou uma loira madeixa,
 <br>cujo comprimento ele mantinha prometido ao rio Esperqueio.
-<br>Entristecido assim disse, fitando o mar cor de vinho
+<br>Entristecido assim disse, fitando o <strong>mar cor de vinho</strong>
 
 <p>Ilíada, Canto XXIII: 140-143</p>
 </blockquote>
@@ -562,38 +560,39 @@ Foi então que pensou outra coisa o divino Aquiles de pés velozes
 
 #### Adaptações modernas
 
-- Helena de Tróia / Ulisses e Penelópe
-- A Canção de Aquiles
-- [Total War: Troy](https://www.totalwar.com/games/troy/)
-- [Asteroides troianos de Júpiter](https://pt.m.wikipedia.org/wiki/Asteroides_troianos_de_J%C3%BApiter)
+- 📚 [Helena de Tróia](https://www.amazon.com.br/Helena-Troia-Destino-Um-Povo/dp/8582750153/) / [Ulisses e Penelópe](https://www.amazon.com.br/Ulisses-Penelope-Nostalgia-Alberto-Carvalho/dp/8588038226/) pelo professor Carlos Alberto de Carvalho.
+- 📚 [A Canção de Aquiles](https://www.amazon.com.br/can%C3%A7%C3%A3o-Aquiles-aclamada-releitura-Il%C3%ADada/dp/6555354186/)
+- 📚 [A Guerra de Troia - Uma saga de heróis e deuses](https://www.amazon.com.br/Guerra-Troia-Saga-Her%C3%B3is-Deuses/dp/8525432342)
+- 🎮 [Total War: Troy](https://www.totalwar.com/games/troy/)
+- 🔭 [Asteroides troianos de Júpiter](https://pt.m.wikipedia.org/wiki/Asteroides_troianos_de_J%C3%BApiter)
 
 ## Para se aprofundar
 
 ### Textos e livros
 
 - [Ilíada - Wikipedia](https://pt.wikipedia.org/wiki/Il%C3%ADada)
-- [A Guerra de Troia - Uma saga de heróis e deuses](https://www.amazon.com.br/Guerra-Troia-Saga-Her%C3%B3is-Deuses/dp/8525432342)
+- [Dares Frígio](https://pt.wikipedia.org/wiki/Dares_Fr%C3%ADgio)
+- 📚 [História da Literatura Ocidental - Otto Maria Carpeaux](https://www.amazon.com.br/Box-Hist%C3%B3ria-Literatura-Ocidental-carpeaux/dp/6588732120)
 - [Posfácio de Trajano Vieira](https://aterraeredonda.com.br/iliada/)
-- [Homero – Barbara Graziosi](https://editoramnema.com.br/livro/homero-barbara-graziosi/)
-- [The Anger of Achilles: Mênis in Greek Epic - Leonard Muellner](https://chs.harvard.edu/book/muellner-leonard-the-anger-of-achilles-menis-in-greek-epic-2/) - [video](https://www.youtube.com/watch?v=wZxFVCBNEao)
-- [Agamemnon, the Pathetic Despot: Reading Characterization in Homer - Andrew Porter](https://chs.harvard.edu/book/porter-andrew-agamemnon-the-pathetic-despot-reading-characterization-in-homer/)
-- [O MUNDO DE HOMERO - Pierre Vidal-Naquet - Grupo Companhia das Letras](https://www.companhiadasletras.com.br/detalhe.php?codigo=11378)
-- [Bases da Cultura Ocidental - Volume 1- André Alonso](https://canal.cecierj.edu.br/recurso/15289)
-- [Teogonia – Hesíodo – Henry Bugalho (trad.)](https://kotter.com.br/loja/teogonia-hesiodo-henry-bugalho/) - [Henry Bugalho](https://twitter.com/henrybugalho/status/1160125985880268802)
+- 📚 [Homero – Barbara Graziosi](https://editoramnema.com.br/livro/homero-barbara-graziosi/)
+- 📚 [The Anger of Achilles: Mênis in Greek Epic - Leonard Muellner](https://chs.harvard.edu/book/muellner-leonard-the-anger-of-achilles-menis-in-greek-epic-2/) - [video](https://www.youtube.com/watch?v=wZxFVCBNEao)
+- 📚 [Agamemnon, the Pathetic Despot: Reading Characterization in Homer - Andrew Porter](https://chs.harvard.edu/book/porter-andrew-agamemnon-the-pathetic-despot-reading-characterization-in-homer/)
+- 📚 [O Mundo de Homero - Pierre Vidal-Naquet - Grupo Companhia das Letras](https://www.companhiadasletras.com.br/detalhe.php?codigo=11378)
+- 📚 [Bases da Cultura Ocidental - Volume 1- André Alonso](https://canal.cecierj.edu.br/recurso/15289)
+- 📚 [Teogonia – Hesíodo – Henry Bugalho (trad.)](https://kotter.com.br/loja/teogonia-hesiodo-henry-bugalho/) - [Henry Bugalho](https://twitter.com/henrybugalho/status/1160125985880268802)
 - [A Morte de Aquiles](https://aguerradetroia.wordpress.com/2013/03/02/a-morte-de-aquiles/)
 - [Um Grego te conta o verdadeiro mito das três Moiras](https://brazilgreece.com/as-tres-irmas-da-mitologia-grega/)
 - [Exegese alegórica de Homero](https://pt.wikipedia.org/wiki/Exegese_aleg%C3%B3rica_de_Homero)
 - [Os Símiles em Homero](https://cidmarcus.blogspot.com/2021/03/os-similes-na-iliada.html)
-- [The Artistry of the Homeric Simile - by William C. Scott
-](https://www.dartmouth.edu/library/digital/publishing/scott2009/)
-- [The best books on Greek Myths - recommended by Lucy Coats](https://fivebooks.com/best-books/greek-myths-lucy-coats/)
+- 📚 [The Artistry of the Homeric Simile - William C. Scott](https://www.dartmouth.edu/library/digital/publishing/scott2009/)
+- 📚 [The best books on Greek Myths - recommended by Lucy Coats](https://fivebooks.com/best-books/greek-myths-lucy-coats/)
   - The Song of Achilles
-  - The Greek Myths
-  - Ithaka
-  - Tales from Ovid
-  - The Children's Homer
+  - [The Greek Myths](https://www.amazon.com.br/dp/0241952743)
+  - [Ithaka](https://www.amazon.com.br/dp/0152061045)
+  - [Tales from Ovid](https://www.amazon.com.br/dp/0374525870)
+  - [The Children's Homer](https://www.amazon.com.br/dp/1375767542)
   - Atticus the Storyteller's 100 Greek Myths
-- [The best Trojan War books](https://fivebooks.com/best-books/the-trojan-war-stephen-fry/)
+- 📚 [The best Trojan War books](https://fivebooks.com/best-books/the-trojan-war-stephen-fry/)
   -  The Ilíad
   -  The Odyssey
   -  The Aeneid
@@ -620,14 +619,6 @@ Foi então que pensou outra coisa o divino Aquiles de pés velozes
 - [Alex Castro: Categoria: ilíada](https://alexcastro.com.br/category/grande-conversa/2a-aula-gregos/iliada/)
 - [Khan Academy - History - Classical Greece](https://www.khanacademy.org/humanities/world-history/ancient-medieval/classical-greece/v/overview-of-ancient-greece)
 - [Coursera - Greek And Roman Mythology](https://www.coursera.org/learn/mythology)
-  - Course Readings
-    - Greek Tragedies, Volume 1, David Grene and Richmond Lattimore, trans. (Chicago) • 
-    - Greek Tragedies, Volume 3, David Grene and Richmond Lattimore , trans. (Chicago) • 
-    - Hesiod, Theogony and Works and Days, M. L. West, trans. (Oxford) • 
-    - Homeric Hymns, Sarah Ruden, trans. (Hackett) • 
-    - Homer, The Odyssey, Robert Fagles, trans. (Penguin)  • 
-    - Virgil, The Aeneid, Robert Fitzgerald, trans. (Vintage) • 
-    - Ovid, Metamorphoses, David Raeburn, trans. (Penguin)
 - [On Reading Homer - Odyssey I.1-10](https://www.coursera.org/lecture/mythology/1-7-on-reading-homer-0xrPb)
 - [Coursera - Os Gregos Antigos](https://pt.coursera.org/learn/ancient-greeks)
 - [Clube de leitura Ilíada](https://drive.google.com/drive/folders/17EIkqFv4sFasbxQeYxz2Pu18sljUVpGk?usp=sharing)
