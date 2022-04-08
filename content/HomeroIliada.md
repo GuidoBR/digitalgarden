@@ -245,7 +245,7 @@ Para isso, os adversários na guerra eram elogiados e engrandecidos. Quanto mais
   	- [Smitheus](https://pantheon.org/articles/s/smintheus.html)
   - Cientistas x Profetas, quem fala a verdade nos tempos gregos e nos tempos atuais?
 
-#### Agon *Ἀγών* discursivo: os debates de ideias nas assembleias
+#### Agon *Ἀγών* discursivo: o debate de ideias
 <figure>
 	<a href="https://en.wikipedia.org/wiki/The_Ambassadors_of_Agamemnon_in_the_tent_of_Achilles" target="_blank"><img src="/images/The_Envoys_of_Agamemnon_by_Ingres.jpg" alt="Aquiles e os embaixadores de Agamemnon" style="zoom:100%;" /></a>
 	<figcaption>Quadro: <em>The Ambassadors of Agamemnon in the tent of Achilles</em> (1801), Ingres
@@ -444,7 +444,7 @@ O crítico literário Otto Carpeaux relata em sua História da Literatura Ociden
 <p>No estudo Três Fontes e Três Elementos do Marxismo , Lênin caracteriza o marxismo como herdeiro legítimo da filosofia alemã, da economia política inglesa e do socialismo francês.
 Nas origens desses três elementos encontram-se pensamentos antigos: o idealismo acadêmico, o materialismo epicureu e a utopia platônica. Não será difícil demonstrar, da mesma maneira, a presença invisível da Antiguidade em todos os setores do pensamento moderno; e do pensamento antigo, a literatura antiga é a mais completa expressão emotiva. <strong>Daí se origina o fato de todos os gêneros literários ainda hoje existentes haverem sido criados pelos gregos, tendo-nos sido transmitidos pelos romanos.</strong></p>
 
-<strong>História da Literatura Ocidental</strong>, <em>Otto Maria Carpeaux</em> página 71.
+<strong>[História da Literatura Ocidental](https://www2.senado.leg.br/bdsf/item/id/528992)</strong>, <em>Otto Maria Carpeaux</em> página 71.
 </blockquote>
 
 #### Influencia na literatura grega e romana clássica
@@ -630,6 +630,12 @@ Para compreender esse poema de Fernando Pessoa, devemos saber que existe uma len
 
 #### Mestre dos Mares, de Patrick O'Brian
 
+Patrick O'Brian em sua magistral série Mestre dos Mares (Aubrey-Maturin) faz algumas referências a Homero. No livro "Treason's Harbour" temos a seguinte [citação](https://www.goodreads.com/quotes/10367207-certainly-he-had-heard-of-homer-and-had-indeed-looked):
+
+> “Certainly he had heard of Homer, and had indeed looked into Mr Pope’s version of his tale; but for aught he could make out, the fellow was no seaman. Admittedly Ulysses had no chronometer, and probably no sextant neither; but with no more than log, lead and lookout an officer-like commander would have found his way home from Troy a d—d sight quicker than that. Hanging about in port and philandering, that was what it amounted to, the vice of navies from the time of Noah to that of Nelson. And as for that tale of all his foremast-hands being turned into swine, so that he could not win his anchor or make sail, why, he might tell that to the Marines. Besides, he behaved like a very mere scrub to Queen Dido.”
+
+Além disso, o título da sua história "[The Wine-Dark Sea](https://www.amazon.com/Wine-Dark-Vol-Aubrey-Maturin-Novels/dp/0393312445)" é uma clara referência ao texto da [Ilíada](https://en.wikipedia.org/wiki/Wine-dark_sea_(Homer)) e a discussão de academicos sobre o que Homer quis dizer com mar cor de vinho.:
+
 <blockquote>
 Foi então que pensou outra coisa o divino Aquiles de pés velozes
 <br>pôs-se de pé, afastado da pira, e cortou uma loira madeixa,
@@ -638,15 +644,6 @@ Foi então que pensou outra coisa o divino Aquiles de pés velozes
 
 <p>Ilíada, Canto XXIII: 140-143</p>
 </blockquote>
-
-- https://www.goodreads.com/quotes/10367207-certainly-he-had-heard-of-homer-and-had-indeed-looked
-- https://archive.nytimes.com/www.nytimes.com/books/98/10/18/specials/obrian-comesin.html
-- https://www.amazon.com/Wine-Dark-Vol-Aubrey-Maturin-Novels/dp/0393312445
-- https://wwnorton.com/books/9780393312447
-- https://en.wikipedia.org/wiki/Wine-dark_sea_(Homer)
-- https://www.jstor.org/stable/642564
-- https://clarkesworldmagazine.com/hoffman_01_13/
-- https://www.quora.com/Why-does-Homer-call-the-ocean-wine-dark-in-his-Iliad-and-Odyssey
 
 #### Adaptações modernas
 
@@ -662,7 +659,7 @@ Foi então que pensou outra coisa o divino Aquiles de pés velozes
 
 - [Ilíada - Wikipedia](https://pt.wikipedia.org/wiki/Il%C3%ADada)
 - [Dares Frígio](https://pt.wikipedia.org/wiki/Dares_Fr%C3%ADgio)
-- 📚 [História da Literatura Ocidental - Otto Maria Carpeaux](https://www.amazon.com.br/Box-Hist%C3%B3ria-Literatura-Ocidental-carpeaux/dp/6588732120)
+- 📚 [História da Literatura Ocidental - Otto Maria Carpeaux](https://www.amazon.com.br/Box-Hist%C3%B3ria-Literatura-Ocidental-carpeaux/dp/6588732120) - [versão ebook gratuita](https://www2.senado.leg.br/bdsf/item/id/528992)
 - [Posfácio de Trajano Vieira](https://aterraeredonda.com.br/iliada/)
 - 📚 [Homero – Barbara Graziosi](https://editoramnema.com.br/livro/homero-barbara-graziosi/)
 - 📚 [The Anger of Achilles: Mênis in Greek Epic - Leonard Muellner](https://chs.harvard.edu/book/muellner-leonard-the-anger-of-achilles-menis-in-greek-epic-2/) - [video](https://www.youtube.com/watch?v=wZxFVCBNEao)
@@ -676,19 +673,13 @@ Foi então que pensou outra coisa o divino Aquiles de pés velozes
 - [Os Símiles em Homero](https://cidmarcus.blogspot.com/2021/03/os-similes-na-iliada.html)
 - 📚 [The Artistry of the Homeric Simile - William C. Scott](https://www.dartmouth.edu/library/digital/publishing/scott2009/)
 - 📚 [The best books on Greek Myths - recommended by Lucy Coats](https://fivebooks.com/best-books/greek-myths-lucy-coats/)
-  - The Song of Achilles
-  - [The Greek Myths](https://www.amazon.com.br/dp/0241952743)
-  - [Ithaka](https://www.amazon.com.br/dp/0152061045)
-  - [Tales from Ovid](https://www.amazon.com.br/dp/0374525870)
-  - [The Children's Homer](https://www.amazon.com.br/dp/1375767542)
-  - Atticus the Storyteller's 100 Greek Myths
+  - 📚 [The Song of Achilles](https://www.amazon.com.br/Song-Achilles-Madeline-Miller/dp/0062060627/)
+  - 📚 [The Greek Myths](https://www.amazon.com.br/dp/0241952743)
+  - 📚 [Ithaka](https://www.amazon.com.br/dp/0152061045)
+  - 📚 [Tales from Ovid](https://www.amazon.com.br/dp/0374525870)
+  - 📚 [The Children's Homer](https://www.amazon.com.br/dp/1375767542)
+  - 📚 [Atticus the Storyteller's 100 Greek Myths](https://www.amazon.com.br/Atticus-Storyteller-100-Stories-Greece/dp/1842552791)
 - 📚 [The best Trojan War books](https://fivebooks.com/best-books/the-trojan-war-stephen-fry/)
-  -  The Ilíad
-  -  The Odyssey
-  -  The Aeneid
-  -  Posthomerica
-  -  The Tale of Troy
-  -  Troy
 
 ### Podcasts
 
