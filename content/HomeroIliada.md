@@ -8,7 +8,7 @@ title: "Iliad"
 
 Uma história contada e recontada desde antes da invenção da escrita. Deuses batalhando lado a lado a homens no campo de batalha. Uma guerra que destruiu a vida de muitos heróis, durou 10 longos anos e terminou com uma cidade incendiada. Tudo começou pelo julgamento de um homem, que entre o amor, a sabedoria e o poder, escolheu o amor.
 
-Ilíada é um poema épico grego, que acredita-se foi produzido no século VIII a.C., é uma obra fundamental para a cultura ocidental. O texto se desenrola por eventos da Guerra de Tróia (cidade que também é conhecida por *Ilíon*; portanto *Ilíada* significa contos de Ilíon), onde Gregos e Troianos disputam uma longa e sangrenta contenda que começou com uma desavença entre três deusas em um julgamento para saber quem é a mais bela. 
+Ilíada é um poema épico grego, que acredita-se foi produzido no século VIII a.C., é uma obra fundamental para a cultura ocidental. O texto se desenrola por eventos da Guerra de Tróia (cidade que também é conhecida por *Ilion*; portanto *Ilíada* significa contos de Ílion), onde Gregos e Troianos disputam uma longa e sangrenta contenda que começou com uma desavença entre três deusas em um julgamento para saber quem é a mais bela. 
 
 Por se tratar de uma epopeia (termo que provém do grego *epus* que significa história de heróis), é um dos textos fundamentais do período clássico. Narra as glórias e os dramas de incontáveis heróis, e nos conta o que é ser humano e questões que enfrentamos durante nossa vida.
 
@@ -22,7 +22,7 @@ Segundo Harold Bloom, lemos Homero para:
 >
 > Harold Bloom, O Cânone Ocidental, 5a edição (2013), página 42-43
 
-Ler a Ilíada foi uma experiência maravilhosa, o livro nos faz conhecer uma cultura ríquissima e refletir sobre diversos temas. É um dos livros fundadores da literatura ocidental, que foi lido por muitas pessoas ao longo da história. De certa forma, é um livro que nos faz conectar com  a própria humanidade.
+Ler a Ilíada foi uma experiência maravilhosa, o livro nos faz conhecer uma cultura riquíssima e refletir sobre diversos temas. É um dos livros fundadores da literatura ocidental, que foi lido por muitas pessoas ao longo da história. De certa forma, é um livro que nos faz conectar com  a própria humanidade.
 
 ## Homero: o autor da obra
 
@@ -140,11 +140,11 @@ Já numa tradução pelo maior autor brasileiro, o Bruxo do Cosme Velho escreveu
 
 </blockquote>
 
-Para o autor Leonard Muellner em seu estudo ["The Anger of Achilles: Mênis in Greek Epic"](https://chs.harvard.edu/book/muellner-leonard-the-anger-of-achilles-menis-in-greek-epic-2/), a *mênis* é um sentimento complexo e muitas vezes pouco compreendido. Segundo ele, geralmente são os deuses olímpicos que sentem *mênis* e que Aquiles é uma excessão a essa regra. Os gregos usavam a palavra *kótos* para o que entendemos como *raiva*, e não é sobre isso que o épico trata. Por usar *mênis*, Homero tinha em mente algo muito mais profundo e assustador, uma ira digna dos deuses que são capazes de causar destruição avassaladora quando irados. É esse sentimento que Aquiles está sentindo, ele que é mortal mas que de acordo com as profecias poderia ter sido maior que Zeus, e os efeitos disso que são o tema dessa magnífica obra. 
+Para o autor Leonard Muellner em seu estudo ["The Anger of Achilles: Mênis in Greek Epic"](https://chs.harvard.edu/book/muellner-leonard-the-anger-of-achilles-menis-in-greek-epic-2/), a *mênis* é um sentimento complexo e muitas vezes pouco compreendido. Segundo ele, geralmente são os deuses olímpicos que sentem *mênis* e que Aquiles é uma exceção a essa regra. Os gregos usavam a palavra *kótos* para o que entendemos como *raiva*, e não é sobre isso que o épico trata. Por usar *mênis*, Homero tinha em mente algo muito mais profundo e assustador, uma ira digna dos deuses que são capazes de causar destruição avassaladora quando irados. É esse sentimento que Aquiles está sentindo, ele que é mortal mas que de acordo com as profecias poderia ter sido maior que Zeus, e os efeitos disso que são o tema dessa magnífica obra. 
 
 ## Personagens principais
 
-Há muitas personagens interessantes na Ilíada, e muitos delas foram desenvolvidos em outras obras e mitos (tanto greco-romanas da antiguidade, quanto obras mais recentes). 
+Há muitos personagens interessantes na Ilíada, e muitos deles foram desenvolvidos em outras obras e mitos (tanto greco-romanas da antiguidade, quanto obras mais recentes). 
 
 Dentre as personagens femininas gosto de destacar a própria Helena, e a eterna disputa sobre seu papel na guerra de Tróia. Há uma passagem em que ela desafia a deusa Afrodite e demonstra que não está contente com a situação que a deusa provocou:
 
@@ -165,21 +165,20 @@ Dentre as personagens femininas gosto de destacar a própria Helena, e a eterna 
 <br> todas me censurariam. Tenho no peito dores desmedidas."
 </blockquote>
 
-Outras personagens feminias de destaque são Cassandra (como cientistas modernos que nos avisam de perigos vindouros mas não recebem o devido crédito), Criseida, Andrómaca, e as deusas Tétis, Hera, Afrodite e Atena.
+Outras personagens femininas de destaque são Cassandra (como cientistas modernos que nos avisam de perigos vindouros mas não recebem o devido crédito), Criseida, Andrómaca, e as deusas Tétis, Hera, Afrodite e Atena.
 
 <img src="/images/iliada-characters.jpg" alt="Personagens masculinos principais de Ilíada" style="zoom:60%;" />
 
-Já dos personagens masculinos temos muitos e potentes guerreiros.  Aquiles é o personagem principal, é ele o mais poderoso guerreiro e a história se move por e para ele. Pátroclo é seu companheiro, cujo a morte causa grande dor. Temos também o líder dos exércitos gregos, o poderoso Agamenon; o potente Diomedes; Heitor, o principal guerreiro troiano e arqui-inimigo de Aquiles; Eneias, filho de Afrodite, que mais tarde vai ganhar seu próprio épico sob as mãos de Vírgilio; Páris, também chamado de Alexandre, o principe troiano que causou sua ruína. Entre os deuses temos Zeus, Apollo, Poseidon, Hermes, Hefesto e Ares.
+Já dos personagens masculinos temos muitos e potentes guerreiros.  Aquiles é o personagem principal, é ele o mais poderoso guerreiro e a história se move por e para ele. Pátroclo é seu companheiro, cujo a morte causa grande dor. Temos também o líder dos exércitos gregos, o poderoso Agamenon; o potente Diomedes; Heitor, o principal guerreiro troiano e arqui-inimigo de Aquiles; Eneias, filho de Afrodite, que mais tarde vai ganhar seu próprio épico sob as mãos de Vírgilio; Páris, também chamado de Alexandre, o príncipe troiano que causou sua ruína. Entre os deuses temos Zeus, Apolo, Poseidon, Hermes, Hefesto e Ares.
 
 Dentre os personagens masculinos eu destaco dois, pela sua importância para a história da literatura: Odisseu/Ulisses e Tersítes.
 
 ### Ulisses / Odisseu
 
-Ulisses é um dos personagens que foi mais reutilizado na literatura. Com sua fala política e seu jeito inteligente, com caráter duvidoso, passou duas décadas longe de casa e voltou para reconquistar seu reino, família e posição. Foi tema de diversos livros, poemas, reencenações e recontagens ao longo da história.
+Ulisses é um dos personagens que foi mais utilizado na literatura. Com sua fala política e seu jeito inteligente, com caráter duvidoso, passou duas décadas longe de casa e voltou para reconquistar seu reino, família e posição. Foi tema de diversos livros, poemas, reencenações e recontagens ao longo da história.
 
 <blockquote>
-No seu belo estudo intitulado The Ulysses Theme [ «0 Tema de Ulisses» J (1963), W. B. Stanford coloca o tratamento em surdina, mas negativo, que Virgílio faz de Ulisses em contraste com a identificação positiva de Ovídio com Ulisses. Este contraste encerra duas das maiores posições que provavelmente sempre se combaterão nas metamorfoses deste herói, ou deste herói-vilão. O Ulisses de Virgílio virá a ser o de Dante, mas tão transfigurado que o re
-trato bastante evasivo dado por Virgílio tende a esbater-se. Incapaz de condenar Ulisses directamente, Virgílio transfere esse trabalho para as suas personagens, as quais vão identificar o herói da Odisseia com a perfídia e o engano. Ovídio, um exilado e um pinga-amor, confunde-se a si próprio com Ulisses numa identidade compósita, legando-nos desse modo aquela que é hoje em dia a ideia mais estável de Ulisses como o primeiro dos grandes viandantes mulherengos.
+No seu belo estudo intitulado The Ulysses Theme [ «0 Tema de Ulisses» J (1963), W. B. Stanford coloca o tratamento em surdina, mas negativo, que Virgílio faz de Ulisses em contraste com a identificação positiva de Ovídio com Ulisses. Este contraste encerra duas das maiores posições que provavelmente sempre se combaterão nas metamorfoses deste herói, ou deste herói-vilão. O Ulisses de Virgílio virá a ser o de Dante, mas tão transfigurado que o retrato bastante evasivo dado por Virgílio tende a esbater-se. Incapaz de condenar Ulisses directamente, Virgílio transfere esse trabalho para as suas personagens, as quais vão identificar o herói da Odisseia com a perfídia e o engano. Ovídio, um exilado e um pinga-amor, confunde-se a si próprio com Ulisses numa identidade compósita, legando-nos desse modo aquela que é hoje em dia a ideia mais estável de Ulisses como o primeiro dos grandes viandantes mulherengos.
 
 <p><em>O Cânone Ocidental</em>, por Harold Bloom, página 93</p>
 </blockquote>
@@ -199,7 +198,7 @@ Filho de Atreu, estás descontente? Falta-te alguma coisa?
 <p>Ilíada, Canto II, 225.</p>
 </blockquote>
 
-Estudiosos da literatura veem paralelos entre esse personagem (pobre, oprimido, do povo) em outros livros, como o "velho do restelho" em Lusíadas (que fala com Vasco da Gama, argumentando contra as grandes navegações que estariam empobrecendo os portugueses) e o mesmo personagem por Saramago, bradando contra o voo da Apollo até a Lua.
+Estudiosos da literatura veem paralelos entre esse personagem (pobre, oprimido, do povo) em outros livros, como o "velho do restelo" em Lusíadas (que fala com Vasco da Gama, argumentando contra as grandes navegações que estariam empobrecendo os portugueses) e o mesmo personagem por Saramago, bradando contra o voo da Apollo até a Lua.
 
 - [Dos homens públicos](https://blogs.oglobo.globo.com/blog-do-moreno/post/dos-homens-publicos-170813.html)
 - [Tersites, um criador de caso da Ilíada a Shakespeare](https://alexcastro.com.br/tersites-iliada-shakespeare/)
@@ -210,13 +209,13 @@ Estudiosos da literatura veem paralelos entre esse personagem (pobre, oprimido, 
 
 ## Temas principais
 
-A Ilíada fala de um momento específico dessa guerra, onde Aquiles, o principal herói grego, se sente menosprezado pelo poderoso soberano Agamenom que lhe retira a Crisêida, uma mulher que é o prêmio que Aquiles recebeu por saquear uma cidade aliada dos Troianos. Nesse momento, Aquiles se sente irado e decide sair da luta -- deixando os gregos a mercê dos Troianos.
+A Ilíada fala de um momento específico dessa guerra, onde Aquiles, o principal herói grego, se sente menosprezado pelo poderoso soberano Agamenom que lhe retira a Crisêida, uma mulher que é o prêmio que Aquiles recebeu por saquear uma cidade aliada dos Troianos. Nesse momento, Aquiles se sente irado e decide sair da luta -- deixando os gregos à mercê dos Troianos.
 
-A guerra de Tróia foi causada pela beleza de uma mulher e pela disputa entre dois povos. Milhares de homens foram mortos e a grande cidade de Ilion foi destruida. No entanto, algo de novo nasceu diante das muralhas de Troia: a ideia de uma só Grécia e as bases da maior aventura épica ocidental.
+A guerra de Tróia foi causada pela beleza de uma mulher e pela disputa entre dois povos. Milhares de homens foram mortos e a grande cidade de Ílion foi destruída. No entanto, algo de novo nasceu diante das muralhas de Tróia: a ideia de uma só Grécia e as bases da maior aventura épica ocidental.
 
 ### Como a Ilíada nos fala sobre a guerra?
 
-O imperativo moral da Ilíada é a [kleos](https://pt.wikipedia.org/wiki/Kleos) (κλέος, glória). Para uma sociedade primariamente oral e com forte tradição de vida em grupo, os valores morais são bem diferentes do que temos hoje em dia. Para nós, temos que ser felizes. Se não estamos felizes significa que estamos fazendo algo errado. Nós mostramos nossas conquistas, nossa vida feliz, em redes sociais para que todos possam checar que estamos felizes. Buscamos a efemeridade da felicidade á todo instante. Para a sociedade grega, o seu imperativo moral é a glória. O objetivo de Aquiles é ter seu nome lembrado para sempre, através de seus atos gloriosos. A sociedade grega é muito mais gregária, pensando na coletividade. Já a sociedade contemporânea somos muito mais individualistas. A minha felicidade é o que importa, é a minha meta. 
+O imperativo moral da Ilíada é a [kleos](https://pt.wikipedia.org/wiki/Kleos) (κλέος, glória). Para uma sociedade primariamente oral e com forte tradição de vida em grupo, os valores morais são bem diferentes do que temos hoje em dia. Para nós, temos que ser felizes. Se não estamos felizes significa que estamos fazendo algo errado. Nós mostramos nossas conquistas, nossa vida feliz, em redes sociais para que todos possam checar que estamos felizes. Buscamos a efemeridade da felicidade a todo instante. Para a sociedade grega, o seu imperativo moral é a glória. O objetivo de Aquiles é ter seu nome lembrado para sempre, através de seus atos gloriosos. A sociedade grega é muito mais gregária, pensando na coletividade. Já na sociedade contemporânea somos muito mais individualistas. A minha felicidade é o que importa, é a minha meta. 
 
 Aquiles só consegue a glória que almeja, se for chancelado pelo coletivo. Somente se os gregos o verem atingir a glória, e relembrarem disso através de canções, ele vai conseguir atingir seus objetivos. A guerra, para a sociedade grega dessa época, era uma forma de engrandecer, de conquistar renome e glória para o homem e para o coletivo.
 
@@ -238,7 +237,7 @@ Para isso, os adversários na guerra eram elogiados e engrandecidos. Quanto mais
 
 - **Ἔλεος** [eleos]https://en.wikipedia.org/wiki/Eleos - compaixão, empatia, piedade. É o que Príamo consegue provocar em Aquiles, quando ele (um rei idoso que acabara de perder o filho querido) vai à tenda de Aquiles suplicar pelo corpo de seu filho e beija na mão do Aquiles -- que foi seu assassino. Esse sentimento foi o único que fez parar a cólera / *mênis* de Aquiles Presentes, dinheiro, gregos sofrendo, discursos e argumentos lógicos do melhor orador, nada disso conseguiu frear a cólera de Aquiles, somente *eleos* (compaixão).
 
-  - Para os gregos, os sentimentos e emoções são coisas externas que os acometem, e de certa forma isso os poupa de culpa por seus erros. Eros e Afrodite são culpados quando os gregos se apaixonam. Zeus ou algum outro deus é culpado pelo desvairio (até) de Agamêmnon, que o levou a desrespeitar Aquiles. 
+  - Para os gregos, os sentimentos e emoções são coisas externas que os acometem, e de certa forma isso os poupa de culpa por seus erros. Eros e Afrodite são culpados quando os gregos se apaixonam. Zeus ou algum outro deus é culpado pelo desvario (até) de Agamêmnon, que o levou a desrespeitar Aquiles. 
 
 - Destino e mitologia grega
   - Deuses distintos lutando entre si para ora ajudar e ora atrapalhar os humanos.
@@ -262,7 +261,7 @@ Para isso, os adversários na guerra eram elogiados e engrandecidos. Quanto mais
 >
 > Ilíada, Canto IX 32-33
 
-Para os gregos, [agon (*Ἀγών*)](https://en.wikipedia.org/wiki/Agon) é um termo usado para diversos tipos de conflitos e concursos. Isso pode ser aplicado a competições atléticas (como a olímpiada), festivais (as magníficas tragédias e comédias gregas foram produzidas para festivais públicos) e debate de ideias (na àgora grega; nas assembleias).
+Para os gregos, [agon (*Ἀγών*)](https://en.wikipedia.org/wiki/Agon) é um termo usado para diversos tipos de conflitos e concursos. Isso pode ser aplicado a competições atléticas (como a olimpíada), festivais (as magníficas tragédias e comédias gregas foram produzidas para festivais públicos) e debate de ideias (na ágora grega; nas assembleias).
 
 Harold Bloom usa bastante o conceito de agon para falar de conflitos entre obras literárias através dos séculos.
 
@@ -278,7 +277,7 @@ poema, uma peça ou um romance são necessariamente forçados a aparecer
 através de obras precursoras
 > "[O Cânone Ocidental](https://www.amazon.com.br/C%C3%A2none-Ocidental-grandes-escritores-essenciais/dp/9896441367)", Harold Bloom
 
-Para a sociedade grega antiga, a retórica era muito valorizada. Toda a construção de mundo, a persuassão e a troca de conhecimento deve ser feita através da retórica -- e para isso usando de discursos em assembleias.
+Para a sociedade grega antiga, a retórica era muito valorizada. Toda a construção de mundo, a persuasão e a troca de conhecimento deve ser feita através da retórica -- e para isso usando de discursos em assembleias.
 
 <blockquote>
 Tidida, no que toca à guerra és muito possante,
@@ -293,7 +292,7 @@ Tidida, no que toca à guerra és muito possante,
 <p><em>Ilíada</em> Canto IX - 53-75</p>
 </blockquote>
 
-No interessantíssimo canto IX, uma delegação de heróis gregos forma uma assembleia para *aconselhar* Aquiles ("**tecer-lhes a teia da prudência**"; canto IX: 93) e temos três tipos de discursos sendo feitos para convencer Aquiles a voltar para a batalha: Odisseu usa fatos e lógica; Fênix faz um belíssimo apelo emocional (*pathos πάθος*) e pedagógico, educando pelo exemplo; Àjax Telamônio **TODO completar**
+No interessantíssimo canto IX, uma delegação de heróis gregos forma uma assembleia para *aconselhar* Aquiles ("**tecer-lhes a teia da prudência**"; canto IX: 93) e temos três tipos de discursos sendo feitos para convencer Aquiles a voltar para a batalha: Odisseu usa fatos e lógica; Fênix faz um belíssimo apelo emocional (*pathos πάθος*) e pedagógico, educando pelo exemplo; Ájax Telamônio **TODO completar**
 
 > Para ti mesmo sofrimento haverá no futuro. E remédio de mal
 > praticado não se encontrará.
@@ -316,7 +315,7 @@ Já Fênix, usa a emoção para tentar influenciar Aquiles. Cita histórias mito
 > cedem, eles que têm maior valor, honra e força.
 > Fênix em *Ilíada*, Canto IX: 496-498
 
-Para alguns estudiosos de Homero, o mito de [Meleagro e o javali de Cálidon](https://greciantiga.org/arquivo.asp?num=0440) é o [*mitema*](https://pt.wikipedia.org/wiki/Mitema) (particula elementar irredutível de um mito; está para um mito assim como o bit está para informação e o gene para o genoma) da Ilíada. Segundo essa interpretação, o mito que Fênix conta (canto IX: 527-605) tem a função de sensibilizar Pátroclo para que este influencie Aquiles. Pátroclo cumpriria função equivalente à de Cleopatra no mito, e isso fica ainda mais evidente pelo jogo de palavras em seus nomes (Pátroclo e Cleopatra signfica "glória ao pai", ambos tem versões femininas e masculinas do mesmo nome). Ainda de acordo com essa interpretação, essa era uma forma cifrada de Fênix mostrar que sabia da relação amorosa entre Aquiles e Pátroclo, e tentar usar essa relação para influenciar o retorno do herói grego ao campo de batalha.
+Para alguns estudiosos de Homero, o mito de [Meleagro e o javali de Cálidon](https://greciantiga.org/arquivo.asp?num=0440) é o [*mitema*](https://pt.wikipedia.org/wiki/Mitema) (particula elementar irredutível de um mito; está para um mito assim como o bit está para informação e o gene para o genoma) da Ilíada. Segundo essa interpretação, o mito que Fênix conta (canto IX: 527-605) tem a função de sensibilizar Pátroclo para que este influencie Aquiles. Pátroclo cumpriria função equivalente à de Cleopatra no mito, e isso fica ainda mais evidente pelo jogo de palavras em seus nomes (Pátroclo e Cleopatra significa "glória ao pai", ambos têm versões femininas e masculinas do mesmo nome). Ainda de acordo com essa interpretação, essa era uma forma cifrada de Fênix mostrar que sabia da relação amorosa entre Aquiles e Pátroclo, e tentar usar essa relação para influenciar o retorno do herói grego ao campo de batalha.
 
 Aristóteles em seu tratado sobre [Retórica](https://www.amazon.com.br/dp/B07SXJCMN7/) bebeu desse canto IX para pensar sua teoria do discurso.
 
@@ -336,7 +335,7 @@ A Ilíada foca em acontecimentos no penúltimo ano da Guerra de Tróia, mas term
 
 Helena de Tróia desconfia do Cavalo e imita vozes de esposa de guerreiros gregos, para tentá-los:
 
-> "Sim, em tudo isso, esposa, disseste a verdade. Eu que viajei muito e cheguei a conhecer muitos heróis, nunca meus olhos viram alguém como Odisseu. Que perseverança, e que coragem ele mostrou dentro do cavalo de madeira, onde estavam todos os mais bravos dos argivos esperando para levar a morte e a destruição aos troianos. Naquele momento vieste a nós; algum deus que amava os troianos te mandou, trazendo contigo [Deífobo](https://pt.wikipedia.org/wiki/Deífobo). Três vezes tu andaste em volta do nosso esconderijo; tu chamaste nossos capitães cada qual por seu nome, imitando as vozes de suas esposas - [Diomedes](https://pt.wikipedia.org/wiki/Diomedes), Odisseu e eu, de nossos assentos, ouvimos o que dizias. Diomedes e eu não conseguíamos decidir se devíamos sair, ou se responder, mas Odisseu nos impediu, de modo que permanecemos em silêncio, exceto [Ânticlo](https://pt.wikipedia.org/w/index.php?title=Ânticlo&action=edit&redlink=1), que estava prestes a falar-te, quando Odisseu tapou-lhe a boca com suas mãos. Isso nos salvou a todos, até que Atena te fez ir embora"
+> "Sim, em tudo isso, esposa, disseste a verdade. Eu que viajei muito e cheguei a conhecer muitos heróis, nunca meus olhos viram alguém como Odisseu. Que perseverança, e que coragem ele mostrou dentro do cavalo de madeira, onde estavam todos os mais bravos dos argivos esperando para levar a morte e a destruição aos troianos. Naquele momento vieste a nós; algum deus que amava os troianos te mandou, trazendo contigo [Deífobo](https://pt.wikipedia.org/wiki/Deífobo). Três vezes tu andaste em volta do nosso esconderijo; tu chamaste nossos capitães cada qual por seu nome, imitando as vozes de suas esposas - [Diomedes](https://pt.wikipedia.org/wiki/Diomedes), Odisseu e eu, de nossos assentos, ouvimos o que dizias. Diomedes e eu não conseguíamos decidir se devíamos sair, ou se responder, mas Odisseu nos impediu, de modo que permanecemos em silêncio, exceto [ nticlo](https://pt.wikipedia.org/w/index.php?title= nticlo&action=edit&redlink=1), que estava prestes a falar-te, quando Odisseu tapou-lhe a boca com suas mãos. Isso nos salvou a todos, até que Atena te fez ir embora"
 >
 > *Odisseia*
 
@@ -354,7 +353,7 @@ Outros autores, como Vírgilio, detalham o que ocorreu no fim de Tróia. Na Enei
 
 ## Qual tradução da Ilíada ler?
 
-A tradução que eu li e recomendo é a do Frederico Lourenço lançado pela Companhia das Letras. Há diversas outras em português e cada uma dela tem um foco diferente (ser mais fácil de ler, ser fiel á métrica do poema). O Alex Castro explica melhor em seu texto [Qual Ilíada Ler?](https://alexcastro.com.br/qual-iliada-ler/)
+A tradução que eu li e recomendo é a do Frederico Lourenço lançada pela Companhia das Letras. Há diversas outras em português e cada uma delas tem um foco diferente (ser mais fácil de ler, ser fiel à métrica do poema). O Alex Castro explica melhor em seu texto [Qual Ilíada Ler?](https://alexcastro.com.br/qual-iliada-ler/)
 
 Também há uma dissertação excelente sobre as traduções de Ilíada em português, para quem tiver interesse no contexto histórico dessas traduções eu recomendo a leitura de 
 ["O texto pelo avesso: a gênese das traduções em português da Ilíada - Tatiana Alvarenga Chanoca"](https://repositorio.ufmg.br/handle/1843/LETR-B3GKDT)
@@ -454,7 +453,7 @@ Nas origens desses três elementos encontram-se pensamentos antigos: o idealismo
 <strong>[História da Literatura Ocidental](https://www2.senado.leg.br/bdsf/item/id/528992)</strong>, <em>Otto Maria Carpeaux</em> página 71.
 </blockquote>
 
-#### Influencia na literatura grega e romana clássica
+#### Influência na literatura grega e romana clássica
 
 Há diversos textos grego-romanos clássicos que contam sobre a guerra de Tróia, com antecedentes ou acontecimentos posteriores. Alguns deles nos contam do destino de alguns personagens homéricos. Os mais importantes são:
 
@@ -478,9 +477,9 @@ Além do que foi perdido, o [Ciclo Épico (Troioano)](https://en.wikipedia.org/w
 - *[Odyssey](https://en.wikipedia.org/wiki/Odyssey)*
 - *[Telegony](https://en.wikipedia.org/wiki/Telegony)*
 
-#### Influencia na Divina Comédia
+#### Influência na Divina Comédia
 
-A Divina comédia é um poema épico e teológico escrito no século XIV com muitas influências homéricas. Dante (o autor-personagem) encontra Homero no limbo em suas andanças. Além de contar com outros personagens homéricos, entre eles destaco Ulisses/Odisseu:
+A Divina Comédia é um poema épico e teológico escrito no século XIV com muitas influências homéricas. Dante (o autor-personagem) encontra Homero no limbo em suas andanças. Além de contar com outros personagens homéricos, entre eles destaco Ulisses/Odisseu:
 
 <blockquote>
 Quando
@@ -539,7 +538,7 @@ Quando
 <p><em>A Divina Comédia</em> (Edição Bertrand, Lisboa, 1995 )</p>
 </blockquote>
 
-#### Influencia na literatura de língua inglesa
+#### Influência na literatura de língua inglesa
 
 ##### Lord Alred Tennyson
 <blockquote>
@@ -574,9 +573,9 @@ herói tão ambíguo, **essa grande figura da Literatura Ocidental**.
 
 **TODO**
 
-#### Influencia na literatura de língua portuguesa
+#### Influência na literatura de língua portuguesa
 
-##### Os Lusíadas, Luis de Camões
+##### Os Lusíadas, Luís de Camões
 
 <blockquote>
 Cessem do sábio Grego e do Troiano
@@ -663,7 +662,7 @@ Foi então que pensou outra coisa o divino Aquiles de pés velozes
 
 - 📚 [Helena de Tróia](https://www.amazon.com.br/Helena-Troia-Destino-Um-Povo/dp/8582750153/) / [Ulisses e Penelópe](https://www.amazon.com.br/Ulisses-Penelope-Nostalgia-Alberto-Carvalho/dp/8588038226/) pelo professor Carlos Alberto de Carvalho.
 - 📚 [A Canção de Aquiles](https://www.amazon.com.br/can%C3%A7%C3%A3o-Aquiles-aclamada-releitura-Il%C3%ADada/dp/6555354186/)
-- 📚 [A Guerra de Troia - Uma saga de heróis e deuses](https://www.amazon.com.br/Guerra-Troia-Saga-Her%C3%B3is-Deuses/dp/8525432342)
+- 📚 [A Guerra de Tróia - Uma saga de heróis e deuses](https://www.amazon.com.br/Guerra-Troia-Saga-Her%C3%B3is-Deuses/dp/8525432342)
 - 🎮 [Total War: Troy](https://www.totalwar.com/games/troy/)
 - 🔭 [Asteroides troianos de Júpiter](https://pt.m.wikipedia.org/wiki/Asteroides_troianos_de_J%C3%BApiter)
 
@@ -722,4 +721,5 @@ Foi então que pensou outra coisa o divino Aquiles de pés velozes
 ### Teatro
 
 - [IlíadaHomero - Companhia de Teatro](https://iliadahomero.wordpress.com/category/apresentacoes-dos-cantos/)
+
 
