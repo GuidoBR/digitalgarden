@@ -175,33 +175,38 @@ Dentre os personagens masculinos eu destaco dois, pela sua importância para a h
 
 ### Ulisses / Odisseu
 
-** TODO organizar **
+Ulisses é um dos personagens que foi mais reutilizado na literatura. Com sua fala política e seu jeito inteligente, com caráter duvidoso, passou duas décadas longe de casa e voltou para reconquistar seu reino, família e posição. Foi tema de diversos livros, poemas, reencenações e recontagens ao longo da história.
+
 <blockquote>
-No seu belo estudo intitulado The Ulysses Theme [ «0 Tema de Ulis­
-ses» J ( 1 963), W. B. Stanford coloca o tratamento em surdina, mas negativo,
-que Virgílio faz de Ulisses em contraste com a identificação positiva de Ovídio
-com Ulisses. Este contraste encerra duas das maiores posições que provavel­
-mente sempre se combaterão nas metamorfoses deste herói, ou deste herói­
--vilão. O Ulisses de Virgílio virá a ser o de Dante, mas tão transfigurado que o re­
-trato bastante evasivo dado por Virgílio tende a esbater-se. Incapaz de condenar
-Ulisses directamente, Virgílio transfere esse trabalho para as suas personagens,
-as quais vão identificar o herói da Odisseia com a perfídia e o engano. Ovídio,
-um exilado e um pinga-amor, confunde-se a si próprio com Ulisses numa iden­
-tidade compósita, legando-nos desse modo aquela que é hoje em dia a ideia
-mais estável de Ulisses como o primeiro dos grandes viandantes mulherengos.
+No seu belo estudo intitulado The Ulysses Theme [ «0 Tema de Ulisses» J (1963), W. B. Stanford coloca o tratamento em surdina, mas negativo, que Virgílio faz de Ulisses em contraste com a identificação positiva de Ovídio com Ulisses. Este contraste encerra duas das maiores posições que provavelmente sempre se combaterão nas metamorfoses deste herói, ou deste herói-vilão. O Ulisses de Virgílio virá a ser o de Dante, mas tão transfigurado que o re
+trato bastante evasivo dado por Virgílio tende a esbater-se. Incapaz de condenar Ulisses directamente, Virgílio transfere esse trabalho para as suas personagens, as quais vão identificar o herói da Odisseia com a perfídia e o engano. Ovídio, um exilado e um pinga-amor, confunde-se a si próprio com Ulisses numa identidade compósita, legando-nos desse modo aquela que é hoje em dia a ideia mais estável de Ulisses como o primeiro dos grandes viandantes mulherengos.
+
 <p><em>O Cânone Ocidental</em>, por Harold Bloom, página 93</p>
 </blockquote>
 
 ### Tersites
 
-** TODO organizar **
+Tersítes é um personagem curioso de Ilíada. Ele tem um papel pequeno mas importante na obra homérica, Ele aparece no canto II, durante a assembleia dos gregos, e reclama de estar lutando nessa guerra onde só os mais nobres estavam colhendo os louros da disputa:
+
+<blockquote>
+Filho de Atreu, estás descontente? Falta-te alguma coisa?
+<br>As tuas tendas estão cheias de bronze e muitas mulheres
+<br>escolhidas estão nas tuas tendas, essas que nós Aqueus
+<br>te demos em primeiro lugar, quando saqueávamos uma cidade.
+<br>Ou será ouro que tu queres? Ouro que te traga um dos Troianos
+<br>domadores de cavalos de Ílion, como resgate pelo filho,
+<br>que eu ou outro dos Aqueus capturei e trouxe para cá?
+<p>Ilíada, Canto II, 225.</p>
+</blockquote>
+
+Estudiosos da literatura veem paralelos entre esse personagem (pobre, oprimido, do povo) em outros livros, como o "velho do restelho" em Lusíadas (que fala com Vasco da Gama, argumentando contra as grandes navegações que estariam empobrecendo os portugueses) e o mesmo personagem por Saramago, bradando contra o voo da Apollo até a Lua.
+
 - [Dos homens públicos](https://blogs.oglobo.globo.com/blog-do-moreno/post/dos-homens-publicos-170813.html)
 - [Tersites, um criador de caso da Ilíada a Shakespeare](https://alexcastro.com.br/tersites-iliada-shakespeare/)
 - [A morte de Tersites](https://rafaelbrunhara.medium.com/a-morte-de-tersites-e390e9346917)
 - [Shakespeare - Tróilo e Créssida](https://shakespearebrasileiro.org/introducao-a-peca-troilo-e-cressida/)
 - [Térsites e a imprudência das palavras](http://eventosmitologiagrega.blogspot.com/2011/06/tersites-e-imprudencia-das-palavras.html) 
 - [O Bullying na Ilíada (Homero)](https://cursandohistoria.wordpress.com/2012/08/03/o-bullying-na-iliada/)
-- "Tersites (o velho do restelho) em Lusíadas, falando com Vasco da Gama que as grandes navegações estavam esvaziando Portugal e empobrecendo à população. Velho do Restelho no Cabo Carnaveral falando contra o Homem na Lua (por Saramago)."
 
 ## Temas principais
 
@@ -349,8 +354,10 @@ Outros autores, como Vírgilio, detalham o que ocorreu no fim de Tróia. Na Enei
 
 ## Qual tradução da Ilíada ler?
 
-- Falar das diferentes traduções, umas focadas mais na poesia e outras na facilidade de leitura.
-- **TODO Fazer referência a "O texto pelo avesso: a gênese das traduções em português da Ilíada - Tatiana Alvarenga Chanoca"**
+A tradução que eu li e recomendo é a do Frederico Lourenço lançado pela Companhia das Letras. Há diversas outras em português e cada uma dela tem um foco diferente (ser mais fácil de ler, ser fiel á métrica do poema). O Alex Castro explica melhor em seu texto [Qual Ilíada Ler?](https://alexcastro.com.br/qual-iliada-ler/)
+
+Também há uma dissertação excelente sobre as traduções de Ilíada em português, para quem tiver interesse no contexto histórico dessas traduções eu recomendo a leitura de 
+["O texto pelo avesso: a gênese das traduções em português da Ilíada - Tatiana Alvarenga Chanoca"](https://repositorio.ufmg.br/handle/1843/LETR-B3GKDT)
 
 ## Influência cultural
 
@@ -545,13 +552,20 @@ Quando
 <br> I am a part of all that I have met;
 </blockquote>
 
+> Circundando a ardente reflexão poética de Tennyson, temos outras
+versões de Ulisses, desde a Odisséia, de Homero, e o Inferno, de Dante, a
+Tróilo e Créssida, de Shakespeare, e a transformação de Ulisses, operada
+por Milton, na figura do Satã dos primeiros livros de Paraíso Perdido.
+Indireto e contrapontístico, o “Ulisses” de Tennyson possui uma eloqüência
+notável, bastante acessível à memorização, talvez, porque, em muitos
+leitores, existe algo que promove uma imediata identificação com esse
+herói tão ambíguo, **essa grande figura da Literatura Ocidental**.
+> por Harold Bloom em "Como e Por que Ler", página 70
 
-- **TODO** Adicionar informações do livro do Harold Bloom aqui
 [Leia o poema completo](https://www.poetryfoundation.org/poems/45392/ulysses) e aprenda mais na [Wikipedia](https://en.wikipedia.org/wiki/Ulysses_(poem)).
 
 ##### Shakespeare
 
-**TODO Escrever sobre Trólio e Cresseida**
 - [Tersites](https://alexcastro.com.br/tersites-iliada-shakespeare/)
 - [Harold Bloom e os Fantasmas de Homero e de Shakespeare](https://www.jornalopcao.com.br/opcao-cultural/harold-bloom-e-os-fantasmas-de-homero-e-shakespeare-326165/)
 - [Homero em Shakespeare](http://ocoisodascoisas.blogspot.com/2009/01/homero-em-shakespeare.html)
@@ -657,20 +671,20 @@ Foi então que pensou outra coisa o divino Aquiles de pés velozes
 
 ### Textos e livros
 
-- [Ilíada - Wikipedia](https://pt.wikipedia.org/wiki/Il%C3%ADada)
-- [Dares Frígio](https://pt.wikipedia.org/wiki/Dares_Fr%C3%ADgio)
+- 📝 [Ilíada - Wikipedia](https://pt.wikipedia.org/wiki/Il%C3%ADada)
+- 📝 [Dares Frígio](https://pt.wikipedia.org/wiki/Dares_Fr%C3%ADgio)
 - 📚 [História da Literatura Ocidental - Otto Maria Carpeaux](https://www.amazon.com.br/Box-Hist%C3%B3ria-Literatura-Ocidental-carpeaux/dp/6588732120) - [versão ebook gratuita](https://www2.senado.leg.br/bdsf/item/id/528992)
-- [Posfácio de Trajano Vieira](https://aterraeredonda.com.br/iliada/)
+- 📝 [Posfácio de Trajano Vieira](https://aterraeredonda.com.br/iliada/)
 - 📚 [Homero – Barbara Graziosi](https://editoramnema.com.br/livro/homero-barbara-graziosi/)
 - 📚 [The Anger of Achilles: Mênis in Greek Epic - Leonard Muellner](https://chs.harvard.edu/book/muellner-leonard-the-anger-of-achilles-menis-in-greek-epic-2/) - [video](https://www.youtube.com/watch?v=wZxFVCBNEao)
 - 📚 [Agamemnon, the Pathetic Despot: Reading Characterization in Homer - Andrew Porter](https://chs.harvard.edu/book/porter-andrew-agamemnon-the-pathetic-despot-reading-characterization-in-homer/)
 - 📚 [O Mundo de Homero - Pierre Vidal-Naquet - Grupo Companhia das Letras](https://www.companhiadasletras.com.br/detalhe.php?codigo=11378)
 - 📚 [Bases da Cultura Ocidental - Volume 1- André Alonso](https://canal.cecierj.edu.br/recurso/15289)
 - 📚 [Teogonia – Hesíodo – Henry Bugalho (trad.)](https://kotter.com.br/loja/teogonia-hesiodo-henry-bugalho/) - [Henry Bugalho](https://twitter.com/henrybugalho/status/1160125985880268802)
-- [A Morte de Aquiles](https://aguerradetroia.wordpress.com/2013/03/02/a-morte-de-aquiles/)
-- [Um Grego te conta o verdadeiro mito das três Moiras](https://brazilgreece.com/as-tres-irmas-da-mitologia-grega/)
-- [Exegese alegórica de Homero](https://pt.wikipedia.org/wiki/Exegese_aleg%C3%B3rica_de_Homero)
-- [Os Símiles em Homero](https://cidmarcus.blogspot.com/2021/03/os-similes-na-iliada.html)
+- 📝 [A Morte de Aquiles](https://aguerradetroia.wordpress.com/2013/03/02/a-morte-de-aquiles/)
+- 📝 [Um Grego te conta o verdadeiro mito das três Moiras](https://brazilgreece.com/as-tres-irmas-da-mitologia-grega/)
+- 📝 [Exegese alegórica de Homero](https://pt.wikipedia.org/wiki/Exegese_aleg%C3%B3rica_de_Homero)
+- 📝 [Os Símiles em Homero](https://cidmarcus.blogspot.com/2021/03/os-similes-na-iliada.html)
 - 📚 [The Artistry of the Homeric Simile - William C. Scott](https://www.dartmouth.edu/library/digital/publishing/scott2009/)
 - 📚 [The best books on Greek Myths - recommended by Lucy Coats](https://fivebooks.com/best-books/greek-myths-lucy-coats/)
   - 📚 [The Song of Achilles](https://www.amazon.com.br/Song-Achilles-Madeline-Miller/dp/0062060627/)
@@ -683,27 +697,27 @@ Foi então que pensou outra coisa o divino Aquiles de pés velozes
 
 ### Podcasts
 
-- [A History of Epic w/ Gregory Nagy & Leonard Muellner](https://www.greecepodcast.com/a-history-of-epic-w-gregory-nagy-leonard_muellner/)
-- [Noites Gregas - Homero o Senhor do Olimpo](https://noitesgregas.com.br/episodios/5-homero-o-senhor-do-olimpo/)
+- 🎧 [A History of Epic w/ Gregory Nagy & Leonard Muellner](https://www.greecepodcast.com/a-history-of-epic-w-gregory-nagy-leonard_muellner/)
+- 🎧 [Noites Gregas - Homero o Senhor do Olimpo](https://noitesgregas.com.br/episodios/5-homero-o-senhor-do-olimpo/)
 
 ### Vídeos
 
-- [Literatura Universal - Ilíada (Homero) - André Malta - Pgm 01](https://www.youtube.com/watch?v=mRtUgA3_Mmo&t=0s) - Entrevista com especialista em estudos clássicos gregos sobre a Ilíada.
-- [The Iliad, Scroll 1 - Reading Greek Tragedy Online](https://www.youtube.com/watch?v=SXANeKduRTk)
-- [Intro to Homeric Greek: Poetry of Grammar Iliad 1-9](https://www.youtube.com/watch?v=dX6xHUfvBK4)
-- [Ilíada (Homero) | Tatiana Feltrin](https://www.youtube.com/watch?v=s0ERA01legg) - Resenha de 26 min explicando o que é a Ilíada e como é a história.
-- [Why Homer Matters](https://www.youtube.com/watch?v=NhXTEETdkmk)
+- ▶️ [Literatura Universal - Ilíada (Homero) - André Malta - Pgm 01](https://www.youtube.com/watch?v=mRtUgA3_Mmo&t=0s) - Entrevista com especialista em estudos clássicos gregos sobre a Ilíada.
+- ▶️ [The Iliad, Scroll 1 - Reading Greek Tragedy Online](https://www.youtube.com/watch?v=SXANeKduRTk)
+- ▶️ [Intro to Homeric Greek: Poetry of Grammar Iliad 1-9](https://www.youtube.com/watch?v=dX6xHUfvBK4)
+- ▶️ [Ilíada (Homero) | Tatiana Feltrin](https://www.youtube.com/watch?v=s0ERA01legg) - Resenha de 26 min explicando o que é a Ilíada e como é a história.
+- ▶️ [Why Homer Matters](https://www.youtube.com/watch?v=NhXTEETdkmk)
 
 ### Cursos
 
-- [Introdução à Grande Conversa - Gregos: vingança & justiça na Ilíada e na Oréstia](https://www.facebook.com/groups/grandeconversa/posts/598431650868730/)
-- [Alex Castro: Categoria: ilíada](https://alexcastro.com.br/category/grande-conversa/2a-aula-gregos/iliada/)
-- [Khan Academy - History - Classical Greece](https://www.khanacademy.org/humanities/world-history/ancient-medieval/classical-greece/v/overview-of-ancient-greece)
-- [Coursera - Greek And Roman Mythology](https://www.coursera.org/learn/mythology)
-- [On Reading Homer - Odyssey I.1-10](https://www.coursera.org/lecture/mythology/1-7-on-reading-homer-0xrPb)
-- [Coursera - Os Gregos Antigos](https://pt.coursera.org/learn/ancient-greeks)
-- [Clube de leitura Ilíada](https://drive.google.com/drive/folders/17EIkqFv4sFasbxQeYxz2Pu18sljUVpGk?usp=sharing)
-- [Cultura Ocidental: A origem da Literatura - BASES DA CULTURA OCIDENTAL](https://www.youtube.com/watch?v=PHHL1ENtS0c&list=PLdpq25FyrLLPcXyqXPvEJMpFW91_JV2HJ) - professor da UFF Fernando Tremoço
+- ▶️ [Introdução à Grande Conversa - Gregos: vingança & justiça na Ilíada e na Oréstia](https://www.facebook.com/groups/grandeconversa/posts/598431650868730/)
+- 📝 [Alex Castro: Categoria: ilíada](https://alexcastro.com.br/category/grande-conversa/2a-aula-gregos/iliada/)
+- ▶️ [Khan Academy - History - Classical Greece](https://www.khanacademy.org/humanities/world-history/ancient-medieval/classical-greece/v/overview-of-ancient-greece)
+- ▶️ [Coursera - Greek And Roman Mythology](https://www.coursera.org/learn/mythology)
+- ▶️ [On Reading Homer - Odyssey I.1-10](https://www.coursera.org/lecture/mythology/1-7-on-reading-homer-0xrPb)
+- ▶️ [Coursera - Os Gregos Antigos](https://pt.coursera.org/learn/ancient-greeks)
+- ▶️ [Clube de leitura Ilíada](https://drive.google.com/drive/folders/17EIkqFv4sFasbxQeYxz2Pu18sljUVpGk?usp=sharing)
+- ▶️ [Cultura Ocidental: A origem da Literatura - BASES DA CULTURA OCIDENTAL](https://www.youtube.com/watch?v=PHHL1ENtS0c&list=PLdpq25FyrLLPcXyqXPvEJMpFW91_JV2HJ) - professor da UFF Fernando Tremoço
 
 ### Teatro
 
