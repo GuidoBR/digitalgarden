@@ -322,6 +322,11 @@ Outros autores, como Vírgilio, detalham o que ocorreu no fim de Tróia. Na Enei
 >
 > *Eneida*, livro II
 
+## Qual tradução da Ilíada ler?
+
+- Falar das diferentes traduções, umas focadas mais na poesia e outras na facilidade de leitura.
+- **TODO Fazer referência a "O texto pelo avesso: a gênese das traduções em português da Ilíada - Tatiana Alvarenga Chanoca"**
+
 ## Influência cultural
 
 ### Ilíada como manual de conduta e ética para os gregos
@@ -544,11 +549,6 @@ Foi então que pensou outra coisa o divino Aquiles de pés velozes
 - A Canção de Aquiles
 - [Total War: Troy](https://www.totalwar.com/games/troy/)
 - [Asteroides troianos de Júpiter](https://pt.m.wikipedia.org/wiki/Asteroides_troianos_de_J%C3%BApiter)
-
-## Qual tradução da Ilíada ler?
-
-- Falar das diferentes traduções, umas focadas mais na poesia e outras na facilidade de leitura.
-- **TODO Fazer referência a "O texto pelo avesso: a gênese das traduções em português da Ilíada - Tatiana Alvarenga Chanoca"**
 
 ## Para se aprofundar
 
