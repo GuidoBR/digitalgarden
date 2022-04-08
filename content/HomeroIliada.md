@@ -403,8 +403,19 @@ Harold Bloom nos lembra que um dos personagens da Ilíada, Ulisses / Odisseu, j�
 >
 > *Como e Por Que Ler*, Harold Bloom, página 70
 
-- Textos gregos e romanos sobre a Guerra de Tróia
-  - Ilíada, de Homero
+O crítico literário Otto Carpeaux relata em sua História da Literatura Ocidental, como a literatura grega é fundamental para a humanidade:
+
+<blockquote>
+<p>No estudo Três Fontes e Três Elementos do Marxismo , Lênin caracteriza o marxismo como herdeiro legítimo da filosofia alemã, da economia política inglesa e do socialismo francês.
+Nas origens desses três elementos encontram-se pensamentos antigos: o idealismo acadêmico, o materialismo epicureu e a utopia platônica. Não será difícil demonstrar, da mesma maneira, a presença invisível da Antiguidade em todos os setores do pensamento moderno; e do pensamento antigo, a literatura antiga é a mais completa expressão emotiva. <strong>Daí se origina o fato de todos os gêneros literários ainda hoje existentes haverem sido criados pelos gregos, tendo-nos sido transmitidos pelos romanos.</strong></p>
+
+<strong>História da Literatura Ocidental</strong>, <em>Otto Maria Carpeaux</em> página 71.
+</blockquote>
+
+#### Influencia na literatura grega e romana clássica
+
+Há diversos textos grego-romanos clássicos que contam sobre a guerra de Tróia, com antecedentes ou acontecimentos posteriores. Alguns deles nos contam do destino de alguns personagens homéricos. Os mais importantes são:
+
   - Odisseia, de Homero
   - Oréstia, de Ésquilo
   - Filoctetes, de Sófocles
@@ -413,11 +424,17 @@ Harold Bloom nos lembra que um dos personagens da Ilíada, Ulisses / Odisseu, j�
   - Ifigênia em Áulis, de Euripedes
   - Electra, de Euripedes
   - As Troianas,de Eurípedes
-  - O Ciclo Troiano
-    - Iliu persis / O Saque de Troia
-    - Pequena Ilíada
 
-#### Influencia na literatura romana
+Além do que foi perdido, o Ciclo Épico (Troioano) completo:
+
+- *[Cypria](https://en.wikipedia.org/wiki/Cypria)*
+- *[Iliad](https://en.wikipedia.org/wiki/Iliad)*
+- *[Aethiopis](https://en.wikipedia.org/wiki/Aethiopis)*
+- *[Little Iliad](https://en.wikipedia.org/wiki/Little_Iliad)*
+- *[Iliou persis](https://en.wikipedia.org/wiki/Iliou_persis)*
+- *[Nostoi](https://en.wikipedia.org/wiki/Nostoi)*
+- *[Odyssey](https://en.wikipedia.org/wiki/Odyssey)*
+- *[Telegony](https://en.wikipedia.org/wiki/Telegony)*
 
 **TODO Escrever sobre influência na Eneida**
 
