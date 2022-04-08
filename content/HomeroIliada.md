@@ -223,31 +223,31 @@ Para isso, os adversários na guerra eram elogiados e engrandecidos. Quanto mais
 
 ### Como a Ilíada nos fala sobre a vida?
 
-**TODO**
+Para os gregos, os sentimentos e emoções são coisas externas que os acometem, e de certa forma isso os poupa de culpa por seus erros. Eros e Afrodite são culpados quando os gregos se apaixonam. Zeus ou algum outro deus é culpado pelo desvario (atë) de Agamêmnon, que o levou a desrespeitar Aquiles. 
 
 - **ὕϐρις** [húbris](https://pt.wikipedia.org/wiki/H%C3%BAbris) "tudo o que passa da medida, descomedimento"
-	
 	- Em certo jeito, a infração de Agamêmnon no primeiro livro da Ilíada é relacionada com a húbris, por ter despojado Aquiles da parte da pilhagem que lhe deveria corresponder por justiça.
-	
-- **ἀρετή** [*areté*](https://pt.wikipedia.org/wiki/Aret%C3%AA) - adaptação perfeita, excelência, virtude; [*timé*](http://areteetime.blogspot.com/2010/08/arete-e-time-as-caracteristicas-do.html), a honra
-
-- **Λύσσα** [lýssa](https://en.wikipedia.org/wiki/Lyssa) (exemplos: Ajax, Herácles)
-
-- **Ἄτη** [atë](https://en.wikipedia.org/wiki/At%C3%AB) - desvairio (Agamêmnon, Canto IX, 18; 116 -- Fênix: ouça as Preces e não o Desvairio, Canto IX 499-514).
-
+- **ἀρετή** [*areté*](https://pt.wikipedia.org/wiki/Aret%C3%AA) - adaptação perfeita, excelência, virtude; [*timé*](http://areteetime.blogspot.com/2010/08/arete-e-time-as-caracteristicas-do.html), a honra.
+- **Λύσσα** [lýssa](https://en.wikipedia.org/wiki/Lyssa) - ira, raiva, fúria. Como exemplo podemos citar: Herácles, incitado por lýssa matou sua esposa e seu próprio filho.
+- **Ἄτη** [atë](https://en.wikipedia.org/wiki/At%C3%AB) - desvairio (Agamêmnon, Canto IX, 18 - 116;  Fênix: ouça as Preces e não o Desvairio, Canto IX 499-514).
 - **Ἔλεος** [eleos]https://en.wikipedia.org/wiki/Eleos - compaixão, empatia, piedade. É o que Príamo consegue provocar em Aquiles, quando ele (um rei idoso que acabara de perder o filho querido) vai à tenda de Aquiles suplicar pelo corpo de seu filho e beija na mão do Aquiles -- que foi seu assassino. Esse sentimento foi o único que fez parar a cólera / *mênis* de Aquiles Presentes, dinheiro, gregos sofrendo, discursos e argumentos lógicos do melhor orador, nada disso conseguiu frear a cólera de Aquiles, somente *eleos* (compaixão).
 
-  - Para os gregos, os sentimentos e emoções são coisas externas que os acometem, e de certa forma isso os poupa de culpa por seus erros. Eros e Afrodite são culpados quando os gregos se apaixonam. Zeus ou algum outro deus é culpado pelo desvario (até) de Agamêmnon, que o levou a desrespeitar Aquiles. 
+#### Destino e mitologia grega
 
-- Destino e mitologia grega
-  - Deuses distintos lutando entre si para ora ajudar e ora atrapalhar os humanos.
-  - Zeus conhece o destino? Temos livre arbítrio?
-  - As [moiras](https://brazilgreece.com/as-tres-irmas-da-mitologia-grega/), Μοῖραι, as três irmãs que determinam o destino (?)
+Durante a leitura do livro, um dos questionamentos que vem á cabeça é sobre destino. Zeus parece controlar os acontecimentos e ter um plano definido para o que viria a acontecer desde o momento em que a discussão sobre a deusa mais bela acontece. Como os gregos pensavam sobre destino e livre-arbítrio? Como Zeus e as [moiras](https://brazilgreece.com/as-tres-irmas-da-mitologia-grega/) (Μοῖραι, as três irmãs que determinam o destino) influenciaram o pensamento grego? Como nós, do século XXI, pensamos sobre destino?
 
-- Pestes e epidemia
-  - A flecha de Apollo
-  	- [Smitheus](https://pantheon.org/articles/s/smintheus.html)
-  - Cientistas x Profetas, quem fala a verdade nos tempos gregos e nos tempos atuais?
+####  Pestes e epidemia
+No primeiro canto da Ilíada os soldados gregos em seu nono ano de cerco á Tróia são acometidos por uma doença misteriosa. Homens e animais começam a cair ás dezenas. O medo vai crescendo entre os comandantes gregos. Afinal, o que está acontecendo?
+
+Naquele tempo, catástrofes naturais e humanas eram atribuidas aos deuses. Profetas, advinhos e oráculos eram os únicos capazes de revelar a vontade divina e oferecer uma explicação para mistérios. Em 2020 coube à médicos e cientistas o papel de revelar a verdade sobre a maior pandemia do século XXI.
+
+> “"(…) ouvi-o Febo Apolo Desceu do Olimpo, com coração agitado de ira. Nos ombros trazia o arco e a alijava duplamente coberta; aos ombros do deus irado as setas chocalhavam à medida avançava. E chegou como chega a noite.
+>
+> Depois sentou-se à distância das naus e disparou uma seta: terrível foi o som produzido pelo arco de prata. Primeiro atingiu as mulas e os rápidos cães; mas depois disparou as setas contra os homens. As piras dos mortos ardiam continuamente.”
+> 
+> Ilíada - Homero. Tradução por Frederico Lourenço
+
+Hoje temos a expressão "A flecha de Apolo" para nos referirmos á epidemias. Um dos nomes de Apolo, [smitheus](https://pantheon.org/articles/s/smintheus.html), também está para sempre relacionado a sua capacidade de curar e causar doenças.
 
 #### Agon *Ἀγών* discursivo: o debate de ideias
 <figure>
@@ -292,7 +292,7 @@ Tidida, no que toca à guerra és muito possante,
 <p><em>Ilíada</em> Canto IX - 53-75</p>
 </blockquote>
 
-No interessantíssimo canto IX, uma delegação de heróis gregos forma uma assembleia para *aconselhar* Aquiles ("**tecer-lhes a teia da prudência**"; canto IX: 93) e temos três tipos de discursos sendo feitos para convencer Aquiles a voltar para a batalha: Odisseu usa fatos e lógica; Fênix faz um belíssimo apelo emocional (*pathos πάθος*) e pedagógico, educando pelo exemplo; Ájax Telamônio **TODO completar**
+No interessantíssimo canto IX, uma delegação de heróis gregos forma uma assembleia para *aconselhar* Aquiles ("**tecer-lhes a teia da prudência**"; canto IX: 93) e temos dois tipos de discursos sendo feitos para convencer Aquiles a voltar para a batalha: Odisseu usa fatos e lógica; Fênix faz um belíssimo apelo emocional (*pathos πάθος*) e pedagógico, educando pelo exemplo;
 
 > Para ti mesmo sofrimento haverá no futuro. E remédio de mal
 > praticado não se encontrará.
@@ -362,9 +362,6 @@ Também há uma dissertação excelente sobre as traduções de Ilíada em portu
 
 ### Ilíada como manual de conduta e ética para os gregos
 
--  [Importância dos poemas de Homero na educação grega](https://mundoeducacao.uol.com.br/historiageral/importancia-dos-poemas-homero-na-educacao-grega.htm) 
-  - *[…] a importância  educadora de Homero é evidentemente mais vasta. Não se limita à  formulação expressa de problemas pedagógicos nem a algumas passagens que aspirem a produzir um determinado efeito moral. A poesia homérica é uma vasta e complexa obra do espírito, que não se pode reduzir a uma  fórmula única. Ao lado de fragmentos relativamente recentes que revelam  um interesse pedagógico expresso, aparecem outras passagens nas quais o  interesse pelos objetos descritos afasta a possibilidade de pensar uma  segunda intenção moral do poeta*. **[JAEGER, Werner. *Paideia: a formação do homem grego*. São Paulo: Martins Fontes, 1994. p. 59.
-- [Exegese alegórica de Homero](https://pt.wikipedia.org/wiki/Exegese_aleg%C3%B3rica_de_Homero)
 <blockquote>
 As nossas instituições educativas estão hoje em dia atravancadas de idealistas ressentidos que condenam a competição tanto na literatura como na vida, mas o estético e o
 agonística são uma única coisa, como nos é dito por todos os antigos gregos
@@ -375,6 +372,11 @@ se encontra no incessante conflito do filósofo com Homero, que é expulso
 d' A República, mas em vão, pois foi Homero e não Platão quem permaneceu
 como o manual dos Gregos
 <p><em>O Cânone Ocidental</em>, Harold Bloom</p></blockquote>
+
+- [Importância dos poemas de Homero na educação grega](https://mundoeducacao.uol.com.br/historiageral/importancia-dos-poemas-homero-na-educacao-grega.htm) 
+- JAEGER, Werner. *[Paideia: a formação do homem grego](https://www.amazon.com.br/Paideia-forma%C3%A7%C3%A3o-homem-grego-Cl%C3%A1ssicos-ebook/dp/B01MSPOSCE/)*. São Paulo: Martins Fontes, 1994. p. 59.
+- [Exegese alegórica de Homero](https://pt.wikipedia.org/wiki/Exegese_aleg%C3%B3rica_de_Homero)
+
 
 ### Ilíada e Arte
 
@@ -571,7 +573,7 @@ herói tão ambíguo, **essa grande figura da Literatura Ocidental**.
 
 ##### Ulisses,  James Joyce
 
-**TODO**
+É um romance criado pelo escritor irlandês James Joyce, nele o famoso Ulisses passa 18 horas (ao invés dos 10 anos) viajando por Dublin na pele do agente de publicidade Leopold Bloom. Joyce pretende apresentar toda a experiência humana, condensada em uma viagem no limitado ambiente de Dublin. Cheio de referências á Ilíada e Odisseia, é um livro que aparece com frequência em listas de livros mais importantes da humanidade.
 
 #### Influência na literatura de língua portuguesa
 
