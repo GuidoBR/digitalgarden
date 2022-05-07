@@ -133,6 +133,8 @@ Somente no século XX que estudos randômicos controlados passaram a ser a regra
 - [Philip E. Tetlock on Forecasting and Foraging as a Fox (Ep. 93) - Conversations with Tyler](https://conversationswithtyler.com/episodes/philip-e-tetlock/)
 - [How to Be Less Terrible at Predicting the Future (Ep. 233) - Freakonomics](https://freakonomics.com/podcast/how-to-be-less-terrible-at-predicting-the-future-a-new-freakonomics-radio-podcast/)
 - [Philip Tetlock: How to See the Future - The Knowledge Project](ttps://fs.blog/knowledge-project/philip-tetlock/)
+- [Economist Radio - The Economist Asks: Philip Tetlock](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuYWNhc3QuY29tL3RoZWVjb25vbWlzdGFsbGF1ZGlv/episode/ZGE0MTMzYmItYmE1NS00ZWI0LWEzYzUtNGU5ZDc0OGU4M2Ri?ep=14)
+- 
 
 ### Web
 
@@ -145,4 +147,5 @@ Somente no século XX que estudos randômicos controlados passaram a ser a regra
 - [ScientificAmerican: Can We Improve Predictions? Q&A with Philip "Superforecasting" Tetlock](https://blogs.scientificamerican.com/cross-check/can-we-improve-predictions-q-a-with-philip-superforecasting-tetlock/)
 - [The Economist: Unclouded Vision](https://www.economist.com/books-and-arts/2015/09/26/unclouded-vision)
 - [The Wall Street Journal - The Trick to Making Better Forecasts](https://www.wsj.com/articles/the-trick-to-making-better-forecasts-1443235983)
+- [Rufus Pollock - Notes on Tetlock and Gardner's Superforecasting - The Art of Science and Prediction](https://rufuspollock.com/2017/12/10/tetlock-gardner-2015-superforecasting-the-art-and-science-of-prediction/)
 
