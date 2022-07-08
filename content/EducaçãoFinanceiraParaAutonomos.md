@@ -83,19 +83,33 @@ Fluxo de trabalho em uma empresa. Como emitir nota fiscal, como registrar a cont
 - [[EducaçãoFinanceiraParaDesenvolvedores]]
 - Sapiens, Yuval Harari
 - Finanças para Autônomos - Eduardo Amuri
-- Curso EuEmpresa - Henrique Bastos
 - Gestão financeira para micro e pequenas empresas
 - [Fundamentos de Contabilidade para os Negócios](https://www.amazon.com.br/Fundamentos-Contabilidade-Para-os-Neg%C3%B3cios/dp/8535272909)
 
 ### Cursos
 - [SEBRAE - Gestão Financeira](https://www.sebrae.com.br/sites/PortalSebrae/cursosonline/gestao-financeira,7370b8a6a28bb610VgnVCM1000004c00210aRCRD)
+
 - [SEBRAE - Fundamentos básicos para a criação de negócios](https://sebrae.com.br/sites/PortalSebrae/cursosonline/fundamentos-basicos-para-a-criacao-de-negocios,15be5fa05e239710VgnVCM100000d701210aRCRD)
+
 - [SEBRAE - Como definir preço de venda](https://sebrae.com.br/sites/PortalSebrae/cursosonline/como-definir-preco-de-venda,04a0b8a6a28bb610VgnVCM1000004c00210aRCRD)
+
 - [SEBRAE - Formação do preço de venda](https://sebrae.com.br/sites/PortalSebrae/cursosonline/formacao-do-preco-de-venda,7490b8a6a28bb610VgnVCM1000004c00210aRCRD)
+
 - [SEBRAE - Como analisar o mercado](https://sebrae.com.br/sites/PortalSebrae/cursosonline/como-analisar-o-mercado,1d70b8a6a28bb610VgnVCM1000004c00210aRCRD)
+
 - [SEBRAE - Passo a passo para alcançar o sucesso financeiro](https://sebrae.com.br/sites/PortalSebrae/cursosonline/passo-a-passo-para-alcancar-o-sucesso-financeiro,2aa82653d4b74710VgnVCM1000004c00210aRCRD)
+
 - [SEBRAE - Como controlar o fluxo de caixa](https://sebrae.com.br/sites/PortalSebrae/cursosonline/como-controlar-o-fluxo-de-caixa,45b0b8a6a28bb610VgnVCM1000004c00210aRCRD)
+
 - [SEBRAE - Fluxo de caixa: microempreendedor individual](https://sebrae.com.br/sites/PortalSebrae/cursosonline/fluxo-de-caixa-mei,5a70b8a6a28bb610VgnVCM1000004c00210aRCRD)
+
 - [SEBRAE - Simples Nacional](https://sebrae.com.br/sites/PortalSebrae/cursosonline/simples-nacional,5b90b8a6a28bb610VgnVCM1000004c00210aRCRD)
+
 - [SEBRAE - Iniciando um pequeno grande negócio](https://sebrae.com.br/sites/PortalSebrae/cursosonline/iniciando-um-pequeno-grande-negocio,5f60b8a6a28bb610VgnVCM1000004c00210aRCRD)
+
+- [MePoupe! - Eu, chefe de mim](https://conteudos.mepoupenaweb.com.br/planejamento-financeiro/autonomos/)
+
+- [Curso EuEmpresa - Henrique Bastos](https://henriquebastos.net/produtos/eu-empresa/)
+
+  
 
