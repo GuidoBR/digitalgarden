@@ -2,6 +2,20 @@
 title: Friendship
 ---
 
+### [In Our Time: Philosophy - Friendship](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0luT3VyVGltZVBoaWxvc29waHk/episode/aHR0cDovL2Rvd25sb2Fkcy5iYmMuY28udWsvcG9kY2FzdHMvcmFkaW80L2lvdHAvaW90cF8yMDA2MDMwMi0wOTAwLm1wMw?ep=14)
+
+- Aristóteles: Ética a Nicomedes
+- Platão
+- St Agostinho: Confissões
+- Epicuro
+- Seneca 
+- Tomas de Aquino
+- Montaigne: Ensaios
+- Kant: não há espaço para amizade numa sociedade perfeitamente justa e moral
+- Adam Smith: Teoria dos Sentimentos Morais
+- Shakespeare: Hamlet e Horácio
+- C.S. Lewis & Tolkien: O Dom da Amizade
+
 ### [How To Make Friends Easily And Strengthen The Friendships You Have](https://www.bakadesuyo.com/2013/11/how-to-make-friends-easily/)
 
 And this one is key: Support the person’s view of themselves and make them feel good about their pursuits.

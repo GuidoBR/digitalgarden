@@ -19,3 +19,7 @@ A resposta para a ansiedade em relação aos livros não lidos, aos podcasts nã
 
 
 A proposta do Taleb é celebrar e valorizar o que não sabemos. Ter uma antibilioteca é a lembrança física de que somos limitados e finitos. Por mais precioso que seja nosso conhecimento, o mais sábio é aceitar o quanto não conhecemos e não podemos nunca conhecer.
+
+
+
+- [Os Livros devem ser lidos?](https://astravessias.org/blog/os-livros-devem-ser-lidos/)
