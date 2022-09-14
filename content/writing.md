@@ -10,6 +10,7 @@ title: Writing
 > **— [John Edgar Wideman](https://click.fourhourmail.com/p9u0l6v9mlh9hvloprir/p8heh9h9rxkzoouq/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSm9obl9FZGdhcl9XaWRlbWFu)
 
 - [Don’t think to write, write to think](https://herbertlui.net/dont-think-to-write-write-to-think/)
+- [Google - Technical writing courses](https://developers.google.com/tech-writing/overview)
 - [Podcast - Nossa.cc - Comunicação clara e de coração](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82ZGMwMzFjOC9wb2RjYXN0L3Jzcw/episode/NjY4MjAzNmQtODk1Yi00OGNhLTkyZmUtMzk2YWU4YWZkMTll?ep=14)
 - [Becoming a Better Writer in Tech](https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/)
 - [Use Cornell Notes for Online Class](https://mkaz.blog/misc/use-cornell-notes-for-online-class/)
