@@ -21,4 +21,6 @@ title: Books
 - [[Rutherford2017ABriefHistoryOfEveryoneWhoEverLived]]
 - [[Carroll2016TheBigPicture]]
 - [[HomeroIliada]]
+- [[HomeroOdisseia]]
+- [[Bernstein2004TheBirthOfPlenty]]
 - [[BooksRecomendation]] by @rationalexpec
