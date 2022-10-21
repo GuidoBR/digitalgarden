@@ -24,3 +24,4 @@ date: 2022-08-18T10:35:31-03:00
 
 - [A MELHOR HISTÓRIA DE TODOS OS TEMPOS | ODISSEIA | CLOVÍS DE BARROS FILHO](https://www.youtube.com/watch?v=gIzKUbp0VH8)
 - [Tudo que você precisa saber para ler a Odisseia, de Homero - Jill Dash](https://www.youtube.com/watch?v=8Z9FQxcCAZ0)
+- [Por que a mitologia grega é a MAIOR INSPIRAÇÃO da cultura ocidental desde o Renascimento?](https://www.youtube.com/watch?v=5UIk7mcC1yk)
