@@ -21,6 +21,7 @@ title: Crédito de Carbono
 - ['Ciclo do baixo carbono pode ser tão bom quanto ciclos do ouro e do café', diz Joaquim Levy](https://outline.com/5KA2Mk)
 - [Carbonext - sua pegada de carbono](https://app.carbonext.com.br/calculator/result)
 - [Empresas defendem regras para mercado nacional de carbono](https://valor.globo.com/brasil/noticia/2021/09/01/empresas-defendem-regras-para-mercado-nacional-de-carbono.ghtml)
+- [Minerva vende 280 mil toneladas de crédito de carbono para empresas árabes](https://braziljournal.com/minerva-vende-280-mil-toneladas-de-credito-de-carbono-para-empresas-arabes/)
 
 ## Brazilian companies - Sustainability Reports
 
