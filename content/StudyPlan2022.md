@@ -46,8 +46,8 @@ MARCH, APRIL & MAY
 
 |                             NAME                             | Type   |      |
 | :----------------------------------------------------------: | ------ | ---- |
-| [AWS Cloud Practitioner Essentials](https://www.coursera.org/learn/aws-cloud-practitioner-essentials#about) | Course |      |
-| [AWS Certified Cloud Practitioner Training 2020](https://www.youtube.com/watch?v=3hLmDS179YE) | Course |      |
+| [AWS Cloud Practitioner Essentials](https://www.coursera.org/learn/aws-cloud-practitioner-essentials#about) | Course | ✅    |
+| [AWS Certified Cloud Practitioner Training 2020](https://www.youtube.com/watch?v=3hLmDS179YE) | Course | ✅    |
 | [AWS Certified Developer - Associate 2020](https://www.youtube.com/watch?v=RrKRN9zRBWs&list=WL&index=59) | Course |      |
 | [AWS Certified Solutions Architect - Associate 2020](https://www.youtube.com/watch?v=Ia-UEYYR44s) | Course |      |
 | [Introduction to AWS Identity and Access Management](https://www.coursera.org/learn/introduction-to-aws-identity-and-access-management) | Course |      |
@@ -58,7 +58,7 @@ MARCH, APRIL & MAY
 
 ### Objectives
 
-- [ ] AWS Cloud Practitioner
+- [x] AWS Cloud Practitioner
 - [ ] AWS Solutions Architect
 
 ## Algorithms and System Design
@@ -68,10 +68,11 @@ JUNE & JULY
 |                             NAME                             | Type   |      |
 | :----------------------------------------------------------: | ------ | ---- |
 | [Career Development Study Guide](https://www.guidopercu.dev/posts/career-development-study-guide/) | Course |      |
+|                Cracking the Coding Interview                 | Book   |      |
 
 ### Objectives
 
 - [ ] Review: Accelerate
-- [ ] Review: Grokking Algorithms
-- [ ] Review: Production ready Microservices
+- [x] Review: Grokking Algorithms
+- [x] Review: Production ready Microservices
 
