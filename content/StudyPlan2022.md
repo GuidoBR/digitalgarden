@@ -76,3 +76,10 @@ JUNE & JULY
 - [x] Review: Grokking Algorithms
 - [x] Review: Production ready Microservices
 
+## Finacial Planning
+
+AUGUST - NOVEMBER
+
+### Objectives
+- [x] Work part-time as a financial planner
+- [ ] Complete Nossa.cc Formação Planejadores Financeiros
