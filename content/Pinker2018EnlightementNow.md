@@ -51,3 +51,15 @@ title: "Pinker2018EnlightementNow"
 > Pinker’s Pollyannish Philosophy and Its Perfidious Politics
 > 
 >  “INTELLECTUALS HATE REASON,” “Progressives hate progress,” “War is  peace,” “Freedom is slavery.” No, wait, those last two are from a  different book, but it’s easy to get mixed up. Steven Pinker begins his  latest — a manifesto inspirationally entitled *Enlightenment Now* — with a contrast between “the West,” which he says is critical of its  own traditions and values, and “the Islamic State,” which “knows exactly what it stands for.” Given the book’s title, one expects Pinker to be  celebrating a core Enlightenment ideal: critical skepticism, which  demands the questioning of established traditions and values (such as  easy oppositions between “the West” and “the bad guys”). But no, in a  surprise twist, Pinker apparently wants us over here in “the West” to  adopt an Islamic State–level commitment to our “values,” which he then  equates with “classical liberalism” [[1\]](https://lareviewofbooks.org/article/pinkers-pollyannish-philosophy-and-its-perfidious-politics/#_edn1) (about which more presently). You begin to see, reader, why this review — which I promised to write last spring — took me all summer and much  of the fall to finish. Just a few sentences into the book, I am tangled  in a knot of Orwellian contradictions.
+
+### Commentary by [David Perell](https://ckarchive.com/b/4zuvheh5qk2r6)
+
+> **The Dinner Party Debate**
+
+> When I returned home, I started hosting dinner parties to reclaim some of the magic. Calm conversations turned ferocious whenever we spoke about progress. Usually, two factions would emerge.
+
+> The pro-progress camp rejects big-picture criticisms of modernity. They’re versed in books like Pinker’s Enlightenment Now and Rosling’s Factfulness, both of which use data to argue that the modern world is superior to anything that came before it. They point to graphs like the decline in violence and child mortality, and the correlation between “happiness” and rising GDP levels. What they miss is the sharp decline in spirit, and the visible effects on our buildings, diets, ambitions, companies, and communities.
+
+> The other camp is skeptical of such progress; they use different measures of societal health. Rather than bow to the altar of “progress” they see a society obsessed with materialism. They scratch their heads at the reasoning of the blind optimists, and instead of citing Pinker, they point to people like Robert Putnam who’s book Bowling Alone outlines the decline in social trust in America.
+
+> The most interesting argument of the ‘progress skeptics’ centers around society’s decline in spirit.
