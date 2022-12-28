@@ -52,6 +52,7 @@ title: Writing
 - [6 strategies that helped me grow my Twitter account to 23k followers](https://twitter.com/sunilc_/status/1403593531478843394)
 - [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/)
 - [Escrever é filosofar?](https://www.youtube.com/watch?v=IRVZpMhW9oA&list=PLZ32vwNKuhA5-RNPMLZ6rKwrxqZoxtT4d&index=16)
+- [Writing as a thinking tool](https://nesslabs.com/writing-thinking-tool)
 
 
 
