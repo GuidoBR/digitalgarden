@@ -23,3 +23,4 @@ title: "Platão"
 
 - [O Banquete - editora 34](https://www.editora34.com.br/detalhe.asp?id=926&busca=O%20Banquete)
 - [Apologia de Sócrates, de Platão](http://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action&co_obra=2296)
+- [What is Plato's greatest contribution to education and why?](https://www.quora.com/What-is-Platos-greatest-contribution-to-education-and-why)
