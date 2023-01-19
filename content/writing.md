@@ -9,6 +9,18 @@ title: Writing
 > **“Good writing is always about things that are important to you,  things that are scary to you, things that eat you up. But the writing is a way of not allowing those things to destroy you.”
 > **— [John Edgar Wideman](https://click.fourhourmail.com/p9u0l6v9mlh9hvloprir/p8heh9h9rxkzoouq/aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSm9obl9FZGdhcl9XaWRlbWFu)
 
+
+
+
+
+# Folders are dead (...this is next)
+
+https://www.youtube.com/watch?v=gXYj8UNmy48
+
+Anne-Laure Le Cunff is the founder of Ness Labs, an Ex-Google employee, and has a Neuroscience Ph.D. Here’s how Anne-Laure's Second Brain combines mindful productivity with digital notetaking tools such as Roam Research and Google Suite.
+
+
+
 - [Don’t think to write, write to think](https://herbertlui.net/dont-think-to-write-write-to-think/)
 - [Google - Technical writing courses](https://developers.google.com/tech-writing/overview)
 - [Podcast - Nossa.cc - Comunicação clara e de coração](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82ZGMwMzFjOC9wb2RjYXN0L3Jzcw/episode/NjY4MjAzNmQtODk1Yi00OGNhLTkyZmUtMzk2YWU4YWZkMTll?ep=14)
