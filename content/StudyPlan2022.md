@@ -72,14 +72,14 @@ JUNE & JULY
 
 ### Objectives
 
-- [ ] Review: Accelerate
+- [x] Review: Accelerate
 - [x] Review: Grokking Algorithms
 - [x] Review: Production ready Microservices
 
 ## Finacial Planning
 
-AUGUST - NOVEMBER
+AUGUST - DECEMBER
 
 ### Objectives
 - [x] Work part-time as a financial planner
-- [ ] Complete Nossa.cc Formação Planejadores Financeiros
+- [x] Complete Nossa.cc Formação Planejadores Financeiros
