@@ -21,6 +21,7 @@ Anne-Laure Le Cunff is the founder of Ness Labs, an Ex-Google employee, and has 
 
 
 
+- [Why write?](https://fs.blog/why-write/) - Why write an essay when you can type a few words and have AI generate one for you?
 - [Don’t think to write, write to think](https://herbertlui.net/dont-think-to-write-write-to-think/)
 - [Google - Technical writing courses](https://developers.google.com/tech-writing/overview)
 - [Podcast - Nossa.cc - Comunicação clara e de coração](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82ZGMwMzFjOC9wb2RjYXN0L3Jzcw/episode/NjY4MjAzNmQtODk1Yi00OGNhLTkyZmUtMzk2YWU4YWZkMTll?ep=14)
