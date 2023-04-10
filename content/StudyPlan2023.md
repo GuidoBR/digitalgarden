@@ -70,7 +70,7 @@ MARCH, APRIL, JUNE, JULY, AUGUST, SEPTEMBER, OCTOBER, NOVEMBER, DECEMBER
 |             Aula particular - Nayara (1h a week)             | Course  | 📜    |
 |              Short Stories for French Begineers              | Livro   |      |
 |                     Vous avez la parole!                     | Livro   |      |
-|                   Cinq semaines en ballon                    | Livro   |      |
+|                   Cinq semaines en ballon                    | Livro   | ✅    |
 |                     La belle et la bete                      | Livro   | ✅    |
 | [Coffee Break French (A1 - A2)](https://coffeebreaklanguages.com/coffeebreakfrench/) | Podcast |      |
 | [Learn French - FrenchPod101 (A1 - A2)](https://www.frenchpod101.com/lesson-library/beginner/) | Podcast |      |
