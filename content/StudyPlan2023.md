@@ -72,6 +72,8 @@ MARCH, APRIL, JUNE, JULY, AUGUST, SEPTEMBER, OCTOBER, NOVEMBER, DECEMBER
 |                     Vous avez la parole!                     | Livro   |      |
 |                   Cinq semaines en ballon                    | Livro   | ✅    |
 |                     La belle et la bete                      | Livro   | ✅    |
+|                           Le Horla                           | Livro   | ✅    |
+|                            LingQ                             | App     | 📜    |
 | [Coffee Break French (A1 - A2)](https://coffeebreaklanguages.com/coffeebreakfrench/) | Podcast |      |
 | [Learn French - FrenchPod101 (A1 - A2)](https://www.frenchpod101.com/lesson-library/beginner/) | Podcast |      |
 | [News In Slow French (A2 - B1)](https://www.newsinslowfrench.com/home/news/beginner) | Podcast |      |
