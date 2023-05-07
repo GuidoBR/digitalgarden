@@ -16,8 +16,6 @@ draft: true
 
 ### Zorbi
 
-### 
-
 ### Débutant (A1 - A2)
 
 ~ falar sobre esse nível, definição e os principais objetivos ~
@@ -47,6 +45,8 @@ https://www.coursera.org/learn/etudier-en-france
 #### [Piece of French](https://www.youtube.com/@pieceoffrench)
 
 #### [Français avec Nelly](https://www.youtube.com/@francaisavecnelly)
+
+- [You know you are fluent in French when...](https://www.youtube.com/watch?v=SSAsI3DuAVQ)
 
 ### Avancé (C1 - C2)
 
@@ -109,3 +109,9 @@ http://www.bonjourdefrance.com/
 **Si vous rencontrez des problèmes d'ordre technique, rendez-vous sur le** ***Learner Help Center***: 
 
 https://learner.coursera.help/hc/en-us 
+
+
+
+
+
+[A Layman’s Guide to Recreational Mathematics Videos](https://www.reason-alone.com/p/a-laymans-guide-to-recreational-mathematics)
