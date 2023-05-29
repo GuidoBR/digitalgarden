@@ -106,3 +106,12 @@ Dickie Bush on [writing for business](https://twitter.com/dickiebush/status/1402
 David Perell on [Write while you read](https://perell.com/note/write-while-you-read/)
 
 > Your notes should be lightweight enough to write them consistently, but  evergreen enough to stay relevant. Your teacher was right when she told  you to take notes on what you read and put the ideas into your own  words. Digital note-taking makes your reading time more productive by  making your thoughts searchable. Unfortunately, apps like Kindle,  Pocket, and Instapaper make highlighting too easy and don’t encourage  people to write about what they’re consuming. Too many readers end up  with a long list of highlights they never actually return to. 
+
+
+
+David Perell on Writing
+
+- Create an FAQ page for the key ideas in your field ([here's a good example from Laura Deming](https://click.convertkit-mail.com/v8uvmgppqpbrhx3porkfg/owhkhqh4qg9vw9cq/aHR0cHM6Ly93d3cubGRlbWluZy5jb20vbG9uZ2V2aXR5ZmFx)).
+- Write a mini-biography of somebody who interests you, similar to [what I did with Peter Thiel](https://click.convertkit-mail.com/v8uvmgppqpbrhx3porkfg/z2hghnholp6vexuz/aHR0cHM6Ly9wZXJlbGwuY29tL2Vzc2F5L3BldGVyLXRoaWVsLw==).
+- Study the mechanics of an adjacent field and show how they could apply to your own. This is a good way to find entrepreneurial opportunities too. For example, Marc Andreessen studied the *Creative Artists Agency* and [applied the ideas to venture capital](https://click.convertkit-mail.com/v8uvmgppqpbrhx3porkfg/p8heh9h9qg6040br/aHR0cHM6Ly93d3cud3NqLmNvbS9hcnRpY2xlcy9CTC1WQ0RCLTEwMTQ4).
+- Summarize an academic paper and explain the concepts in simple language ([here's an example from Eli Dourado](https://click.convertkit-mail.com/v8uvmgppqpbrhx3porkfg/x0hph6hnq926evtg/aHR0cHM6Ly9lbGlkb3VyYWRvLmNvbS9ibG9nL3RoZS11c2Utb2Yta25vd2xlZGdlLWluLXNvY2lldHkv), who writes about key papers in economics).
