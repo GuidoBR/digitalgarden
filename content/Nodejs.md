@@ -12,7 +12,17 @@ draft: true
 
 ----
 
+𝗣𝗿𝗲𝗽𝗳𝘂𝗹𝗹𝘆 - Canal no YouTube com vários vídeos gratuitos mostrando as perguntas feitas no recrutamento das Big Techs. Vale para várias áreas diferentes.
 
+𝗘𝘅𝗽𝗼𝗻𝗲𝗻𝘁 - Plataforma de cursos rápidos de preparação para entrevistas técnicas. Também abrange várias áreas.
+
+𝗟𝗲𝗲𝘁𝗖𝗼𝗱𝗲, 𝗛𝗮𝗰𝗸𝗲𝗿𝗥𝗮𝗻𝗸, 𝗔𝗹𝗴𝗼𝗘𝘅𝗽𝗲𝗿𝘁, 𝗖𝗼𝗱𝗲𝘄𝗮𝗿𝘀 - plataformas de treino para desafios técnicos voltados para Devs.
+
+𝗚𝗼𝗼𝗴𝗹𝗲 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗪𝗮𝗿𝗺𝘂𝗽 - solução gratuita do Google que gera perguntas de acordo com o tipo de vaga que escolher. Mais voltado para tech.
+
+𝗙𝗲𝗿𝗿𝗮𝗺𝗲𝗻𝘁𝗮𝘀 𝗱𝗲 𝗜𝗔 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗮 𝗰𝗼𝗺𝗼 𝗖𝗵𝗮𝘁𝗚𝗣𝗧, 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄𝗽𝗿𝗲𝗽-𝗔𝗜, 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄𝗚𝗣𝗧 .𝗶𝗮 : Envie a descrição da vaga com o título para o ChatGPT. Peça para ele simular uma entrevista técnica para aquela vaga, dando feedback após você enviar a resposta. As outras duas ferramentas vão fazer isso sem precisar de prompts.
+
+----
 
 Here's a study plan to help you prepare for a technical interview on Node.js, considering your background in Python and PHP:
 
