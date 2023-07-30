@@ -64,30 +64,30 @@ MARCH, APRIL, JUNE, JULY, AUGUST, SEPTEMBER, OCTOBER, NOVEMBER, DECEMBER
 
 |                             NAME                             | Type    |      |
 | :----------------------------------------------------------: | ------- | ---- |
-| Aliança Francesa \| Débutant 1 \| A1 Level \| March - June (4h a week, saturdays) | Course  | 📜    |
-| Aliança Francesa \| Express - A2 Level \| July (15h a week, everyday) | Course  |      |
-| Aliança Francesa \| Rapide 2 (Débutant 3 and Intermediario 1) \| A3 - B1 Level \| August - | Course  |      |
-|             Aula particular - Nayara (1h a week)             | Course  | 📜    |
-|              Short Stories for French Begineers              | Livro   |      |
-|                     Vous avez la parole!                     | Livro   |      |
+| Aliança Francesa \| Débutant 1 \| A1 Level \| March - June (4h per week, saturdays) | Course  | ✅    |
+| Aliança Francesa \|Débutant 2 \|A1 Level \|August -  (3h per week) | Course  |      |
+|       Aula particular - iTalki - Audrey (1h per week)        | Course  | ✅    |
+|            Aula particular - Nayara (1h per week)            | Course  | 📜    |
+|              Short Stories for French Begineers              | Livro   | ✅    |
+|                     Vous avez la parole!                     | Livro   | ✅    |
 |                   Cinq semaines en ballon                    | Livro   | ✅    |
 |                     La belle et la bete                      | Livro   | ✅    |
 |                           Le Horla                           | Livro   | ✅    |
-|                            LingQ                             | App     | 📜    |
-| [Coffee Break French (A1 - A2)](https://coffeebreaklanguages.com/coffeebreakfrench/) | Podcast |      |
-| [Learn French - FrenchPod101 (A1 - A2)](https://www.frenchpod101.com/lesson-library/beginner/) | Podcast |      |
-| [News In Slow French (A2 - B1)](https://www.newsinslowfrench.com/home/news/beginner) | Podcast |      |
-| [Learn French by Podcast (A2 - B1)](https://learnfrenchbypodcast.com/) | Podcast |      |
-| [Duolingo French Podcast (A2 - B1)](https://podcast.duolingo.com/french) | Podcast |      |
-|  [InnerFrench (A2 - B1)](https://innerfrench.com/podcast/)   | Podcast |      |
+|                            LingQ                             | App     | ✅    |
+| [Coffee Break French (A1)](https://coffeebreaklanguages.com/coffeebreakfrench/) | Podcast | ✅    |
+| [Learn French - FrenchPod101 (A1)](https://www.frenchpod101.com/lesson-library/beginner/) | Podcast | ✅    |
+| [News In Slow French (A2 - B1)](https://www.newsinslowfrench.com/home/news/beginner) | Podcast | ✅    |
+| [Learn French by Podcast (A2 - B1)](https://learnfrenchbypodcast.com/) | Podcast | ✅    |
+| [Duolingo French Podcast (A2 - B1)](https://podcast.duolingo.com/french) | Podcast | ✅    |
+|  [InnerFrench (A2 - B1)](https://innerfrench.com/podcast/)   | Podcast | ✅    |
 | [Journal en français facile (B1)](https://francaisfacile.rfi.fr/fr/podcasts/journal-en-fran%C3%A7ais-facile/) | Podcast |      |
 |     [Easy French (B1 - B2)](https://www.easyfrench.fm/)      | Podcast |      |
-|       [Avec Elisa](https://www.youtube.com/@AVECELISA)       | Youtube |      |
+|       [Avec Elisa](https://www.youtube.com/@AVECELISA)       | Youtube | ✅    |
 | [Français Authentique](https://www.youtube.com/@francaisauthentique) | Youtube |      |
-|     [InnerFrench](https://www.youtube.com/@innerFrench)      | Youtube |      |
+|     [InnerFrench](https://www.youtube.com/@innerFrench)      | Youtube | ✅    |
 | [Français avec Fred](https://www.youtube.com/@FrancaisAvecFred) | Youtube |      |
 |         [Le Monde](https://www.youtube.com/lemonde)          | Youtube |      |
-|  [Piece of French](https://www.youtube.com/@pieceoffrench)   | Youtube |      |
+|  [Piece of French](https://www.youtube.com/@pieceoffrench)   | Youtube | ✅    |
 | [Français avec Nelly](https://www.youtube.com/@francaisavecnelly) | Youtube |      |
 |        [Heu?reka](https://www.youtube.com/@Heu7reka)         | Youtube |      |
 |      [Le Parisien](https://www.youtube.com/@LeParisien)      | Youtube |      |
@@ -98,12 +98,12 @@ MARCH, APRIL, JUNE, JULY, AUGUST, SEPTEMBER, OCTOBER, NOVEMBER, DECEMBER
 
 ### Objectives
 
-- [ ] Read "Harry Potter à L'école des Sorciers"
+- [x] Read "Harry Potter à L'école des Sorciers"
 - [ ] Read "Les Trois Mousquetaires"
 - [ ] Read "Le Petit Prince"
-- [ ] Read "Le Tour du monde en 80 jours"
+- [x] Read "Le Tour du monde en 80 jours"
 - [ ] Reach A2 Level
 - [ ] Reach B1 Level
 - [ ] Reach B2 Level
-- [ ] Have two 1 hour-long conversation with a native speaker
+- [x] Have two 1 hour-long conversation with a native speaker
 
