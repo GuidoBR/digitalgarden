@@ -66,6 +66,7 @@ Anne-Laure Le Cunff is the founder of Ness Labs, an Ex-Google employee, and has 
 - [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/)
 - [Escrever é filosofar?](https://www.youtube.com/watch?v=IRVZpMhW9oA&list=PLZ32vwNKuhA5-RNPMLZ6rKwrxqZoxtT4d&index=16)
 - [Writing as a thinking tool](https://nesslabs.com/writing-thinking-tool)
+- [Writing to think](https://fs.blog/writing-to-think/)
 
 
 
