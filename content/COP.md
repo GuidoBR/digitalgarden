@@ -116,3 +116,17 @@ title: COP26
 > With climate change intensifying and scientists warning that  humanity is running out of time to limit global warming to 1.5°C over  pre-industrial levels, 2021 has been a fraught year for the planet.
 >
 > The Emissions Gap Report 2021: The Heat Is On is the 12th edition in  an annual series that provides an overview of the difference between  where greenhouse emissions are predicted to be in 2030 and where they  should be to avert the worst impacts of climate change.
+
+
+
+# [COP 28: o início do fim dos combustíveis fósseis](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cub21ueWNvbnRlbnQuY29tL2QvcGxheWxpc3QvNjUxYTI1MWUtMDZlMS00N2UwLTkzMzYtYWM1YTAwZjQxNjI4LzA0NTYxYjQzLTc1M2QtNDc4NC04ZTE5LWFjOGIwMGU4NjQxMS8zMDM2ZDU1MC04NWIyLTQzMDEtYjFlNC1hYzhiMDBlODY0MWYvcG9kY2FzdC5yc3M/episode/YTEyNDA4YjktMDZjZi00MmQ3LTlkNmItYjBkODAwNGE2Mjk4?ep=14)
+
+A Conferência do Clima deste ano durou um dia a mais do que o previsto, mas por um bom motivo: para combater as mudanças climáticas, todos os países participantes conseguiram chegar a um acordo para o texto final, que selou a necessidade de o planeta acelerar a transição energética para matrizes renováveis. Mas o acordo foi brando em relação ao que fazer em relação ao petróleo. Para analisar os avanços e as omissões desta edição da COP, Natuza Nery recebe Daniela Chiaretti, repórter especial de meio ambiente do jornal Valor Econômico, que fala diretamente de Dubai, e Carlo Pereira, CEO do Pacto Global da ONU no Brasil. Neste episódio:
+
+- Daniela apresenta o que considera “as três pontas” que o planeta precisa trabalhar para que o aumento da temperatura global não passe de 1,5°C em relação à média do período pré-Revolução Industrial. São elas: a “discussão do dinheiro”, a ser realizada na COP 29, no Azerbaijão; os “novos compromissos climáticos”, que serão apresentadas na COP 30, em Belém, no Brasil; e a “transição energética”, principal pauta da Conferência deste ano;
+
+- Ela comenta o texto que deu forma final aos debates realizados em Dubai, que nasceu de recomendações “desesperadas” de cientistas e teve aprovação de 198 países. “O grande artigo, o elefante na mesa, apresenta um cardápio de oito soluções para a transição energética e pede ações profundas, rápidas e sustentadas”, resume;
+
+- Carlo justifica a escolha dos Emirados Árabes Unidos – 7º maior produtor de petróleo do mundo – como sede da COP deste ano, justamente na edição que debateria o futuro dos combustíveis fósseis. “Trata-se de uma boa provocação”, afirma;
+
+- O CEO do Pacto Global da ONU destaca o protagonismo brasileiro nesta pauta, afinal “não existe um mundo neutro em carbono se o Brasil falhar”. Ele justifica que temos uma das matrizes energéticas mais limpas do planeta e, somados ao Congo e à Indonésia, 80% das florestas tropicais do mundo. “Isso traz várias vantagens comparativas para o Brasil”, conclui.
