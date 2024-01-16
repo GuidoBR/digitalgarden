@@ -4,6 +4,27 @@ date: 2022-12-26T12:52:48-03:00
 draft: true
 ---
 
+# Meu projeto de leitura de Filosofia
+
+Livros de filosofia para 2024 - 2025:
+0) Meditações - Marco Aurélio
+1) Fédon: (ou Da Alma) - Platão
+2) Apologia de Sócrates - Platão
+3) Eutyphro - Platão
+4) Manual - Epicteto
+5) Sobre a brevidade da vida - Seneca
+6) Fedro - Platão
+7) Poética - Aristóteles
+8) Ética a Nicomaco - Aristóteles
+9) O Banquete - Platão
+10) Confissões - Santo Agostinho (principalmente capitulo 11, "o homem e o tempo")
+11) O Discurso do método - Descartes
+12) Carta sobre a tolerância - John Locke
+13) Assim falou Zaratustra - Nietzche
+14) O Existencialismo é um Humanismo - Sartre
+
+
+
 ## 8 Philosophy Books You Need to Read
 
 https://www.youtube.com/watch?v=G-kTBVNBfDE
