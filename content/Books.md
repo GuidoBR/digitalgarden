@@ -4,6 +4,8 @@ title: Books
 
 #books
 
+- [[Robertson2019HowToThinkLikeRomanEmperor]]
+- [[TolkienTheFellowshipOfTheRing]]
 - [[Gigerenzer2014RiskSavvy]]
 - [[Sinek2019TheInfiniteGame]]
 - [[Tetlock2015Superforecasting]]
