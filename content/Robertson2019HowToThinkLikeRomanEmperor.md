@@ -4,7 +4,7 @@ date: 2024-01-03T15:51:34-03:00
 draft: true
 ---
 
-
+#books #stoic #stoicism
 
 ## Notes
 
