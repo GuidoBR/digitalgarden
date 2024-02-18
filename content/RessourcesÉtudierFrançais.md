@@ -1,27 +1,27 @@
 ---
-title: "RessourcesÉtudierFrançais"
+title: "Fluency in French: My One Year Journey  from Scratch to B2"
 date: 2023-04-18T17:07:46-03:00
 draft: true
 ---
 
-# Ressources pour étudier Français
+As I sit down to reflect on the past year, I am filled with a sense of accomplishment and gratitude. Twelve months ago, I embarked on a journey to learn French from scratch, driven by a combination of curiosity, passion for languages, and a deep-rooted aspiration to immigrate to Canada. Motivated by the prospect of immersing myself in the rich tapestry of Francophone literature, art, and cinema, I eagerly embraced the challenge that lay ahead. Little did I know then the profound impact this decision would have on my life's trajectory.
 
-### Apps
+## Exploring How Adults Master Foreign Languages
 
-#### Duolingo
+My introduction to research on how adults learn foreign languages, particularly through the lens of the Input Hypothesis proposed by linguist Stephen Krashen, stemmed from my exposure to YouTube videos within the polyglot community, notably those from Steve Kaufmann. This research underscores the significance of comprehensible input in language acquisition, suggesting that learners progress most effectively when exposed to language slightly beyond their current proficiency level yet still understandable. Thus, my understanding of language learning methodologies was shaped by insights gleaned from these online resources, emphasizing the importance of meaningful exposure to language in various contexts for effective language acquisition.
 
-### Busuu
+Furthermore, studies exploring the Input Hypothesis suggest that the quality and quantity of input play crucial roles in language learning. Immersion experiences, where learners are consistently surrounded by the target language, have been shown to be particularly effective. Additionally, the hypothesis underscores the value of implicit learning processes, suggesting that conscious grammar instruction is less effective than exposure to comprehensible input for developing language proficiency. Overall, this research highlights the importance of creating environments rich in linguistic input, where learners can engage with language in ways that are both challenging and accessible, facilitating their acquisition of a foreign language as adults.
+
+
+## What I used to study French
 
 ### LingQ
-
-### Zorbi
 
 ### Débutant (A1 - A2)
 
 ~ falar sobre esse nível, definição e os principais objetivos ~
 
 #### [Coffee Break French (A1 - A2)](https://coffeebreaklanguages.com/coffeebreakfrench/)
-
 
 
 ### Intermédiaire (B1 - B2)
