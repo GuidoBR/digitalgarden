@@ -133,3 +133,172 @@ Aristotle laid out the philosophical foundation of friendship as [the art of hol
 
 
 > In the Celtic tradition, there is a beautiful understanding of love and friendship. One of the fascinating ideas here is the idea of soul-love; the old Gaelic term for this is *anam cara*. *Anam* is the Gaelic word for soul and *cara* is the word for friend. So *anam cara* in the Celtic world was the “soul friend.” In the early Celtic church, a person who acted as a teacher, companion, or spiritual guide was called an *anam cara*. It originally referred to someone to whom you confessed, revealing the hidden intimacies of your life. With the *anam cara* you could share your inner-most self, your mind and your heart. This friendship was an act of recognition and belonging. When you had an *anam cara*, your friendship cut across all convention, morality, and category. You were joined in an ancient and eternal way with the “friend of your soul.” The Celtic understanding did not set limitations of space or time on the soul. There is no cage for the soul. The soul is a divine light that flows into you and into your Other. This art of belonging awakened and fostered a deep and special companionship.
+
+----
+
+Here are some essays and short stories about friendship by renowned authors:
+
+**Essays:**
+
+1. **"On Friendship" by Michel de Montaigne** - Montaigne's essay explores the nature of friendship, its importance in life, and the qualities of a true friend. It's a classic exploration of the subject by one of the masters of the essay form.
+2. **"Friendship" by Ralph Waldo Emerson** - Emerson reflects on the value of friendship, emphasizing its role in personal growth, mutual support, and moral guidance. His essay is filled with profound insights and reflections.
+3. **"Of Friendship" by Francis Bacon** - Bacon's essay delves into the various facets of friendship, including its benefits, pitfalls, and the qualities that make for enduring bonds between people.
+4. **"Friendship" by Henry David Thoreau** - Thoreau's essay celebrates the joys of companionship and the deep connections that can be forged between individuals who share common values and interests.
+
+**Short Stories:**
+
+1. **"The Gift of the Magi" by O. Henry** - While not explicitly about friendship, this beloved short story showcases the selfless love and sacrifice between a husband and wife, highlighting the essence of true companionship.
+2. **"The Last Leaf" by O. Henry** - Another poignant tale by O. Henry, this story explores the bond between two struggling artists and the power of friendship to inspire hope and resilience in the face of adversity.
+3. **"The Necklace" by Guy de Maupassant** - While primarily focused on themes of pride and materialism, this story also touches upon the importance of friendship and the ways in which relationships can shape our lives.
+4. **"A Christmas Memory" by Truman Capote** - This autobiographical short story recounts Capote's fond memories of his friendship with his older cousin, Miss Sook, and their shared experiences during the holiday season.
+5. **"The Snows of Kilimanjaro" by Ernest Hemingway** - In this classic story, a writer reflects on his life and relationships, including his friendship with his wife, as he grapples with mortality and regret while on safari in Africa.
+
+---
+
+[**AMIZADE NOS LIVROS SAPIENCIAIS**](https://www.cnbb.org.br/amizade-nos-livros-sapienciais/)
+
+**Ser amigo das Virtudes**
+
+O homem que deseja ser fiel a Deus, conservando suas Palavras em seu coração e praticando os seus preceitos, é chamado a se fazer amigo da Sabedoria, dessa forma evitará ser seduzido pelo mal (cf. Pr 7,1-5). Esse mal pode se apresentar a nós também através de pessoas que espertamente desejam-se fazer nossos amigos. Mas o homem sábio é cauteloso em suas amizades (cf. Pv 12,26). 
+
+No cântico dos cânticos a bonita amada é também chamada de amiga (cf. Ct 6,3-4) que se encanta com a formosura estética e moral do seu amado e seu amigo (cf. Ct 5,16). É muito interessante essa relação íntima entre a beleza física e aquela moral. Como sempre se diz na filosofia: há uma íntima relação entre ética e estética. A estética das relações interpessoais é chamada ter um componente ético, ou seja, a paixão pelo bem. Por isso não é bem-vinda a relação entre amizade e criminalidade. 
+
+**A Amizade como sinal de Sabedoria** 
+
+Na diversidade das citações sobre a Amizade no livro da Sabedoria e do Eclesiástico encontramos a relação entre a beleza da amizade e o sentido da vida. Amizades autênticas contribuem para o enriquecimento das pessoas; a Amizade é uma relação que potencializa o sentido da vida e a alegria do viver. 
+
+Quem rejeita a experiência da amizade e da justiça, faz aliança com a morte (cf. Sb 1,16). “A sabedoria é um espírito amigo dos homens…” (Sb 7,6). O valor positivo da Amizade vem da sua conexão com a sabedoria e, esta por sua vez, está vinculada à verdade e a justiça. Por isso os Amigos rejeitam a murmuração e evitam a maledicência (cf. Sb 7,11). O espírito da Sabedoria é imaculado, lúcido, invulnerável, amigo do bem, sutil, livre, benéfico, amigo dos homens, estável, seguro (cf. Sb 7,22-23). Quem segue a Sabedoria pertence a Deus, o amigo da vida (cf. Sb 11, 2). 
+
+**Recomendações importantes**
+
+No Livro dos Provérbios encontramos várias recomendações muito significativas sobre a importância da Amizade. Quem é movido pela sabedoria detesta o perverso, mas é amigo dos justos (cf. Pr 3,32). “Quem busca amizade disfarça a ofensa; mas quem a repete afasta o amigo” (Pr 17,9). Esse versículo nos apresenta a importância da experiência da resiliência entre os amigos, que significa não levar em conta incômodos e males causados por eles, mas isso não pode se tornar um hábito, caso contrário os amigos se desgastam e se vão (cf. Eclo 22,20.22). 
+
+Apesar disso, um verdadeiro amigo ama em todas as circunstâncias (cf. Pr 17,17). Todavia, a mesma sabedoria adverte que a riqueza multiplica os amigos, pois todo mundo se faz amigo de quem gosta de dar presente e quer ser bajulado, a pobreza provoca abandono (cf. Pr 19,4-6). O texto nos adverte para a importância dos discernimento dos verdadeiros dos falsos amigos; há quem se apresente como nossos amigos somente na abundância; mas é na pobreza que a amizade se confirma. 
+
+Recomenda-se também a importância da firmeza para com os amigos como senso de educação: “O tapa do amigo é leal, mas o beijo do inimigo é mentiroso” (Pr 27,6). Isso significa que os amigos verdadeiros não ficam bajulando-se mutuamente, indiferentes aos males, mas são honestos e sinceros uns com os outros, e não pode admitir entre si a falsidade. Por causa da dimensão educativa da Amizade, “o conselho de amigo acalma o ânimo. Não abandone o seu amigo nem o amigo de seu pai” (Pr 27,8-10). “Mas quem se faz amigo dos corruptos envergonha seu pai” (Pr 28,7). 
+
+Há muitas outras recomendações valiosas e permanentes, como por exemplo: “Não troque um amigo por dinheiro” (Eclo 7,18); “Não abandone um velho amigo” (Eclo 9,10); “O amigo não se revela na prosperidade” (Eclo 12,8); “Faça o bem ao amigo e reparta com ele conforme suas posses” (Eclo 14,13). Esses conselhos nos indicam o reconhecimento do valor da amizade, a importância da lealdade, a necessidade da prudência, da paciência e da prática da solidariedade entre os amigos. 
+
+**O perfil do verdadeiro amigo**
+
+A prudência no falar contribui para a longevidade da amizade. Por isso, recomenda-se: “Seja constante no modo de pensar e coerente na maneira de falar. Esteja pronto para ouvir e lento para dar a resposta… Falar pode trazer honra ou desonra, e a língua do homem é a sua ruína. Não tenha fama de caluniador, nem use a língua para preparar armadilhas, porque para o ladrão existe a vergonha, e para o homem falso uma condenação severa. Evite erros grandes e pequenos, e de amigo não se transforme em inimigo” (Eclo 5,10-15). “Palavras afáveis aumentam os amigos, e fala amável encontra acolhida” (Eclo 6,5). 
+
+É preciso não ter pressa na amizade, por isso, adverte o Eclesiástico que é necessário saber escolher o confidente, pois o tempo e as circunstâncias provarão quem são os nossos verdadeiros amigos. “Tenha muitos conhecidos, mas um só confidente entre mil. Se você quiser um amigo, coloque-o à prova, e não vá logo confiando nele. Porque existe amigo de ocasião, que não será fiel quando você estiver na pior. Existe amigo que se transforma em inimigo, e envergonhará você, revelando suas coisas particulares. Existe amigo que é companheiro de mesa, mas que não será fiel quando você estiver na pior. Quando tudo correr bem, ele estará com você, mas quando as coisas forem mal, ele fugirá para longe” (Eclo 6,6-11). 
+
+“Amigo fiel é proteção poderosa, e quem o encontrar, terá encontrado um tesouro. Amigo fiel não tem preço, e o seu valor é incalculável. Amigo fiel é remédio que cura, e os que temem ao Senhor o encontrarão. Quem teme ao Senhor tem amigos verdadeiros, pois tal e qual ele é, assim será o seu amigo” (Eclo 7,15-17). 
+
+A amizade é sagrada relação de confiança; por isso o Eclesiástico nos apresenta uma séria reflexão sobre a confidencialidade; a ruptura da confiança gera a perda da amizade. “Quem revela o segredo destrói a confiança, e nunca mais encontrará um amigo íntimo. Ame o seu amigo e seja fiel a ele. Contudo, se você revelou os segredos dele, não o procure mais. Porque, assim como se perde uma pessoa que morre, da mesma forma você perdeu a amizade do seu próximo. Como pássaro que escapa da mão, você deixou escapar seu amigo, e não conseguirá mais apanhá-lo” (Eclo 27,16-19). 
+
+A amizade implica fidelidade em todas as circunstâncias: “Todo amigo declara amizade, mas existe amigo que é amigo só de nome… O companheiro se alegra com o amigo na felicidade, mas no momento da desgraça torna-se hostil. O companheiro sofre com o amigo por interesse, mas no momento da briga toma o escudo. Em seu coração não se esqueça do amigo; e não se esqueça dele quando você estiver na prosperidade” (Eclo 37,1.3-6). 
+
+
+
+------
+
+# Livro sobre amizade
+
+1. 3 Citações sobre amizade
+
+   1. “Friendship is unnecessary like philosophy, like art, like the universe itself… it has no survival value; rather it is one of those things which give value to survival.” - C.S. Lewis
+   2. "A friend is one soul abiding in two bodies." — Aristotle
+
+2. Prefácio
+
+   1. aqui escrevemos sobre porque fizemos isso e sobre como valorizamos nossos amigos
+
+3. [C.S. Lewis on True Friendship](https://www.brainpickings.org/2014/09/08/c-s-lewis-four-loves-friendship/)
+
+4. Poema:  [*Recado aos amigos distantes*, de Cecília Meireles](https://www.culturagenial.com/maiores-poemas-amizade-literatura-brasileira-portuguesa/)
+
+   1. Meus companheiros amados,
+      não vos espero nem chamo:
+      porque vou para outros lados.
+      Mas é certo que vos amo.
+
+      Nem sempre os que estão mais perto
+      fazem melhor companhia.
+      Mesmo com sol encoberto,
+      todos sabem quando é dia.
+
+      Pelo vosso campo imenso,
+      vou cortando meus atalhos.
+      Por vosso amor é que penso
+      e me dou tantos trabalhos.
+
+      Não condeneis, por enquanto,
+      minha rebelde maneira.
+      Para libertar-me tanto,
+      fico vossa prisioneira.
+
+      Por mais que longe pareça,
+      ides na minha lembrança,
+      ides na minha cabeça,
+      valeis a minha Esperança
+
+5. [Anam Cara and the Essence of True Friendship: Poet and Philosopher John O’Donohue on the Beautiful Ancient Celtic Notion of Soul-Friend](https://themarginalian.us2.list-manage.com/track/click?u=13eb080d8a315477042e0d5b1&id=254508ce13&e=40b458beb6)
+
+6. [Trailblazing Astronomer Maria Mitchell on How We Co-Create Each Other and Recreate Ourselves Through Friendship](https://www.brainpickings.org/2017/09/10/maria-mitchell-friendship/)
+
+7. Poema: [*Amigo*, de Alexandre O'Neill](https://www.culturagenial.com/maiores-poemas-amizade-literatura-brasileira-portuguesa/)
+
+   1. Mal nos conhecemos
+      Inauguramos a palavra amigo!
+
+      Amigo é um sorriso
+      De boca em boca,
+      Um olhar bem limpo
+
+      Uma casa, mesmo modesta, que se oferece.
+      Um coração pronto a pulsar
+      Na nossa mão!
+
+      Amigo (recordam-se, vocês aí,
+      Escrupulosos detritos?)
+      Amigo é o contrário de inimigo!
+
+      Amigo é o erro corrigido,
+      Não o erro perseguido, explorado.
+      É a verdade partilhada, praticada.
+
+      Amigo é a solidão derrotada!
+
+      Amigo é uma grande tarefa,
+      Um trabalho sem fim,
+      Um espaço útil, um tempo fértil,
+      Amigo vai ser, é já uma grande festa!
+
+8. [Fruits of Friendship](https://perell.com/essay/fruits-of-friendship/)
+
+9. Poema: [Amizade, de Paulo Leminski](https://www.culturagenial.com/maiores-poemas-amizade-literatura-brasileira-portuguesa/)
+
+   1. Meus amigos
+      quando me dão a mão
+      sempre deixam
+      outra coisa
+      presença
+      olhar
+      lembrança, calor
+      meus amigos
+      quando me dão deixam na minha
+      a sua mão
+
+10. Amizade na Bíblia
+
+    1. Pv 12,26
+    2. Pr 7,1-5
+    3. Sb 1,16
+    4. Pr 3,32
+    5. Pr 17,9
+    6. Eclo 22,20.22)
+    7. Pr 17,17
+    8. Pr 19,4-6
+    9. Pr 27,6
+    10. Eclo 9,10
+    11. Eclo 12,8
+    12. Eclo 7,15-17
+
+11. **"On Friendship"** by Michel de Montaigne
+
+12. [**"Friendship" by Ralph Waldo Emerson**](https://emersoncentral.com/texts/essays-first-series/friendship/) - Emerson reflects on the value of friendship, emphasizing its role in personal growth, mutual support, and moral guidance. His essay is filled with profound insights and reflections.
+
+13. **"Friendship" by Henry David Thoreau** - Thoreau's essay celebrates the joys of companionship and the deep connections that can be forged between individuals who share common values and interests.
