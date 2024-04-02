@@ -4,6 +4,7 @@ title: Books
 
 #books
 
+- [[Sartre1946ExistentialismIsAHumanism]]
 - [[Robertson2019HowToThinkLikeRomanEmperor]]
 - [[TolkienTheFellowshipOfTheRing]]
 - [[Gigerenzer2014RiskSavvy]]
