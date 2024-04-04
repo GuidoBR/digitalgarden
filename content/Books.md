@@ -4,6 +4,7 @@ title: Books
 
 #books
 
+- [[Camus1942LÉtranger]]
 - [[Sartre1946ExistentialismIsAHumanism]]
 - [[Robertson2019HowToThinkLikeRomanEmperor]]
 - [[TolkienTheFellowshipOfTheRing]]
