@@ -4,26 +4,43 @@ date: 2022-12-26T12:52:48-03:00
 draft: true
 ---
 
+#philosophy
+
 # Meu projeto de leitura de Filosofia
 
 Livros de filosofia para 2024 - 2025:
-0) Meditações - Marco Aurélio
+0) ✅ Meditações - Marco Aurélio 
 1) Fédon: (ou Da Alma) - Platão
-2) Apologia de Sócrates - Platão
-3) Eutyphro - Platão
-4) Manual - Epicteto
-5) Sobre a brevidade da vida - Seneca
-6) Fedro - Platão
+2) ✅ Apologia de Sócrates - Platão
+3) ✅ Eutyphro - Platão
+4) ✅ Manual - Epicteto
+5) ✅ Sobre a brevidade da vida - Seneca
+6) ✅ Fedro - Platão
 7) Poética - Aristóteles
 8) Ética a Nicomaco - Aristóteles
-9) O Banquete - Platão
+9) ✅ O Banquete - Platão
 10) Confissões - Santo Agostinho (principalmente capitulo 11, "o homem e o tempo")
 11) O Discurso do método - Descartes
 12) Carta sobre a tolerância - John Locke
 13) Assim falou Zaratustra - Nietzche
-14) O Existencialismo é um Humanismo - Sartre
+14) ✅ O Existencialismo é um Humanismo - Sartre
 
 
+## [The Best Introductions to Philosophy](https://fivebooks.com/best-books/introductions-to-philosophy-warburton/)
+
+1) *What Does it All Mean?* by Thomas Nagel
+2) *The Life You can Save* by Peter Singer
+3) *Justice* by Michael Sandel
+4) *Causing Death and Saving Lifes* by Jonathan Glover
+5) *The Grasshopper* by Bernard Suits
+
+## [Key Philosophical Texts in the Western Canon](https://fivebooks.com/best-books/key-philosophical-texts-western-nigel-warburton/)
+
+1) *Republic* by Plato
+2) *Meditations* on First Philosophy
+3) *An Enquiry Concerning Human Understanding* by David Hume
+4) *On Liberty* by John Stuart Mill
+5) *Philosophical Investigations* by Ludwig Wittgenstein
 
 ## 8 Philosophy Books You Need to Read
 
