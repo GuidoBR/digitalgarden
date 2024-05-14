@@ -191,7 +191,27 @@ A amizade é sagrada relação de confiança; por isso o Eclesiástico nos apres
 
 A amizade implica fidelidade em todas as circunstâncias: “Todo amigo declara amizade, mas existe amigo que é amigo só de nome… O companheiro se alegra com o amigo na felicidade, mas no momento da desgraça torna-se hostil. O companheiro sofre com o amigo por interesse, mas no momento da briga toma o escudo. Em seu coração não se esqueça do amigo; e não se esqueça dele quando você estiver na prosperidade” (Eclo 37,1.3-6). 
 
+# [Simone Weil on the Paradox of Friendship and Separation](https://www.themarginalian.org/2015/08/24/simone-weil-friendship-separation/)
 
+> The joy of meeting and the sorrow of separation … we should welcome these gifts … with our whole soul, and experience to the full, and with the same gratitude, all the sweetness or bitterness as the case may be. Meeting and separation are two forms of friendship that contain the same good, in the one case through pleasure and in the other through sorrow… Soon there will be distance between us. Let us love this distance which is wholly woven of friendship, for those who do not love each other are not separated.
+
+> Dear Friend,
+>
+> It seems as though the time has now really come for us to say goodbye to each other… Human existence is so fragile a thing and exposed to such dangers that I cannot love without trembling.
+>
+> […]
+>
+> I also like to think that after the slight shock of separation you will not feel any sorrow … and that if you should sometimes happen to think of me you will do so as one thinks of a book one read in childhood. I do not want ever to occupy a different place from that in the hearts of those I love, because then I can be sure of never causing them any unhappiness.
+
+# [The Best Teacher (or Friend) is a Good Book](https://christopherperrin.substack.com/p/the-best-teacher-or-friend-is-a-good)
+
+> There is a strange idea abroad that in every subject the ancient books should be read only by the professionals, and that the amateur should content himself with the modern books. Thus I have found as a tutor in English Literature that if the average student wants to find out something about Platonism, the very last thing he thinks of doing is to take a translation of Plato off the library shelf and read the *Symposium*. He would rather read some dreary modern book ten times as long, all about “isms” and influences and only once in twelve pages telling him what Plato actually said. The error is rather an amiable one, for it springs from humility. The student is half afraid to meet one of the great philosophers face to face. He feels himself inadequate and thinks he will not understand him. But if he only knew, the great man, just because of his greatness, is much more intelligible than his modern commentator. The simplest student will be able to understand, if not all, yet a very great deal of what Plato said; but hardly anyone can understand some modern books on Platonism. It has always therefore been one of my main endeavours as a teacher to persuade the young that firsthand knowledge is not only more worth acquiring than secondhand knowledge, but is usually much easier and more delightful to acquire.
+
+
+
+> We all know the value of a good book placed in our hands at the right time. We give and receive books as gifts; we likely all can remember a particularly meaningful book that helped and possibly changed us. Perhaps you still have books you grew up with and treasured. Maybe you read through all of the *Chronicles of Narnia* and the *Lord of the Rings* trilogy–several times. Perhaps characters like Peter or Lucy or Bilbo or Aragorn remain dear to you. If so, the names of C.S. Lewis and J.R.R. Tolkien may have a kind of magical quality to them for the characters have become your friends and you owe them a great debt of gratitude for introducing these characters to you, yes, even for creating them. 
+>
+> Some have grown up in the imagined worlds of Narnia or Middle Earth or similar imagined worlds from the likes of Lewis Carroll, A. A. Milne, and Beatrix Potter. **Great books, even great children’s books, may have shaped you deeply, even helping to form your moral universe and understanding. One chemistry professor I know grew up outside of any church tradition but found his moral life shaped by the *Lord of the Rings* trilogy of Tolkien, which he read and reread. When tempted to join various dubious activities, he found himself saying, “No. Aragorn would never do that.” What a great friend is Aragorn—but the better friend is Tolkien who made the introduction.**
 
 ------
 
@@ -302,3 +322,5 @@ A amizade implica fidelidade em todas as circunstâncias: “Todo amigo declara 
 12. [**"Friendship" by Ralph Waldo Emerson**](https://emersoncentral.com/texts/essays-first-series/friendship/) - Emerson reflects on the value of friendship, emphasizing its role in personal growth, mutual support, and moral guidance. His essay is filled with profound insights and reflections.
 
 13. **"Friendship" by Henry David Thoreau** - Thoreau's essay celebrates the joys of companionship and the deep connections that can be forged between individuals who share common values and interests.
+
+> 
