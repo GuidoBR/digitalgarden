@@ -15,3 +15,8 @@ draft: true
 # [On découvre L'étranger d'Albert Camus](https://www.youtube.com/watch?v=bJm_-AZt3TI)
 
 Le roman L'étranger de Camus : Qu'est-ce que ça raconte ? Comment l'analyser ? Pourquoi le lire ? Je vous présente ce livre ! On découvre L'étranger d'Albert Camus
+
+
+
+# [Albert CAMUS, un écrivain PROBLEMATIQUE ? On réagit au livre "Oublier Camus"](https://www.youtube.com/watch?v=etQ4nZdiG5g&list=WL&index=2)
+
