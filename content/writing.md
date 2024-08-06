@@ -67,6 +67,7 @@ Anne-Laure Le Cunff is the founder of Ness Labs, an Ex-Google employee, and has 
 - [Escrever é filosofar?](https://www.youtube.com/watch?v=IRVZpMhW9oA&list=PLZ32vwNKuhA5-RNPMLZ6rKwrxqZoxtT4d&index=16)
 - [Writing as a thinking tool](https://nesslabs.com/writing-thinking-tool)
 - [Writing to think](https://fs.blog/writing-to-think/)
+- [Writing advice from C. S. Lewis, Part 1](https://jaredhenderson.substack.com/p/writing-advice-from-cs-lewis-part?utm_source=profile&utm_medium=reader2)
 
 
 
