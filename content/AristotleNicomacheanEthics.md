@@ -36,4 +36,10 @@ by Jared Henderson
 
 ### Book V - [Justice as a Virtue](https://jaredhenderson.substack.com/p/justice-as-a-virtue-nicomachean-ethics) 
 
+- [Robert Nozick](https://en.wikipedia.org/wiki/Robert_Nozick)
+     - [Encyclopedia Britannica](https://www.britannica.com/biography/Robert-Nozick)
+     - [Standford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/nozick-political/)
+- [John Rawls](https://en.wikipedia.org/wiki/John_Rawls)
+     - [Standford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/rawls/)
+
 ### Book VI - [Dear Prudence](https://jaredhenderson.substack.com/p/dear-prudence-nicomachean-ethics?utm_source=post-email-title&publication_id=1266270&post_id=147706458&utm_campaign=email-post-title&isFreemail=false&r=1focf&triedRedirect=true&utm_medium=email)

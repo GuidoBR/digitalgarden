@@ -118,3 +118,4 @@ Robertson underscores the Stoic idea that death is a natural part of the human e
 
 - https://easybookseb.substack.com/p/meditacoes-marco-aurelio
 - https://easybookseb.substack.com/p/meditacoes-marco-aurelio-9d0#:~:text=%E2%80%9CN%C3%A3o%20se%20deve%20apenas%20concluir,para%20ser%20vivida%20%5B%E2%80%A6%5D%E2%80%9D&text=%E2%80%9C%5B%E2%80%A6%5D
+- [The Three Classic Books on Stoic Philosophy](https://donaldrobertson.substack.com/p/the-three-classic-books-on-stoic-philosophy-f74861ef0b86?utm_source=post-email-title&publication_id=1148467&post_id=82688143&utm_campaign=email-post-title&isFreemail=true&r=1focf&triedRedirect=true&utm_medium=email)
