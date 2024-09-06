@@ -42,4 +42,12 @@ by Jared Henderson
 - [John Rawls](https://en.wikipedia.org/wiki/John_Rawls)
      - [Standford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/rawls/)
 
-### Book VI - [Dear Prudence](https://jaredhenderson.substack.com/p/dear-prudence-nicomachean-ethics?utm_source=post-email-title&publication_id=1266270&post_id=147706458&utm_campaign=email-post-title&isFreemail=false&r=1focf&triedRedirect=true&utm_medium=email)
+### Book VI - [Dear Prudence](https://jaredhenderson.substack.com/p/dear-prudence-nicomachean-ethics)
+
+###  Book VII - [Exercising Self-Restraint](https://jaredhenderson.substack.com/p/exercising-self-restraint-nicomachean)
+
+### Book VIII - [Three Forms of Friendship | Nicomachean Ethics](https://jaredhenderson.substack.com/p/three-forms-of-friendship-nicomachean)
+
+### Book IX - [Thick as Thieves](https://jaredhenderson.substack.com/p/thick-as-thieves-aristotles-nicomachean)
+
+### Book X -
