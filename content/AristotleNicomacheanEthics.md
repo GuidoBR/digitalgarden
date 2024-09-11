@@ -50,4 +50,4 @@ by Jared Henderson
 
 ### Book IX - [Thick as Thieves](https://jaredhenderson.substack.com/p/thick-as-thieves-aristotles-nicomachean)
 
-### Book X -
+### Book X - [The Pleasures of Aristotle](https://jaredhenderson.substack.com/p/the-pleasures-of-aristotle-nicomachean)
