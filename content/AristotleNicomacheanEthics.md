@@ -26,7 +26,7 @@ by Jared Henderson
 
 [A few more preliminaries](https://jaredhenderson.substack.com/p/reading-aristotles-nicomachean-ethics)
 
-### Book 1 - [Happiness is an Activity](https://jaredhenderson.substack.com/p/happiness-is-an-acivity-nicomachean)
+### Book I - [Happiness is an Activity](https://jaredhenderson.substack.com/p/happiness-is-an-acivity-nicomachean)
 
 ### Book II - [So that we may become good](https://jaredhenderson.substack.com/p/so-that-we-may-become-good-nicomachean)
 
@@ -51,3 +51,5 @@ by Jared Henderson
 ### Book IX - [Thick as Thieves](https://jaredhenderson.substack.com/p/thick-as-thieves-aristotles-nicomachean)
 
 ### Book X - [The Pleasures of Aristotle](https://jaredhenderson.substack.com/p/the-pleasures-of-aristotle-nicomachean)
+
+### [What Aristotle taught me this summer](https://jaredhenderson.substack.com/p/what-aristotle-taught-me-this-summer)
