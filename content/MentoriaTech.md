@@ -71,6 +71,8 @@ Build a small e-commerce platform with services such as:
 
 ### Tarefa
 
+- Acessar o console do MongoDB localmente e brincar fazendo queries.
+- Usar docker para toda a aplicação (container para o serviço de produtos, pro frontend, pro banco de dados)
 - Criar (backend e frontend) order management service
 	- Com docker, backend em FastAPI, PostgreSQL como banco de dados. 
 
