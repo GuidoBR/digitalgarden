@@ -66,3 +66,17 @@ Build a small e-commerce platform with services such as:
 - [Dockerfile vs. Docker Compose: What You Should Know](https://www.techopsexamples.com/p/dockerfile-vs-docker-compose-what-you-should-know)
 - [10 Core Concepts You Need to Know About React](https://payalpaul2436.medium.com/10-main-core-concept-you-need-to-know-about-react-303e986e1763)
 - [Microsserviços Prontos Para a Produção: Construindo Sistemas Padronizados em uma Organização de Engenharia de Software](https://www.amazon.com.br/Microsservi%C3%A7os-Prontos-Para-Produ%C3%A7%C3%A3o-Padronizados/dp/8575226215)
+
+## Semana 3
+
+### Tarefa
+
+- Criar (backend e frontend) order management service
+	- Com docker, backend em FastAPI, PostgreSQL como banco de dados. 
+
+### Teoria
+
+- [Database Types](https://www.linkedin.com/posts/tauseeffayyaz_%F0%9D%90%83%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%9B%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%9E-%F0%9D%90%93%F0%9D%90%B2%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AC-key-value-activity-7261767413392699392-NRLK/?utm_source=share&utm_medium=member_desktop)
+- [7 must-know strategies to scale your database](https://www.linkedin.com/feed/update/urn:li:activity:7261693073129115648/?utm_source=share&utm_medium=member_android)
+- [Locust load testing](https://www.linode.com/docs/guides/load-testing-with-locust/)
+- [Microsserviços Prontos Para a Produção: Construindo Sistemas Padronizados em uma Organização de Engenharia de Software](https://www.amazon.com.br/Microsservi%C3%A7os-Prontos-Para-Produ%C3%A7%C3%A3o-Padronizados/dp/8575226215)
