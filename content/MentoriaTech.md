@@ -82,3 +82,19 @@ Build a small e-commerce platform with services such as:
 - [7 must-know strategies to scale your database](https://www.linkedin.com/feed/update/urn:li:activity:7261693073129115648/?utm_source=share&utm_medium=member_android)
 - [Locust load testing](https://www.linode.com/docs/guides/load-testing-with-locust/)
 - [Microsserviços Prontos Para a Produção: Construindo Sistemas Padronizados em uma Organização de Engenharia de Software](https://www.amazon.com.br/Microsservi%C3%A7os-Prontos-Para-Produ%C3%A7%C3%A3o-Padronizados/dp/8575226215)
+
+
+
+## Semana 4
+
+### Tarefa
+
+- Fazer load-testing da aplicação localmente
+- Deployar na AWS
+  - Tudo na EC2 (vai mudar nas próximas semanas)
+
+### Teoria
+
+- [Selecting a React Component Library, the Strategic Way](https://www.superblocks.com/blog/selecting-a-react-component-library-the-strategic-way)
+- [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
+- [How Amazon Scaled E-commerce Shopping Cart Data Infrastructure](https://newsletter.systemdesign.one/p/amazon-dynamo-architecture)
