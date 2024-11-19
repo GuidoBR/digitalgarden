@@ -90,8 +90,7 @@ Build a small e-commerce platform with services such as:
 ### Tarefa
 
 - Fazer load-testing da aplicação localmente
-- Deployar na AWS
-  - Tudo na EC2 (vai mudar nas próximas semanas)
+- Usar docker para toda a aplicação (container para o serviço de produtos, pro frontend, pro banco de dados)
 
 ### Teoria
 
