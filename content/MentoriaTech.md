@@ -98,3 +98,13 @@ Build a small e-commerce platform with services such as:
 - [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
 - [How Amazon Scaled E-commerce Shopping Cart Data Infrastructure](https://newsletter.systemdesign.one/p/amazon-dynamo-architecture)
 - [Everything You NEED to KNOW About Web Applications](https://www.youtube.com/watch?v=_higfXfhjdo)
+
+
+## Semana 5
+
+###  Tarefa
+
+### Teoria
+- [I ACED my Technical Interviews knowing these System Design Basics](https://www.youtube.com/watch?v=FxAom29OEKE)
+- [How to Crack Any System Design Interview](https://www.youtube.com/watch?v=o-k7h2G3Gco)
+- [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources?tab=readme-ov-file)
