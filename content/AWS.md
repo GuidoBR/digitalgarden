@@ -47,8 +47,11 @@ draft: true
 ### Courses
 
 - [Udemy - AWS Certified Solutions Architect Associate (SAA-C03) Course Digital Cloud Training -Neal Davis](https://www.udemy.com/course/aws-certified-solutions-architect-associate-hands-on/)
-- [Udemy - ]
-- [Coursera - ]()
+
+- [Udemy - The AWS Certified Solutions Architect Associate SAA-C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/)
+
+  
+
 - [O'Reilly - AWS Certified Solutions Associate](https://learning-oreilly-com.ezproxy.torontopubliclibrary.ca/videos/aws-certified-solutions/9780138057374/)
 
 ### Cheatsheets
