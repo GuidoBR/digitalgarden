@@ -102,6 +102,8 @@ Build a small e-commerce platform with services such as:
 
 ## Semana 5
 
+![](microservices-architecture.gif)
+
 ###  Tarefa
 
 - Consertar docker
