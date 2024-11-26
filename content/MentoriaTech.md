@@ -104,7 +104,10 @@ Build a small e-commerce platform with services such as:
 
 ###  Tarefa
 
+- Consertar docker
+- Montar layout do site (usando alguma component library do react e/ou tailwind)
+
 ### Teoria
-- [I ACED my Technical Interviews knowing these System Design Basics](https://www.youtube.com/watch?v=FxAom29OEKE)
-- [How to Crack Any System Design Interview](https://www.youtube.com/watch?v=o-k7h2G3Gco)
-- [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources?tab=readme-ov-file)
+- [From laid off to hired: A Software Engineer’s guide](https://newsletter.eng-leadership.com/p/from-laid-off-to-hired-a-software)
+- [Good software development habits](https://zarar.dev/good-software-development-habits/)
+- [7 Mindsets That Are Slowing Down Your Career Growth](https://www.thecaringtechie.com/p/7-mindsets-that-are-slowing-down)
