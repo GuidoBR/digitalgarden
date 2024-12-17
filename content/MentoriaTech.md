@@ -113,3 +113,15 @@ Build a small e-commerce platform with services such as:
 - [From laid off to hired: A Software Engineer’s guide](https://newsletter.eng-leadership.com/p/from-laid-off-to-hired-a-software)
 - [Good software development habits](https://zarar.dev/good-software-development-habits/)
 - [7 Mindsets That Are Slowing Down Your Career Growth](https://www.thecaringtechie.com/p/7-mindsets-that-are-slowing-down)
+
+# Sistema 2: AWS - Site estático
+
+## Semana 6
+
+### Tarefa
+
+- Deployar um site estático na AWS
+
+### Teoria
+
+- [AWS - Host a Static Website](https://aws.amazon.com/getting-started/hands-on/host-static-website/)
