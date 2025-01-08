@@ -206,3 +206,25 @@ The system should be implemented using Python for the backend, React for the fro
 - [Big O Notation](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
 - [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 - [Design Patterns in Python](https://refactoring.guru/design-patterns/python)
+
+### Tarefa
+
+**Task 1**: Project Setup
+**Goal**: Set up the foundational structure for both the backend and frontend projects.
+
+**Backend (Python):**
+
+Initialize a Python project using FastAPI or Flask.
+Set up a virtual environment and install essential packages (fastapi, uvicorn, pymongo).
+Create a basic API endpoint (/health) to verify the backend is running.
+Write Dockerfile and configure for containerization.
+
+**Frontend (React):**
+
+Initialize a React project using create-react-app.
+Set up project structure (components, pages, utils).
+Create a basic homepage with a "Hello, World" message.
+
+**Testing:**
+
+Verify the frontend connects to the backend API.
