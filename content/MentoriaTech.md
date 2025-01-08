@@ -6,8 +6,6 @@ draft: true
 
 # Sistema 1: E-commerce Microservices Platform
 
-[Repositorio Github](https://github.com/GuidoBR/ecommerce-microservices)
-
 ## Objetivos
 
 Aprender conceitos de backend, frontend e DevOps desenvolvendo um sistema full-stack.
@@ -125,3 +123,86 @@ Build a small e-commerce platform with services such as:
 ### Teoria
 
 - [AWS - Host a Static Website](https://aws.amazon.com/getting-started/hands-on/host-static-website/)
+
+# Sistema 3: Task Management Application
+
+![](mentor-architecture2.png)
+
+### High-Level Overview
+This project is a task management application designed to allow users to manage their daily tasks with features like adding, updating, deleting, and categorizing tasks. Each task can have a title, description, priority, deadline, and tags (e.g., "work," "personal"). Users will also be able to mark tasks as completed and filter tasks by category, deadline, or priority.
+
+The system should be implemented using Python for the backend, React for the frontend, and deployed to AWS. It will focus on SOLID principles, proper API design, NoSQL database usage, and design patterns for maintainable and scalable code.
+
+### Core Functionalities
+#### User Authentication
+- Register, login, and logout features using AWS Cognito.
+- Secure the API with authentication tokens (JWT).
+#### Task Management
+- Add new tasks with details (title, description, priority, deadline, tags).
+- Update or delete existing tasks.
+- Mark tasks as completed.
+- List tasks with filtering and sorting options (e.g., by priority, deadline, or tags).
+#### Tags Management
+- Allow users to define and assign tags for better categorization.
+#### Task Insights
+- Provide a summary of task statistics, such as the number of completed tasks and pending tasks grouped by priority or deadline.
+### High-Level Architecture
+#### Frontend (React)
+
+- UI Framework: Use Material-UI or Tailwind CSS for styling.
+- State Management: Use Context API or Redux for state management.
+
+##### Features:
+- A dashboard for managing tasks.
+- Forms for adding/updating tasks.
+- Filtering and sorting options for tasks.
+- Authentication pages (login/register).
+
+#### Backend (Python)
+
+- Framework: Use FastAPI for a clean and simple API.
+- Database: Use MongoDB (hosted on AWS DocumentDB) for storing tasks, users, and tags.
+
+##### Features:
+- RESTful APIs for CRUD operations.
+- Input validation and error handling.
+- Modularized codebase adhering to SOLID principles.
+
+#### AWS Deployment
+- Backend: Deploy as a containerized service using AWS ECS.
+- Frontend: Host the React app on AWS S3 and use CloudFront for CDN.
+- Database: Use AWS DocumentDB (MongoDB).
+- Authentication: Manage using AWS Cognito.
+
+### Focus on SOLID Principles
+- **Single Responsibility**: Separate concerns into services: authentication, task management, and tags.
+- **Open/Closed Principle**: Design services and models to allow extensions without modifying the existing codebase.
+- **Liskov Substitution**: Use interfaces or abstract classes where necessary (e.g., for repository pattern).
+- ** Interface Segregation**: Keep APIs focused on single responsibilities (e.g., task endpoints don’t handle user-related operations).
+- ** Dependency Inversion**: Use dependency injection for database access, allowing for easier testing and mocking.
+
+### Design Patterns
+- **Repository Pattern**: Abstract MongoDB operations into a repository to separate database logic from business logic.
+- **Factory Pattern**: Use factories for creating tasks or tags with default values and validations.
+- **Strategy Pattern**: Implement sorting and filtering using interchangeable strategies.
+
+### AWS Services
+- AWS ECS: Host the Python backend as a containerized service.
+- AWS S3 + CloudFront: Serve the React frontend.
+- AWS Cognito: Manage user authentication.
+- AWS DocumentDB: Store tasks and tags in a MongoDB-compatible NoSQL database.
+- AWS CloudWatch: Monitor logs and system performance.
+- AWS IAM: Secure access to AWS resources.
+
+## Semana 7
+
+![](big-o.gif)
+
+![](oop.gif)
+
+### Teoria
+
+- [Linux Commands Every DevOps Engineer Must Know](https://linux-series.hashnode.dev/linux-commands-every-devops-engineer-must-know)
+- [Big O Notation](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
+- [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+- [Design Patterns in Python](https://refactoring.guru/design-patterns/python)
