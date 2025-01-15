@@ -178,8 +178,8 @@ The system should be implemented using Python for the backend, React for the fro
 - **Single Responsibility**: Separate concerns into services: authentication, task management, and tags.
 - **Open/Closed Principle**: Design services and models to allow extensions without modifying the existing codebase.
 - **Liskov Substitution**: Use interfaces or abstract classes where necessary (e.g., for repository pattern).
-- ** Interface Segregation**: Keep APIs focused on single responsibilities (e.g., task endpoints don’t handle user-related operations).
-- ** Dependency Inversion**: Use dependency injection for database access, allowing for easier testing and mocking.
+- **Interface Segregation**: Keep APIs focused on single responsibilities (e.g., task endpoints don’t handle user-related operations).
+- **Dependency Inversion**: Use dependency injection for database access, allowing for easier testing and mocking.
 
 ### Design Patterns
 - **Repository Pattern**: Abstract MongoDB operations into a repository to separate database logic from business logic.
@@ -228,3 +228,162 @@ Create a basic homepage with a "Hello, World" message.
 **Testing:**
 
 Verify the frontend connects to the backend API.
+
+## Semana 8
+
+
+### Teoria
+
+- [How To Build Web Apps using V0 + Claude AI + Cursor AI](https://www.youtube.com/watch?v=grc0YSEdUQY)
+- [How I built a REAL app using Figma AI in 48 hrs! (ENTIRE UX/UI Process)](https://www.youtube.com/watch?v=tdvlxcSep54)
+
+### Tarefa
+
+**Task 2: User Authentication**
+**Goal:** Implement user registration, login, and authentication using AWS Cognito.
+
+- **Backend:**
+  - Set up AWS Cognito and configure a user pool.
+  - Create APIs for user registration and login.
+  - Implement token validation middleware for securing APIs.
+- **Frontend:**
+  - Create React components for login and registration forms.
+  - Integrate Cognito authentication using AWS Amplify or `amazon-cognito-identity-js`.
+  - Display error messages for failed logins.
+- **Testing:**
+  - Verify user registration and login flows locally and ensure tokens are passed to secure backend APIs.
+
+### Entrevista Técnica
+
+#### Techical questions
+
+##### "Explain how you would implement a rate limiter using the a design  pattern in Python. How would this compare to other patterns you might use for the same problem?"
+
+- How the Decorator pattern allows for separation of concerns
+- Thread safety considerations
+- Non-intrusive
+- Reusable
+- Composable with other decorators
+
+```python
+from functools import wraps
+from time import time
+from collections import defaultdict
+import threading
+
+def rate_limit(max_requests: int, window_seconds: int):
+    """
+    Rate limiting decorator that allows max_requests in window_seconds
+    """
+    lock = threading.Lock()
+    requests = defaultdict(list)  # key: ip, value: list of timestamps
+
+    def decorator(f):
+        @wraps(f)
+        def wrapped(request, *args, **kwargs):
+            ip = request.client_ip  # assuming request has client_ip attribute
+            
+            with lock:
+                # Clean old requests
+                current = time()
+                requests[ip] = [req_time for req_time in requests[ip] 
+                              if current - req_time <= window_seconds]
+                
+                # Check if rate limit exceeded
+                if len(requests[ip]) >= max_requests:
+                    raise RateLimitExceeded("Too many requests")
+                
+                # Add new request timestamp
+                requests[ip].append(current)
+            
+            return f(request, *args, **kwargs)
+        return wrapped
+    return decorator
+
+# Usage example
+@rate_limit(max_requests=100, window_seconds=60)
+def some_api_endpoint(request):
+    return {"status": "success"}
+```
+
+
+
+##### "You're designing a social media platform's backend. Walk me through how you would choose between SQL and NoSQL databases for different components of the system, and what specific database types you would consider."
+
+- NoSQL for relationship between users (graph database)
+- NoSQL (e.g., MongoDB) for posts/content due to flexible schema requirements and high write throughput
+- Redis for caching and session management
+- Specific examples of when schema flexibility is worth trading off consistency
+- Discussion of read/write patterns and scaling considerations
+
+##### "Explain the CAP theorem and provide a real-world example where you had to make tradeoffs between consistency, availability, and partition tolerance."
+
+- Clear explanation that you can only guarantee two out of three properties
+- Explanation that partition tolerance isn't optional in distributed systems
+- Real example like choosing eventual consistency for news feed updates
+- Understanding that CAP theorem tradeoffs exist on a spectrum
+- Discussion of techniques like read-repair or vector clocks
+
+##### "You have a distributed system processing financial transactions. How would you ensure ACID properties are maintained, and what are the performance implications?"
+
+- Detailed explanation of Atomicity, Consistency, Isolation, and Durability
+- Discussion of distributed transactions and two-phase commit
+- Performance implications of different isolation levels
+- Mention of eventual consistency as an alternative
+- Concrete examples of when to relax ACID properties
+
+##### "How would you implement authentication and authorization in a RESTful API? Walk through the security considerations."
+
+- JWT structure and usage
+- OAuth 2.0 flows
+- Refresh token strategies
+- CORS configuration
+- Rate limiting
+- Password hashing
+- Session management
+- Common security vulnerabilities
+
+##### "You notice that your API endpoints are becoming slower over time. Walk me through your debugging process and potential solutions."
+
+- Systematic approach to identifying bottlenecks
+- Tools they would use (APM, profilers, logs)
+- Database query optimization
+- Caching strategies
+- Connection pooling
+- N+1 query problems
+- Resource scaling
+- Monitoring and alerting setup
+
+#### Behavioral Questions:
+
+##### "Tell me about a time when you had to make a significant technical decision that others disagreed with. How did you handle it?"
+
+- Clear problem statement
+- Data-driven decision making process
+- How they built consensus
+- Implementation challenges
+- Lessons learned and outcomes
+
+##### "Describe a situation where you had to deal with technical debt. How did you approach it?"
+
+- How they identified and measured the debt
+- Strategy for addressing it incrementally
+- How they convinced stakeholders
+- Balance between new features and maintenance
+- Long-term impact of their approach
+
+##### "Tell me about a time when you had to mentor someone who was struggling. What was your approach?"
+
+- Assessment of the root causes
+- Structured approach to improvement
+- Specific examples of interventions
+- Measuring progress
+- Long-term outcomes
+
+##### "Describe a project that failed or had significant setbacks. What did you learn from it?"
+
+- Honest assessment of what went wrong
+- Their role in the situation
+- How they adapted
+- Specific learnings
+- How they applied these lessons later
