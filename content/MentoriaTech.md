@@ -257,7 +257,7 @@ Verify the frontend connects to the backend API.
 
 #### Techical questions
 
-##### "Explain how you would implement a rate limiter using the a design  pattern in Python. How would this compare to other patterns you might use for the same problem?"
+##### 1. "Explain how you would implement a rate limiter using the a design  pattern in Python. How would this compare to other patterns you might use for the same problem?"
 
 - How the Decorator pattern allows for separation of concerns
 - Thread safety considerations
@@ -308,7 +308,7 @@ def some_api_endpoint(request):
 
 
 
-##### "You're designing a social media platform's backend. Walk me through how you would choose between SQL and NoSQL databases for different components of the system, and what specific database types you would consider."
+##### 2. "You're designing a social media platform's backend. Walk me through how you would choose between SQL and NoSQL databases for different components of the system, and what specific database types you would consider."
 
 - NoSQL for relationship between users (graph database)
 - NoSQL (e.g., MongoDB) for posts/content due to flexible schema requirements and high write throughput
@@ -316,7 +316,7 @@ def some_api_endpoint(request):
 - Specific examples of when schema flexibility is worth trading off consistency
 - Discussion of read/write patterns and scaling considerations
 
-##### "Explain the CAP theorem and provide a real-world example where you had to make tradeoffs between consistency, availability, and partition tolerance."
+##### 3. "Explain the CAP theorem and provide a real-world example where you had to make tradeoffs between consistency, availability, and partition tolerance."
 
 - Clear explanation that you can only guarantee two out of three properties
 - Explanation that partition tolerance isn't optional in distributed systems
@@ -324,7 +324,7 @@ def some_api_endpoint(request):
 - Understanding that CAP theorem tradeoffs exist on a spectrum
 - Discussion of techniques like read-repair or vector clocks
 
-##### "You have a distributed system processing financial transactions. How would you ensure ACID properties are maintained, and what are the performance implications?"
+##### 4. "You have a distributed system processing financial transactions. How would you ensure ACID properties are maintained, and what are the performance implications?"
 
 - Detailed explanation of Atomicity, Consistency, Isolation, and Durability
 - Discussion of distributed transactions and two-phase commit
@@ -332,7 +332,7 @@ def some_api_endpoint(request):
 - Mention of eventual consistency as an alternative
 - Concrete examples of when to relax ACID properties
 
-##### "How would you implement authentication and authorization in a RESTful API? Walk through the security considerations."
+##### 5. "How would you implement authentication and authorization in a RESTful API? Walk through the security considerations."
 
 - JWT structure and usage
 - OAuth 2.0 flows
@@ -343,7 +343,7 @@ def some_api_endpoint(request):
 - Session management
 - Common security vulnerabilities
 
-##### "You notice that your API endpoints are becoming slower over time. Walk me through your debugging process and potential solutions."
+##### 6. "You notice that your API endpoints are becoming slower over time. Walk me through your debugging process and potential solutions."
 
 - Systematic approach to identifying bottlenecks
 - Tools they would use (APM, profilers, logs)
@@ -356,7 +356,7 @@ def some_api_endpoint(request):
 
 #### Behavioral Questions:
 
-##### "Tell me about a time when you had to make a significant technical decision that others disagreed with. How did you handle it?"
+##### 1. "Tell me about a time when you had to make a significant technical decision that others disagreed with. How did you handle it?"
 
 - Clear problem statement
 - Data-driven decision making process
@@ -364,7 +364,7 @@ def some_api_endpoint(request):
 - Implementation challenges
 - Lessons learned and outcomes
 
-##### "Describe a situation where you had to deal with technical debt. How did you approach it?"
+##### 2. "Describe a situation where you had to deal with technical debt. How did you approach it?"
 
 - How they identified and measured the debt
 - Strategy for addressing it incrementally
@@ -372,7 +372,7 @@ def some_api_endpoint(request):
 - Balance between new features and maintenance
 - Long-term impact of their approach
 
-##### "Tell me about a time when you had to mentor someone who was struggling. What was your approach?"
+##### 3. "Tell me about a time when you had to mentor someone who was struggling. What was your approach?"
 
 - Assessment of the root causes
 - Structured approach to improvement
@@ -380,7 +380,7 @@ def some_api_endpoint(request):
 - Measuring progress
 - Long-term outcomes
 
-##### "Describe a project that failed or had significant setbacks. What did you learn from it?"
+##### 4. "Describe a project that failed or had significant setbacks. What did you learn from it?"
 
 - Honest assessment of what went wrong
 - Their role in the situation
