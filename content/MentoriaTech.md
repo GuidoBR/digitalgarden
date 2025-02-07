@@ -387,3 +387,21 @@ def some_api_endpoint(request):
 - How they adapted
 - Specific learnings
 - How they applied these lessons later
+
+## Semana 9
+
+### Teoria
+
+- [Architectures of modern Front-end applications](https://blog.meetbrackets.com/architectures-of-modern-front-end-applications-8859dfe6c12e)
+
+- [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs?&aid=recMRSdh6NSCDPlMu&_bhlid=ba1ddeb03c1fb7895283f46a68f6ea63aab98ec7)
+
+- [Building personal software with Claude](https://blog.nelhage.com/post/personal-software-with-claude/?&aid=recF7xmVNtVZHMnWI&_bhlid=953910a4447d29ab86cf904b079b01e8d986f6d6)
+
+- [How might AI change programming?](https://registerspill.thorstenball.com/p/how-might-ai-change-programming?aid=recrhsaxDDld8d74Y&_bhlid=0d1f33e033ee8156cf01e9a23bbdb74ac64a9f79)
+
+- [Once You're Laid Off, You'll Never Be the Same Again](https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+
+- [Software development topics I've changed my mind on after 10 years in the industry](https://chriskiehl.com/article/thoughts-after-10-years?&aid=recc0l1cvkgs2T1vw&_bhlid=7849fa9b7db2bab34b324bd77d184ad9e3a4666a)
+
+
