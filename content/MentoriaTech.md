@@ -390,6 +390,14 @@ def some_api_endpoint(request):
 
 ## Semana 9
 
+### Pratica
+
+Atenção - use o Free Tier da AWS!!!!
+
+- Fazer deploy do backend no EC2
+- Fazer deploy do frontend no Amplify
+- Criar workflows no Github Actions: lint e teste.
+
 ### Teoria
 
 - [Architectures of modern Front-end applications](https://blog.meetbrackets.com/architectures-of-modern-front-end-applications-8859dfe6c12e)
@@ -403,5 +411,4 @@ def some_api_endpoint(request):
 - [Once You're Laid Off, You'll Never Be the Same Again](https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 
 - [Software development topics I've changed my mind on after 10 years in the industry](https://chriskiehl.com/article/thoughts-after-10-years?&aid=recc0l1cvkgs2T1vw&_bhlid=7849fa9b7db2bab34b324bd77d184ad9e3a4666a)
-
 
