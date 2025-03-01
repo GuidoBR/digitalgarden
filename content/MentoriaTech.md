@@ -421,3 +421,4 @@ Atenção - use o Free Tier da AWS!!!!
 - [LLM Skills for devs](https://www.linkedin.com/posts/gustavoatrigos_ive-interviewed-100s-of-engineer-candidates-activity-7298752096277868545-hZUv/)
 - [Como abordar recrutadores](https://www.linkedin.com/posts/silvatammy_tammyindica-dicas-activity-7297955554549731328-aFLw/)
 - [Curso: Software Architecture & Design of Modern Large Scale Systems](https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/l)
+- [Livro: A Philosophy of Software Design](https://www.amazon.com.br/Philosophy-Software-Design-2nd-English-ebook/dp/B09B8LFKQL/)
