@@ -412,3 +412,12 @@ Atenção - use o Free Tier da AWS!!!!
 
 - [Software development topics I've changed my mind on after 10 years in the industry](https://chriskiehl.com/article/thoughts-after-10-years?&aid=recc0l1cvkgs2T1vw&_bhlid=7849fa9b7db2bab34b324bd77d184ad9e3a4666a)
 
+## Semana 10
+
+### Teoria
+
+- [O que não te contaram sobre virar programador](https://www.youtube.com/watch?v=RA6cUKX_4io)
+- [To avoid being replaced by LLMs, do what they can't](https://www.seangoedecke.com/what-llms-cant-do/)
+- [LLM Skills for devs](https://www.linkedin.com/posts/gustavoatrigos_ive-interviewed-100s-of-engineer-candidates-activity-7298752096277868545-hZUv/)
+- [Como abordar recrutadores](https://www.linkedin.com/posts/silvatammy_tammyindica-dicas-activity-7297955554549731328-aFLw/)
+- [Curso: Software Architecture & Design of Modern Large Scale Systems](https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/l)
