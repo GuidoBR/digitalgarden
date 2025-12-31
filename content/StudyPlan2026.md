@@ -17,6 +17,8 @@ This study plan integrates five major learning streams with specific milestones,
 3. Backend Development (Python & Go)
 4. Philosophy & Humanities
 5. Spanish Language
+6. Privacy Engineering & Cybersecurity
+7. Financial Analysis
 
 ------
 
@@ -284,6 +286,181 @@ Develop conversational and reading proficiency in Spanish throughout 2026.
 - **Conversation**: Italk
 - **Media**: Spanish-language podcasts, news (BBC Mundo, CNN en Español)
 - **Study Cadence**: 4-5 hours/week
+
+## Study Stream 6: Privacy Engineering & Cybersecurity *(NEW)*
+
+### Goals
+
+- Complete Google Cybersecurity Professional Certificate
+- Complete Introduction to Python for Cybersecurity
+- Build practical expertise in privacy-preserving technologies
+- Understand regulatory frameworks (GDPR, HIPAA)
+- Develop hands-on skills with ZKPs, Digital ID, E2EE, TEE, Tokenization
+
+### Timeline & Milestones
+
+**Q1 2026 (Jan - Mar)**
+
+- **Complete**: Introduction to Python for Cybersecurity (in progress)
+
+- Begin
+
+  : Google Cybersecurity Professional Certificate
+
+  - Complete Courses 1-3 (Foundations, Security Risks, Networks)
+
+- Study GDPR fundamentals and privacy principles
+
+- *Milestone: Python for Cybersecurity completed, Google Cert 40% complete (March)*
+
+**Q2 2026 (Apr - Jun)**
+
+- Complete
+
+  : Google Cybersecurity Professional Certificate
+
+  - Courses 4-8 (Linux, Assets/Threats, Detection, Python automation, Incident response)
+
+- Begin privacy engineering deep dive: E2EE fundamentals
+
+- Explore AWS security and compliance services (integration with Stream 1)
+
+- *Milestone: Google Cybersecurity Professional Certificate (target: June)*
+
+**Q3 2026 (Jul - Sep)**
+
+- Deep dive into advanced privacy technologies:
+  - Zero-Knowledge Proofs (ZKPs): theory and implementations
+  - Trusted Execution Environments (TEEs): Intel SGX, AWS Nitro Enclaves
+  - Digital Identity systems: decentralized identity, verifiable credentials
+- Build project: Privacy-preserving authentication system or ZKP implementation
+- Study HIPAA compliance in detail
+- *Milestone: Complete 1 privacy engineering project (September)*
+
+**Q4 2026 (Oct - Dec)**
+
+- Advanced topics: Tokenization, differential privacy, secure multi-party computation
+- Study privacy engineering in AI/ML contexts (federated learning, privacy-preserving ML)
+- Document privacy engineering project
+- Create personal reference guide for privacy regulations (GDPR, HIPAA, CCPA)
+- *Milestone: Privacy engineering portfolio piece completed*
+
+### Resources
+
+**Certifications & Courses**:
+
+- Introduction to Python for Cybersecurity (Q1)
+- Google Cybersecurity Professional Certificate (Q1-Q2)
+- Privacy Engineering courses (Coursera, Udacity, or specialized platforms)
+
+**Books**:
+
+- "Applied Cryptography" by Bruce Schneier (selective reading)
+- "The Privacy Engineer's Manifesto" by Bamberger & Mulligan
+- "Zero Trust Networks" by Gilman & Barth
+
+**Technical Resources**:
+
+- ZKP libraries: libsnark, bellman, circom
+- TEE documentation: Intel SGX SDK, AWS Nitro Enclaves
+- Digital ID standards: W3C DID, Verifiable Credentials
+
+**Regulatory**:
+
+- GDPR official text and guidance
+- HIPAA Privacy and Security Rules
+- NIST Cybersecurity Framework
+
+**Study Cadence**: 6-8 hours/week
+
+### Integration Points
+
+- Apply cybersecurity principles to AWS architecture (Stream 1)
+- Implement privacy-preserving techniques in GenAI projects (Stream 2)
+- Use Python and Go for security tools and implementations (Stream 3)
+- Connect privacy engineering to philosophical questions about surveillance, identity, autonomy (Stream 4)
+- Understand privacy regulations in financial contexts (Stream 7)
+
+## Study Stream 7: Financial Analysis
+
+### Goals
+
+- Understand financial statements and business valuation
+- Develop skills to evaluate startup and public company financials
+- Build competency for technical review of finance books
+- Prepare for future roles: Advisor, Board Member, Startup Investor
+
+### Timeline & Milestones
+
+**Q1 2026 (Jan - Mar)**
+
+- **Begin**: Fundamentals of Financial Analysis (Coursera)
+- Learn financial statement basics: Income Statement, Balance Sheet, Cash Flow Statement
+- Practice reading 10-K and 10-Q reports from public tech companies
+- *Milestone: Complete Coursera course modules 1-4 (March)*
+
+**Q2 2026 (Apr - Jun)**
+
+- **Complete**: Fundamentals of Financial Analysis (Coursera)
+- Deep dive into financial ratios and metrics (profitability, liquidity, solvency, efficiency)
+- Study valuation methods: DCF, comparable companies, precedent transactions
+- Analyze 3-5 public tech companies (read their financial statements, create models)
+- *Milestone: Fundamentals of Financial Analysis completed (June)*
+
+**Q3 2026 (Jul - Sep)**
+
+- Advanced financial modeling and analysis
+- Study startup finance: cap tables, equity structures, funding rounds, term sheets
+- Read case studies of successful and failed startups (financial perspective)
+- Take additional course: Financial Modeling or Venture Capital/Startup Finance
+- *Milestone: Create financial model for 2-3 startup case studies (September)*
+
+**Q4 2026 (Oct - Dec)**
+
+- Focus on governance and advisory roles: fiduciary duties, board dynamics
+- Study how to evaluate early-stage companies (unit economics, burn rate, runway)
+- Create personal framework for startup evaluation
+- Network and shadow advisors/board members (if possible)
+- Begin reviewing finance books with technical lens
+- *Milestone: Personal startup evaluation framework completed (December)*
+
+### Resources
+
+**Courses**:
+
+- Fundamentals of Financial Analysis (Coursera) - Q1-Q2
+- Financial Modeling courses (Coursera, Udemy, or CFI) - Q3
+- Venture Capital and Startup Finance course (Coursera or similar) - Q3
+
+**Books**:
+
+- "Financial Intelligence" by Berman & Knight
+- "The Interpretation of Financial Statements" by Benjamin Graham
+- "Venture Deals" by Brad Feld & Jason Mendelson
+- "The Hard Thing About Hard Things" by Ben Horowitz (for operational context)
+
+**Practice**:
+
+- SEC EDGAR database (read 10-Ks, 10-Qs, proxy statements)
+- Company investor relations pages
+- Startup pitch decks and financial models (public examples)
+- Financial news: WSJ, Financial Times, Bloomberg
+
+**Tools**:
+
+- Excel/Google Sheets for modeling
+- Financial databases: Yahoo Finance, Seeking Alpha
+- Cap table tools: Carta, Pulley (for understanding)
+
+**Study Cadence**: 5-6 hours/week
+
+### Integration Points
+
+- Understand financial implications of technology decisions (all technical streams)
+- Evaluate AI/ML companies and products (Stream 2)
+- Analyze SaaS metrics and cloud economics (Stream 1)
+- Consider financial privacy and data governance (Stream 6)
+- Apply critical thinking from philosophy to business analysis (Stream 4)
 
 ------
 
