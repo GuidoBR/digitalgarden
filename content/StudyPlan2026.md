@@ -468,73 +468,125 @@ Develop conversational and reading proficiency in Spanish throughout 2026.
 
 ### Recommended Weekly Schedule (30-35 hours/week total)
 
-| Stream                   | Hours/Week | Notes                                            |
-| ------------------------ | ---------- | ------------------------------------------------ |
-| AWS & Cloud Architecture | 5-7        | Certification-focused, 3-month intensive sprints |
-| GenAI & LLMs             | 6-8        | Book + certification + projects, peaks Q2-Q3     |
-| Backend Development      | 10-12      | Python (Q1-Q2), Go (Q2-Q4), Architecture (Q3-Q4) |
-| Philosophy & Humanities  | 11-13      | Consistent year-round, structured monthly        |
-| Spanish                  | 4-5        | Daily practice, flexible timing                  |
+| Stream                         | Notes                                             |
+| ------------------------------ | ------------------------------------------------- |
+| AWS & Cloud Architecture       | Certification-focused, intensive Q1-Q2            |
+| GenAI & LLMs                   | Book + certification + projects, peaks Q2-Q3      |
+| Backend Development            | Python (Q1-Q2), Go (Q2-Q4), Architecture (Q3-Q4)  |
+| Philosophy & Humanities        | Consistent year-round, includes A Grande Conversa |
+| Spanish                        | Daily practice, flexible timing                   |
+| Privacy Engineering & Security | Intensive Q1-Q2 (certs), practical Q3-Q4          |
+| Financial Analysis             | Progressive depth, consistent throughout year     |
 
 ------
 
-## Quarterly Milestones & Reviews
+- ## Quarterly Milestones & Reviews (Revised)
 
-### Q1 2026 Review (Late March)
+  ### Q1 2026 Review (Late March)
 
-- [ ] AWS foundational review complete
-- [ ] AWS AI Practitioner certified
-- [ ] Spanish basics established
-- **Action**: Adjust Q2 technical load based on pace
+  **Completed**:
 
-### Q2 2026 Review (Late June)
+  -  AWS foundational review complete
+  -  AWS AI Practitioner certified
+  -  Introduction to Python for Cybersecurity completed
+  -  Google Cybersecurity Certificate 40% complete
+  -  Fundamentals of Financial Analysis 50% complete
+  -  Spanish basics established
+  -  Philosophy: 3 books completed
 
-- [ ] AWS Solutions Architect Professional certified
-- [ ] AWS Generative AI Developer certified
-- [ ] Fluent Python completed
-- [ ] Go learning commenced with first project
-- [ ] GenAI project initiated
-- **Action**: Plan Q3 backend focus and project timeline
+  **Action**: Assess certification pace, adjust Q2 technical load
 
-### Q3 2026 Review (Late September)
+  ------
 
-- [ ] GenAI project advancing
-- [ ] 2+ Go projects completed
-- [ ] Architecture book series started
-- [ ] Spanish conversational basics
-- **Action**: Plan Q4 refinement phase
+  ### Q2 2026 Review (Late June)
 
-### Q4 2026 Review (Late December)
+  **Completed**:
 
-- [ ] 3 Go projects completed
-- [ ] GenAI project documented
-- [ ] Book club year concluded
-- [ ] Spanish sustained competency
-- **Action**: Plan 2027 continuation and new goals
+  -  AWS Solutions Architect Professional certified
+  -  AWS Generative AI Developer certified
+  -  Google Cybersecurity Professional Certificate completed
+  -  Fundamentals of Financial Analysis completed
+  -  Fluent Python completed (selective reading)
+  -  Go learning commenced with first project
+  -  GenAI project initiated
+  -  Philosophy: 6 books completed total
+  -  Spanish conversational basics
 
-------
+  **Action**: Plan Q3 project focus (privacy engineering, GenAI, Go), evaluate financial analysis depth needed
 
-## Success Criteria
+  ------
 
-### Technical Certifications
+  ### Q3 2026 Review (Late September)
 
-- ✓ AWS Solutions Architect Professional (Q2)
-- ✓ AWS AI Practitioner (Q1)
-- ✓ AWS Generative AI Developer (Q2)
+  **Completed**:
 
-### Books Completed
+  -  GenAI project advancing
+  -  Privacy engineering project completed
+  -  2+ Go projects completed
+  -  Architecture book series started
+  -  Startup financial models created (2-3 case studies)
+  -  Advanced privacy technologies studied (ZKPs, TEEs, Digital ID)
+  -  Philosophy: 9 books completed total
+  -  Spanish conversational competency
 
-- ✓ Fluent Python (Q2)
-- ✓ Build a LLM from Scratch (Q3)
-- ✓ 12 months of Philosophy Book Club (ongoing)
+  **Action**: Plan Q4 refinement and documentation phase
 
-### Projects Delivered
+  ------
 
-- ✓ 3 Go backend projects (Q2-Q3)
-- ✓ 1 GenAI application (Q2-Q3)
-- ✓ Philosophy synthesis work (ongoing)
+  ### Q4 2026 Review (Late December)
 
-### Language Goals
+  **Completed**:
 
-- ✓ Spanish conversational foundation (by Q2)
-- ✓ Spanish reading competency (by Q4)
+  -  3 Go projects completed
+  -  GenAI project documented
+  -  Privacy engineering portfolio piece completed
+  -  Startup evaluation framework created
+  -  Book club year concluded (12 philosophy books)
+  -  A Grande Conversa course completed
+  -  Spanish sustained competency with reading capability
+  -  Personal reference guides completed (privacy regulations, financial analysis frameworks)
+
+  **Action**: Plan 2027 continuation, consider advanced certifications (CISSP, AWS Security Specialty), deeper finance topics
+
+  ------
+
+  ## Success Criteria (Revised)
+
+  ### Technical Certifications
+
+  - ✓ AWS Solutions Architect Professional (Q2)
+  - ✓ AWS AI Practitioner (Q1)
+  - ✓ AWS Generative AI Developer (Q2)
+  - ✓ Google Cybersecurity Professional Certificate (Q2)
+
+  ### Courses Completed
+
+  - ✓ Introduction to Python for Cybersecurity (Q1)
+  - ✓ Fundamentals of Financial Analysis (Q2)
+  - ✓ A Grande Conversa (Q4)
+
+  ### Books Completed
+
+  - ✓ Fluent Python - selective reading (Q1-Q2)
+  - ✓ Build a LLM from Scratch (Q3)
+  - ✓ 12 Philosophy Book Club books (ongoing)
+  - ✓ 2-3 Privacy Engineering/Cybersecurity books (selective)
+  - ✓ 2-3 Financial Analysis books (Q2-Q4)
+
+  ### Projects Delivered
+
+  - ✓ 3 Go backend projects (Q2-Q4)
+  - ✓ 1 GenAI application (Q2-Q3)
+  - ✓ 1 Privacy engineering project (Q3)
+  - ✓ 3-5 financial analysis case studies (Q2-Q4)
+  - ✓ Philosophy synthesis work (ongoing)
+
+  ### Frameworks Created
+
+  - ✓ Personal privacy regulations reference guide (Q4)
+  - ✓ Startup evaluation framework (Q4)
+
+  ### Language Goals
+
+  - ✓ Spanish conversational foundation (Q2)
+  - ✓ Spanish reading competency (Q4)
