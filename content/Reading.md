@@ -1,7 +1,10 @@
 ---
-title: "Reading"
-date: 2022-09-12T21:07:11-03:00
+category: books
+date: 2022-09-12 21:07:11-03:00
 draft: true
+growthIcon: 🌱
+tags: []
+title: Reading
 ---
 
 - A Arte de Ler

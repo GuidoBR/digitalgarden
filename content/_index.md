@@ -1,7 +1,11 @@
 ---
-title: Digital Garden - Notes
+category: learning
+date: '2023-07-29'
+growthIcon: 🌱
 keywords: masternote
-metatags: #bookmarks
+metatags: null
+tags: []
+title: Digital Garden - Notes
 ---
 
 > “So plant your own gardens and decorate your own soul, instead of waiting for someone to bring you flowers.”

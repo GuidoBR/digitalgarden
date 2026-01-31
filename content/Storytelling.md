@@ -1,5 +1,9 @@
 ---
-title: "Storytelling"
+category: science
+date: '2023-07-29'
+growthIcon: 🌿
+tags: []
+title: Storytelling
 ---
 
 #presentation #storytelling #oratory

@@ -1,7 +1,10 @@
 ---
-title: "Seneca"
-date: 2022-02-09T11:13:54-03:00
+category: books
+date: 2022-02-09 11:13:54-03:00
 draft: true
+growthIcon: 🌿
+tags: []
+title: Seneca
 ---
 
 #books

@@ -1,7 +1,10 @@
 ---
-title: "Einstein"
-date: 2024-04-02T09:45:25-03:00
+category: learning
+date: 2024-04-02 09:45:25-03:00
 draft: true
+growthIcon: 🌿
+tags: []
+title: Einstein
 ---
 
 # "The God Letter" : la lettre exceptionnelle d'Albert Einstein sur Dieu et la religion juive

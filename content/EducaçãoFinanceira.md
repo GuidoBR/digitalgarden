@@ -1,7 +1,10 @@
 ---
-title: "EducaçãoFinanceira"
-date: 2022-06-01T17:07:42-03:00
+category: learning
+date: 2022-06-01 17:07:42-03:00
 draft: true
+growthIcon: 🌿
+tags: []
+title: EducaçãoFinanceira
 ---
 
 Possíveis nomes:
@@ -30,4 +33,3 @@ Outros arquivos:
 - [Finanças para Autônomos](https://www.amuri.com.br/financas-para-autonomos) - Eduardo Amuri
 - [Finanças para Casais](https://www.amuri.com.br/financas-para-casais) - Eduardo Amuri
 - Ref. Bibliog. - Psicologia Econômica - Vera Rita de Mello
-

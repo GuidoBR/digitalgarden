@@ -1,4 +1,8 @@
 ---
+category: books
+date: '2024-08-11'
+growthIcon: 🌳
+tags: []
 title: Stoicism
 ---
 

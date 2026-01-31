@@ -1,4 +1,8 @@
 ---
+category: books
+date: '2023-07-29'
+growthIcon: 🪴
+tags: []
 title: Covid-19
 ---
 
@@ -219,5 +223,3 @@ Appolo's Arrow
 - [Quirina e Cloroquina: histórias e trajetórias](https://revistacult.uol.com.br/home/quinina-cloroquina-historias-trajetorias/)
 
 - [Pandemia, história e ciência – Heloisa Starling, Lilia Schwarcz e Sidarta Ribeiro](https://www.youtube.com/watch?v=tBWyWK3AQ9A)
-
-  

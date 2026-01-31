@@ -1,4 +1,8 @@
 ---
+category: books
+date: '2023-07-29'
+growthIcon: 🌿
+tags: []
 title: Vaccines
 ---
 
@@ -20,4 +24,3 @@ title: Vaccines
 - [WHO - Covid-19 Vaccines Explained](https://www.who.int/pt/emergencies/diseases/novel-coronavirus-2019/covid-19-vaccines/explainers)
 - [UFRJ - Especial Vacinas](https://conexao.ufrj.br/especiais/vacinas/)
 - [O que esperar da próxima geração de vacinas de Covid-19](https://oglobo.globo.com/saude/o-que-esperar-da-proxima-geracao-de-vacinas-de-covid-19-25248074) - [Twitter](https://twitter.com/TaschnerNatalia/status/1452628184630022148)
-

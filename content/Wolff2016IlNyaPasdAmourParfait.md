@@ -1,7 +1,10 @@
 ---
-title: "Francis Wolff - Il n'y a pas d'amour parfait"
-date: 2024-04-14T11:40:10-03:00
+category: books
+date: 2024-04-14 11:40:10-03:00
 draft: true
+growthIcon: 🌿
+tags: []
+title: Francis Wolff - Il n'y a pas d'amour parfait
 ---
 
 #books #philosophy

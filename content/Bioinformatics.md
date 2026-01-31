@@ -1,8 +1,12 @@
 ---
+category: technology
+date: '2023-07-29'
+growthIcon: 🌿
+tags: []
 title: Bioinformatics
 ---
 
- #bioinformatics
+#bioinformatics
 
 <img src="/images/biologia.jpg" alt="biologia" style="zoom:35%;" />
 

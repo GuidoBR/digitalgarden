@@ -1,4 +1,8 @@
 ---
+category: books
+date: '2024-04-12'
+growthIcon: 🪴
+tags: []
 title: Books
 ---
 

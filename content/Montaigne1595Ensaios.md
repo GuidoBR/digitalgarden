@@ -1,5 +1,9 @@
 ---
-title: "Montaigne1595Ensaios"
+category: books
+date: '2023-07-29'
+growthIcon: 🌱
+tags: []
+title: Montaigne1595Ensaios
 ---
 
 #books

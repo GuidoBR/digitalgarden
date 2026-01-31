@@ -1,8 +1,10 @@
 ---
+category: technology
+date: '2023-11-30'
+growthIcon: 🪴
+tags: []
 title: Study Plan for 2023
 ---
-
-
 
 #aws
 
@@ -106,4 +108,3 @@ MARCH, APRIL, JUNE, JULY, AUGUST, SEPTEMBER, OCTOBER, NOVEMBER, DECEMBER
 - [ ] Reach B1 Level
 - [ ] Reach B2 Level
 - [x] Have two 1 hour-long conversation with a native speaker
-

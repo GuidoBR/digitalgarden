@@ -1,8 +1,10 @@
 ---
+category: technology
+date: '2024-12-21'
+growthIcon: 🌿
+tags: []
 title: Study Plan for 2025
 ---
-
-
 
 #aws #français #español
 
@@ -89,4 +91,3 @@ title: Study Plan for 2025
 - [ ] "El Alquimista" - Paulo Coelho
 - [ ] "El Aleph" - Jorge Luís Borges
 - [ ] "Libro de Sueños" - Jorge Luís Borges
-

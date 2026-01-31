@@ -1,8 +1,10 @@
 ---
+category: technology
+date: '2023-07-29'
+growthIcon: 🌿
+tags: []
 title: Data Science
 ---
-
-
 
 #data_science #data #statistics
 
@@ -106,4 +108,4 @@ title: Data Science
 - ​        [Fundamentos de Combinatória](https://emap.fgv.br/disciplina/graduacao-matematica-aplicada-graduacao-ciencia-de-dados/fundamentos-de-combinatoria)  
 - ​        [Introdução à Análise Numérica](https://emap.fgv.br/disciplina/graduacao-ciencia-de-dados/introducao-analise-numerica)  
 - ​        [Programação Linear e Inteira](https://emap.fgv.br/disciplina/graduacao-ciencia-de-dados/programacao-linear-inteira-0)  
-- ​        [Aquisição e Manipulação de Dados](https://emap.fgv.br/disciplina/graduacao-ciencia-de-dados/aquisicao-manipulacao-de-dados-1)  
+- ​        [Aquisição e Manipulação de Dados](https://emap.fgv.br/disciplina/graduacao-ciencia-de-dados/aquisicao-manipulacao-de-dados-1)

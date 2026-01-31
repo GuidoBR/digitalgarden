@@ -1,7 +1,10 @@
 ---
-title: "MentoriaTech"
-date: 2024-10-21T14:45:17-04:00
+category: technology
+date: 2024-10-21 14:45:17-04:00
 draft: true
+growthIcon: 🌳
+tags: []
+title: MentoriaTech
 ---
 
 # Sistema 1: E-commerce Microservices Platform

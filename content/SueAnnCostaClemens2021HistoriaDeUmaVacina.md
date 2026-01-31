@@ -1,4 +1,8 @@
 ---
+category: technology
+date: '2023-07-29'
+growthIcon: 🌳
+tags: []
 title: História de uma Vacina
 ---
 
@@ -138,4 +142,3 @@ title: História de uma Vacina
 > Fora dos  holofotes, eu travava duas batalhas que não ficaram públicas: buscava  vacinar os voluntários do grupo de controle do estudo (aqueles que, em  vez da Chadox, haviam recebido a vacina contra meningite) e, também,  toda a equipe da pesquisa clínica, nos seis centros de testes do país.  No primeiro caso, a vacinação estava prevista desde o início, já que no  Brasil a imunização posterior do grupo de controle é uma questão ética  prevista na regulamentação e exigida pela Conep para a aprovação dos  protocolos. Essa provisão incomoda algumas empresas farmacêuticas, pois  não é comum em sistemas regulatórios e éticos internacionais. Uma  demonstração de que no Brasil a dimensão ética das pesquisas é levada a  sério.
 
 > **ajudando a preparar o mundo para as próximas epidemias. Pois elas virão.**
-

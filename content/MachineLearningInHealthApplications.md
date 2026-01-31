@@ -1,8 +1,10 @@
 ---
+category: science
+date: '2023-07-29'
+growthIcon: 🌿
+tags: []
 title: Machine Learning - Aplicações na Saúde
 ---
-
-
 
 #statistics #data_science #machine_learning
 
@@ -25,5 +27,3 @@ title: Machine Learning - Aplicações na Saúde
 - [Disciplina Machine Learning para Predições em Saúde (EPI5717) - Aula 5](https://www.youtube.com/watch?v=rO9Ks173Wiw)
 
 - [Disciplina Machine Learning para Predições em Saúde (EPI5717) - Aula 6](https://www.youtube.com/watch?v=LZPFh8HWSYg)
-
-  

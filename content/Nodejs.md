@@ -1,7 +1,10 @@
 ---
-title: "Node.js"
-date: 2023-05-26T17:54:39-03:00
+category: technology
+date: 2023-05-26 17:54:39-03:00
 draft: true
+growthIcon: 🌳
+tags: []
+title: Node.js
 ---
 
 - [Node.JS Mock Interview | Interview Questions for Senior Node.JS Developers | Part 1](https://www.youtube.com/watch?v=Y8tlFLIjyMU)

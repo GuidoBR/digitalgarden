@@ -1,4 +1,8 @@
 ---
+category: technology
+date: '2023-07-29'
+growthIcon: 🌿
+tags: []
 title: No Code
 ---
 
@@ -19,5 +23,4 @@ From [Twitter](https://twitter.com/thisiskp_/status/1407736662549880834)
 - Super
   - Build websites with the simplicity of [@Notion](https://twitter.com/notion)
 - Rows
-  - The first true spreadsheet with built-in integrations and a slick sharing experience.  
-
+  - The first true spreadsheet with built-in integrations and a slick sharing experience.

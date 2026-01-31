@@ -1,8 +1,10 @@
 ---
+category: science
+date: '2023-07-29'
+growthIcon: 🌱
+tags: []
 title: R para Cientistas Sociais
 ---
-
-
 
 #R #statistics #science #course
 

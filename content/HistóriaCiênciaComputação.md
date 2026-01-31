@@ -1,7 +1,10 @@
 ---
-title: "História da Ciência da Computação"
-date: 2023-02-21T16:19:36-03:00
+category: learning
+date: 2023-02-21 16:19:36-03:00
 draft: true
+growthIcon: 🌿
+tags: []
+title: História da Ciência da Computação
 ---
 
 - O que é Ciência da Computação?

@@ -1,8 +1,10 @@
 ---
+category: technology
+date: '2023-07-29'
+growthIcon: 🌿
+tags: []
 title: Study Plan for 2022
 ---
-
-
 
 #bioinformatics #aws
 

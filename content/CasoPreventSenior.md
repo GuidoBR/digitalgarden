@@ -1,8 +1,10 @@
 ---
+category: learning
+date: '2023-07-29'
+growthIcon: 🌿
+tags: []
 title: Caso Prevent Senior
 ---
-
-
 
 #covid19
 
@@ -22,4 +24,4 @@ title: Caso Prevent Senior
 
 
 
-Para entender o que foi a pandemia de [[Covid19]], e em especial a conduta do Brasil neste período. 
+Para entender o que foi a pandemia de [[Covid19]], e em especial a conduta do Brasil neste período.

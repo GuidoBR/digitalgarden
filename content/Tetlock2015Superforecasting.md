@@ -1,5 +1,9 @@
 ---
-title: "Superforecasting"
+category: books
+date: '2023-07-29'
+growthIcon: 🪴
+tags: []
+title: Superforecasting
 ---
 
 #books #statistics #think #behavioral_economics
@@ -148,4 +152,3 @@ Somente no século XX que estudos randômicos controlados passaram a ser a regra
 - [The Economist: Unclouded Vision](https://www.economist.com/books-and-arts/2015/09/26/unclouded-vision)
 - [The Wall Street Journal - The Trick to Making Better Forecasts](https://www.wsj.com/articles/the-trick-to-making-better-forecasts-1443235983)
 - [Rufus Pollock - Notes on Tetlock and Gardner's Superforecasting - The Art of Science and Prediction](https://rufuspollock.com/2017/12/10/tetlock-gardner-2015-superforecasting-the-art-and-science-of-prediction/)
-

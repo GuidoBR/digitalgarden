@@ -1,7 +1,10 @@
 ---
-title: "Aristotle - Nicomachean Ethics"
-date: 2024-08-11T13:06:18-04:00
+category: philosophy
+date: 2024-08-11 13:06:18-04:00
 draft: true
+growthIcon: 🪴
+tags: []
+title: Aristotle - Nicomachean Ethics
 ---
 
 # Nicomachean Ethics

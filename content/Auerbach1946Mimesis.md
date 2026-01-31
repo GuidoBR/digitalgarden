@@ -1,7 +1,10 @@
 ---
-title: "Auerbach1946Mimesis"
-date: 2022-11-29T18:16:46-03:00
+category: learning
+date: 2022-11-29 18:16:46-03:00
 draft: true
+growthIcon: 🌿
+tags: []
+title: Auerbach1946Mimesis
 ---
 
 > Tanto [Platão](https://pt.wikipedia.org/wiki/Platão) quanto [Aristóteles](https://pt.wikipedia.org/wiki/Aristóteles) viam na mimese a representação do universo perceptível. Contudo, para Platão, toda a criação era vista como uma imitação. Até mesmo a criação do mundo era como uma imitação da natureza verdadeira (o mundo das ideias). Sendo assim, a representação artística do mundo físico seria uma imitação de segunda mão.

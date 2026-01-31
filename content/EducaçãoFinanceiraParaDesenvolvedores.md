@@ -1,5 +1,9 @@
 ---
-title: "EducaçãoFinanceiraParaDesenvolvedores"
+category: finance
+date: '2023-07-29'
+growthIcon: 🌱
+tags: []
+title: EducaçãoFinanceiraParaDesenvolvedores
 ---
 
 - Definir temas, e títulos

@@ -1,7 +1,10 @@
 ---
-title: "Hayek"
-date: 2023-04-26T20:29:41-03:00
+category: books
+date: 2023-04-26 20:29:41-03:00
 draft: true
+growthIcon: 🌿
+tags: []
+title: Hayek
 ---
 
 ****[**The Use of Knowledge in Society**](https://click.convertkit-mail.com/92u8x7llmlunhqgvx7dt9/48hvhehr5zx84niq/aHR0cHM6Ly93d3cuZWNvbmxpYi5vcmcvbGlicmFyeS9Fc3NheXMvaHlrS253Lmh0bWw=)**:** The most important economics paper I’ve ever read. It shows how price signals can help societies make the best use of resources, especially in an ever-changing world that’s impossible to plan for. The price system allows people to coordinate at scale. If there’s a shortage of a given material, like copper, the price will rise and thereby incentivize people to produce more of it. When the price falls, the opposite will happen. By following the price system, individuals can contribute to a spontaneous global order by following their incentives. Here’s a[ good summary](https://click.convertkit-mail.com/92u8x7llmlunhqgvx7dt9/wnh2hghw5906eobl/aHR0cHM6Ly9lbGlkb3VyYWRvLmNvbS9ibG9nL3RoZS11c2Utb2Yta25vd2xlZGdlLWluLXNvY2lldHkv), and [here’s Hayek’s original paper](https://click.convertkit-mail.com/92u8x7llmlunhqgvx7dt9/48hvhehr5zx84niq/aHR0cHM6Ly93d3cuZWNvbmxpYi5vcmcvbGlicmFyeS9Fc3NheXMvaHlrS253Lmh0bWw=). - by [David Perell](https://click.convertkit-mail.com/92u8x7llmlunhqgvx7dt9/dpheh0h04zpn9dul/aHR0cHM6Ly9ja2FyY2hpdmUuY29tL2IveG11cGg2aHJudnpnZQ==)

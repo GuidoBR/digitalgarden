@@ -1,7 +1,10 @@
 ---
-title: "BookAWSServerless"
-date: 2023-05-31T17:50:18-03:00
+category: technology
+date: 2023-05-31 17:50:18-03:00
 draft: true
+growthIcon: 🌿
+tags: []
+title: BookAWSServerless
 ---
 
 Title: AWS Serverless: A Beginner's Guide to Building Scalable Applications on the Cloud

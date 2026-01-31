@@ -1,7 +1,10 @@
 ---
-title: "GuidoTonelli2021Gênesis"
-date: 2024-04-25T12:12:55-03:00
+category: books
+date: 2024-04-25 12:12:55-03:00
 draft: true
+growthIcon: 🌿
+tags: []
+title: GuidoTonelli2021Gênesis
 ---
 
 # Dia 0

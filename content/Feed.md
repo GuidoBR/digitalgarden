@@ -1,8 +1,12 @@
 ---
+category: technology
+date: '2023-07-29'
+growthIcon: 🪴
+tags: []
 title: Feed
 ---
 
- #web #feed #blog #social_media
+#web #feed #blog #social_media
 
 # [How the Blog Broke the Web](https://stackingthebricks.com/how-blogs-broke-the-web/)
 

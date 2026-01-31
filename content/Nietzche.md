@@ -1,7 +1,10 @@
 ---
-title: "Nietzche"
-date: 2023-05-10T16:54:14-03:00
+category: books
+date: 2023-05-10 16:54:14-03:00
 draft: true
+growthIcon: 🪴
+tags: []
+title: Nietzche
 ---
 
 ## Introdução ao pensamento de Nietzsche - Clóvis de Barros Filho

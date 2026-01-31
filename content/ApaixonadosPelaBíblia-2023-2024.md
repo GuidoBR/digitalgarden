@@ -1,7 +1,10 @@
 ---
-title: "ApaixonadosPelaBíblia 2023 2024"
-date: 2023-01-06T16:52:47-03:00
+category: technology
+date: 2023-01-06 16:52:47-03:00
 draft: true
+growthIcon: 🌿
+tags: []
+title: ApaixonadosPelaBíblia 2023 2024
 ---
 
 - [PDF Guia de leitura](https://apaixonadospelabiblia.com.br/wp-content/uploads/2022/12/Plano_Leitura_da_Biblia.pdf?sender_ctype=automation&sender_campaign%5Boriginal%5D%5Bsuccess%5D=0&sender_campaign%5Boriginal%5D%5Bmessage%5D=invalid+input+provided+for+encode&sender_customer%5Boriginal%5D%5Bsuccess%5D=0&sender_customer%5Boriginal%5D%5Bmessage%5D=invalid+input+provided+for+encode)

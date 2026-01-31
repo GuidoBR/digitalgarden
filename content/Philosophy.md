@@ -1,7 +1,10 @@
 ---
-title: "Philosophy"
-date: 2022-12-26T12:52:48-03:00
+category: philosophy
+date: 2022-12-26 12:52:48-03:00
 draft: true
+growthIcon: 🪴
+tags: []
+title: Philosophy
 ---
 
 #philosophy

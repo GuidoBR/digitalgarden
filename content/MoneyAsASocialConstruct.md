@@ -1,5 +1,9 @@
 ---
-title: "MoneyAsASocialConstruct"
+category: finance
+date: '2023-07-29'
+growthIcon: 🌳
+tags: []
+title: MoneyAsASocialConstruct
 ---
 
 #money

@@ -1,8 +1,10 @@
 ---
+category: finance
+date: '2023-12-15'
+growthIcon: 🌳
+tags: []
 title: COP26
 ---
-
-
 
 #climate_change #co2 #green
 

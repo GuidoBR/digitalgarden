@@ -1,3 +1,11 @@
+---
+category: philosophy
+date: '2023-07-29'
+growthIcon: 🪴
+tags: []
+title: Sept pour la Semaine - 13 mai 2023
+---
+
 # Sept pour la Semaine - 13 mai 2023
 
 Salut à tous, bienvenue pour cette première édition de la newsletter Sept pour la semaine. Merci d'être avec moi aujourd'hui, j'espère que la lecture est agréable et très profitable.

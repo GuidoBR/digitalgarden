@@ -1,4 +1,8 @@
 ---
+category: science
+date: '2023-07-29'
+growthIcon: 🪴
+tags: []
 title: O Gene - Uma história íntima
 ---
 
@@ -158,4 +162,3 @@ Como estudar a evolução e a origem humana com base na genética (mesmo assunto
 #### 33 - Diagnóstico genético: "previventes"
 
 #### 34 - Terapias gênicas: pós-humano
-

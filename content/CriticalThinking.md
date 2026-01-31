@@ -1,7 +1,10 @@
 ---
-title: "CriticalThinking"
-date: 2024-04-09T12:47:17-03:00
+category: books
+date: 2024-04-09 12:47:17-03:00
 draft: true
+growthIcon: 🌿
+tags: []
+title: CriticalThinking
 ---
 
 #philosophy

@@ -1,4 +1,8 @@
 ---
+category: technology
+date: '2023-07-29'
+growthIcon: 🌿
+tags: []
 title: Even a broken clock is right twice a day
 ---
 

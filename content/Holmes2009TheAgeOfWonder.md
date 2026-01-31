@@ -1,7 +1,10 @@
 ---
-title: "Holmes2009TheAgeOfWonder"
-date: 2024-04-09T12:07:03-03:00
+category: books
+date: 2024-04-09 12:07:03-03:00
 draft: true
+growthIcon: 🌿
+tags: []
+title: Holmes2009TheAgeOfWonder
 ---
 
 # [The Origins of Curiosity - Fivebooks](https://fivebooks.com/best-books/philip-ball-on-the-origins-of-curiosity/)

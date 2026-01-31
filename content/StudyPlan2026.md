@@ -1,7 +1,10 @@
 ---
-title: "StudyPlan2026"
-date: 2025-10-26T10:47:54-04:00
+category: technology
+date: 2025-10-26 10:47:54-04:00
 draft: true
+growthIcon: 🌳
+tags: []
+title: StudyPlan2026
 ---
 
 # Self-Paced Study Plan 2026

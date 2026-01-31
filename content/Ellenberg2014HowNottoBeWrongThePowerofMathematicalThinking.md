@@ -1,4 +1,8 @@
 ---
+category: books
+date: '2023-07-29'
+growthIcon: 🌿
+tags: []
 title: How Not to Be Wrong - The Power of Mathematical Thinking
 ---
 
@@ -25,4 +29,3 @@ by Bill Gates
 ## How Not to Be Wrong: The Power of Mathematical Thinking - with Jordan Ellenberg
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kZTKuMBJP7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-

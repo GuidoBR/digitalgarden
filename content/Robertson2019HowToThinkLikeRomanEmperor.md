@@ -1,7 +1,10 @@
 ---
-title: "How to Think Like a Roman Emperor"
-date: 2024-01-03T15:51:34-03:00
+category: philosophy
+date: 2024-01-03 15:51:34-03:00
 draft: true
+growthIcon: 🌳
+tags: []
+title: How to Think Like a Roman Emperor
 ---
 
 #books #stoic #stoicism

@@ -1,4 +1,8 @@
 ---
+category: books
+date: '2025-10-26'
+growthIcon: 🌳
+tags: []
 title: Friendship
 ---
 
@@ -323,4 +327,4 @@ A amizade implica fidelidade em todas as circunstâncias: “Todo amigo declara 
 
 13. **"Friendship" by Henry David Thoreau** - Thoreau's essay celebrates the joys of companionship and the deep connections that can be forged between individuals who share common values and interests.
 
-> 
+>

@@ -1,7 +1,10 @@
 ---
-title: "AWS"
-date: 2024-09-29T17:52:30-04:00
+category: learning
+date: 2024-09-29 17:52:30-04:00
 draft: true
+growthIcon: 🌿
+tags: []
+title: AWS
 ---
 
 # AWS Solutions Architect - Associate
@@ -58,6 +61,3 @@ draft: true
 - [Tutorials Dojo](https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c03/)
 
 - [Digital Cloud](https://digitalcloud.training/category/aws-cheat-sheets/aws-solutions-architect-associate/?megamenu)
-
-    
-

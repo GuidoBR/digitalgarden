@@ -1,5 +1,9 @@
 ---
-title: "O Anel de Giges: uma fantasia ética - Eduardo Giannetti, 2020"
+category: books
+date: '2023-07-29'
+growthIcon: 🌿
+tags: []
+title: 'O Anel de Giges: uma fantasia ética - Eduardo Giannetti, 2020'
 ---
 
 #books

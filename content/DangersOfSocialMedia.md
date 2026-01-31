@@ -1,8 +1,10 @@
 ---
+category: books
+date: '2023-07-29'
+growthIcon: 🌿
+tags: []
 title: Dangers of Social Media
 ---
-
-
 
 #social_media #twitter #facebook #instagram
 
@@ -14,4 +16,4 @@ Everyone should read this essay. It’s a taste of things to come on a much larg
 
 ## [Facebook is Other People](https://kevinmunger.substack.com/p/facebook-is-other-people)
 
-> Millions of Americans are *miserable*. The internet has “gotten worse” because Americans *are not ok*. Near-universal internet access means that there are immiserated, lonely people spending many hours a day online. The breakdown in the social  fabric, climbing "prime-age" unemployment and high rates of addiction  and mental illness manifest themselves in our mutually-constructed  online spaces. There is a misery that wants to make itself known--to *inflict* itself on the world--that social media enables. **We are reaping what we've  sown; the interconnectedness enabled by the internet and the gains from  open communication/cooperation cannot succeed while so many are left  behind.** 
+> Millions of Americans are *miserable*. The internet has “gotten worse” because Americans *are not ok*. Near-universal internet access means that there are immiserated, lonely people spending many hours a day online. The breakdown in the social  fabric, climbing "prime-age" unemployment and high rates of addiction  and mental illness manifest themselves in our mutually-constructed  online spaces. There is a misery that wants to make itself known--to *inflict* itself on the world--that social media enables. **We are reaping what we've  sown; the interconnectedness enabled by the internet and the gains from  open communication/cooperation cannot succeed while so many are left  behind.**

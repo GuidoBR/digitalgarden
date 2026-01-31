@@ -1,4 +1,8 @@
 ---
+category: finance
+date: '2023-07-29'
+growthIcon: 🌳
+tags: []
 title: Reminiscences of a Stock Operator
 ---
 

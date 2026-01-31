@@ -1,7 +1,10 @@
 ---
-title: "FernandoPessoa"
-date: 2023-05-10T16:47:13-03:00
+category: learning
+date: 2023-05-10 16:47:13-03:00
 draft: true
+growthIcon: 🌿
+tags: []
+title: FernandoPessoa
 ---
 
 If I could sink my teeth into the whole earth

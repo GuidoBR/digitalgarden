@@ -1,6 +1,9 @@
 ---
-title: "EducaçãoFinanceiraParaAutonomos"
-date: 2022-02-17T11:18:47-03:00
+category: finance
+date: 2022-02-17 11:18:47-03:00
+growthIcon: 🌿
+tags: []
+title: EducaçãoFinanceiraParaAutonomos
 ---
 
 ## Conteúdo
@@ -110,6 +113,3 @@ Fluxo de trabalho em uma empresa. Como emitir nota fiscal, como registrar a cont
 - [MePoupe! - Eu, chefe de mim](https://conteudos.mepoupenaweb.com.br/planejamento-financeiro/autonomos/)
 
 - [Curso EuEmpresa - Henrique Bastos](https://henriquebastos.net/produtos/eu-empresa/)
-
-  
-

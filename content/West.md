@@ -1,7 +1,10 @@
 ---
-title: "West"
-date: 2022-05-31T16:23:51-03:00
+category: learning
+date: 2022-05-31 16:23:51-03:00
 draft: true
+growthIcon: 🌱
+tags: []
+title: West
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Western_world):

@@ -1,7 +1,10 @@
 ---
-title: "Fluency in French: My One Year Journey  from Scratch to B2"
-date: 2023-04-18T17:07:46-03:00
+category: learning
+date: 2023-04-18 17:07:46-03:00
 draft: true
+growthIcon: 🪴
+tags: []
+title: 'Fluency in French: My One Year Journey  from Scratch to B2'
 ---
 
 As I sit down to reflect on the past year, I am filled with a sense of accomplishment and gratitude. Twelve months ago, I embarked on a journey to learn French from scratch, driven by a combination of curiosity, passion for languages, and a deep-rooted aspiration to immigrate to Canada. Motivated by the prospect of immersing myself in the rich tapestry of Francophone literature, art, and cinema, I eagerly embraced the challenge that lay ahead. Little did I know then the profound impact this decision would have on my life's trajectory.

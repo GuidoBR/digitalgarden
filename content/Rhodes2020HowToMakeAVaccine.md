@@ -1,8 +1,10 @@
 ---
+category: books
+date: '2023-07-29'
+growthIcon: 🌳
+tags: []
 title: How to Make a Vaccine - An Essential Guide for COVID-19 and Beyond
 ---
-
-
 
 #books #vaccines #biology #bioinformatics #covid19
 
@@ -207,4 +209,3 @@ vaccine progressed to phase III studies and approval in December 2020.
   Transactions of the Royal Society Series B. 369 (2014): 20130433.
 - Novel Technologies for Vaccine Development.
 - The Cutter Incident: How America’s First Polio Vaccine Led to the Growing Vaccine Crisis.
-

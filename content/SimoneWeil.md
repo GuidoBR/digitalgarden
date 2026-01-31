@@ -1,7 +1,10 @@
 ---
-title: "Simone Weil"
-date: 2024-02-18T17:09:52-03:00
+category: learning
+date: 2024-02-18 17:09:52-03:00
 draft: true
+growthIcon: 🌿
+tags: []
+title: Simone Weil
 ---
 
 # [Pourquoi il faut lire Simone Weil aujourd'hui](https://www.youtube.com/watch?v=2ZJCrhkDuC4) - [#CulturePrime](https://www.youtube.com/hashtag/cultureprime)

@@ -1,5 +1,9 @@
 ---
-title: "Dados sobre Leitura, Bibliotecas e Livros"
+category: science
+date: '2023-07-29'
+growthIcon: 🌿
+tags: []
+title: Dados sobre Leitura, Bibliotecas e Livros
 ---
 
 #dados #data_science

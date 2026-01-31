@@ -1,5 +1,9 @@
 ---
-title: "Antibiblioteca"
+category: finance
+date: '2023-07-29'
+growthIcon: 🌿
+tags: []
+title: Antibiblioteca
 ---
 
 #writing

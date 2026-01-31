@@ -1,10 +1,11 @@
 ---
-title: "Voltaire1758CândidoOuOtimismo"
-date: 2022-09-02T18:28:41-03:00
+category: books
+date: 2022-09-02 18:28:41-03:00
 draft: true
+growthIcon: 🪴
+tags: []
+title: Voltaire1758CândidoOuOtimismo
 ---
-
-
 
 ## Sinopse Companhia das Letras:
 
@@ -166,4 +167,3 @@ B. Candide also has posterity—it reaches out across generations to
 future writers. Voltaire’s naïve, good-natured main character is
 repeated in the characters of works by Stendhal, Tolstoy, Salinger,
 and Rushdie.
-

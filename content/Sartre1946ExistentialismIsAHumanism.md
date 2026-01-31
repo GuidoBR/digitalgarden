@@ -1,9 +1,11 @@
 ---
-title: "Sartre1946ExistentialismIsAHumanism"
-date: 2024-04-02T07:31:10-03:00
+category: philosophy
+date: 2024-04-02 07:31:10-03:00
 draft: true
+growthIcon: 🪴
+tags: []
+title: Sartre1946ExistentialismIsAHumanism
 ---
-
 
 # [Sartre, Existentialism is a Humanism](https://www.youtube.com/watch?v=-KNlVzAbadA)
 ### Overthink Podcast
@@ -32,4 +34,3 @@ What distinguishes existentialism from other movements in the intellectual histo
 **Authenticity**: Existentialists are critical of our ingrained tendency to conform to the norms and expectations of the public world because it prevents us from being authentic or true to ourselves. An authentic life is one that is willing to break with tradition and social convention and courageously affirm the freedom and contingency of our condition. It is generally understood to refer to a life lived with a sense of urgency and commitment based on the meaning-giving projects that matter to each of us as individuals.
 
 **Ethics**: Although they reject the idea of moral absolutes and universalizing judgments about right conduct, existentialism should not be dismissed for promoting moral nihilism. For the existentialist, a moral or praiseworthy life is possible. It is one where we acknowledge and own up to our freedom, take full responsibility for our choices, and act in such a way as to help others realize their freedom.
-

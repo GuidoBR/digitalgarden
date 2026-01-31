@@ -1,7 +1,10 @@
 ---
-title: "DanielKahneman"
-date: 2024-04-02T10:06:10-03:00
+category: finance
+date: 2024-04-02 10:06:10-03:00
 draft: true
+growthIcon: 🌱
+tags: []
+title: DanielKahneman
 ---
 
 # The Transformative Ideas of Daniel Kahneman

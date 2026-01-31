@@ -1,5 +1,9 @@
 ---
-title: "Edward Gibbon - 1776 A História do Declínio e Queda do Império Romano"
+category: books
+date: '2023-07-29'
+growthIcon: 🌿
+tags: []
+title: Edward Gibbon - 1776 A História do Declínio e Queda do Império Romano
 ---
 
 #books

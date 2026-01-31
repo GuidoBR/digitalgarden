@@ -1,4 +1,8 @@
 ---
+category: learning
+date: '2023-07-29'
+growthIcon: 🌿
+tags: []
 title: Covid-19 - Curas falsas
 ---
 
@@ -15,4 +19,3 @@ title: Covid-19 - Curas falsas
     - [[CasoPreventSenior]]
 -  [Tudo que é preciso saber sobre cloroquina e "tratamento precoce"](https://www.revistaquestaodeciencia.com.br/questao-de-fato/2021/05/15/tudo-que-e-preciso-saber-sobre-cloroquina-e-tratamento-precoce) 
   - Um compilado de afirmações falsas e respostas cientificas sobre o "tratamento precoce" HCQ, AZ, CQ.
-

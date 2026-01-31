@@ -1,5 +1,9 @@
 ---
-title: "WebCrawler"
+category: technology
+date: '2023-07-29'
+growthIcon: 🪴
+tags: []
+title: WebCrawler
 ---
 
 #system_design #programming #crawler

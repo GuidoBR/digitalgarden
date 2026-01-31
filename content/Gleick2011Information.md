@@ -1,5 +1,9 @@
 ---
-title: The Information - A History, a Theory, a Flood 
+category: books
+date: '2023-07-29'
+growthIcon: 🌿
+tags: []
+title: The Information - A History, a Theory, a Flood
 ---
 
 #books

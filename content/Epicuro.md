@@ -1,7 +1,10 @@
 ---
-title: "Epicuro"
-date: 2024-02-25T16:44:51-03:00
+category: learning
+date: 2024-02-25 16:44:51-03:00
 draft: true
+growthIcon: 🌱
+tags: []
+title: Epicuro
 ---
 
 # [Trecho de aula sobre Epicuro - Leandro Karnal](https://www.youtube.com/watch?v=NjYTVQXQg8w) 

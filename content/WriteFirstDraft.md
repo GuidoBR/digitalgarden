@@ -1,10 +1,12 @@
 ---
+category: books
+date: '2023-07-29'
+growthIcon: 🌿
+tags: []
 title: Write first draft
 ---
 
-
-
- #note #seed #Zettelkasten #writing
+#note #seed #Zettelkasten #writing
 
 # [Preparing Fragments Helps You to Ease Into Writing](https://zettelkasten.de/posts/ease-into-writing/)
 

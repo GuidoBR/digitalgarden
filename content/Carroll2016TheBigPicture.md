@@ -1,5 +1,9 @@
 ---
-title: "Carroll2016TheBigPicture"
+category: books
+date: '2023-07-29'
+growthIcon: 🪴
+tags: []
+title: Carroll2016TheBigPicture
 ---
 
 #books #philosophy #science
@@ -107,4 +111,3 @@ EVERYONE EXCEPT HUME: Aye. Aye. Aye
 HUME: With the caveats already mentioned.
 
 PLATO: Duly noted, David. Now thank you again, gentlemen, you've all been very kind. The first round of ambrosia is on me.
-

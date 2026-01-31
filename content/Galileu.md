@@ -1,7 +1,10 @@
 ---
-title: "Galileu"
-date: 2024-04-12T11:16:04-03:00
+category: books
+date: 2024-04-12 11:16:04-03:00
 draft: true
+growthIcon: 🪴
+tags: []
+title: Galileu
 ---
 
 # [The Rebellious and Revolutionary Life of Galileo, Illustrated](https://www.themarginalian.org/2015/07/23/i-galileo-bonnie-christensen/)

@@ -1,8 +1,10 @@
 ---
+category: books
+date: '2023-07-29'
+growthIcon: 🌿
+tags: []
 title: Radical Uncertainty - Decision-making for an unknowable future
 ---
-
-
 
 #books
 

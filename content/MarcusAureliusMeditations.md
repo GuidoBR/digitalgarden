@@ -1,7 +1,10 @@
 ---
-title: "MarcusAureliusMeditations"
-date: 2023-01-09T16:53:01-03:00
+category: books
+date: 2023-01-09 16:53:01-03:00
 draft: true
+growthIcon: 🌱
+tags: []
+title: MarcusAureliusMeditations
 ---
 
 # Meditations

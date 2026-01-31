@@ -1,7 +1,10 @@
 ---
-title: "Tomm Holland - Dominion: The Making of the Western Mind"
-date: 2022-08-02T17:31:34-03:00
+category: books
+date: 2022-08-02 17:31:34-03:00
 draft: true
+growthIcon: 🌿
+tags: []
+title: 'Tomm Holland - Dominion: The Making of the Western Mind'
 ---
 
 #books #west

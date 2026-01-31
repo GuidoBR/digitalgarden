@@ -1,7 +1,10 @@
 ---
-title: "TolkienTheFellowshipOfTheRing"
-date: 2022-08-19T17:18:50-03:00
+category: books
+date: 2022-08-19 17:18:50-03:00
 draft: true
+growthIcon: 🌿
+tags: []
+title: TolkienTheFellowshipOfTheRing
 ---
 
 #books

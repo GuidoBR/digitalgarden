@@ -1,6 +1,9 @@
 ---
-title: "Alfred Tennyson"
-#books #poems
+category: technology
+date: '2023-07-29'
+growthIcon: 🌿
+tags: []
+title: Alfred Tennyson
 ---
 
 #                     [The Charge of the Light Brigade](https://www.poetryfoundation.org/poems/45319/the-charge-of-the-light-brigade)                

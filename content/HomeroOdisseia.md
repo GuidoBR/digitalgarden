@@ -1,6 +1,9 @@
 ---
-title: "Odisseia - Homero"
-date: 2022-08-18T10:35:31-03:00
+category: books
+date: 2022-08-18 10:35:31-03:00
+growthIcon: 🌱
+tags: []
+title: Odisseia - Homero
 ---
 
 #books

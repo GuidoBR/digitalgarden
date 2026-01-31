@@ -1,5 +1,9 @@
 ---
-title: "Bernstein 2004 - The Birth Of Plenty"
+category: books
+date: '2023-07-29'
+growthIcon: 🌱
+tags: []
+title: Bernstein 2004 - The Birth Of Plenty
 ---
 
 #books

@@ -1,7 +1,10 @@
 ---
-title: "Albert Camus - L'Étranger"
-date: 2024-04-04T12:57:26-03:00
+category: books
+date: 2024-04-04 12:57:26-03:00
 draft: true
+growthIcon: 🌿
+tags: []
+title: Albert Camus - L'Étranger
 ---
 
 #books #philosophy #Littérature
@@ -19,4 +22,3 @@ Le roman L'étranger de Camus : Qu'est-ce que ça raconte ? Comment l'analyser ?
 
 
 # [Albert CAMUS, un écrivain PROBLEMATIQUE ? On réagit au livre "Oublier Camus"](https://www.youtube.com/watch?v=etQ4nZdiG5g&list=WL&index=2)
-

@@ -1,8 +1,10 @@
 ---
+category: philosophy
+date: '2023-07-29'
+growthIcon: 🌱
+tags: []
 title: John Rawls
 ---
-
-
 
 #filosofia #liberdade #philosophy #liberty
 
