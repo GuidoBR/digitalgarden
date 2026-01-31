@@ -1,3 +1,5 @@
 venv/
 .hugo_build.lock
 kindle.csv
+public/
+uv.lock
