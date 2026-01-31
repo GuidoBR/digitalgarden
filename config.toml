@@ -7,11 +7,11 @@ relativeURLs = true
 publishDir = "public"
 pygmentsUseClasses = true
 
-assetDir = "themes/zettels/assets"
+# assetDir = "themes/zettels/assets"
 
 DefaultContentLanguage = "en"
 
-theme = "zettels"
+# theme = "zettels"
 
 [outputs]
   home = ["HTML", "JSON"]
@@ -21,6 +21,7 @@ theme = "zettels"
     bear = true
     favicon = "favicon.ico"
     author = "Guido Percú"
+    subtitle = "My Garden"
 
 # Enable tags.
 [taxonomies]
