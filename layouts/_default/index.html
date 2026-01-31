@@ -195,6 +195,15 @@
         .stat-card:hover {
             transform: translateY(-5px);
         }
+
+        .stat-card.clickable {
+            cursor: pointer;
+        }
+
+        .stat-card.active {
+            border-color: var(--leaf-green);
+            background: rgba(126, 161, 114, 0.2);
+        }
         
         .stat-number {
             font-family: 'Cormorant Garamond', serif;
@@ -405,11 +414,11 @@
                 <div class="stat-number">{{ len .Site.RegularPages }}</div>
                 <div class="stat-label">Total Seeds</div>
             </div>
-            <div class="stat-card">
+            <div class="stat-card clickable" data-filter="🌱" onclick="filterByGrowth('🌱')">
                 <div class="stat-number">🌱</div>
                 <div class="stat-label">Growing</div>
             </div>
-            <div class="stat-card">
+            <div class="stat-card clickable" data-filter="🌳" onclick="filterByGrowth('🌳')">
                 <div class="stat-number">🌳</div>
                 <div class="stat-label">Mature</div>
             </div>
@@ -423,7 +432,7 @@
     <div class="container">
         <div class="garden-grid active" id="gardenView">
             {{ range .Site.RegularPages }}
-            <div class="seed-card" data-tags="{{ delimit .Params.tags "," }}" data-title="{{ .Title }}">
+            <div class="seed-card" data-tags="{{ delimit .Params.tags "," }}" data-title="{{ .Title }}" data-growth="{{ .Params.growthIcon | default "🌱" }}">
                 <div class="growth-icon">{{ .Params.growthIcon | default "🌱" }}</div>
                 <h3 class="seed-title">
                     <a href="{{ .Permalink }}">{{ .Title }}</a>
@@ -515,6 +524,42 @@
             } else if (view === 'map') {
                 document.getElementById('gardenMap').classList.add('active');
             }
+        }
+
+        // Growth stage filter
+        let activeGrowthFilter = null;
+
+        function filterByGrowth(growth) {
+            const cards = document.querySelectorAll('.seed-card');
+            const statCards = document.querySelectorAll('.stat-card.clickable');
+
+            // Toggle filter off if clicking the same one
+            if (activeGrowthFilter === growth) {
+                activeGrowthFilter = null;
+                statCards.forEach(card => card.classList.remove('active'));
+                cards.forEach(card => card.style.display = 'block');
+                return;
+            }
+
+            activeGrowthFilter = growth;
+
+            // Update active state on stat cards
+            statCards.forEach(card => {
+                if (card.dataset.filter === growth) {
+                    card.classList.add('active');
+                } else {
+                    card.classList.remove('active');
+                }
+            });
+
+            // Filter cards
+            cards.forEach(card => {
+                if (card.dataset.growth === growth) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
         }
 
         document.getElementById('searchInput').addEventListener('input', (e) => {
