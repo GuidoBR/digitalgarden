@@ -3,8 +3,8 @@ category: technology
 date: 2025-10-26 10:47:54-04:00
 draft: true
 growthIcon: 🌳
-tags: []
-title: StudyPlan2026
+tags: [learning, aws]
+title: Study Plan 2026
 ---
 
 # Self-Paced Study Plan 2026

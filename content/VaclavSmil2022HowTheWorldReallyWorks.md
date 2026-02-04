@@ -4,7 +4,7 @@ date: 2024-04-28 18:51:10-03:00
 draft: true
 growthIcon: 🌱
 tags: []
-title: VaclavSmil2022HowTheWorldReallyWorks
+title: How The World Really Works - Vaclav Smil
 ---
 
 # [Não acredite em milagres: o mundo é mais complexo do que você imagina](https://braziljournal.com/nao-acredite-em-milagres-o-mundo-e-mais-complexo-do-que-voce-imagina/)

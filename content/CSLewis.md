@@ -3,8 +3,8 @@ category: books
 date: 2024-08-11 08:25:44-04:00
 draft: true
 growthIcon: 🌿
-tags: []
-title: CSLewis
+tags: [books]
+title: C.S. Lewis
 ---
 
 ## [The Abolition of Man by C.S. Lewis](https://jaredhenderson.substack.com/i/144676963/the-abolition-of-man-by-cs-lewis)

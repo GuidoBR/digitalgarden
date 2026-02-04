@@ -4,7 +4,7 @@ date: 2024-10-14 11:36:14-04:00
 draft: true
 growthIcon: 🌱
 tags: []
-title: OptionsGreeks
+title: Options Greeks
 ---
 
 Inspired by [Tidy first?](https://www.oreilly.com/library/view/tidy-first/9781098151232/) by Kent Beck
