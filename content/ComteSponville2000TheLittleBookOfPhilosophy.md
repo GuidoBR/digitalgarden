@@ -3,8 +3,8 @@ category: philosophy
 date: 2025-10-23 19:14:56-04:00
 draft: true
 growthIcon: 🌿
-tags: []
-title: ComteSponville2000TheLittleBookOfPhilosophy
+tags: [books, philosophy]
+title: The Little Book of Philosophy - Comte Sponville
 ---
 
 # Love
