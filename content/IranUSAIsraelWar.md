@@ -1,7 +1,6 @@
 ---
 category: war
 date: 2026-03-18T12:59:16-05:00
-draft: true
 growthIcon: 🌳
 tags: [war, books, podcast]
 title: Iran x Israel and USA
