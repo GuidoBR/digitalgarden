@@ -6,7 +6,6 @@ tags: [war, books, podcast]
 title: Iran x Israel and USA
 ---
 
-![Map of Iran](https://c8.alamy.com/comp/2BDA2XE/iran-and-middle-east-arabian-countries-map-english-2BDA2XE.jpg)
 
 > The 2026 Iran war began on 28 February 2026, when the United States and Israel launched surprise airstrikes on multiple sites and cities across Iran, killing Supreme Leader Ali Khamenei and numerous other Iranian officials. Iran responded with missile and drone strikes against Israel, US bases, and US-allied countries in the region. After the Middle Eastern crisis began in 2023, Iran and Israel exchanged missile strikes in 2024, and Israel and the US launched airstrikes against Iran in the Twelve-Day War in June 2025. In January 2026, Iranian security forces killed thousands of protesters during the largest protests since the Islamic Revolution. US president Donald Trump threatened to take military action against the Iran for the killings. The US undertook its largest military buildup in the Middle East since the US-led 2003 invasion of Iraq, while Iran and the US held indirect nuclear negotiations in February. - [2026 Iran War](https://en.wikipedia.org/wiki/2026_Iran_war)
 
