@@ -1,0 +1,7 @@
+[build]
+  command = "hugo -D --gc --minify"
+  publish = "public"
+
+[context.production.environment]
+  HUGO_VERSION = "0.158.0"
+  NODE_VERSION = "22"
