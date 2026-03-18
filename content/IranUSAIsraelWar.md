@@ -31,6 +31,12 @@ title: Iran x Israel and USA
 
 #### English
 
+##### The Ezra Klein Show
+
+- [The Great Lie of War](https://podcasts.apple.com/us/podcast/the-great-lie-of-war/id1548604447?i=1000752856631) - 03/03/2026
+- [I Asked a Former Trump Official to Justify This War](https://podcasts.apple.com/us/podcast/i-asked-a-former-trump-official-to-justify-this-war/id1548604447?i=1000754428277) - 10/03/2026
+- [What Trump Didn’t Know About Iran](https://podcasts.apple.com/us/podcast/what-trump-didnt-know-about-iran/id1548604447?i=1000755258842) - 14/03/2026
+
 #### French
 
 ### Text
