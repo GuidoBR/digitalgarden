@@ -3,7 +3,7 @@ category: war
 date: 2026-03-18T12:59:16-05:00
 draft: true
 growthIcon: 🌳
-tags: [war, books]
+tags: [war, books, podcast]
 title: Iran x Israel and USA
 ---
 
@@ -16,6 +16,9 @@ title: Iran x Israel and USA
 #### Portuguese
 
 ##### Xadrez Verbal
+
+- [Xadrez Verbal Podcast #451 – Israel e EUA atacam Irã](https://xadrezverbal.com/2026/03/06/xadrez-verbal-podcast-451-israel-e-eua-atacam-ira/) - 06/03/2026
+- [Xadrez Verbal Podcast #452 – Guerra no Irã e eleições na Colômbia](https://xadrezverbal.com/2026/03/14/xadrez-verbal-podcast-452-guerra-no-ira-e-eleicoes-na-colombia/) - 14/03/2026
 
 ##### Petit Journal
 
@@ -34,9 +37,15 @@ title: Iran x Israel and USA
 
 ### Text
 
+#### English
+
+- [It All Comes Down to Who Controls the Strait of Hormuz: The “Final Battle"](https://substack.com/home/post/p-191141958)
+
 ### Videos
 
-### Films and Documentaries
+### Films, Series and Documentaries
+
+- [Tehran (TV Series)](https://en.wikipedia.org/wiki/Tehran_(TV_series))
 
 ### Books
 
