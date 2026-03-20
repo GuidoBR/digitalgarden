@@ -44,6 +44,11 @@ title: Iran x Israel and USA
 #### English
 
 - [It All Comes Down to Who Controls the Strait of Hormuz: The “Final Battle"](https://substack.com/home/post/p-191141958)
+- [Why the US Will Lose to Iran](https://kasperbenjamin.substack.com/p/why-the-us-will-lose-to-iran)
+- [Trump Middle East](https://www.zinebriboua.com/p/trumps-middle-east)
+- [World War III Begins](https://predictivehistory.substack.com/p/world-war-iii-begins)
+- [The Rot Is Real And There Is More To It](https://phillipspobrien.substack.com/p/the-rot-is-real-and-there-is-more)
+- [Midweek Update #2: The Two Wars](https://phillipspobrien.substack.com/p/midweek-update-2-the-two-wars) - 18/03/2026
 
 ### Videos
 
